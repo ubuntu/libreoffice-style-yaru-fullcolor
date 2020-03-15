@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="sc_interactivegradient.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="59"
+     inkscape:cx="10.087695"
+     inkscape:cy="8.1359772"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(.57142857 0 0 .57143056 3.380952 447.62954)"
+     gradientUnits="userSpaceOnUse"
+     x1="3"
+     x2="19"
+     y1="1049.3622"
+     y2="1033.3622">
+    <stop
+       offset="0"
+       stop-color="#762572"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#cae7fc"
+       id="stop4"
+       style="stop-color:#e9bfe6;stop-opacity:1" />
+  </linearGradient>
+  <g
+     transform="matrix(.75 0 0 .74999813 -.249999 -773.019863)"
+     id="g11">
+    <path
+       d="m14.999999 1034.6957-1.333333 1.3334h-8v8l-1.3333333 1.3333v2.6667h2.6666667v-1.3333h9.3333336v-8.0001h1.333333v-4z"
+       fill="url(#a)"
+       id="path7" />
+    <path
+       d="m10 2v3.28125l-1 1-.1875.1875-.8125.8125-.71875.71875-2 2h-3.28125v4h4v-3.28125l2.71875-2.71875.8125-.8125.1875-.1875 1-1h3.28125v-4zm1 1h2v2h-2zm-8 8h2v2h-2z"
+       fill="#232629"
+       transform="matrix(1.3333333 0 0 1.3333367 .333333 1030.6957)"
+       id="path9" />
+  </g>
+</svg>
