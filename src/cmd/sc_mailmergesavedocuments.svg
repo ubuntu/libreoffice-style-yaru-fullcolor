@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_mailmergesavedocuments.svg"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/sc_mailmergesavedocuments.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_mailmergesavedocuments.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -42,10 +42,10 @@
      id="namedview8"
      showgrid="true"
      inkscape:snap-global="true"
-     inkscape:zoom="83.4386"
-     inkscape:cx="7.8118199"
-     inkscape:cy="5.1227358"
-     inkscape:window-x="0"
+     inkscape:zoom="41.7193"
+     inkscape:cx="2.2367864"
+     inkscape:cy="5.0935786"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -53,16 +53,21 @@
        type="xygrid"
        id="grid838" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(0.83333333,0,0,0.83333333,1.3333334,1.75)"
-     style="color:#000000;fill:#808080"
-     id="g4">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 5.5999999,0.3 v 4.8 h -1.8 C 3.7999999,5.1 5.922,9.456 8,12.3 10.078,9.456 12.2,5.1 12.2,5.1 H 10.4 V 0.3 Z m 1.2,1.2 H 9.2 v 4.8 l 1.2,0 C 9.93,7.298 9.4,8.357 8,10.464 6.6,8.357 6.0699999,7.298 5.5999999,6.3 h 1.2 z m -4.8,12 v 1.2 H 14 v -1.2 z"
-       overflow="visible"
-       style="overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-       id="path2-4"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
-  </g>
+  <path
+     id="path831"
+     d="m 7,3 h 2 v 3.9999996 h 1 C 9.6083334,7.8316666 9.1666667,9.2441666 8,11 6.8333334,9.2441666 6.3916666,7.8316666 6,6.9999996 h 1 z"
+     style="color:#000000;overflow:visible;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="color:#000000;overflow:visible;fill:#a6d74f;fill-opacity:1;stroke-width:0.83333331;marker:none"
+     d="m 7,3 h 2 v 3.9999996 h 1 C 9.6083334,7.8316666 9.1666667,9.2441666 8,11 6.8333334,9.2441666 6.3916666,7.8316666 6,6.9999996 h 1 z"
+     id="path827"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="color:#000000;overflow:visible;opacity:0.6;fill:#0c0c0c;fill-opacity:1;stroke-width:0.83333331;marker:none"
+     d="m 3,12 v 1 h 10 v -1 z"
+     id="path2-4"
+     inkscape:connector-curvature="0" />
 </svg>
