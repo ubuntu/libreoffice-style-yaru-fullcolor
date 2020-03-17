@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_redo.svg"
-   inkscape:export-filename="/home/jupiter007/Téléchargements/libreoffice yaru/images_breeze/cmd/lc_redo.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_redo.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -40,16 +40,48 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-11.847458"
-     inkscape:cy="12"
-     inkscape:window-x="0"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-2.332292"
+     inkscape:cy="10.904384"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2646-6"
+     width="12"
+     height="13"
+     x="-19.000002"
+     y="5"
+     ry="2"
+     rx="2"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2646"
+     width="12"
+     height="13"
+     x="-19.000002"
+     y="5"
+     ry="2"
+     rx="2"
+     transform="scale(-1,1)" />
   <path
-     d="m14.699219 4-.707031.7070312 2.292968 2.2929688h-2.285156-1.007812-.492188c-3.601 0-6.5 2.899-6.5 6.5s2.899 6.5 6.5 6.5h1.5v-1h-1.5c-3.047 0-5.5-2.453-5.5-5.5s2.453-5.5 5.5-5.5h.492188 1.007812 2.285156l-2.292968 2.292969.707031.707031 3.292969-3.2929688.207031-.2070312-.207031-.2070312z"
-     fill="#232629"
-     id="path2" />
+     style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 17,8.9999997 12.000001,14 18,16 Z"
+     id="rect3802"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#46a926;stroke-width:2.00001049;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 16,13.985878 c 0,0 -0.999999,-4.9858783 -4.999999,-4.9858783 -4.0000002,0 -5.0000002,4.9860003 -5.0000002,4.9860003"
+     id="path3805"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
 </svg>
