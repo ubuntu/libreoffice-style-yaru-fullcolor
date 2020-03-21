@@ -12,7 +12,7 @@
    id="svg6"
    sodipodi:docname="lc_insertpagebreak.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/lc_insertpagebreak.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_insertpagebreak.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -41,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="6.2809827"
-     inkscape:cy="8.8594321"
+     inkscape:zoom="19.666667"
+     inkscape:cx="6.7907311"
+     inkscape:cy="7.4794322"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -53,13 +53,62 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="m 5,4 v 6 H 19 V 9 4 H 18 6 Z M 6,5 H 18 V 9 H 6 Z m -1,8 v 1 6 h 1 8 5 V 16 14.59375 14 13 Z m 1,1 h 12 v 1 4 H 14 6 Z"
-     id="path2"
+     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 18,3 v 4 c 0,1.108 -0.892,2 -2,2 H 8 C 6.892,9 6,8.108 6,7 V 3 Z"
+     id="rect2646-6"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="csssscc" />
   <path
-     d="m6 11v1h2v-1zm5 0v1h2v-1zm5 0v1h2v-1z"
-     fill="#762572"
-     id="path4" />
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 18,3 v 4 c 0,1.108 -0.892,2 -2,2 H 8 C 6.892,9 6,8.108 6,7 V 3 Z"
+     id="rect2646"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscc" />
+  <path
+     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 8,14 h 8 c 1.108,0 2,0.892 2,2 v 5 H 6 v -5 c 0,-1.108 0.892,-2 2,-2 z"
+     id="rect824"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccss" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 8,14 h 8 c 1.108,0 2,0.892 2,2 v 5 H 6 v -5 c 0,-1.108 0.892,-2 2,-2 z"
+     id="rect826"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccss" />
+  <rect
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1.63299322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect828"
+     width="2"
+     height="1"
+     x="8"
+     y="11" />
+  <rect
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1.63299322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect832"
+     width="2"
+     height="1"
+     x="14"
+     y="11" />
+  <rect
+     y="11"
+     x="11"
+     height="1"
+     width="2"
+     id="rect834"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1.6329931;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="11"
+     x="5"
+     height="1"
+     width="2"
+     id="rect842"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1.63299322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="11"
+     x="17"
+     height="1"
+     width="2"
+     id="rect844"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1.63299322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
