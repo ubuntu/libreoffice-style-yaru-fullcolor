@@ -40,16 +40,20 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="13.779661"
-     inkscape:cy="15.864407"
-     inkscape:window-x="1920"
+     showgrid="true"
+     inkscape:zoom="39.333333"
+     inkscape:cx="1.7122844"
+     inkscape:cy="12.438018"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.6"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.6;stroke-linejoin:round"
      id="path817"
      fill="#232629"
      d="m12 4-8 8 8 8 8-8z" />
@@ -57,5 +61,5 @@
      d="m12 4-8 8 8 8 8-8z"
      fill="#232629"
      id="path2"
-     style="fill:#b3b3b3;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
 </svg>

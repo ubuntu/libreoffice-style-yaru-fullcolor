@@ -9,11 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
-   id="svg8"
+   id="svg6"
    sodipodi:docname="lc_defaultnumbering.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/ar/lc_defaultnumbering.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
-     id="metadata14">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,31 +39,134 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
-     id="namedview10"
+     id="namedview8"
      showgrid="true"
-     inkscape:zoom="39.333333"
-     inkscape:cx="4.9711185"
-     inkscape:cy="8.4220522"
-     inkscape:window-x="0"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-7.4171293"
+     inkscape:cy="12.538253"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg6">
     <inkscape:grid
        type="xygrid"
-       id="grid821" />
+       id="grid830" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(-1 0 0 1 24 0)"
-     id="g6">
-    <path
-       d="m 11,4 v 1 h 9 V 4 Z m 0,2 v 1 h 9 V 6 Z m 0,4 v 1 h 9 v -1 z m 0,2 v 1 h 9 v -1 z m 0,4 v 1 h 9 v -1 z m 0,2 v 1 h 9 v -1 z"
-       id="path2"
-       inkscape:connector-curvature="0"
-       style="fill:#232629"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
-    <path
-       d="m5 4v1h1v2h-1v1h3v-1h-1v-2h1v-1zm-1 6v1h1v2h-1v1h5v-1h-1v-2h1v-1zm2 1h1v2h-1z"
-       fill="#762572"
-       id="path4" />
-  </g>
+  <rect
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect856"
+     width="5"
+     height="4"
+     x="-20"
+     y="10"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:0.6;fill:#030001;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect848"
+     width="3"
+     height="4"
+     x="-18"
+     y="4"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect7299"
+     width="11"
+     height="2"
+     x="-13"
+     y="5"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="scale(-1,1)" />
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     y="16"
+     x="-22"
+     height="4"
+     width="6.999999"
+     id="rect838"
+     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.84927082;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     y="17"
+     x="-17"
+     height="2"
+     width="1"
+     id="rect840"
+     style="opacity:1;vector-effect:none;fill:#fbf7f8;fill-opacity:1;stroke:none;stroke-width:1.52299929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect846"
+     width="1"
+     height="2"
+     x="-17"
+     y="5"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect852"
+     width="1"
+     height="2"
+     x="-17"
+     y="11"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect854"
+     width="1"
+     height="2"
+     x="-19"
+     y="11"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#fbf7f8;fill-opacity:1;stroke:none;stroke-width:1.52299929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect858"
+     width="1"
+     height="2"
+     x="-19"
+     y="17"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="scale(-1,1)" />
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     y="17"
+     x="-21"
+     height="2"
+     width="1"
+     id="rect860"
+     style="opacity:1;vector-effect:none;fill:#fbf7f8;fill-opacity:1;stroke:none;stroke-width:1.52299929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     y="11"
+     x="-13"
+     height="2"
+     width="11"
+     id="rect827"
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect829"
+     width="11"
+     height="2"
+     x="-13"
+     y="17"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="scale(-1,1)" />
 </svg>

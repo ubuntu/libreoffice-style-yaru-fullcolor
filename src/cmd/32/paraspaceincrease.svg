@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="paraspaceincrease.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/paraspaceincrease.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="2.9056974"
-     inkscape:cy="18.941299"
-     inkscape:window-x="0"
+     inkscape:cx="-4.9563713"
+     inkscape:cy="15.873174"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -50,13 +53,53 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="M 4,4 V 5 H 28 V 4 Z M 4,7 V 8 H 18 V 7 Z m 0,3 v 1 h 14 v -1 z m 0,3 v 1 h 14 v -1 z m 0,5 v 1 h 14 v -1 z m 0,3 v 1 h 14 v -1 z m 0,3 v 1 h 14 v -1 z m 0,3 v 1 h 24 v -1 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:0.6;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 20.000043,13.99992 4,-6.0000003 4,6.0000003 z"
+     id="path833"
+     inkscape:connector-curvature="0" />
   <path
-     d="m24 8-4 6h8zm-4 10 4 6 4-6z"
-     fill="#762572"
-     id="path4" />
+     style="opacity:0.6;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24.000043,24.00008 -4,-6 h 8 z"
+     id="path830"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032"
+     d="M 3.0000004,7 V 9 H 16 V 7 Z"
+     id="path824"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032"
+     d="m 3.0000004,11 v 2 H 16 v -2 z"
+     id="path822"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 20.000043,13.99992 4,-6.0000003 4,6.0000003 z"
+     id="path837"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 24.000043,24.00008 -4,-6 h 8 z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path832"
+     d="m 3.0000004,19 v 2 H 16 v -2 z"
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path834"
+     d="m 3.0000004,23 v 2 H 16 v -2 z"
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="M 3,3 V 5 H 16 V 3 Z"
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032" />
+  <path
+     style="fill:#fa9381;fill-opacity:1;stroke-width:1.36277032"
+     d="m 3,27 v 2 h 13 v -2 z"
+     id="path823"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_inserthyperlink.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_inserthyperlink.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -38,9 +41,9 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="22.627417"
-   inkscape:cx="6.3909772"
-   inkscape:cy="2.7570894"
-   inkscape:window-x="0"
+   inkscape:cx="15.867872"
+   inkscape:cy="7.2341728"
+   inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4">
@@ -48,12 +51,29 @@
      type="xygrid"
      id="grid829" />
 </sodipodi:namedview>
-/&gt;<path
+
+/&gt;<circle
+   style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path824"
+   cx="8"
+   cy="8"
+   r="7" />
+<path
+   id="path840"
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 10,5 v 1 h 1 c 1.104569,0 2,0.8954305 2,2 0,1.1045695 -0.895431,2 -2,2 h -1 v 1 h 1 C 12.656854,11 14,9.6568542 14,8 14,6.3431458 12.656854,5 11,5 Z M 5,5 C 3.343146,5 2,6.3431458 2,8 2,9.6568542 3.343146,11 5,11 H 6 V 10 H 5 C 3.895431,10 3,9.1045695 3,8 3,6.8954305 3.895431,6 5,6 H 6 V 5 Z m 1,2 h 4 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 H 6 C 5.446,9 5,8.554 5,8 5,7.446 5.446,7 6,7 Z"
+   inkscape:connector-curvature="0" />
+<circle
+   style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="path2644"
+   cy="12.5"
+   cx="12.499998"
+   r="3.5" />
+<path
    inkscape:connector-curvature="0"
-   id="path4-9"
+   id="path1063"
    overflow="visible"
    font-weight="400"
-   style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#232629;fill-opacity:1;marker:none"
-   d="M 4.828,5 C 3.99,5.01 3.361,4.965 2.795,5.277 2.5015789,5.4453039 2.2767724,5.7115314 2.16,6.029 2.04,6.352 2,6.717 2,7.166 v 0.668 c 0,0.45 0.04,0.8139999 0.16,1.1369999 0.121,0.322 0.352,0.596 0.635,0.752 0.566,0.3120001 1.195,0.267 2.033,0.277 H 4.1719999 c 0.838,-0.01 1.467,0.035 2.0330001,-0.277 0.274,-0.151 0.493,-0.415 0.617,-0.723 H 4.834 c -0.838,-0.01 -1.377,-0.053 -1.557,-0.152 -0.09,-0.05 -0.127,-0.086 -0.181,-0.229 C 3.042,8.4759999 3,8.218 3,7.834 V 7.166 C 3,6.782 3.042,6.524 3.096,6.381 3.15,6.238 3.187,6.202 3.277,6.152 3.457,6.053 3.997,6.01 4.834,6 H 6.822 C 6.704506,5.6958659 6.4868785,5.4408503 6.205,5.277 5.6399999,4.965 5.0099999,5.01 4.1719999,5 H 4.832 Z m 7,0 C 10.99,5.01 10.361,4.965 9.795,5.277 9.521,5.428 9.302,5.692 9.178,6 h 1.988 c 0.838,0.01 1.377,0.053 1.557,0.152 0.09,0.05 0.127,0.086 0.181,0.229 C 12.958,6.524 13,6.782 13,7.166 v 0.668 c 0,0.384 -0.042,0.6419999 -0.096,0.7849999 -0.054,0.143 -0.091,0.179 -0.181,0.229 -0.18,0.099 -0.719,0.142 -1.557,0.152 H 9.178 c 0.124,0.308 0.343,0.572 0.617,0.723 0.566,0.3120001 1.195,0.267 2.033,0.277 h -0.656 c 0.838,-0.01 1.467,0.035 2.033,-0.277 0.293421,-0.1683039 0.518228,-0.4345314 0.635,-0.752 C 13.96,8.6479999 14,8.283 14,7.834 V 7.166 C 14,6.716 13.961,6.352 13.84,6.029 13.723228,5.7115314 13.498421,5.4453039 13.205,5.277 12.64,4.965 12.01,5.01 11.172,5 h 0.66 z M 4.9999998,7 V 8 H 11 V 7 Z"
-   sodipodi:nodetypes="cccsscsccccccssssccccccccccccssssccccccccsscccccccccc" />
+   style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
+   d="m 12,10 v 2 H 9.999999 v 1 H 12 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
 </svg>

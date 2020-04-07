@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="spacepara2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/spacepara2.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="5.8842725"
-     inkscape:cy="19.993729"
-     inkscape:window-x="0"
+     inkscape:cx="2.3127845"
+     inkscape:cy="17.26118"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -50,13 +53,35 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="m25 4-3 4h2v15 1h-2l3 4 3-4h-2v-1-15h2z"
-     fill="#762572"
-     id="path2" />
-  <path
-     d="M 4,4 V 5 H 20 V 4 Z M 4,7 V 8 H 20 V 7 Z m 0,7 v 1 h 16 v -1 z m 0,3 v 1 h 16 v -1 z m 0,7 v 1 h 16 v -1 z m 0,3 v 1 h 16 v -1 z"
-     id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+     id="path829"
+     d="m 25,6 -3,5 h 2 v 10 h -2 l 3,5 3,-5 H 26 V 11 h 2 z"
+     style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="m 25,6 -3,5 h 2 v 10 h -2 l 3,5 3,-5 H 26 V 11 h 2 z"
+     id="path837"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#924d8b;fill-opacity:1;stroke-width:1.46385014"
+     d="M 3.0000006,6 V 8 H 18 V 6 Z"
+     id="path824"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#924d8b;fill-opacity:1;stroke-width:1.46385014"
+     d="m 3.0000006,10 v 2 H 18 v -2 z"
+     id="path822"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path841"
+     d="m 3.0000003,20 v 2 H 18 v -2 z"
+     style="fill:#924d8b;fill-opacity:1;stroke-width:1.46385014" />
+  <path
+     style="fill:#924d8b;fill-opacity:1;stroke-width:1.46385014"
+     d="m 3.0000003,24 v 2 H 18 v -2 z"
+     id="path843"
+     inkscape:connector-curvature="0" />
 </svg>

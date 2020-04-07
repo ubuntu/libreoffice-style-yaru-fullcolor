@@ -12,7 +12,7 @@
    id="svg6"
    sodipodi:docname="insertpagebreak.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/32/insertpagebreak.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/insertpagebreak.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -42,9 +42,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="-2.1755619"
-     inkscape:cy="13.16627"
-     inkscape:window-x="0"
+     inkscape:cx="7.3097935"
+     inkscape:cy="17.294727"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -53,13 +53,62 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="m4 15v1h6v-1zm9 0v1h6v-1zm9 0v1h6v-1z"
-     fill="#762572"
-     id="path2" />
-  <path
-     d="m 6,4 v 10 h 1 18 1 V 4 Z m 1,1 h 18 v 8 H 7 Z M 6,17 v 1 10 h 12 8 V 21 20 18 17 H 25 7 Z m 1,1 h 18 v 2 7 H 18 7 Z"
-     id="path4"
+     sodipodi:nodetypes="sssccss"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+     id="path839"
+     d="m 9,19 h 14 c 1.108,0 2,0.892 2,2 v 7 H 7 v -7 c 0,-1.108 0.892,-2 2,-2 z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.89736652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9,19 h 14 c 1.108,0 2,0.892 2,2 v 7 H 7 v -7 c 0,-1.108 0.892,-2 2,-2 z"
+     id="rect836"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccss" />
+  <path
+     sodipodi:nodetypes="sssccss"
+     inkscape:connector-curvature="0"
+     id="path839-3"
+     d="M 23,12 H 9 C 7.892,12 7,11.108 7,10 V 4 h 18 v 6 c 0,1.108 -0.892,2 -2,2 z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.89736652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 23,12 H 9 C 7.892,12 7,11.108 7,10 V 4 h 18 v 6 c 0,1.108 -0.892,2 -2,2 z"
+     id="rect836-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccss" />
+  <rect
+     y="15"
+     x="24"
+     height="1"
+     width="4"
+     id="rect869"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.30940127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.30940127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect881"
+     width="4"
+     height="1"
+     x="19"
+     y="15" />
+  <rect
+     y="15"
+     x="14"
+     height="1"
+     width="4"
+     id="rect883"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.30940127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.30940127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect885"
+     width="4"
+     height="1"
+     x="9"
+     y="15" />
+  <rect
+     y="15"
+     x="4"
+     height="1"
+     width="4"
+     id="rect887"
+     style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.30940127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

@@ -10,8 +10,11 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
-   sodipodi:docname="sc_aligncenter.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   sodipodi:docname="sc_alignhorizontalcenter.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_alignhorizontalcenter.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,10 +42,10 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="5.6267813"
-     inkscape:cy="6.1170364"
-     inkscape:window-x="0"
+     inkscape:zoom="32"
+     inkscape:cx="1.6159805"
+     inkscape:cy="7.7553808"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -53,41 +56,25 @@
   <rect
      id="rect2"
      overflow="visible"
-     y="4"
+     y="3"
      x="2"
      width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
+     style="color:#bebebe;overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
+     height="2" />
   <rect
-     id="rect4"
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
+     width="12"
+     x="2"
+     y="11"
      overflow="visible"
-     y="6"
-     x="4"
+     id="rect817" />
+  <rect
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
      width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
-  <rect
-     id="rect6"
-     overflow="visible"
-     y="10"
      x="4"
-     width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
-  <rect
-     id="rect8"
+     y="7"
      overflow="visible"
-     y="12"
-     x="2"
-     width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
-  <rect
-     id="rect10"
-     overflow="visible"
-     y="8"
-     x="2"
-     width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.92582011;marker:none"
-     height="1" />
+     id="rect819" />
 </svg>

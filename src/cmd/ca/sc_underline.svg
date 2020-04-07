@@ -1,1 +1,67 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m8.28125 1c-2.1159382-.01932598-4.6039912 1.2400225-4.0839844 4.0390625.8034243 2.9297677 3.801865 2.5268601 5.3378906 4.3398437 2.1813558 3.1304858-3.1575347 3.6943998-4.7851562-.3613281h-.75v2.1855469c0 2.188312 9.489697 3.448766 7.75-2.7382812-.75-1.493079-1.7503614-1.9468961-3.5859375-2.8613282-5.582437-2.42353.7281025-6.0253833 2.1171875-.6035156h1.71875v-1c0-1.6791312-2.27365-2.9867812-3.71875-3zm-6.28125 14v1h12v-1z" fill="#232629"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="sc_underline.svg"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/ca/sc_underline.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="2.6090713"
+     inkscape:cy="6.30383"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+  </sodipodi:namedview>
+  <path
+     sodipodi:nodetypes="cccccsccccscccccc"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path819"
+     d="M 8.28125,1 C 6.1653118,0.98067402 3.6772588,2.2400225 4.1972656,5.0390625 5.0006899,7.9688302 7.9991306,7.5659226 9.5351562,9.3789062 11.716512,12.509392 6.3776215,13.073306 4.75,9.0175781 H 4 v 2.1855469 c 0,2.188312 9.489697,3.448766 7.75,-2.7382812 C 11,6.9717648 9.9996386,6.5179477 8.1640625,5.6035156 2.5816255,3.1799856 8.892165,-0.4218677 10.28125,5 H 12 V 4 C 12,2.3208688 9.72635,1.0132188 8.28125,1 Z M 2,14 v 1 h 12 v -1 z" />
+  <path
+     d="M 8.28125,1 C 6.1653118,0.98067402 3.6772588,2.2400225 4.1972656,5.0390625 5.0006899,7.9688302 7.9991306,7.5659226 9.5351562,9.3789062 11.716512,12.509392 6.3776215,13.073306 4.75,9.0175781 H 4 v 2.1855469 c 0,2.188312 9.489697,3.448766 7.75,-2.7382812 C 11,6.9717648 9.9996386,6.5179477 8.1640625,5.6035156 2.5816255,3.1799856 8.892165,-0.4218677 10.28125,5 H 12 V 4 C 12,2.3208688 9.72635,1.0132188 8.28125,1 Z M 2,14 v 1 h 12 v -1 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-opacity:1"
+     sodipodi:nodetypes="cccccsccccscccccc" />
+</svg>
