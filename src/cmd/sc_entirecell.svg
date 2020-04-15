@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_entirecell.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_entirecell.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-13.953884"
-     inkscape:cy="3.1912902"
+     inkscape:zoom="41.7193"
+     inkscape:cx="3.2330947"
+     inkscape:cy="8.0518711"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,14 +52,21 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect816"
+     width="10"
+     height="10"
+     x="3"
+     y="3" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 H 7 V 13 10 H 6 v 3 H 5 C 4,13 3,13 3,12 V 10 H 6 V 9 H 3 V 6 H 6 V 5 H 3 V 4 C 3,3 4,3 5,3 H 6 V 5 H 7 V 3 h 2 v 2 h 1 V 3 h 1 c 1,0 2,0 2,1 v 1 h -3 v 1 h 3 v 3 h 1 V 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z"
+     d="M 5,2 C 3,2 2,2 2,4 v 8 c 0,2 1,2 3,2 h 4 1 1 c 2,0 3,0 3,-2 V 4 C 14,2 13,2 11,2 Z M 5,3 H 6 V 5 H 3 V 4 C 3,3 4,3 5,3 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 12 11 10 Z M 3,6 H 6 V 9 H 3 Z M 7,6 H 9 V 9 H 7 Z m 3,0 h 1 1 1 v 3 h -1 -1 -1 z m -7,4 h 3 v 3 H 5 C 4,13 3,13 3,12 Z m 4,0 h 2 v 3 H 7 Z m 3,0 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+     style="fill:#6d6d6d;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     d="m6 5v5h2v-1h-1v-3h2v1h1v-2zm3 3 .0019531 7 1.9980469-3h3z"
-     fill="#762572"
-     id="path4" />
+     style="opacity:1;fill:#762572;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6 5 L 6 10 L 10 10 L 10 5 L 6 5 z M 8 6 L 9 6 L 9 8 L 8 6 z M 7 7 L 8 9 L 7 9 L 7 7 z "
+     id="rect822" />
 </svg>

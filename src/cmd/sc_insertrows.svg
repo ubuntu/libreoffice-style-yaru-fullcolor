@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_insertrows.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_insertrows.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,10 +41,10 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="6.4059551"
-     inkscape:cy="5.807587"
-     inkscape:window-x="1920"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-3.1975042"
+     inkscape:cy="2.3904198"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -49,16 +52,37 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="10"
+     height="10"
+     x="3"
+     y="-13"
+     transform="rotate(90)" />
   <path
-     d="m 2,7 v 2 3 c 0,2 1,2 3,2 H 9 V 13 H 7 V 10 H 9 V 9 H 7 V 7 H 6 V 9 H 3 V 7 Z m 7,2 h 1 V 7 H 9 Z m 4,-2 v 2 h 1 V 7 Z m -2,2 v 2 H 9 v 1 h 2 v 2 h 1 v -2 h 2 V 11 H 12 V 9 Z m -8,1 h 3 v 3 H 5 C 4,13 3,13 3,12 Z"
-     id="path2"
+     d="m 2,6 v 3 1 1 c 0,2 0,3 2,3 h 8 c 2,0 2,-1 2,-3 V 6 Z m 11,0 h -2 z m 0,1 V 9 H 11 V 7 Z m 0,3 v 1 c 0,1 0,2 -1,2 H 11 V 12 11 10 Z M 10,6 7,6 Z m 0,1 V 9 H 7 V 7 Z m 0,3 v 1 1 1 H 7 V 12 11 10 Z M 6,6 H 3 Z M 6,7 V 9 H 3 V 7 Z m 0,3 v 1 1 1 H 4 C 3,13 3,12 3,11 v -1 z"
+     id="path2-0"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="fill:#6d6d6d;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     d="M 2,4 V 6 7 H 3 4 5.28125 6 7 8 9.28125 10 h 1 1 1 1 V 6 4 C 14,2 13,2 11,2 H 10 9.71875 8.28125 7 6 5.71875 5 C 3,2 2,2 2,4 Z M 5,3 H 5.28125 L 6,3.71875 l 1,1 1,1 L 8.28125,6 H 8 7 6 5.71875 L 4,4.28125 3.153,3.433 C 3.153,3 4,3 5,3 Z M 6.71875,3 H 7 9.28125 L 10,3.71875 l 1,1 1,1 L 12.28125,6 H 12 11 10 9.71875 L 8,4.28125 l -1,-1 z m 4,0 H 11 c 1,0 2,0 2,1 v 1.28125 l -1,-1 -1,-1 z M 3,4.71875 l 1,1 L 4.28125,6 H 4 3 Z"
+     d="M 12,2 H 11.71875 10.28125 10 9 7.71875 6.28125 6 L 4,2 C 2,2 2,3 2,5 V 6 7 H 3 4 5 6 6.71875 8 L 9,7 H 10 10.71875 12 13 14 V 6 5 C 14,3 14,2 12,2 Z m 0,1 c 1,0 1,1 1,2 V 3.28125 L 12.810116,3.471134 12,4.28125 10.28125,6 H 10 9 L 8,6 H 7.71875 L 8,5.71875 l 1,-1 1,-1 L 10.71875,3 Z m 1,1.71875 V 6 H 12 11.71875 L 12,5.71875 Z M 9.28125,3 9,3.28125 l -1,1 L 6.28125,6 H 6 5 4 3.71875 L 4,5.71875 l 1,-1 1,-1 L 6.71875,3 H 9 Z m -4,0 L 5,3.28125 l -1,1 -1,1 V 5 C 3,4 3,3 4,3 Z"
      id="path4"
      inkscape:connector-curvature="0"
      style="fill:#762572"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <circle
+     style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path2644"
+     cy="12.5"
+     cx="12.5"
+     r="3.5" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1063"
+     overflow="visible"
+     font-weight="400"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
+     d="m 12,10 v 2 h -2 v 1 h 2 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
 </svg>
