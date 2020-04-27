@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="shownote.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/shownote.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="41.396293"
-     inkscape:cy="33.614646"
+     inkscape:cx="19.29621"
+     inkscape:cy="33.23113"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,9 +53,39 @@
        id="grid823" />
   </sodipodi:namedview>
   <path
+     sodipodi:nodetypes="csssssccccccc"
      inkscape:connector-curvature="0"
-     id="rect841"
-     style="opacity:1;fill:#e95420;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00119524;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 9.5,13 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 9.5 C 9.223,14 9,13.777 9,13.5 9,13.223 9.223,13 9.5,13 Z m 0,3 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 9.5 C 9.223,17 9,16.777 9,16.5 9,16.223 9.223,16 9.5,16 Z m 0,-6 h 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 9.5 C 9.223,11 9,10.777 9,10.5 9,10.223 9.223,10 9.5,10 Z M 28,16 V 7 C 28,5 27,5 25,5 H 7 C 5,5 4,5 4,7 v 13 c 0,2 1,2 3,2 l 6,6 v -6 h 8 4 c 2,0 3,0 3,-2 z m -6,5 H 12 v 4.6 L 7.5,21 H 7 C 6,21 5,21 5,20 V 7 C 5,6 6,6 7,6 h 18 c 1,0 2,0 2,1 v 9 4 c 0,1 -1,1 -2,1 z"
-     sodipodi:nodetypes="ssssssssssssssssssssscssssscccccccccccsssssscccc" />
+     d="M 28,16 V 6.0000004 c 0,-2 -1,-2 -3,-2 H 7 c -2,0 -3,0 -3,2 V 19 c 0,2 1,2 3,2 l 6,6 v -6 h 3 9 c 2,0 3,0 3,-2 z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path816" />
+  <path
+     id="rect841-3"
+     style="opacity:1;fill:#fa9381;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00119524;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 28,16 V 6.0000004 c 0,-2 -1,-2 -3,-2 H 7 c -2,0 -3,0 -3,2 V 19 c 0,2 1,2 3,2 l 6,6 v -6 h 3 9 c 2,0 3,0 3,-2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssssccccccc" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect833"
+     width="14"
+     height="1"
+     x="9"
+     y="9"
+     ry="0.5" />
+  <rect
+     ry="0.5"
+     y="12.000001"
+     x="9"
+     height="1"
+     width="14"
+     id="rect835"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect837"
+     width="14"
+     height="1"
+     x="9"
+     y="15"
+     ry="0.5" />
 </svg>
