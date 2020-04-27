@@ -11,8 +11,8 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="formproperties.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/32/formproperties.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/formproperties.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -41,10 +41,10 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="-212.00198"
-     inkscape:cy="148.3154"
-     inkscape:window-x="0"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-49.199881"
+     inkscape:cy="25.731269"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -53,12 +53,25 @@
        id="grid817" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#232629;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00104881;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 9.5 4 C 6.453 4 4 6.453 4 9.5 C 4 12.547 6.453 15 9.5 15 L 22.5 15 C 25.547 15 28 12.547 28 9.5 C 28 6.453 25.547 4 22.5 4 L 9.5 4 z M 22.5 6 C 24.439 6 26 7.561 26 9.5 C 26 11.439 24.439 13 22.5 13 C 20.561 13 19 11.439 19 9.5 C 19 7.561 20.561 6 22.5 6 z "
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#924d8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00104881;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 9.5,4.0000001 C 6.453,4.0000001 4,6.4530001 4,9.5 4,12.547 6.453,15 9.5,15 h 13 C 25.547,15 28,12.547 28,9.5 28,6.4530001 25.547,4.0000001 22.5,4.0000001 Z m 13,2 C 24.439,6.0000001 26,7.561 26,9.5 26,11.439 24.439,13 22.5,13 20.561,13 19,11.439 19,9.5 19,7.561 20.561,6.0000001 22.5,6.0000001 Z"
      id="rect819" />
   <path
      id="path825"
      d="m 22.5,17 c 3.047,0 5.5,2.453 5.5,5.5 0,3.047 -2.453,5.5 -5.5,5.5 H 9.5 C 6.453,28 4,25.547 4,22.5 4,19.453 6.453,17 9.5,17 Z m -13,2 C 7.561,19 6,20.561 6,22.5 6,24.439 7.561,26 9.5,26 11.439,26 13,24.439 13,22.5 13,20.561 11.439,19 9.5,19 Z"
-     style="opacity:1;fill:#232629;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00104881;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#924d8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00104881;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path814"
+     cx="22.5"
+     cy="9.5"
+     r="3.5" />
+  <circle
+     r="3.5"
+     cy="22.5"
+     cx="9.5"
+     id="circle816"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
