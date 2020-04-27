@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_navigator.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_navigator.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -44,7 +44,7 @@
        xlink:href="#linearGradient4195-3"
        id="linearGradient8588-0-1-5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.35695539,0,0,0.35695554,3.1222137,-85.137915)"
+       gradientTransform="matrix(0.39895016,0,0,0.39895032,2.0777684,-96.565908)"
        x1="13.735326"
        y1="249.69423"
        x2="38.099998"
@@ -76,9 +76,9 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="39.333333"
-     inkscape:cx="11.219109"
-     inkscape:cy="11.737209"
-     inkscape:window-x="0"
+     inkscape:cx="13.689518"
+     inkscape:cy="12.597845"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -87,14 +87,14 @@
        id="grid871" />
   </sodipodi:namedview>
   <circle
-     style="display:inline;opacity:1;fill:url(#linearGradient8588-0-1-5);fill-opacity:1;stroke:none;stroke-width:2.11865759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;opacity:1;fill:url(#linearGradient8588-0-1-5);fill-opacity:1;stroke:none;stroke-width:2.36791134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      id="path9498-6-5-6-8"
      cx="12"
      cy="12"
-     r="8.5" />
+     r="9.5" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e93549;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="m 10.79997,10.800156 5.70001,-3.3000113 -3.3,5.7000013 z"
+     d="M 10.79997,10.800156 17,7 13.19998,13.200146 Z"
      id="path1002"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc"
@@ -104,7 +104,7 @@
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
      id="path1004"
-     d="M 10.79997,10.800156 7.4999804,16.500145 13.19998,13.200146 Z"
+     d="M 10.79997,10.800156 7,17 13.19998,13.200146 Z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      inkscape:transform-center-x="49.43906"
      inkscape:transform-center-y="49.439082" />
@@ -116,9 +116,9 @@
      r="2.5"
      transform="matrix(0,1,1,0,0,0)" />
   <circle
-     style="display:inline;opacity:0.4;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5999999;stroke-opacity:1;enable-background:new"
+     style="display:inline;opacity:0.4;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.11111116;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5999999;stroke-opacity:1;enable-background:new"
      id="path1377"
      cx="12"
      cy="12"
-     r="8.5" />
+     r="9.4444447" />
 </svg>
