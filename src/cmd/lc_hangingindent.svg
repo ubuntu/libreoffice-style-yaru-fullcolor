@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_hangingindent.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/lc_hangingindent.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_hangingindent.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -41,10 +41,10 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="10.734438"
-     inkscape:cy="10.78908"
-     inkscape:window-x="0"
+     inkscape:zoom="19.666667"
+     inkscape:cx="7.9322002"
+     inkscape:cy="9.0552054"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -52,58 +52,48 @@
        type="xygrid"
        id="grid838" />
   </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     id="path836"
+     d="M 5,10 10,12.5 5,15 Z"
+     style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 5,10 10,12.5 5,15 Z"
+     id="path834"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
   <rect
      id="rect2"
      overflow="visible"
-     y="6"
+     y="5"
      x="5"
-     width="14"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
+     width="15"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.46385002;marker:none"
+     height="2" />
   <rect
      id="rect4"
      overflow="visible"
      y="9"
-     x="11"
+     x="12"
      width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.89442718;marker:none"
-     height="1" />
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
+     height="2" />
   <rect
-     id="rect6"
-     overflow="visible"
-     y="15"
-     x="11"
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
      width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.89442718;marker:none"
-     height="1" />
+     x="12"
+     y="13"
+     overflow="visible"
+     id="rect822" />
   <rect
-     id="rect8"
+     id="rect824"
      overflow="visible"
-     y="18"
-     x="11"
+     y="17"
+     x="12"
      width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.75592893;marker:none"
-     height="1" />
-  <rect
-     id="rect10"
-     overflow="visible"
-     y="12"
-     x="11"
-     width="8"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.75592893;marker:none"
-     height="1" />
-  <path
-     id="path12"
-     overflow="visible"
-     style="color:#000000;overflow:visible;fill:#762572;fill-opacity:1;stroke-width:1.04450393;marker:none"
-     d="m 5,15 v -5 c 0.8302422,0.348 1.6746672,0.737 2.5354571,1.166 C 8.3864281,11.597 9.2090334,12.042 10,12.5 9.2090334,12.949 8.3864281,13.389 7.5343661,13.82 6.6746672,14.25 5.8291512,14.643 5,15 Z"
-     inkscape:connector-curvature="0" />
-  <rect
-     height="1"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.75592893;marker:none"
-     width="8"
-     x="11"
-     y="18"
-     overflow="visible"
-     id="rect840" />
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
+     height="2" />
 </svg>
