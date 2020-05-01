@@ -228,7 +228,7 @@ then
     echo -e "=> 🔍 Lets watch the files ...\n"
 
     while true; do
-        filename=$(inotifywait -r -qq --event close_write --format %w%f ./)
+        filename=$(inotifywait -r -q --event close_write --format %w%f ./)
 
         echo $filename
 

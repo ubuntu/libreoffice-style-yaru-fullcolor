@@ -20,19 +20,19 @@ echo "=> 📦 Zip icons"
 
 cd "./build/svg"
 
-zip -r -q "images_yaru_svg.zip" *
+zip -r "images_yaru_svg.zip" *
 
 cd "../png"
 
-zip -r -q "images_yaru.zip" *
+zip -r "images_yaru.zip" *
 
 cd "../mate/svg"
 
-zip -r -q "images_yaru_mate_svg.zip" *
+zip -r "images_yaru_mate_svg.zip" *
 
 cd "../png"
 
-zip -r -q "images_yaru_mate.zip" *
+zip -r "images_yaru_mate.zip" *
 
 cd "../../../"
 
