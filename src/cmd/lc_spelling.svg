@@ -27,7 +27,32 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <radialGradient
+       id="f"
+       cx="69.576111"
+       cy="57.160503"
+       gradientTransform="matrix(-8.7939626e-4,0.49240892,-0.48462804,-8.6550631e-4,42.518621,-20.706477)"
+       gradientUnits="userSpaceOnUse"
+       r="31">
+      <stop
+         offset="0"
+         stop-color="#cdf87e"
+         id="stop23" />
+      <stop
+         offset=".262"
+         stop-color="#a2e34f"
+         id="stop25" />
+      <stop
+         offset=".661"
+         stop-color="#68b723"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#1d7e0d"
+         id="stop29" />
+    </radialGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -50,7 +75,7 @@
      inkscape:current-layer="svg6">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid828" />
   </sodipodi:namedview>
   <path
      inkscape:connector-curvature="0"

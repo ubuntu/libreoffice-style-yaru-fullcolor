@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="Landscapecopy_24x24.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/sw/res/sidebar/pageproppanel/Landscapecopy_24x24.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,17 +41,32 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-11.847458"
-     inkscape:cy="12"
+     inkscape:zoom="19.666667"
+     inkscape:cx="-1.2957556"
+     inkscape:cy="13.905367"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
-  <path
-     d="m 21,15.005241 c -0.0145,1.25839 0.0306,2.17922 -0.38477,2.93209 -0.20766,0.376428 -0.55938,0.673328 -0.99804,0.838018 C 19.17852,18.940039 18.65761,19.0002 18,18.99999 L 5.9999999,18.99619 c -0.65761,-2.1e-4 -1.17858,-0.0599 -1.61719,-0.22464 -0.43861,-0.16471 -0.78852,-0.46161 -0.9960897,-0.83802 -0.41514,-0.752839 -0.3716501,-1.6738 -0.38672,-2.932089 v -0.002 -6.0008206 -0.004 c 0.0145,-1.25838 -0.0306,-2.17922 0.3847699,-2.93209 0.2076598,-0.37642 0.5593797,-0.67333 0.9980397,-0.83801 0.43867,-0.164561 0.95958,-0.224511 1.61719,-0.224511 L 17,5.0000104 l 4,4 v 6.0015706 z m -1,-0.006 V 9.9999905 H 16 V 5.9999904 l -10.0000001,2.59e-4 c -0.59239,1.5e-5 -1.00572,0.0626 -1.26562,0.16019 -0.25991,0.0976 -0.37147,0.20138 -0.47266,0.38482 -0.20192,0.36601 -0.24701,1.19674 -0.26172,2.455451 v 5.9892806 0.006 c 0.0152,1.25882 0.0599,2.08942 0.26172,2.45545 0.10116,0.18345 0.21286,0.28727 0.47266,0.38482 0.25979,0.0976 0.67323,0.16 1.26562,0.16019 L 18,18.000451 c 0.59239,1.89e-4 1.00572,-0.0626 1.26562,-0.16019 0.25991,-0.0976 0.37147,-0.20334 0.47266,-0.38678 0.20191,-0.366 0.24702,-1.19478 0.26172,-2.45349 z"
-     id="path2732-8-9-9"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#232629;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00007653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccsscsccccccsccccccccscccccccsscccc" />
+  <g
+     id="g825"
+     transform="matrix(0,-1,-1,0,29.847458,34.677966)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 18.677966,25.847458 c -2,0 -3,0 -3,-2 V 11.847457 c 0,-1.9999995 1,-1.9999995 3,-1.9999995 h 7 l 1,0.9999995 2,2 1,1 v 1.40625 8.593751 c 0,2 -1,2 -3,2 z"
+       id="path829"
+       style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       style="fill:#ffffff"
+       id="path2"
+       d="m 18.677966,25.847458 c -2,0 -3,0 -3,-2 V 11.847457 c 0,-1.9999995 1,-1.9999995 3,-1.9999995 h 7 l 1,0.9999995 2,2 1,1 v 1.40625 8.593751 c 0,2 -1,2 -3,2 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#6d6d6d;fill-opacity:1"
+       id="path4"
+       d="M 25.677966,13.847457 V 9.8474575 l 4,3.9999995 z"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

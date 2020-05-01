@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="inserthyperlinkcontrol.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/inserthyperlinkcontrol.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="14.992487"
-     inkscape:cy="15.076733"
+     inkscape:cx="-0.63463164"
+     inkscape:cy="14.805547"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,16 +52,15 @@
        type="xygrid"
        id="grid828" />
   </sodipodi:namedview>
-  <path
-     d="m23 19v4h-4v1h4v4h1v-4h4v-1h-4v-4z"
-     fill="#762572"
-     id="path4" />
+  <circle
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path827"
+     cx="16"
+     cy="16"
+     r="12" />
   <path
      inkscape:connector-curvature="0"
-     id="path4-9"
-     overflow="visible"
-     font-weight="400"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#232629;fill-opacity:1;marker:none"
-     d="M 6.8280001,6 C 5.99,6.01 5.361,5.965 4.7950001,6.277 c -0.2934211,0.168304 -0.5182276,0.434531 -0.635,0.752 -0.12,0.323 -0.16,0.688 -0.16,1.137 v 4.668 c 0,0.45 0.04,0.814 0.16,1.137 0.121,0.322 0.352,0.596 0.635,0.752 C 5.361,15.035 5.99,14.99 6.8280001,15 H 10.172 c 0.838,-0.01 1.467,0.035 2.033,-0.277 0.274,-0.151 0.493,-0.415 0.617,-0.723 H 6.8340001 C 5.996,13.99 5.457,13.947 5.277,13.848 5.187,13.798 5.1500001,13.762 5.0960001,13.619 c -0.054,-0.143 -0.096,-0.401 -0.096,-0.785 V 8.166 c 0,-0.384 0.042,-0.642 0.096,-0.785 0.054,-0.143 0.091,-0.179 0.1809999,-0.229 C 5.457,7.053 5.997,7.01 6.8340001,7 H 12.822 C 12.704506,6.695866 12.486878,6.44085 12.205,6.277 11.64,5.965 11.01,6.01 10.172,6 H 6.8320001 Z M 23.828,6 C 22.99,6.01 20.361,5.965 19.795,6.277 19.521,6.428 19.302,6.692 19.178,7 h 5.988 c 0.838,0.01 1.377,0.053 1.557,0.152 0.09,0.05 0.127,0.086 0.181,0.229 C 26.958,7.524 27,7.782 27,8.166 v 4.668 c 0,0.384 -0.042,0.642 -0.096,0.785 -0.054,0.143 -0.091,0.179 -0.181,0.229 -0.18,0.099 -0.719,0.142 -1.557,0.152 h -5.988 c 0.124,0.308 0.343,0.572 0.617,0.723 0.566,0.312 3.195,0.267 4.033,0.277 h 1.344 c 0.838,-0.01 1.467,0.035 2.033,-0.277 0.293421,-0.168304 0.518228,-0.434531 0.635,-0.752 C 27.96,13.648 28,13.283 28,12.834 V 8.166 C 28,7.716 27.961,7.352 27.84,7.029 27.723228,6.711531 27.498421,6.445304 27.205,6.277 26.64,5.965 26.01,6.01 25.172,6 h -1.34 z M 9.9999999,10 v 1 H 22 v -1 z"
-     sodipodi:nodetypes="cccsscsccccccssssccccccccccccssssccccccccsscccccccccc" />
+     id="rect852"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 14,15 h 4 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -4 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 7,-2 c 1.656854,0 3,1.343146 3,3 0,1.656854 -1.343146,3 -3,3 h -3 v -1 h 3 c 1.10457,0 2,-0.895431 2,-2 0,-1.104569 -0.89543,-2 -2,-2 h -3 v -1 z m -10,0 c -1.6568542,0 -3,1.343146 -3,3 0,1.656854 1.3431458,3 3,3 h 3 V 18 H 11 C 9.8954305,18 9,17.104569 9,16 9,14.895431 9.8954305,14 11,14 h 3 v -1 z" />
 </svg>

@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="Indent2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/svx/res/symphony/Indent2.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/svx/res/symphony/Indent2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -40,58 +40,55 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="0.30718079"
-     inkscape:cy="8.0298065"
-     inkscape:window-x="0"
+     inkscape:cx="4.4936215"
+     inkscape:cy="7.419637"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <rect
-     id="rect2"
-     overflow="visible"
-     y="10"
-     x="2"
-     width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
-  <rect
-     id="rect4"
-     overflow="visible"
-     y="3.9999995"
-     x="8"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.86602545;marker:none"
-     height="1" />
-  <rect
-     id="rect6"
-     overflow="visible"
-     y="8"
-     x="8"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.86602545;marker:none"
-     height="1" />
-  <rect
-     id="rect8"
-     overflow="visible"
-     y="12"
-     x="2"
-     width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;marker:none"
-     height="1" />
-  <rect
-     id="rect10"
-     overflow="visible"
-     y="6"
-     x="8"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.65465367;marker:none"
-     height="1" />
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid26" />
+  </sodipodi:namedview>
   <path
-     id="path12"
+     inkscape:connector-curvature="0"
+     id="path836"
+     d="M 2,8.0000008 6.9999998,5.5000007 2,3.0000007 Z"
+     style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 2,8.0000008 6.9999998,5.5000007 2,3.0000007 Z"
+     id="path834"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     id="rect2-4"
      overflow="visible"
-     style="color:#000000;overflow:visible;fill:#762572;fill-opacity:1;stroke-width:1.04450393;marker:none"
-     d="M 2,9 V 3.9999998 c 0.830242,0.348 1.674667,0.737 2.535457,1.166 0.850971,0.431 1.6735766,0.876 2.4645432,1.334 C 6.2090336,6.9489998 5.386428,7.3889998 4.534366,7.82 3.674667,8.25 2.829151,8.643 2,9 Z"
-     inkscape:connector-curvature="0" />
+     y="-13"
+     x="2"
+     width="12"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.30930722;marker:none"
+     height="2"
+     transform="scale(1,-1)" />
+  <rect
+     id="rect4-4"
+     overflow="visible"
+     y="-9"
+     x="9"
+     width="5"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1;marker:none"
+     height="2"
+     transform="scale(1,-1)" />
+  <rect
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1;marker:none"
+     width="5"
+     x="9"
+     y="-5"
+     overflow="visible"
+     id="rect822"
+     transform="scale(1,-1)" />
 </svg>

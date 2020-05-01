@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="tabdialog.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/tabdialog.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="16.677423"
-     inkscape:cy="10.021924"
+     inkscape:cx="0.94860944"
+     inkscape:cy="9.7507376"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,10 +52,46 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     y="24"
+     x="4"
+     height="2"
+     width="24"
+     id="rect829"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 4,4 V 5 H 28 V 4 Z m 6.5,5 -0.998047,1 -4,4 0.7050781,0.707031 L 10,10.914062 V 22 h 1 V 10.914062 L 14.792969,14.707031 15.5,14 11.5,10 10.501953,9 Z M 21,10 V 21.085938 L 17.208984,17.292969 16.501953,18 l 4,4 1,1 L 22.5,22 26.5,18 25.794922,17.292969 22,21.085938 V 10 Z M 4,27 v 1 h 24 v -1 z"
-     id="path2"
+     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+     id="path833"
+     d="m 26,20 -4,-5 -4,5 z"
+     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect827"
+     width="24"
+     height="2"
+     x="4"
+     y="24" />
+  <rect
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect831"
+     width="24"
+     height="2"
+     x="-28"
+     y="-8"
+     transform="scale(-1)" />
+  <path
+     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 6,12 4,5 4,-5 z"
+     id="path836"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     y="-8"
+     x="-28"
+     height="2"
+     width="24"
+     id="rect838"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(-1)" />
 </svg>

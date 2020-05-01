@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="splitcell.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/splitcell.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="15.902393"
-     inkscape:cy="11.542366"
-     inkscape:window-x="1920"
+     inkscape:cx="4.7564725"
+     inkscape:cy="11.350608"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -49,11 +52,18 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect814"
+     width="22"
+     height="22"
+     x="5"
+     y="5" />
   <path
      d="m 4,6 v 20 c 0,2 1,2 3,2 h 18 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,6 Z M 5,6 C 5,5 6,5 7,5 h 5 V 7 H 5 Z m 8,-1 h 6 v 2 h -6 z m 7,0 h 5 c 1,0 2,0 2,1 V 7 H 20 Z M 5,8 h 7 v 2 h 1 V 8 h 6 v 2 h 1 V 8 h 7 v 3 h -6 v 1 h 6 v 3 h -6 v 1 h 6 v 3 h -6 v 1 h 6 v 3 h -7 v -2 h -1 v 2 h -6 v -2 h -1 v 2 H 5 v -3 h 6 V 19 H 5 v -3 h 6 V 15 H 5 v -3 h 6 V 11 H 5 Z m 0,16 h 7 v 3 H 7 C 6,27 5,27 5,26 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 2 c 0,1 -1,1 -2,1 h -5 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
+     style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
      d="m11 10v11h10v-11zm1 1h8v2l-3 2.5 3 2.5v2h-8v-2l3-2.5-3-2.5z"

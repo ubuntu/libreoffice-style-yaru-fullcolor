@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="Indent3.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/svx/res/symphony/Indent3.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/svx/res/symphony/Indent3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -41,10 +41,10 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="10.721651"
-     inkscape:cy="7.4551471"
-     inkscape:window-x="0"
+     inkscape:zoom="20.85965"
+     inkscape:cx="0.83124562"
+     inkscape:cy="7.4592682"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -52,55 +52,43 @@
        type="xygrid"
        id="grid838" />
   </sodipodi:namedview>
-  <rect
-     id="rect2"
-     overflow="visible"
-     y="4.0000019"
-     x="-8"
-     width="5.9999995"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.70710671;marker:none"
-     height="1"
-     transform="scale(-1,1)" />
-  <rect
-     id="rect4"
-     overflow="visible"
-     y="6.0000019"
-     x="-7.999999"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.86602545;marker:none"
-     height="1"
-     transform="scale(-1,1)" />
-  <rect
-     id="rect6"
-     overflow="visible"
-     y="10.000002"
-     x="-7.999999"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.86602545;marker:none"
-     height="1"
-     transform="scale(-1,1)" />
-  <rect
-     id="rect8"
-     overflow="visible"
-     y="12"
-     x="-8"
-     width="5.999999"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.70710671;marker:none"
-     height="1"
-     transform="scale(-1,1)" />
-  <rect
-     id="rect10"
-     overflow="visible"
-     y="8.0000019"
-     x="-7.999999"
-     width="6"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:0.65465367;marker:none"
-     height="1"
-     transform="scale(-1,1)" />
   <path
-     id="path12"
+     inkscape:connector-curvature="0"
+     id="path836"
+     d="m 14,8.0000008 -5,-2.5000001 5,-2.5 z"
+     style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 14,8.0000008 -5,-2.5000001 5,-2.5 z"
+     id="path834"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     id="rect2-4"
      overflow="visible"
-     style="color:#000000;overflow:visible;fill:#762572;fill-opacity:1;stroke-width:1.04450393;marker:none"
-     d="M 14,8.9999999 V 4 C 13.169758,4.348 12.325333,4.737 11.464543,5.166 10.613572,5.597 9.790966,6.042 9,6.5 9.790966,6.949 10.613572,7.389 11.465634,7.82 12.325333,8.2499999 13.170849,8.6429999 14,8.9999999 Z"
-     inkscape:connector-curvature="0" />
+     y="-13"
+     x="-7"
+     width="5.000001"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.30930722;marker:none"
+     height="2"
+     transform="scale(-1)" />
+  <rect
+     id="rect4-4"
+     overflow="visible"
+     y="-9.000001"
+     x="-7"
+     width="5"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1;marker:none"
+     height="2"
+     transform="scale(-1)" />
+  <rect
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1;marker:none"
+     width="5"
+     x="-7"
+     y="-5"
+     overflow="visible"
+     id="rect822"
+     transform="scale(-1)" />
 </svg>
