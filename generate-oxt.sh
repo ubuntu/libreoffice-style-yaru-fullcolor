@@ -9,4 +9,4 @@ rm "yaru-theme.oxt"
 
 zip -r "yaru-theme.zip" *
 
-mv "yaru-theme.zip" "yaru-theme.oxt"
+mv "yaru-theme.zip" "../yaru-theme.oxt"
