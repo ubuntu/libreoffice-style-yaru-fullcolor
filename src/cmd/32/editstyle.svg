@@ -78,30 +78,34 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="7.2157923"
-     inkscape:cy="14.371712"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="16.764994"
+     inkscape:cy="15.519052"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid829" />
+  </sodipodi:namedview>
   <path
      sodipodi:nodetypes="cccccccccccc"
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
-     id="path828"
-     d="m 8.0122895,4.0000001 v 2 h 0.0019 6.9980465 V 20 h 0.002 1.998047 V 6.0000001 h 7 v -2 H 8.0142425 Z" />
+     id="path827"
+     d="m 6,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 H 15 l -6e-6,-12 h 7 V 5 H 6.001953 Z" />
   <path
      inkscape:connector-curvature="0"
      id="path826"
      d="M 5.0142425,28 H 27.014242 V 17 L 5.0142425,28"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="m 8.0122895,4.0000001 v 2 h 0.0019 6.9980465 V 20 h 0.002 1.998047 V 6.0000001 h 7 v -2 H 8.0142425 Z"
+     d="m 6,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 H 15 l -6e-6,-12 h 7 V 5 H 6.001953 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629;fill-opacity:1"
+     style="fill:#ffffff;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccc" />
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

@@ -42,9 +42,9 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="11.392765"
-     inkscape:cy="14.234265"
-     inkscape:window-x="0"
+     inkscape:cx="-4.2343536"
+     inkscape:cy="13.963079"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -53,25 +53,25 @@
        id="grid829" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="cccccccccccc"
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path828"
-     d="m 23.987711,3.9935755 v 2 h -0.0019 -6.998047 V 19.993575 h -0.002 -1.998047 V 5.9935755 h -7 v -2 h 15.998041 z" />
-  <path
      inkscape:connector-curvature="0"
      id="path826"
      d="M 26.985757,27.993575 H 4.985758 v -11 l 22,11"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="m 23.987711,3.9935755 v 2 h -0.0019 -6.998047 V 19.993575 h -0.002 -1.998047 V 5.9935755 h -7 v -2 h 15.998041 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#232629;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccc" />
-  <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 26.985757,27.993575 H 4.985758 v -11 l 22,11"
      id="path824"
      inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccccccccccc"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:connector-curvature="0"
+     id="path827"
+     d="m 10.000006,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 1.998048 L 19,7 h 7 V 5 H 10.001959 Z" />
+  <path
+     d="m 10.000006,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 1.998048 L 19,7 h 7 V 5 H 10.001959 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>

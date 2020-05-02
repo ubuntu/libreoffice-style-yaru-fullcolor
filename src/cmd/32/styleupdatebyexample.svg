@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="styleupdatebyexample.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/styleupdatebyexample.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="9.6427504"
-     inkscape:cy="16.5044"
+     inkscape:cx="5.3521703"
+     inkscape:cy="12.813063"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -53,36 +53,36 @@
        id="grid838" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="cccccccccccc"
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path828"
-     d="M 8.0000031,3 V 5 H 8.0019531 15 v 14 h 0.002 1.998047 V 5 h 7 V 3 H 8.0019562 Z" />
-  <path
      inkscape:connector-curvature="0"
      id="path826"
-     d="M 5.0019562,27 H 27.001956 V 16 L 5.0019562,27"
+     d="M 4.9394562,28.0625 H 26.939456 v -11 l -21.9999998,11"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 8.0000031,3 V 5 H 8.0019531 15 v 14 h 0.002 1.998047 V 5 h 7 V 3 H 8.0019562 Z"
-     id="path2-3"
-     inkscape:connector-curvature="0"
-     style="fill:#232629;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccc" />
-  <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 5.0019562,27 H 27.001956 V 16 L 5.0019562,27"
+     d="M 4.9394562,28.0625 H 26.939456 v -11 l -21.9999998,11"
      id="path824"
      inkscape:connector-curvature="0" />
   <circle
      style="opacity:1;fill:#762572;fill-opacity:1;stroke:none;stroke-width:2.57142854;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path850"
-     cx="25.5"
-     cy="25.5"
+     cx="25.4375"
+     cy="26.5625"
      r="4.5" />
   <path
      id="path845"
      style="fill:#ffffff;fill-opacity:1"
-     d="m 27.6875,24.3125 -0.75,0.75 C 26.9785,25.1996 27,25.34921 27,25.5 27,26.331 26.331,27 25.5,27 25.34921,27 25.1996,26.9785 25.0625,26.9375 l -0.75,0.75 C 24.66714,27.88 25.06657,28 25.5,28 26.885,28 28,26.885 28,25.5 28,25.06657 27.88,24.66714 27.6875,24.3125 Z M 25.5,23 c -1.385,0 -2.5,1.115 -2.5,2.5 0,0.43343 0.12,0.83286 0.3125,1.1875 l 0.75,-0.75 C 24.0215,25.8004 24,25.65079 24,25.5 24,24.669 24.669,24 25.5,24 c 0.15079,0 0.3004,0.0215 0.4375,0.0625 l 0.75,-0.75 C 26.33286,23.12 25.93343,23 25.5,23 Z"
+     d="m 27.625,25.375 -0.75,0.75 c 0.041,0.1371 0.0625,0.28671 0.0625,0.4375 0,0.831 -0.669,1.5 -1.5,1.5 C 25.28671,28.0625 25.1371,28.041 25,28 l -0.75,0.75 c 0.35464,0.1925 0.75407,0.3125 1.1875,0.3125 1.385,0 2.5,-1.115 2.5,-2.5 0,-0.43343 -0.12,-0.83286 -0.3125,-1.1875 z m -2.1875,-1.3125 c -1.385,0 -2.5,1.115 -2.5,2.5 0,0.43343 0.12,0.83286 0.3125,1.1875 L 24,27 c -0.041,-0.1371 -0.0625,-0.28671 -0.0625,-0.4375 0,-0.831 0.669,-1.5 1.5,-1.5 0.15079,0 0.3004,0.0215 0.4375,0.0625 l 0.75,-0.75 c -0.35464,-0.1925 -0.75407,-0.3125 -1.1875,-0.3125 z"
      inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccccccccccc"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:connector-curvature="0"
+     id="path827"
+     d="m 6,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 H 15 l -6e-6,-12 h 7 V 5 H 6.001953 Z" />
+  <path
+     d="m 6,5 v 2 h 0.0019 6.998046 l 6e-6,12 h 0.002 H 15 l -6e-6,-12 h 7 V 5 H 6.001953 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>
