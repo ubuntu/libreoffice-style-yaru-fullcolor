@@ -41,22 +41,30 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="9.6958066"
-     inkscape:cy="12.779591"
+     inkscape:zoom="22.627417"
+     inkscape:cx="1.0076943"
+     inkscape:cy="12.667371"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
+    <sodipodi:guide
+       position="25,-1"
+       orientation="0,1"
+       id="guide819"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <path
      id="path846"
-     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 v -2 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 v -2 c 0,-2.77 -1.115,-5 -2.5,-5 h -1 c -1.385,0 -2.5,2.23 -2.5,5 v 2 c 0,2.77 1.115,5 2.5,5 z"
+     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 V 12 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2.999803 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 V 12 C 16,9.23 14.885,7 13.5,7 h -1 C 11.115,7 10,9.23 10,12 v 2.999803 c 0,2.77 1.115,5 2.5,5 z"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssssssssss" />
   <path
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 4,3 V 2 h 16 v 1 z"
@@ -71,7 +79,8 @@
      sodipodi:nodetypes="ccccc" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.38178015;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 v -2 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 v -2 c 0,-2.77 -1.115,-5 -2.5,-5 h -1 c -1.385,0 -2.5,2.23 -2.5,5 v 2 c 0,2.77 1.115,5 2.5,5 z"
+     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 V 12 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2.999803 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 V 12 C 16,9.23 14.885,7 13.5,7 h -1 C 11.115,7 10,9.23 10,12 v 2.999803 c 0,2.77 1.115,5 2.5,5 z"
      id="rect835"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssssssssss" />
 </svg>

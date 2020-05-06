@@ -41,8 +41,8 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="3.2111013"
-   inkscape:cy="8.2965881"
+   inkscape:cx="-4.602458"
+   inkscape:cy="8.1609949"
    inkscape:window-x="0"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
@@ -51,13 +51,11 @@
      type="xygrid"
      id="grid819" />
 </sodipodi:namedview>
-/&gt;<rect
-   y="1"
-   x="1.9999998"
-   height="1"
-   width="12"
-   id="rect832"
-   style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+
+/&gt;<path
+   style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 2 1 L 2 2 L 14 2 L 14 1 L 2 1 z M 8 3 C 5.784 3 4 4.784 4 7 L 4 11 C 4 13.216 5.784 15 8 15 C 10.216 15 12 13.216 12 11 L 12 7 C 12 4.784 10.216 3 8 3 z M 7.5 5 L 8.5 5 C 9.331 5 10 5.892 10 7 L 10 11 C 10 12.108 9.331 13 8.5 13 L 7.5 13 C 6.669 13 6 12.108 6 11 L 6 7 C 6 5.892 6.669 5 7.5 5 z "
+   id="rect832" />
 <rect
    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="rect830"
@@ -65,10 +63,6 @@
    height="1"
    x="1.9999998"
    y="1" />
-<path
-   id="path827"
-   d="M 8 3 C 5.784 3 4 4.784 4 7 L 4 11 C 4 13.216 5.784 15 8 15 C 10.216 15 12 13.216 12 11 L 12 7 C 12 4.784 10.216 3 8 3 z M 7.5 5 L 8.5 5 C 9.331 5 10 5.892 10 7 L 10 11 C 10 12.108 9.331 13 8.5 13 L 7.5 13 C 6.669 13 6 12.108 6 11 L 6 7 C 6 5.892 6.669 5 7.5 5 z "
-   style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 <path
    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.49811828;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="M 8 3 C 5.784 3 4 4.784 4 7 L 4 11 C 4 13.216 5.784 15 8 15 C 10.216 15 12 13.216 12 11 L 12 7 C 12 4.784 10.216 3 8 3 z M 7.5 5 L 8.5 5 C 9.331 5 10 5.892 10 7 L 10 11 C 10 12.108 9.331 13 8.5 13 L 7.5 13 C 6.669 13 6 12.108 6 11 L 6 7 C 6 5.892 6.669 5 7.5 5 z "
