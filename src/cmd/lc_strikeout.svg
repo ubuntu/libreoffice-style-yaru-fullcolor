@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_strikeout.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_strikeout.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -40,22 +40,52 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-22.016949"
-     inkscape:cy="12.101694"
-     inkscape:window-x="0"
+     showgrid="true"
+     inkscape:zoom="27.812866"
+     inkscape:cx="7.0772759"
+     inkscape:cy="11.668017"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
+  <text
+     transform="scale(1.0174755,0.98282464)"
+     id="text832"
+     y="20.021706"
+     x="5.493896"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.19999886px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.19999886px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       y="20.021706"
+       x="5.493896"
+       id="tspan830"
+       sodipodi:role="line">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.19999886px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99476177"
+     x="5.493896"
+     y="20.021706"
+     id="text818"
+     transform="scale(1.0174755,0.98282464)"><tspan
+       sodipodi:role="line"
+       id="tspan816"
+       x="5.493896"
+       y="20.021706"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.19999886px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.99476177">S</tspan></text>
   <path
-     id="path817"
-     fill="#232629"
-     d="m12.367188 4c-3.2113223-.0295029-7.0777333 2.1569725-4.9277349 7.082031h7.5605469c-11.9999934-2.9999974-1.999075-9.999994.041016-1.9999998h.958984v-2.7480468c-.015035-1.499999-1.70602-2.3162826-3.632812-2.3339844zm-8.367188 8v1h16v-1zm9 1.998047c5.286619 5.243296-2.633314 6.924696-5 1h-1v3c.1910978 2.515798 11.999999 3.999994 10-4z"
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 4,11 v 1 h 16 v -1 z"
+     id="path825"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
   <path
-     d="m12.367188 4c-3.2113223-.0295029-7.0777333 2.1569725-4.9277349 7.082031h7.5605469c-11.9999934-2.9999974-1.999075-9.999994.041016-1.9999998h.958984v-2.7480468c-.015035-1.499999-1.70602-2.3162826-3.632812-2.3339844zm-8.367188 8v1h16v-1zm9 1.998047c5.286619 5.243296-2.633314 6.924696-5 1h-1v3c.1910978 2.515798 11.999999 3.999994 10-4z"
-     fill="#232629"
-     id="path2"
-     style="opacity:0.99999999;fill:#232629;fill-opacity:1" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 4,11 h 16 v 1 H 4 Z"
+     id="rect828"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
 </svg>

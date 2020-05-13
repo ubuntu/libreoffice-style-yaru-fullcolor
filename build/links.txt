@@ -148,7 +148,7 @@ cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
 cmd/32/editstyled.png cmd/32/editstyle.png
 cmd/32/ellipsetoolbox.png cmd/32/ellipse.png
 cmd/32/es/bold.png cmd/32/ca/bold.png
-cmd/32/es/italic.png cmd/32/ca/italic.png
+cmd/32/es/italic.png cmd/32/de/italic.png
 cmd/32/es/numberformatdecdecimals.png cmd/32/de/numberformatdecdecimals.png
 cmd/32/es/numberformatdecimal.png cmd/32/de/numberformatdecimal.png
 cmd/32/es/numberformatincdecimals.png cmd/32/de/numberformatincdecimals.png
@@ -292,7 +292,8 @@ cmd/32/insertformlist.png cmd/32/listbox.png
 cmd/32/insertformmenu.png cmd/32/controlproperties.png
 cmd/32/insertformradio.png cmd/32/radiobutton.png
 cmd/32/insertformspin.png cmd/32/spinbutton.png
-cmd/32/insertformula.png cmd/32/dbviewfunctions.png
+cmd/32/insertformula.png cmd/32/toggleformula.png
+cmd/32/dbviewfunctions.png cmd/32/toggleformula.png
 cmd/32/insertformvscroll.png cmd/32/scrollbar.png
 cmd/32/insertframeinteract.png cmd/32/insertframe.png
 cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
@@ -568,7 +569,7 @@ cmd/ar/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ca/lc_underlinesimple.png cmd/ca/lc_underline.png
 cmd/ca/sc_underlinesimple.png cmd/ca/sc_underline.png
 cmd/es/lc_bold.png cmd/ca/lc_bold.png
-cmd/es/lc_italic.png cmd/ca/lc_italic.png
+cmd/es/lc_italic.png cmd/de/lc_italic.png
 cmd/es/lc_numberformatdecdecimals.png cmd/de/lc_numberformatdecdecimals.png
 cmd/es/lc_numberformatdecimal.png cmd/de/lc_numberformatdecimal.png
 cmd/es/lc_numberformatincdecimals.png cmd/de/lc_numberformatincdecimals.png
@@ -577,7 +578,7 @@ cmd/es/lc_underline.png cmd/ca/lc_underline.png
 cmd/es/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png
 cmd/es/lc_underlinesimple.png cmd/ca/lc_underline.png
 cmd/es/sc_bold.png cmd/ca/sc_bold.png
-cmd/es/sc_italic.png cmd/ca/sc_italic.png
+cmd/es/sc_italic.png cmd/de/sc_italic.png
 cmd/es/sc_numberformatdecdecimals.png cmd/de/sc_numberformatdecdecimals.png
 cmd/es/sc_numberformatdecimal.png cmd/de/sc_numberformatdecimal.png
 cmd/es/sc_numberformatincdecimals.png cmd/de/sc_numberformatincdecimals.png
@@ -904,7 +905,8 @@ cmd/lc_insertformlist.png cmd/lc_listbox.png
 cmd/lc_insertformmenu.png cmd/lc_controlproperties.png
 cmd/lc_insertformradio.png cmd/lc_radiobutton.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
-cmd/lc_insertformula.png cmd/lc_dbviewfunctions.png
+cmd/lc_insertformula.png cmd/lc_toggleformula.png
+cmd/lc_dbviewfunctions.png cmd/lc_toggleformula.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
@@ -1380,7 +1382,8 @@ cmd/sc_insertformlist.png cmd/sc_listbox.png
 cmd/sc_insertformmenu.png cmd/sc_controlproperties.png
 cmd/sc_insertformradio.png cmd/sc_radiobutton.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
-cmd/sc_insertformula.png cmd/sc_dbviewfunctions.png
+cmd/sc_insertformula.png cmd/sc_toggleformula.png
+cmd/sc_dbviewfunctions.png cmd/sc_toggleformula.png
 cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png

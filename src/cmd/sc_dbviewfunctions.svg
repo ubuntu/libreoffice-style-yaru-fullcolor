@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_dbviewfunctions.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dbviewfunctions.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -41,9 +41,9 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="16"
-   inkscape:cx="-19.145901"
-   inkscape:cy="8.9497252"
-   inkscape:window-x="0"
+   inkscape:cx="-15.802151"
+   inkscape:cy="11.762225"
+   inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4">
@@ -51,19 +51,8 @@
      type="xygrid"
      id="grid817" />
 </sodipodi:namedview>
+
 /&gt;<path
-   style="opacity:0.6;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 9.4495415,7.9989055 7.9999578,9.4387316 9.5864585,11.000471 8.0007428,12.560802 9.4497395,14.000041 11.035455,12.43971 12.550684,13.931506 14.000268,12.49168 12.483086,10.999884 14.000267,9.5080866 12.551271,8.0688489 11.036042,9.5606446 Z"
-   id="path817"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" />
-<path
-   style="fill:#ffffff;fill-opacity:1"
-   d="M 9.4495415,7.9989055 7.9999578,9.4387316 9.5864585,11.000471 8.0007428,12.560802 9.4497395,14.000041 11.035455,12.43971 12.550684,13.931506 14.000268,12.49168 12.483086,10.999884 14.000267,9.5080866 12.551271,8.0688489 11.036042,9.5606446 Z"
-   id="path2-5"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccccccccccc" />
-<path
    sodipodi:nodetypes="csccccccccccscccc"
    inkscape:connector-curvature="0"
    id="path839"
@@ -75,4 +64,16 @@
    id="rect826"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="csccccccccccscccc" />
+<path
+   style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   id="path817"
+   d="m 9.4649899,9.7578541 -0.7070313,0.7070309 1.4140624,1.414062 -1.4140624,1.414063 0.7070313,0.707031 1.4140621,-1.414062 1.414063,1.414062 0.707031,-0.707031 -1.414062,-1.414063 1.414062,-1.414062 -0.707031,-0.7070309 -1.414063,1.4140619 z"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccccc" />
+<path
+   d="m 9.4649899,9.7578541 -0.7070313,0.7070309 1.4140624,1.414062 -1.4140624,1.414063 0.7070313,0.707031 1.4140621,-1.414062 1.414063,1.414062 0.707031,-0.707031 -1.414062,-1.414063 1.414062,-1.414062 -0.707031,-0.7070309 -1.414063,1.4140619 z"
+   id="path2"
+   style="fill:#ffffff"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccccc" />
 </svg>
