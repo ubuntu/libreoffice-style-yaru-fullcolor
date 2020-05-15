@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_wraptext.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_wraptext.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="1.0717587"
-     inkscape:cy="9.3496735"
+     inkscape:zoom="41.7193"
+     inkscape:cx="4.0032046"
+     inkscape:cy="7.2961688"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,13 +53,43 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="M 2,2 V 3 H 14 V 2 Z M 2,4 V 5 H 14 V 4 Z M 2,7 V 8 H 8 V 7 Z m 0,2 v 1 H 8 V 9 Z m 0,3 v 1 h 8 v -1 z"
-     id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7.0000003,12 10,10 v 1 h 2 c 1,0 1,0 1,-2 h 2 v 1 c 0,2 0,3 -2,3 h -3 v 1 z"
+     id="path865"
+     sodipodi:nodetypes="ccccccccccc" />
   <path
-     d="m9 7v1h1 .5c1.385 0 2.5 1.115 2.5 2.5 0 .81868-.39551 1.54491-1 2v-1.5h-1v1.9375.0625.9375.0625h1 2v-1h-1.0625c.65797-.6319 1.0625-1.50971 1.0625-2.5 0-1.939-1.561-3.5-3.5-3.5h-.5z"
-     fill="#762572"
-     id="path4" />
+     sodipodi:nodetypes="ccccccccccc"
+     id="path841"
+     d="M 7.0000003,12 10,10 v 1 h 2 c 1,0 1,0 1,-2 h 2 v 1 c 0,2 0,3 -2,3 h -3 v 1 z"
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <rect
+     y="2"
+     x="1.9999999"
+     height="2.0000002"
+     width="12"
+     id="rect839"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.45421529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.45421529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect828"
+     width="12"
+     height="2.0000002"
+     x="1.9999999"
+     y="5" />
+  <rect
+     y="9"
+     x="2"
+     height="2.0000002"
+     width="3"
+     id="rect830"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.22710764;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.22710764;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect832"
+     width="3"
+     height="2.0000002"
+     x="2"
+     y="12" />
 </svg>
