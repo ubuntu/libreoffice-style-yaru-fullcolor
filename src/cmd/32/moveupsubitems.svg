@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="moveupsubitems.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/moveupsubitems.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="7.8363037"
-     inkscape:cy="17.639778"
-     inkscape:window-x="0"
+     inkscape:cx="7.2490108"
+     inkscape:cy="14.485658"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -49,14 +52,54 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     id="rect2"
+     overflow="visible"
+     y="5"
+     x="3.9999986"
+     width="24.000002"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:2.56568217;marker:none"
+     height="2" />
+  <rect
+     id="rect4"
+     overflow="visible"
+     y="10"
+     x="16.000002"
+     width="12"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2" />
+  <rect
+     id="rect6"
+     overflow="visible"
+     y="20"
+     x="16.000002"
+     width="12"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2" />
+  <rect
+     id="rect8"
+     overflow="visible"
+     y="25"
+     x="16"
+     width="12"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.81422961;marker:none"
+     height="2" />
+  <rect
+     id="rect10"
+     overflow="visible"
+     y="15"
+     x="16.000002"
+     width="12.000001"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.81421125;marker:none"
+     height="2" />
   <path
-     d="M 4,4 V 5 H 28 V 4 Z M 4,7 V 8 H 28 V 7 Z m 10,7 v 1 h 14 v -1 z m 0,3 v 1 h 14 v -1 z m 0,7 v 1 h 14 v -1 z m 0,3 v 1 h 14 v -1 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+     style="opacity:0.6;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 4.9999999,21 4,-6 L 13,21 Z"
+     id="path833"
+     inkscape:connector-curvature="0" />
   <path
-     d="m8 13-4 6h8z"
-     fill="#762572"
-     id="path4" />
+     style="fill:#ffffff"
+     d="m 4.9999999,21 4,-6 L 13,21 Z"
+     id="path837"
+     inkscape:connector-curvature="0" />
 </svg>

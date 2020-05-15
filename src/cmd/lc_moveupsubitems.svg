@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_moveupsubitems.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_moveupsubitems.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="39.333333"
-     inkscape:cx="10.25039"
-     inkscape:cy="12.108642"
+     inkscape:zoom="19.666667"
+     inkscape:cx="2.3848964"
+     inkscape:cy="8.5969558"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,13 +53,47 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="M 4,4 V 5 H 20 V 4 Z M 4,6 V 7 H 20 V 6 Z m 7,4 v 1 h 9 v -1 z m 0,2 v 1 h 6 3 v -1 h -3 z m 0,4 v 1 h 9 v -1 z m 0,2 v 1 h 9 v -1 z"
-     id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+     id="path836"
+     d="m 9.9999691,14.999877 -2.5,-5 -2.5,5 z"
+     style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccc" />
   <path
-     d="m7 10-3 4h6z"
-     fill="#762572"
-     id="path4" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 9.9999691,14.999877 -2.5,-5 -2.5,5 z"
+     id="path834"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     id="rect2"
+     overflow="visible"
+     y="5"
+     x="12"
+     width="7.999969"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.0690428;marker:none"
+     height="2" />
+  <rect
+     id="rect4"
+     overflow="visible"
+     y="9"
+     x="11.999969"
+     width="8"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
+     height="2" />
+  <rect
+     height="2"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
+     width="8"
+     x="11.999969"
+     y="13"
+     overflow="visible"
+     id="rect822" />
+  <rect
+     id="rect824"
+     overflow="visible"
+     y="17"
+     x="11.999969"
+     width="8"
+     style="color:#bebebe;overflow:visible;fill:#924d8b;fill-opacity:1;stroke-width:1.26491106;marker:none"
+     height="2" />
 </svg>

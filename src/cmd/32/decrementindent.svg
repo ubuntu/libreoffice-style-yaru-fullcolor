@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="decrementindent.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/decrementindent.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -43,8 +43,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="-6.6249433"
-     inkscape:cy="13.986321"
+     inkscape:cx="19.187557"
+     inkscape:cy="12.798821"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -53,11 +53,6 @@
        type="xygrid"
        id="grid833" />
   </sodipodi:namedview>
-  <path
-     inkscape:connector-curvature="0"
-     id="path820"
-     d="m 28,11 -10,5 10,5 z"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      id="rect2"
      overflow="visible"
@@ -104,8 +99,13 @@
      height="2"
      transform="scale(-1,1)" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 28,11 -10,5 10,5 z"
-     id="path818"
+     style="opacity:0.6;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 26,20 -6,-4 6,-4 z"
+     id="path833"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 26,20 -6,-4 6,-4 z"
+     id="path837"
      inkscape:connector-curvature="0" />
 </svg>
