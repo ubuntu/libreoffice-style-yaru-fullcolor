@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="incrementsublevels.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/32/incrementsublevels.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/incrementsublevels.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -40,63 +40,71 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="1.1618535"
-     inkscape:cy="19.360704"
+     inkscape:cx="-0.90594311"
+     inkscape:cy="18.004772"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+  </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="m 28.000001,11 -9.999999,5 9.999999,5 z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      id="rect2"
      overflow="visible"
-     y="4"
-     x="-28"
+     y="5"
+     x="-28.000002"
      width="24.000002"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.81422901;marker:none"
-     height="1.0000196"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:2.56568217;marker:none"
+     height="2"
      transform="scale(-1,1)" />
   <rect
      id="rect4"
      overflow="visible"
-     y="10.000018"
-     x="-16"
+     y="10"
+     x="-16.000002"
      width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2"
      transform="scale(-1,1)" />
   <rect
      id="rect6"
      overflow="visible"
-     y="22.000019"
-     x="-16"
+     y="20"
+     x="-16.000002"
      width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2"
      transform="scale(-1,1)" />
   <rect
      id="rect8"
      overflow="visible"
-     y="28"
+     y="25"
      x="-16"
-     width="11.999992"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.81422901;marker:none"
-     height="1"
+     width="11.999985"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422853;marker:none"
+     height="2"
      transform="scale(-1,1)" />
   <rect
      id="rect10"
      overflow="visible"
-     y="15.999999"
-     x="-16"
+     y="15.000002"
+     x="-16.000002"
      width="12.000001"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1.0000196"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81421125;marker:none"
+     height="2"
      transform="scale(-1,1)" />
   <path
-     id="path12"
-     overflow="visible"
-     style="color:#000000;overflow:visible;fill:#762572;fill-opacity:1;stroke-width:2.19096994;marker:none"
-     d="M 28,22 V 10.999998 c -1.660484,0.7656 -3.349334,1.6214 -5.070914,2.5652 -1.701942,0.948201 -3.347153,1.927202 -4.929085,2.934802 1.581932,0.9878 3.227143,1.9558 4.931267,2.904 C 24.650666,20.350001 26.341698,21.2146 28,22 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 28.000001,11 -9.999999,5 9.999999,5 z"
+     id="path818"
      inkscape:connector-curvature="0" />
 </svg>

@@ -43,8 +43,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="22.627416"
-     inkscape:cx="-4.1987476"
-     inkscape:cy="14.676909"
+     inkscape:cx="1.8779516"
+     inkscape:cy="12.643977"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -56,49 +56,49 @@
   <path
      inkscape:connector-curvature="0"
      id="path836"
-     d="m 19,10 -5,2.5 5,2.5 z"
+     d="M 19,14 14,11.5 19,9 Z"
      style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="cccc" />
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 19,10 -5,2.5 5,2.5 z"
+     d="M 19,14 14,11.5 19,9 Z"
      id="path834"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <rect
      id="rect2"
      overflow="visible"
-     y="5"
+     y="-19"
      x="-19"
      width="15"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.46385002;marker:none"
      height="2"
-     transform="scale(-1,1)" />
+     transform="scale(-1)" />
   <rect
      id="rect4"
      overflow="visible"
-     y="9"
+     y="-15"
      x="-12"
      width="8"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
      height="2"
-     transform="scale(-1,1)" />
+     transform="scale(-1)" />
   <rect
-     transform="scale(-1,1)"
+     transform="scale(-1)"
      height="2"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
      width="8"
      x="-12"
-     y="13"
+     y="-11"
      overflow="visible"
      id="rect822" />
   <rect
      id="rect824"
      overflow="visible"
-     y="17"
+     y="-7"
      x="-12"
      width="8"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
      height="2"
-     transform="scale(-1,1)" />
+     transform="scale(-1)" />
 </svg>

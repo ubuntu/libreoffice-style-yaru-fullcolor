@@ -43,9 +43,9 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="6.1763697"
-     inkscape:cy="14.479454"
-     inkscape:window-x="1920"
+     inkscape:cx="3.7677872"
+     inkscape:cy="11.47425"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -56,45 +56,49 @@
   <path
      inkscape:connector-curvature="0"
      id="path836"
-     d="M 5,10 10,12.5 5,15 Z"
+     d="M 5,14 10,11.5 5,9 Z"
      style="opacity:0.6;fill:#fa9381;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="cccc" />
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 5,10 10,12.5 5,15 Z"
+     d="M 5,14 10,11.5 5,9 Z"
      id="path834"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <rect
      id="rect2"
      overflow="visible"
-     y="5"
+     y="-19"
      x="5"
      width="15"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.46385002;marker:none"
-     height="2" />
+     height="2"
+     transform="scale(1,-1)" />
   <rect
      id="rect4"
      overflow="visible"
-     y="9"
+     y="-15"
      x="12"
      width="8"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
-     height="2" />
+     height="2"
+     transform="scale(1,-1)" />
   <rect
      height="2"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
      width="8"
      x="12"
-     y="13"
+     y="-11"
      overflow="visible"
-     id="rect822" />
+     id="rect822"
+     transform="scale(1,-1)" />
   <rect
      id="rect824"
      overflow="visible"
-     y="17"
+     y="-7"
      x="12"
      width="8"
      style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.26491106;marker:none"
-     height="2" />
+     height="2"
+     transform="scale(1,-1)" />
 </svg>

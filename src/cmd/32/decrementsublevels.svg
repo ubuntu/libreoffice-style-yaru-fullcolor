@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="decrementsublevels.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/32/decrementsublevels.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/decrementsublevels.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -42,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="18.590694"
-     inkscape:cy="16.882315"
+     inkscape:cx="7.5406524"
+     inkscape:cy="16.690557"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -52,50 +52,57 @@
        type="xygrid"
        id="grid856" />
   </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="M 3.9999995,11 14,16 3.9999995,21 Z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      id="rect2"
      overflow="visible"
-     y="3.9999998"
-     x="3.9999981"
+     y="5"
+     x="3.9999986"
      width="24.000002"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.81422901;marker:none"
-     height="1.0000196" />
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:2.56568217;marker:none"
+     height="2" />
   <rect
      id="rect4"
      overflow="visible"
-     y="10.00002"
+     y="10"
      x="16"
      width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1" />
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2" />
   <rect
      id="rect6"
      overflow="visible"
-     y="22.000019"
+     y="20"
      x="16"
      width="12"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1" />
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422901;marker:none"
+     height="2" />
   <rect
      id="rect8"
      overflow="visible"
-     y="28"
+     y="25"
      x="16"
-     width="11.999992"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.81422901;marker:none"
-     height="1" />
+     width="11.999987"
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81422853;marker:none"
+     height="2"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/rect8.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <rect
      id="rect10"
      overflow="visible"
-     y="16"
+     y="15.000001"
      x="16"
      width="12.000001"
-     style="color:#bebebe;overflow:visible;fill:#232629;fill-opacity:1;stroke-width:1.2828536;marker:none"
-     height="1.0000196" />
+     style="color:#bebebe;overflow:visible;fill:#fa9381;fill-opacity:1;stroke-width:1.81421125;marker:none"
+     height="2" />
   <path
-     id="path12"
-     overflow="visible"
-     style="color:#000000;overflow:visible;fill:#762572;fill-opacity:1;stroke-width:2.19096994;marker:none"
-     d="M 3.9999994,22 V 10.999999 c 1.6604845,0.7656 3.3493346,1.6214 5.0709146,2.5652 C 10.772855,14.5134 12.418066,15.4924 13.999999,16.5 12.418066,17.4878 10.772855,18.4558 9.068732,19.404 7.349334,20.350001 5.6583019,21.2146 3.9999994,22 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 3.9999995,11 14,16 3.9999995,21 Z"
+     id="path818"
      inkscape:connector-curvature="0" />
 </svg>
