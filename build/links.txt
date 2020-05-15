@@ -292,8 +292,7 @@ cmd/32/insertformlist.png cmd/32/listbox.png
 cmd/32/insertformmenu.png cmd/32/controlproperties.png
 cmd/32/insertformradio.png cmd/32/radiobutton.png
 cmd/32/insertformspin.png cmd/32/spinbutton.png
-cmd/32/insertformula.png cmd/32/toggleformula.png
-cmd/32/dbviewfunctions.png cmd/32/toggleformula.png
+cmd/32/insertformula.png cmd/32/dbviewfunctions.png
 cmd/32/insertformvscroll.png cmd/32/scrollbar.png
 cmd/32/insertframeinteract.png cmd/32/insertframe.png
 cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
@@ -356,6 +355,7 @@ cmd/32/mailmergepreventry.png cmd/32/prevrecord.png
 cmd/32/margins.png cmd/32/pagemargin.png
 cmd/32/measureattributes.png cmd/32/measureline.png
 cmd/32/mergecellsmenu.png cmd/32/togglemergecells.png
+cmd/32/togglemergecells.png cmd/32/mergecells.png
 cmd/32/mirrorhorz.png cmd/32/mirror.png
 cmd/32/mirrormenu.png cmd/32/rotateleft.png
 cmd/32/modifypage.png cmd/32/pagedialog.png
@@ -905,8 +905,7 @@ cmd/lc_insertformlist.png cmd/lc_listbox.png
 cmd/lc_insertformmenu.png cmd/lc_controlproperties.png
 cmd/lc_insertformradio.png cmd/lc_radiobutton.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
-cmd/lc_insertformula.png cmd/lc_toggleformula.png
-cmd/lc_dbviewfunctions.png cmd/lc_toggleformula.png
+cmd/lc_insertformula.png cmd/lc_dbviewfunctions.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
@@ -963,6 +962,7 @@ cmd/lc_mailmergepreventry.png cmd/lc_prevrecord.png
 cmd/lc_margins.png cmd/lc_pagemargin.png
 cmd/lc_measureattributes.png cmd/lc_measureline.png
 cmd/lc_mergecellsmenu.png cmd/lc_togglemergecells.png
+cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_mergedocument.png cmd/lc_mergedocuments.png
 cmd/lc_mirrorhorz.png cmd/lc_mirror.png
 cmd/lc_mirrormenu.png cmd/lc_rotateleft.png
@@ -1382,8 +1382,7 @@ cmd/sc_insertformlist.png cmd/sc_listbox.png
 cmd/sc_insertformmenu.png cmd/sc_controlproperties.png
 cmd/sc_insertformradio.png cmd/sc_radiobutton.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
-cmd/sc_insertformula.png cmd/sc_toggleformula.png
-cmd/sc_dbviewfunctions.png cmd/sc_toggleformula.png
+cmd/sc_insertformula.png cmd/sc_dbviewfunctions.png
 cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
@@ -1440,6 +1439,7 @@ cmd/sc_mailmergepreventry.png cmd/sc_prevrecord.png
 cmd/sc_margins.png cmd/sc_pagemargin.png
 cmd/sc_measureattributes.png cmd/sc_measureline.png
 cmd/sc_mergecellsmenu.png cmd/sc_togglemergecells.png
+cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_mergedocument.png cmd/sc_mergedocuments.png
 cmd/sc_mirrorhorz.png cmd/sc_mirror.png
 cmd/sc_mirrormenu.png cmd/sc_rotateleft.png
