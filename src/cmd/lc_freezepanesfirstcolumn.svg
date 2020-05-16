@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_freezepanesfirstcolumn.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_freezepanesfirstcolumn.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="6.9919053"
-     inkscape:cy="14.058412"
+     inkscape:cx="10.659273"
+     inkscape:cy="11.901137"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,10 +52,17 @@
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect816"
+     width="14"
+     height="14"
+     x="5"
+     y="5" />
   <path
      d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z m 3,1 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
+     style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>
