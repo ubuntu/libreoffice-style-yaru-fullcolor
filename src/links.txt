@@ -263,7 +263,7 @@ cmd/32/incrementlevel.png cmd/32/decrementindent.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/inputlinevisible.png cmd/32/dbviewfunctions.png
 cmd/32/inscellsctrl.png cmd/32/inserttable.png
-cmd/32/insert.png cmd/32/togglesheetgrid.png
+cmd/32/insert.png cmd/32/inserttable.png
 cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
 cmd/32/insertauthoritiesentry.png cmd/32/bibliographycomponent.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
@@ -874,7 +874,7 @@ cmd/lc_incrementlevel.png cmd/lc_decrementindent.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_inputlinevisible.png cmd/lc_dbviewfunctions.png
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
-cmd/lc_insert.png cmd/lc_togglesheetgrid.png
+cmd/lc_insert.png cmd/lc_inserttable.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertauthoritiesentry.png cmd/lc_bibliographycomponent.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
@@ -1349,7 +1349,7 @@ cmd/sc_incrementlevel.png cmd/sc_decrementindent.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_inputlinevisible.png cmd/sc_dbviewfunctions.png
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
-cmd/sc_insert.png cmd/sc_togglesheetgrid.png
+cmd/sc_insert.png cmd/sc_inserttable.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertauthoritiesentry.png cmd/sc_bibliographycomponent.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
