@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_renametable.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_renametable.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="3.4813096"
-     inkscape:cy="3.0218579"
+     inkscape:cx="6.9689041"
+     inkscape:cy="6.545407"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,14 +52,29 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="10"
+     height="10"
+     x="3"
+     y="3" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 h 4 1 V 13 10 9 6 h 3 v 1 h 1 V 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 5,3 H 6 V 5 H 3 V 4 C 3,3 4,3 5,3 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 10 Z M 3,6 H 6 V 9 H 3 Z M 7,6 H 9 V 9 H 7 Z m -4,4 h 3 v 3 H 5 C 4,13 3,13 3,12 Z m 4,0 h 2 v 3 H 7 Z"
+     d="m 2,4 v 8 c 0,2 1.0000002,2 3.0000002,2 h 4 H 10 11 c 2,0 3,0 3,-2 V 4 C 14,2 13,2 11,2 H 5.0000002 C 3.0000002,2 2,2 2,4 Z M 5.0000002,3 h 1 v 2 h -3 V 4 c 0,-1 1,-1 2,-1 z m 2,0 h 2 v 2 h -2 z M 10,3 h 1 c 1,0 2,0 2,1 V 5 H 12 11 10 Z M 3.0000002,6 h 3 v 3 h -3 z m 4,0 h 2 v 3 h -2 z M 10,6 h 1 1 1 v 3 h -1 -1 -1 z m -6.9999998,4 h 3 v 3 h -1 c -1,0 -2,0 -2,-1 z m 4,0 h 2 v 3 h -2 z M 10,10 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="fill:#6d6d6d;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     d="m11 8v1h1v4h-1v1h3v-1h-1v-4h1v-1z"
-     fill="#762572"
-     id="path4" />
+     sodipodi:nodetypes="ccccccccccccc"
+     style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:connector-curvature="0"
+     id="path822"
+     d="m 9,6 v 2 h 2 v 5 H 9 v 2 h 6 V 13 H 13 V 8 h 2 V 6 Z" />
+  <path
+     d="m 9,6 v 2 h 2 v 5 H 9 v 2 h 6 V 13 H 13 V 8 h 2 V 6 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#aee3f8;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>
