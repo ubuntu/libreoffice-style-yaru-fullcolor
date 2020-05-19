@@ -476,6 +476,7 @@ cmd/32/sheetrighttoleft.png cmd/32/pararighttoleft.png
 cmd/32/showannotations.png cmd/32/showallnotes.png
 cmd/32/showbrowser.png cmd/32/controlproperties.png
 cmd/32/showchanges.png cmd/32/addwatch.png
+cmd/32/showdatanavigator.png cmd/32/managexmlsource.png
 cmd/32/showgraphics.png cmd/32/graphic.png
 cmd/32/showinlinetooltips.png cmd/32/shownote.png
 cmd/32/showpropbrowser.png cmd/32/controlproperties.png
@@ -1069,6 +1070,7 @@ cmd/lc_sheetrighttoleft.png cmd/lc_pararighttoleft.png
 cmd/lc_showannotations.png cmd/lc_showallnotes.png
 cmd/lc_showbrowser.png cmd/lc_controlproperties.png
 cmd/lc_showchanges.png cmd/lc_addwatch.png
+cmd/lc_showdatanavigator.png cmd/lc_managexmlsource.png
 cmd/lc_showgraphics.png cmd/lc_graphic.png
 cmd/lc_showinlinetooltips.png cmd/lc_shownote.png
 cmd/lc_showpropbrowser.png cmd/lc_controlproperties.png
@@ -1477,6 +1479,7 @@ cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
 cmd/sc_openhyperlinkoncursor.png cmd/sc_inserthyperlink.png
 cmd/sc_openurl.png cmd/sc_browseview.png
+cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
 cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
 cmd/sc_ordercrit.png cmd/sc_sortascending.png
 cmd/sc_outlinedown.png cmd/sc_movedown.png
@@ -1545,6 +1548,7 @@ cmd/sc_sheetrighttoleft.png cmd/sc_pararighttoleft.png
 cmd/sc_showannotations.png cmd/sc_showallnotes.png
 cmd/sc_showbrowser.png cmd/sc_controlproperties.png
 cmd/sc_showchanges.png cmd/sc_addwatch.png
+cmd/sc_showdatanavigator.png cmd/sc_managexmlsource.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showinlinetooltips.png cmd/sc_shownote.png
 cmd/sc_showpropbrowser.png cmd/sc_controlproperties.png
