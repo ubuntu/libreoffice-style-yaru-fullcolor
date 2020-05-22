@@ -1735,6 +1735,7 @@ res/foldercl.png cmd/sc_open.png
 res/folderop.png cmd/sc_open.png
 res/fp010.png cmd/sc_open.png
 res/fp015.png cmd/sc_starshapes.png
+res/hldocntp.png res/newdoc.png
 res/im30821.png cmd/sc_insertscript.png
 res/info.png cmd/lc_helpindex.png
 res/info_16.png cmd/sc_helpindex.png
@@ -1765,6 +1766,7 @@ res/lx03160.png res/lx03125.png
 res/lx03162.png res/lx03156.png
 res/lx03163.png res/lx03156.png
 res/lx03165.png cmd/lc_save.png
+res/lx03167.png cmd/lc_openremote.png
 res/lx03188.png cmd/32/dbviewtables.png
 res/lx03189.png cmd/lc_open.png
 res/lx03218.png res/lx03217.png
@@ -1779,6 +1781,7 @@ res/mainapp.png res/newdoc.png
 res/mainapp_16.png cmd/sc_showsinglepage.png
 res/mainapp_16_8.png cmd/sc_showsinglepage.png
 res/mainapp_32.png res/newdoc.png
+res/plugin.png cmd/lc_insertplugin.png
 res/printeradmin_16_8.png res/printeradmin_16.png
 res/printeradmin_32_8.png res/printeradmin_32.png
 res/queries_32.png cmd/32/dbviewqueries.png
@@ -1827,6 +1830,8 @@ res/sx03158.png res/sx03125.png
 res/sx03160.png res/sx03125.png
 res/sx03162.png res/sx03156.png
 res/sx03163.png res/sx03156.png
+res/sx03164.png cmd/sc_open.png
+res/sx03167.png cmd/sc_openremote.png
 res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png cmd/sc_open.png
 res/sx03202.png cmd/sc_dbviewqueries.png
@@ -1841,6 +1846,7 @@ res/sx03256.png cmd/sc_insertplugin.png
 res/sx10594.png cmd/sc_pushbutton.png
 res/sx10595.png cmd/sc_radiobutton.png
 res/sx10596.png cmd/sc_checkbox.png
+res/sx10597.png cmd/sc_label.png
 res/sx10599.png cmd/sc_text.png
 res/sx10600.png cmd/lc_listbox.png
 res/sx10601.png cmd/sc_combobox.png
@@ -1850,6 +1856,7 @@ res/sx10704.png cmd/sc_datefield.png
 res/sx10705.png cmd/sc_timefield.png
 res/sx10706.png cmd/sc_text.png
 res/sx10707.png cmd/sc_formattedfield.png
+res/sx10708.png cmd/sc_patternfield.png
 res/sx10710.png cmd/sc_imagecontrol.png
 res/sx10715.png cmd/sc_datafilterstandardfilter.png
 res/sx10728.png cmd/sc_formattedfield.png
