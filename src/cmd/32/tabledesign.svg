@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="tabledesign.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/tabledesign.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="15.61763"
-     inkscape:cy="17.677994"
-     inkscape:window-x="1920"
+     inkscape:cx="4.5675884"
+     inkscape:cy="17.486236"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
@@ -49,10 +52,27 @@
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="22"
+     height="22"
+     x="5"
+     y="5" />
   <path
-     d="m 6,6 v 8.945312 l 1,0.541016 V 13 h 5 v 3 H 7.9472656 l 1.8457032,1 H 12 v 1.195312 l 1,0.541016 V 17 h 6 v 3 h -3.667969 l 1.845703,1 H 19 v 0.986328 l 1,0.541016 V 21 h 5 v 2 c 0,1 -1,1 -2.283203,1 l 1.847656,1 C 25,25 26,25 26,23 V 6 C 26,4 25,4 23,4 H 9 C 7,4 6,4 6,6 Z M 9,5 h 3 V 8 H 7 V 6 C 7,5 8,5 9,5 Z m 4,0 h 6 v 3 h -6 z m 7,0 h 3 c 1,0 2,0 2,1 V 8 H 20 Z M 7,9 h 5 v 3 H 7 Z m 6,0 h 6 v 3 h -6 z m 7,0 h 5 v 3 h -5 z m -7,4 h 6 v 3 h -6 z m 7,0 h 5 v 3 H 20 Z M 4,15 V 16.136719 27 28 h 21.900391 2.097656 z M 5,16.679688 24.054688,27 H 5 Z M 20,17 h 5 v 3 h -5 z"
+     d="m 4,6 v 20 c 0,2 1,2 3,2 h 18 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,6 Z M 5,6 C 5,5 6,5 7,5 h 5 V 7 H 5 Z m 8,-1 h 6 v 2 h -6 z m 7,0 h 5 c 1,0 2,0 2,1 V 7 H 20 Z M 5,8 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,16 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,20 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,24 h 7 v 3 H 7 C 6,27 5,27 5,26 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 2 c 0,1 -1,1 -2,1 h -5 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="fill:#6d6d6d;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path826"
+     d="M 25,29 H 3 V 18 l 22,11"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 25,29 H 3 V 18 l 22,11"
+     id="path824"
+     inkscape:connector-curvature="0" />
 </svg>
