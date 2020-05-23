@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_masterpage.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_masterpage.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,16 +42,27 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cx="-7.7288136"
+     inkscape:cy="7.7288136"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M 6.99237,2 C 5.73398,2.0145 4.81315,1.9694 4.06028,2.38477 3.68385,2.59243 3.3869498,2.94415 3.2222598,3.38281 3.0575698,3.82148 3,4.3423899 3,5 v 6 c 0,0.65761 0.06152,1.17858 0.2262598,1.61719 0.16471,0.43861 0.4616102,0.78852 0.8380202,0.99609 0.75284,0.41514 1.6738,0.37165 2.93209,0.38672 h 0.002 2.0054 0.004 c 1.25838,-0.0145 2.17922,0.0306 2.93209,-0.38477 0.37642,-0.20766 0.67333,-0.55938 0.83801,-0.99804 C 12.94243,12.17852 13,11.65761 13,11 V 5 L 10,2 H 6.99605 Z m 0.006,1 h 1.99954 l 0.0021,3 h 3 l 0.0022,5 c 2.61e-4,0.59239 -0.0626,1.00572 -0.16019,1.26562 -0.0976,0.25991 -0.20138,0.37147 -0.38482,0.47266 C 11.09122,12.9402 10.26049,12.98529 9.00178,13 H 7.00792 7.00192 C 5.7431,12.9848 4.9125,12.9401 4.54647,12.73828 4.36302,12.63712 4.2592,12.52542 4.16165,12.26562 4.06405,12.00583 4.00185,11.59239 4.00146,11 L 3.99746,5 C 3.99707,4.40761 4.06006,3.99428 4.15765,3.73438 4.25525,3.47447 4.36099,3.36291 4.54443,3.26172 4.91043,3.05981 5.73921,3.0147 6.99792,3 Z"
-     id="path2732-8-9-4"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#762572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00007653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     sodipodi:nodetypes="ccccccccc"
+     style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path815"
+     d="M 3,12 V 3.9999997 c 0,-2 1,-2 3,-2 h 4 l 3,3 V 12 c 0,2 -1,2 -3,2 H 6 C 4,14 3,14 3,12 Z"
+     inkscape:connector-curvature="0" />
+  <path
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccsscsccccccsccccccccscccccccsscccc" />
+     d="M 3,12 V 3.9999997 c 0,-2 1,-2 3,-2 h 4 l 3,3 V 12 c 0,2 -1,2 -3,2 H 6 C 4,14 3,14 3,12 Z"
+     id="path2"
+     style="fill:#aee3f8;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 10,4.9999997 v -3 l 3,3 z"
+     id="path4"
+     style="fill:#6d6d6d;fill-opacity:1" />
 </svg>
