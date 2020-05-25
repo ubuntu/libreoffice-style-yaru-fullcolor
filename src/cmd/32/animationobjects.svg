@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="animationobjects.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/animationobjects.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="3.6875"
-     inkscape:cx="14.146818"
-     inkscape:cy="41.07575"
+     inkscape:zoom="20.85965"
+     inkscape:cx="25.473358"
+     inkscape:cy="10.933657"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,14 +52,30 @@
        type="xygrid"
        id="grid825" />
   </sodipodi:namedview>
-  <path
-     d="M 4,5 V 7 25.5 27 h 2 v -2 h 2 v 2 H 23.932203 L 24,25 h 2 v 2 h 2 V 7 5 H 26 V 7 H 24 L 23.9661,5 H 8 V 7 H 6 V 5 Z m 2,4 h 2 v 2 H 6 Z m 4,6 V 7 h 12 v 8 m 0,0 v 2 m 0,0 v 8 H 10 V 17 M 24,9 h 2 v 2 H 24 Z M 6,13 h 2 v 2 H 6 Z m 18,0 h 2 v 2 H 24 Z M 6,17 h 2 v 2 H 6 Z m 18,0 h 2 v 2 H 24 Z M 6,21 h 2 v 2 H 6 Z m 18,0 h 2 v 2 h -2 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <g
      style="color:#000000"
-     transform="matrix(1.6,0,0,1.6153846,-528.8,-250.38461)"
+     transform="matrix(1.6,0,0,1.6153846,-503.29999,-252.38464)"
      id="g4" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 9.500031,5.49997 h 13 v 20 h -13 z"
+     id="path42"
+     style="fill:#b549b5;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.7"
+     d="M 5.5,4 C 5.223869,4.000028 5.000028,4.223869 5,4.5 v 22 c 2.8e-5,0.27613 0.223869,0.499971 0.5,0.5 H 8 24 26.5 c 0.276131,-2.9e-5 0.499972,-0.22387 0.5,-0.5 V 4.5 C 26.999972,4.223869 26.776131,4.000028 26.5,4 H 24 8 Z M 7,5.999999 H 9 V 7 H 7 Z m 3,0 H 22 V 25 H 10 Z m 13,0 h 2 V 7 H 23 Z M 7,9 H 9 V 9.9999995 H 7 Z m 16,0 h 2 V 9.9999995 H 23 Z M 7,12 h 2 v 1 H 7 Z m 16,0 h 2 v 1 H 23 Z M 7,15 h 2 v 1 H 7 Z m 16,0 h 2 v 1 H 23 Z M 7,18 h 2 v 1 H 7 Z m 16,0 h 2 v 1 H 23 Z M 7,21 h 2 v 1 H 7 Z m 16,0 h 2 v 1 H 23 Z M 7,24 h 2 v 1 H 7 Z m 16,0 h 2 v 1 h -2 z"
+     id="path50"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 23,24 h 2 v 1 h -2 z m 0,-3 h 2 v 1 h -2 z m 0,-3 h 2 v 1 H 23 Z M 7,24 h 2 v 1 H 7 Z m 0,-3 h 2 v 1 H 7 Z m 0,-3 h 2 v 1 H 7 Z m 0,-3 h 2 v 1 H 7 Z m 0,-3 h 2 v 1 H 7 Z M 7,9 H 9 V 9.9999995 H 7 Z M 7,5.999999 H 9 V 7 H 7 Z"
+     id="path60"
+     style="opacity:1;fill:#ffffff" />
+  <path
+     id="path52"
+     display="block"
+     d="M 10.500011,15.499969 H 21.49953"
+     inkscape:connector-curvature="0"
+     style="display:block;opacity:0.7;fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:round" />
 </svg>
