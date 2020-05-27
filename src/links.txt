@@ -125,6 +125,7 @@ cmd/32/deleterecord.png cmd/32/delete.png
 cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
 cmd/32/deleteslide.png cmd/32/deletepage.png
 cmd/32/diaauto.png cmd/32/dia.png
+cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
 cmd/32/diagramaxismenu.png cmd/32/diagramaxis.png
 cmd/32/diagramgridmenu.png cmd/32/togglegridhorizontal.png
 cmd/32/donation.png cmd/32/currencyfield.png
@@ -782,6 +783,7 @@ cmd/lc_deleterecord.png cmd/lc_delete.png
 cmd/lc_deleteshapehyperlink.png cmd/lc_removehyperlink.png
 cmd/lc_deleteslide.png cmd/lc_deletepage.png
 cmd/lc_diaauto.png cmd/lc_dia.png
+cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
 cmd/lc_diagramaxismenu.png cmd/lc_diagramaxis.png
 cmd/lc_diagramgridmenu.png cmd/lc_togglegridhorizontal.png
 cmd/lc_donation.png cmd/lc_currencyfield.png
@@ -1261,6 +1263,7 @@ cmd/sc_deleterecord.png cmd/sc_delete.png
 cmd/sc_deleteshapehyperlink.png cmd/sc_removehyperlink.png
 cmd/sc_deleteslide.png cmd/sc_deletepage.png
 cmd/sc_diaauto.png cmd/sc_dia.png
+cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
 cmd/sc_diagramaxismenu.png cmd/sc_diagramaxis.png
 cmd/sc_diagramgridmenu.png cmd/sc_togglegridhorizontal.png
 cmd/sc_donation.png cmd/sc_currencyfield.png
