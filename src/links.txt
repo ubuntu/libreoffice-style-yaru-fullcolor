@@ -26,6 +26,7 @@ chart2/res/dataeditor_icon07.png cmd/sc_insertcolumnsafter.png
 chart2/res/dataeditor_icon08.png cmd/sc_insertcolumns.png
 chart2/res/dataeditor_icon09.png cmd/sc_insertrows.png
 chart2/res/selectrange.png formula/res/refinp1.png
+cmd/32/about.png cmd/32/helpindex.png
 cmd/32/acceptchanges.png cmd/32/trackchangesbar.png
 cmd/32/adddatefield.png cmd/32/datefield.png
 cmd/32/addname.png cmd/32/label.png
@@ -683,6 +684,7 @@ cmd/it/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
 cmd/it/sc_underlinesimple.png cmd/ca/sc_underline.png
 cmd/km/lc_underlinesimple.png cmd/km/lc_underline.png
 cmd/km/sc_underlinesimple.png cmd/km/sc_underline.png
+cmd/lc_about.png cmd/lc_helpindex.png
 cmd/lc_acceptchanges.png cmd/lc_trackchangesbar.png
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addname.png cmd/lc_label.png
@@ -1163,6 +1165,7 @@ cmd/ru/lc_italic.png cmd/de/lc_italic.png
 cmd/ru/lc_underlinesimple.png cmd/ru/lc_underline.png
 cmd/ru/sc_italic.png cmd/de/sc_italic.png
 cmd/ru/sc_underlinesimple.png cmd/ru/sc_underline.png
+cmd/sc_about.png cmd/sc_helpindex.png
 cmd/sc_acceptchanges.png cmd/sc_trackchangesbar.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addname.png cmd/sc_label.png
