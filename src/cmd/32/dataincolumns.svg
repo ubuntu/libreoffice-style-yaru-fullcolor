@@ -11,7 +11,10 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="dataincolumns.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/dataincolumns.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,8 +42,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="10.417324"
-     inkscape:cy="13.604449"
+     inkscape:cx="-0.63271759"
+     inkscape:cy="13.412691"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,10 +52,17 @@
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect816"
+     width="22"
+     height="22"
+     x="5"
+     y="5" />
   <path
      d="m 4,6 v 18 2 c 0,2 1,2 3,2 h 6 12 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 19 13 7 C 5,4 4,4 4,6 Z M 5,6 C 5,5 6,5 7,5 h 5 V 7 H 5 Z m 8,-1 h 6 v 2 h -6 z m 7,0 h 5 c 1,0 2,0 2,1 V 7 H 20 Z M 5,8 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,16 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,20 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 h -7 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
+     style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>
