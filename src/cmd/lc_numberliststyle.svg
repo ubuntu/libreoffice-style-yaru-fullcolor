@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_numberliststyle.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_numberliststyle.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,25 +41,56 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="39.333333"
-     inkscape:cx="12.607688"
-     inkscape:cy="12.434427"
+     inkscape:zoom="32"
+     inkscape:cx="3.656769"
+     inkscape:cy="11.783068"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="m 11,3 v 1 h 9 V 3 Z m 0,2 v 1 h 9 V 5 Z m 0,4 v 1 h 9 V 9 Z m 0,2 v 1 h 9 v -1 z m 0,4 v 1 h 9 v -1 z m 0,2 v 1 h 9 v -1 z"
-     id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+     id="path863"
+     d="M 7,4 5.5859375,5.4140625 6.2929688,6.1210938 7,5.4140625 V 8 H 8 V 4 Z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="m6.2988281 3-1.2988281 1.0253906.4101562.5097656.4648438-.3691406c.0552-.04378.1533119-.1368967.2949219-.2773437l-.0136719.4160156-.0078125.3808594v2.3144531h.8515625v-4zm.2265625 6c-.20273 0-.3850881.0188806-.5488281.0566406-.16374.03596-.314725.08792-.453125.15625s-.3129075.1861325-.5234375.3515625l.4921875.5351559c.16959-.1294666.3323312-.2286998.4882813-.2988278.15594-.07013.3167318-.1054687.4824218-.1054687.15789 0 .2833932.0398695.3769532.1171875.0955.07732.1425781.195278.1425781.353516 0 .106091-.0215531.207742-.0644531.30664-.0429001.0989-.1134676.207339-.2109376.324219-.0975.115082-.3053068.322755-.6230468.623047l-1.0722656 1v.580078h2.9882812v-.701172h-1.8632812v-.037109l.5507812-.478516c.36647-.309283.621375-.547615.765625-.714844.14619-.167228.2540456-.330043.3222656-.488281.0702-.160036.1054688-.330105.1054688-.511719 0-.2085856-.0569019-.3948062-.1699219-.5566402-.11306-.1618341-.2718925-.2870462-.4765625-.3769532-.20463-.089908-.4419244-.1347656-.7089844-.1347656z"
-     fill="#762572"
-     id="path4" />
+     id="path865"
+     d="M 6.3964844,13.976563 C 5.9080536,13.96875 5.3966306,14.125 5,14.5 L 6,15 c 0.5146131,-0.370825 2.4674096,0 -1,2 v 1 H 8 V 17 H 6.5 C 9.125,15.5 7.8617766,14 6.3964844,13.976563 Z"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <rect
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     y="5"
+     x="11"
+     height="2"
+     width="11"
+     id="rect827"
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7,4 5.5859375,5.4140625 6.2929688,6.1210938 7,5.4140625 V 8 H 8 V 4 Z"
+     id="rect838"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6.3964844,13.976563 C 5.9080536,13.96875 5.3966306,14.125 5,14.5 L 6,15 c 0.5146131,-0.370825 2.4674096,0 -1,2 v 1 H 8 V 17 H 6.5 C 9.125,15.5 7.8617766,14 6.3964844,13.976563 Z"
+     id="rect843"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect871"
+     width="11"
+     height="2"
+     x="11"
+     y="15"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
 </svg>
