@@ -11,7 +11,10 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="sc_tablemodevariable.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_tablemodevariable.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><metadata
    id="metadata18">
   <rdf:RDF>
     <cc:Work
@@ -37,10 +40,10 @@
    inkscape:window-height="1011"
    id="namedview14"
    showgrid="true"
-   inkscape:zoom="83.4386"
-   inkscape:cx="10.498621"
-   inkscape:cy="12.193123"
-   inkscape:window-x="1920"
+   inkscape:zoom="29.5"
+   inkscape:cx="4.028227"
+   inkscape:cy="7.0084471"
+   inkscape:window-x="0"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg12">
@@ -48,25 +51,29 @@
      type="xygrid"
      id="grid828" />
 </sodipodi:namedview>
+
 /&amp;gt;<path
-   d="m3 12h10v1h-10z"
-   fill="#762572"
-   id="path2" />
-<path
-   d="M 2,4 V 9 H 14 V 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 5,3 H 6 V 5 H 3 V 4 C 3,3 4,3 5,3 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 10 Z M 3,6 H 6 V 8 H 3 Z M 7,6 H 9 V 8 H 7 Z m 3,0 h 3 v 2 h -3 z"
-   id="path4"
+   style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   id="path840"
+   d="M 5.296875,9.9960938 3,12 V 10 H 2 v 5 H 3 V 13 L 5.296875,15.003906 6.0039062,14.296875 4.7070312,13 H 11.296875 L 10,14.296875 10.707031,15.003906 13,13 v 2 h 1 v -5 h -1 v 2 L 10.707031,9.9960938 10,10.703125 11.296875,12 H 4.7070312 l 1.296875,-1.296875 z"
    inkscape:connector-curvature="0"
-   style="fill:#232629"
-   sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
-<g
-   fill="#762572"
-   fill-rule="evenodd"
-   id="g10">
-  <path
-     d="m4.296875 9.9960938-2.296875 2.0039062v1l2.296875 2.003906.7070312-.707031-1.796875-1.796875 1.796875-1.796875z"
-     id="path6" />
-  <path
-     d="m11.707032 9.9960938 2.292968 2.0039062v1l-2.292968 2.003906-.707032-.707031 1.796875-1.796875-1.796875-1.796875z"
-     id="path8" />
-</g>
+   sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+<path
+   d="M 5.296875,9.9960938 3,12 V 10 H 2 v 5 H 3 V 13 L 5.296875,15.003906 6.0039062,14.296875 4.7070312,13 H 11.296875 L 10,14.296875 10.707031,15.003906 13,13 v 2 h 1 v -5 h -1 v 2 L 10.707031,9.9960938 10,10.703125 11.296875,12 H 4.7070312 l 1.296875,-1.296875 z"
+   id="path2"
+   style="fill:#aee3f8;fill-opacity:1"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+<path
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3,2 V 8 H 13 V 2 Z"
+   id="rect820"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccc" />
+<path
+   style="fill:#6d6d6d;fill-opacity:1"
+   d="M 5,1 C 3,1 2,1 2,3 v 5 h 1 3 1 2 1 3 1 V 3 C 14,1 13,1 11,1 Z M 5,2 H 6 V 4 H 3 V 3 C 3,2 4.0000001,2 5,2 Z M 7,2 H 9 V 4 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 4 H 12 11 10 Z M 3,5 H 6 V 7 H 3 Z M 7,5 H 9 V 7 H 7 Z m 3,0 h 1 1 1 v 2 h -1 -1 -1 z"
+   id="path2-3"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ssccccccccsssscccssccccccsscccccccccccccccccccccccc" />
 </svg>
