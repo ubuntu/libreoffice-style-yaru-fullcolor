@@ -491,6 +491,7 @@ cmd/32/sl/underline.png cmd/32/pl/underline.png
 cmd/32/sl/underlinedouble.png cmd/32/pl/underlinedouble.png
 cmd/32/sl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/slidesetup.png cmd/32/pagesetup.png
+cmd/32/solidcreate.png cmd/32/editdoc.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/sourceview.png cmd/32/symbolshapes.brace-pair.png
@@ -1089,6 +1090,7 @@ cmd/lc_showruler.png cmd/lc_ruler.png
 cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
+cmd/lc_solidcreate.png cmd/lc_editdoc.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
@@ -1574,6 +1576,7 @@ cmd/sc_showruler.png cmd/sc_ruler.png
 cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
+cmd/sc_solidcreate.png cmd/sc_editdoc.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
