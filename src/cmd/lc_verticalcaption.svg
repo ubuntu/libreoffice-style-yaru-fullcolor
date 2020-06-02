@@ -11,8 +11,8 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_verticalcaption.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/lc_insertcaptiondialog.png"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_insertcaptiondialog.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
   <metadata
@@ -42,9 +42,9 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-16.569706"
-     inkscape:cy="43.155804"
-     inkscape:window-x="1920"
+     inkscape:cx="-57.581899"
+     inkscape:cy="42.183532"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
@@ -52,34 +52,51 @@
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
-  <path
-     d="m 13.999999,7 -2.58e-4,7 c -2.2e-5,0.59239 -0.0626,1.00572 -0.16019,1.26562 -0.0976,0.25991 -0.20138,0.37147 -0.38482,0.47266 C 13.088721,15.9402 12.257991,15.98529 10.99928,16 h -1.989281 -0.006 C 7.745179,15.9848 6.914579,15.9401 6.548549,15.73828 6.365099,15.63712 6.261279,15.52542 6.163729,15.26562 6.066129,15.00583 6.003729,14.59239 6.003539,14 L 6,7 H 5 l 0.0038,7 c 3.57e-4,0.65761 0.0599,1.17858 0.22464,1.61719 0.16471,0.43861 0.46161,0.78852 0.838019,0.99609 0.752839,0.41514 1.6738,0.37165 2.932089,0.38672 h 0.002 2.000822 0.004 c 1.25838,-0.0145 2.17922,0.0306 2.93209,-0.38477 0.37642,-0.20766 0.67333,-0.55938 0.83801,-0.99804 C 14.940051,15.17852 14.819342,14.632308 15.000001,14 L 15,7 Z"
-     id="path2732-8-9-9"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#232629;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00007653;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cscccccccsccscsccccccscc" />
-  <rect
-     y="18"
-     x="-17"
-     height="1"
-     width="3"
-     id="rect836"
-     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="rotate(-90)" />
-  <rect
-     y="18"
-     x="-13"
-     height="1"
-     width="2"
-     id="rect838"
-     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0008165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="rotate(-90)" />
-  <rect
-     y="18"
-     x="-10"
-     height="1"
-     width="3"
-     id="rect840"
-     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="rotate(-90)" />
+  <g
+     id="g841"
+     transform="rotate(90,12,11.5)">
+    <rect
+       style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825"
+       width="10"
+       height="12"
+       x="9.5"
+       y="4.5000005"
+       ry="1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       style="fill:#6d6d6d;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="m 9.5000001,9.4999998 h -3.8125 l -0.15625,0.8125002 -2,10 -0.03125,0.1875 h 2 l 1.8125,-9 h 2.1875 z" />
+    <rect
+       ry="1"
+       y="4.5000005"
+       x="9.5"
+       height="12"
+       width="10"
+       id="rect823"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="6.4999995"
+       x="10.5"
+       height="1"
+       width="8"
+       id="rect2098"
+       style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="8.499999"
+       x="10.5"
+       height="1"
+       width="8"
+       id="rect2100"
+       style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="10.499999"
+       x="10.5"
+       height="1"
+       width="4"
+       id="rect2102"
+       style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
 </svg>
