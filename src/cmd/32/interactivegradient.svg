@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="32"
@@ -13,7 +14,10 @@
    version="1.1"
    id="svg11"
    sodipodi:docname="interactivegradient.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/interactivegradient.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -26,7 +30,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs15" />
+     id="defs15">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient841">
+      <stop
+         style="stop-color:#fee581;stop-opacity:1"
+         offset="0"
+         id="stop837" />
+      <stop
+         style="stop-color:#e95420;stop-opacity:1"
+         offset="1"
+         id="stop839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient841"
+       id="linearGradient843"
+       x1="6"
+       y1="26"
+       x2="26"
+       y2="6"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,14 +65,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview13"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="15.469885"
-     inkscape:cy="13.67262"
-     inkscape:window-x="1920"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="9.4412745"
+     inkscape:cy="15.25177"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg11" />
+     inkscape:current-layer="svg11">
+    <inkscape:grid
+       type="xygrid"
+       id="grid845" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -64,13 +94,58 @@
        id="stop4"
        style="stop-color:#e9bfe6;stop-opacity:1" />
   </linearGradient>
-  <path
-     d="m23 5v2h-16v16h-2v4h4v-2h16v-16h2v-4z"
-     fill="url(#a)"
-     id="path7" />
-  <path
-     d="m22 4v5.2929688l-12.7070312 12.7070312h-5.2929688v6h6v-5.292969l12.707031-12.707031h5.292969v-6zm1 1h4v4h-3.292969-.707031v-.7070312zm-18 18h3.2929688.7070312v.707031 3.292969h-4z"
-     fill="#232629"
-     fill-rule="evenodd"
-     id="path9" />
+  <rect
+     y="5.999999"
+     x="5.9999981"
+     height="20"
+     width="20"
+     id="rect858"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient843);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4556"
+     width="20"
+     height="20"
+     x="5.9999981"
+     y="5.999999" />
+  <rect
+     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.09901953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4554"
+     width="26"
+     height="2"
+     x="-13"
+     y="21.627417"
+     transform="rotate(-45)" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4536"
+     width="4"
+     height="4"
+     x="3.9999998"
+     y="24" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4538"
+     width="2"
+     height="2"
+     x="4.999999"
+     y="24.999996" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4540"
+     width="4"
+     height="4"
+     x="24"
+     y="4" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4542"
+     width="2"
+     height="2"
+     x="25"
+     y="4.9999981" />
 </svg>

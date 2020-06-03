@@ -12,7 +12,10 @@
    version="1.1"
    id="svg25"
    sodipodi:docname="sc_interactivetransparence.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_interactivetransparence.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata31">
     <rdf:RDF>
@@ -38,14 +41,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview27"
-     showgrid="false"
-     inkscape:zoom="83.4386"
-     inkscape:cx="7.8409005"
-     inkscape:cy="7.8479816"
-     inkscape:window-x="1920"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="-1.6807349"
+     inkscape:cy="6.6526889"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg25" />
+     inkscape:current-layer="svg25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid853" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(.71428567 0 0 .71428965 3.142856 297.52813)"
@@ -77,34 +84,58 @@
        id="stop8"
        style="stop-color:#e9bfe6;stop-opacity:0" />
   </linearGradient>
-  <g
-     transform="matrix(.75 0 0 .74999813 -.249999 -773.019863)"
-     id="g23">
-    <path
-       d="m5.666666 1036.0291h10.666667v10.666708h-10.666667z"
-       fill="#b3b3b3"
-       id="path11" />
-    <path
-       d="m5.666666 1041.3624h5.333333v5.333347h-5.333333z"
-       fill="#777"
-       id="path13" />
-    <path
-       d="m10.999999 1036.0291h5.333333v5.333347h-5.333333z"
-       fill="#777"
-       id="path15" />
-    <path
-       d="m14.999999 1034.6957-1.333333 1.3334h-8v9.3333h-1.3333333v2.6667h2.6666667l1.3333333-1.3333h8.0000003v-8.0001l1.333333-1.3333-.000001-2.6667z"
-       fill="url(#a)"
-       id="path17" />
-    <path
-       d="m14.999999 1034.6957v1.3333h1.333333v1.3334h1.333333v-1.3334-1.3333h-1.333333z"
-       fill="#999"
-       fill-opacity=".761194"
-       id="path19" />
-    <path
-       d="m10 2v3.28125l-1 1-.1875.1875-.8125.8125-.71875.71875-2 2h-3.28125v4h4v-3.28125l2.71875-2.71875.8125-.8125.1875-.1875 1-1h3.28125v-4zm1 1h2v2h-2zm-8 8h2v2h-2z"
-       fill="#232629"
-       transform="matrix(1.3333333 0 0 1.3333367 .333333 1030.6957)"
-       id="path21" />
-  </g>
+  <rect
+     y="3"
+     x="2.9999998"
+     height="10"
+     width="10"
+     id="rect855"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.33333325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect852"
+     width="10"
+     height="10"
+     x="2.9999998"
+     y="3" />
+  <rect
+     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.69041586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect850"
+     width="11"
+     height="2"
+     x="-5.5"
+     y="10.313708"
+     transform="rotate(-45)" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     y="11"
+     x="1.0000005"
+     height="4"
+     width="4"
+     id="rect832"
+     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     y="12"
+     x="2.0000005"
+     height="2"
+     width="2"
+     id="rect834"
+     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     y="0.99999994"
+     x="11"
+     height="4"
+     width="4"
+     id="rect840"
+     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     transform="matrix(0,1,1,0,0,0)"
+     y="1.9999998"
+     x="12"
+     height="2"
+     width="2"
+     id="rect842"
+     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>
