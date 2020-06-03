@@ -45,6 +45,7 @@ cmd/32/arrowshapes.left-right-arrow.png cmd/32/arrowshapes.png
 cmd/32/arrowstoolbox.png cmd/32/linearrowend.png
 cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
+cmd/32/backgroundpatterncontroller.png cmd/32/backgroundcolor.png
 cmd/32/autopilotmenu.png cmd/32/autoformat.png
 cmd/32/badcellstyles.png cmd/32/badcellstyle.png
 cmd/32/basicshapes.circle-pie.png cmd/32/pie.png
@@ -705,6 +706,7 @@ cmd/lc_arrowshapes.left-right-arrow.png cmd/lc_arrowshapes.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
 cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
+cmd/lc_backgroundpatterncontroller.png cmd/lc_backgroundcolor.png
 cmd/lc_autopilotmenu.png cmd/lc_autoformat.png
 cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
 cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
@@ -1191,6 +1193,7 @@ cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
+cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
 cmd/sc_autopilotmenu.png cmd/sc_autoformat.png
 cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_basicshapes.circle-pie.png cmd/sc_pie.png
