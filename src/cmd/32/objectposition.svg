@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="objectposition.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/objectposition.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -34,19 +37,51 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="864"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.951163"
+     inkscape:cy="19.682227"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
-  <path
-     d="m4 5v1h24v-1zm4.5 3-1 1-4 4 .7070313.707031 3.7929687-3.7929685v18.0859375h1v-18.0859375l3.792969 3.7929685.707031-.707031-4.0000005-4zm6.5 4v1h13v-1zm0 8v1h13v-1z"
-     fill="#232629"
-     id="path2" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect833"
+     width="24"
+     height="2"
+     x="4"
+     y="-27"
+     transform="scale(1,-1)" />
+  <rect
+     y="-20"
+     x="4"
+     height="2.0000002"
+     width="24"
+     id="rect835"
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(1,-1)" />
+  <rect
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect837"
+     width="24"
+     height="2.0000002"
+     x="4"
+     y="-6"
+     transform="scale(1,-1)" />
+  <rect
+     y="-13"
+     x="4"
+     height="2"
+     width="24"
+     id="rect839"
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.55629784;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(1,-1)" />
 </svg>
