@@ -103,6 +103,7 @@ cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
 cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/datastreamsplay.png cmd/32/runbasic.png
 cmd/32/datastreamsstop.png cmd/32/basicstop.png
+cmd/32/dbsortingandgrouping.png cmd/32/sortascending.png
 cmd/32/dbclearquery.png cmd/32/delete.png
 cmd/32/dbformdelete.png cmd/32/delete.png
 cmd/32/dbformopen.png cmd/32/open.png
@@ -761,6 +762,7 @@ cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
 cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_datastreamsplay.png cmd/lc_runbasic.png
 cmd/lc_datastreamsstop.png cmd/lc_basicstop.png
+cmd/lc_dbsortingandgrouping.png cmd/lc_sortascending.png
 cmd/lc_dbclearquery.png cmd/lc_delete.png
 cmd/lc_dbdtableedit.png cmd/lc_dbtableedit.png
 cmd/lc_dbformdelete.png cmd/lc_delete.png
@@ -1246,6 +1248,7 @@ cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
 cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_datastreamsplay.png cmd/sc_runbasic.png
 cmd/sc_datastreamsstop.png cmd/sc_basicstop.png
+cmd/sc_dbsortingandgrouping.png cmd/sc_sortascending.png
 cmd/sc_dbclearquery.png cmd/sc_delete.png
 cmd/sc_dbdtableedit.png cmd/sc_dbtableedit.png
 cmd/sc_dbformdelete.png cmd/sc_delete.png
