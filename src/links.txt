@@ -2232,5 +2232,7 @@ sw/res/sx03.png cmd/sc_dbviewqueries.png
 sw/res/zetlhor2.png svx/res/zetlhor2.png
 sw/res/zetlver2.png svx/res/zetlver2.png
 vcl/res/index.png cmd/sc_insertmultiindex.png
+vcl/querybox.png vcl/infobox.png
+vcl/warningbox.png vcl/errorbox.png
 xmlsecurity/res/key_12.png dbaccess/res/pkey.png
 xmlsecurity/res/signet_11x16.png xmlsecurity/res/notcertificate_16.png
