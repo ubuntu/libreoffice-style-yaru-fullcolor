@@ -935,6 +935,7 @@ cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
 cmd/lc_insertobjectchartfromfile.png cmd/lc_open.png
 cmd/lc_insertobjectfloatingframe.png cmd/lc_insertframe.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
+cmd/lc_inserttopicfield.png cmd/lc_drawcaption.png
 cmd/lc_insertpagesfield.png cmd/lc_insertpagenumberfield.png
 cmd/lc_insertpagetitlefield.png cmd/lc_inserttitlefield.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
@@ -1196,6 +1197,7 @@ cmd/sc_arrangeframemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
+cmd/sc_autocorrectdlg.png cmd/sc_autoformat.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
@@ -1216,6 +1218,7 @@ cmd/sc_browsebackward.png cmd/sc_prevrecord.png
 cmd/sc_browseforward.png cmd/sc_nextrecord.png
 cmd/sc_bulletliststyle.png cmd/sc_defaultbullet.png
 cmd/sc_calloutshapes.round-rectangular-callout.png cmd/sc_calloutshapes.png
+cmd/sc_cellcontentsmenu.png cmd/sc_calculate.png
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/sc_cellvertbottom.png cmd/sc_alignbottom.png
 cmd/sc_cellvertcenter.png cmd/sc_alignverticalcenter.png
@@ -1425,6 +1428,7 @@ cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
 cmd/sc_insertobjectchartfromfile.png cmd/sc_open.png
 cmd/sc_insertobjectfloatingframe.png cmd/sc_insertframe.png
 cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
+cmd/sc_inserttopicfield.png cmd/sc_drawcaption.png
 cmd/sc_insertpagesfield.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertpagetitlefield.png cmd/sc_inserttitlefield.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
