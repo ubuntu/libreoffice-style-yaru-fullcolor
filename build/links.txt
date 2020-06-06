@@ -1729,6 +1729,8 @@ dbaccess/res/sortdown.png cmd/sc_downsearch.png
 dbaccess/res/sortup.png cmd/sc_upsearch.png
 dbaccess/res/tables_32.png cmd/32/dbviewtables.png
 desktop/res/caution_16.png dbaccess/res/exwarning.png
+desktop/res/extension_32.png cmd/32/insertplugin.png
+desktop/res/shared_16.png cmd/sc_sharedocument.png
 desktop/res/info_16.png cmd/sc_helpindex.png
 desktop/res/lock_16.png cmd/sc_protect.png
 extensions/res/arrow.png cmd/sc_nextrecord.png
