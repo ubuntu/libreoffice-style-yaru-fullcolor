@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_numberformatpercent.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_numberformatpercent.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -40,10 +40,10 @@
    inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="29.5"
-   inkscape:cx="13.784157"
-   inkscape:cy="3.1984843"
-   inkscape:window-x="0"
+   inkscape:zoom="59"
+   inkscape:cx="9.188795"
+   inkscape:cy="8.6165043"
+   inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4">
@@ -51,6 +51,7 @@
      type="xygrid"
      id="grid829" />
 </sodipodi:namedview>
+
 
 /&gt;<path
    sodipodi:nodetypes="cccscsccccccccscscccccc"
@@ -64,15 +65,22 @@
    d="m 7.9833439,2.0268931 c -1.556581,0.010796 -3.10999,-0.011752 -4.659941,0.038775 -0.461229,0.042668 -1.016188,0.2064194 -1.15534,0.7099668 -0.218994,0.6353464 -0.108414,1.3337871 -0.145796,1.9819242 -0.0078,2.2970847 -0.02297,5.5964288 0.02152,7.8857808 0.0391,0.461929 0.202551,1.012665 0.698756,1.163665 0.632456,0.225082 1.284144,0.12274 1.935974,0.154298 1.424235,0.0068 2.850563,0.01102 4.2764202,0.01131 1.7045309,3.5e-4 1.4083879,-0.005 3.1071899,-0.01851 0.511911,-0.01201 1.183699,0.01993 1.584745,-0.405191 0.421097,-0.539783 0.287073,-1.268021 0.322745,-1.903787 0.01187,-2.444324 0.02769,-5.9110966 -0.0219,-8.3567961 C 13.898437,2.8862906 13.777725,2.4253788 13.372578,2.2438557 12.704409,1.9497582 11.946373,2.0758368 11.246657,2.0382829 9.49225,2.02648 9.7377831,2.025799 7.9833439,2.0268931 Z"
    style="opacity:1;vector-effect:none;fill:#d85eca;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    sodipodi:nodetypes="cccccccsccccccc" />
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="3.4239998"
-   y="11.696"
-   id="text833"><tspan
-     sodipodi:role="line"
-     id="tspan831"
-     x="3.4239998"
-     y="11.696"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">%</tspan></text>
+<path
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.77999973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 5.5 4 C 4.669 4 4 4.669 4 5.5 L 4 6.5 C 4 7.331 4.669 8 5.5 8 C 6.331 8 7 7.331 7 6.5 L 7 5.5 C 7 4.669 6.331 4 5.5 4 z M 5.5 5 C 5.777 5 6 5.3345 6 5.75 L 6 6.25 C 6 6.6655 5.777 7 5.5 7 C 5.223 7 5 6.6655 5 6.25 L 5 5.75 C 5 5.3345 5.223 5 5.5 5 z "
+   id="rect819" />
+<path
+   id="path824"
+   d="M 10.5,8 C 9.669,8 9,8.669 9,9.5 v 1 c 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 v -1 C 12,8.669 11.331,8 10.5,8 Z m 0,1 C 10.777,9 11,9.3345 11,9.75 v 0.5 C 11,10.6655 10.777,11 10.5,11 10.223,11 10,10.6655 10,10.25 V 9.75 C 10,9.3345 10.223,9 10.5,9 Z"
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.77999973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:connector-curvature="0" />
+<rect
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.77999973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect826"
+   width="1"
+   height="9"
+   x="10.813708"
+   y="-4.5"
+   ry="0.5"
+   transform="rotate(45)" />
 </svg>
