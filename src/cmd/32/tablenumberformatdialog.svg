@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="tablenumberformatdialog.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/tablenumberformatdialog.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,14 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="8.8428097"
-     inkscape:cy="16.932871"
+     inkscape:zoom="8"
+     inkscape:cx="-27.495838"
+     inkscape:cy="32.671777"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -65,15 +65,10 @@
      d="M 9.983398,4.026634 C 8.426818,4.037974 6.873406,4.015294 5.3234554,4.065564 4.8622283,4.108274 4.3072689,4.271926 4.1681181,4.775511 3.9491322,5.410849 4.0597212,6.109306 4.0223039,6.757419 c -0.00794,2.297123 -0.023055,17.596975 0.021543,19.886348 0.039118,0.461934 0.2025449,1.012649 0.6987553,1.163641 0.6324586,0.22526 1.2841478,0.122835 1.9359758,0.154205 1.424236,0.0076 4.850563,0.01134 6.27642,0.01134 1.70453,3.4e-4 11.40839,-0.0038 13.107189,-0.0189 0.511911,-0.01134 1.183699,0.0189 1.584745,-0.405165 0.4211,-0.539793 0.287093,-1.268032 0.322734,-1.903786 0.01172,-2.444334 0.02759,-17.911657 -0.02192,-20.357353 C 27.898456,4.885722 27.777741,4.424808 27.372606,4.243278 26.704435,3.94923 25.946401,4.075467 25.246682,4.037671 23.492278,4.026331 11.737809,4.026331 9.983371,4.026331 Z"
      style="opacity:1;vector-effect:none;fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      sodipodi:nodetypes="cccccccscccccccc" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
-     x="6.5"
-     y="21.559999"
-     id="text826"><tspan
-       sodipodi:role="line"
-       id="tspan824"
-       x="6.5"
-       y="21.559999"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;">@</tspan></text>
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.77999973;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 16.246094,7.0039062 C 13.36275,6.9243753 10.615985,8.2316669 8.859375,10.519531 6.5118735,13.579014 6.3744092,17.794064 8.5175781,21 c 2.1420369,3.205888 6.0882079,4.691201 9.8124999,3.693359 L 17.8125,22.761719 C 14.915463,23.538141 11.845717,22.382666 10.179688,19.888672 8.5138036,17.395041 8.6214129,14.117278 10.447266,11.738281 12.272729,9.359482 15.410536,8.4075366 18.25,9.3710938 21.089871,10.335064 23.000158,13.000983 23,16 c 0,3 0,3 -2,3 v -3 -4 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 v 0.0078 C 18.135498,11.355912 17.082743,11.002253 16,11 c -2.761424,0 -5,2.238576 -5,5 0,2.761424 2.238576,5 5,5 1.082743,-0.0023 2.135498,-0.355912 3,-1.007812 V 20 c 0,0.554 0.446,1 1,1 h 1 c 4,0 4,-1 4,-5 -4e-5,-0.731414 -0.08924,-1.460095 -0.265625,-2.169922 C 23.995262,10.856504 21.794083,8.4632467 18.892578,7.4785156 18.039158,7.188691 17.147043,7.0287029 16.246094,7.0039062 Z M 16,13 c 1.656854,0 3,1.343146 3,3 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z"
+     id="path819"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccsssccsccsccccccsssss" />
 </svg>
