@@ -215,6 +215,7 @@ cmd/32/formatimagemenu.png cmd/32/graphicdialog.png
 cmd/32/formatobjectmenu.png cmd/32/text.png
 cmd/32/formatselection.png cmd/32/formproperties.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
+cmd/32/formattedfield.png cmd/32/numberformatpercent.png
 cmd/32/formattextmenu.png cmd/32/scaletext.png
 cmd/32/formfilter.png cmd/32/datafilterspecialfilter.png
 cmd/32/formfilterexecute.png cmd/32/datafilterstandardfilter.png
@@ -857,6 +858,7 @@ cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatobjectmenu.png cmd/lc_text.png
 cmd/lc_formatselection.png cmd/lc_formproperties.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
+cmd/lc_formattedfield.png cmd/lc_numberformatpercent.png
 cmd/lc_formattextmenu.png cmd/lc_scaletext.png
 cmd/lc_formfilter.png cmd/lc_datafilterspecialfilter.png
 cmd/lc_formfilterexecute.png cmd/lc_datafilterstandardfilter.png
@@ -1350,6 +1352,7 @@ cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatobjectmenu.png cmd/sc_text.png
 cmd/sc_formatselection.png cmd/sc_formproperties.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
+cmd/sc_formattedfield.png cmd/sc_numberformatpercent.png
 cmd/sc_formattextmenu.png cmd/sc_scaletext.png
 cmd/sc_formfilter.png cmd/sc_datafilterspecialfilter.png
 cmd/sc_formfilterexecute.png cmd/sc_datafilterstandardfilter.png
