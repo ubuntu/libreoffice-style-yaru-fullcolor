@@ -1,8 +1,10 @@
 #!/bin/bash
 
+echo
+
 cd "build"
 
-echo "=> Zip icons"
+echo "=> 📦 Zip icons"
 
 zip -r -q "images_yaru.zip" *
 
@@ -13,10 +15,10 @@ cp "build/images_yaru.zip" \
 
 cd "oxt"
 
-echo "=> Create oxt"
+echo -e "\n=> 🎁 Create oxt\n"
 
 zip -r "yaru-theme.zip" *
 
 mv "yaru-theme.zip" "../yaru-theme.oxt"
 
-echo "=> Finish"
+echo -e "\n=> 🎉 Finish\n"
