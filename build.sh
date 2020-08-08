@@ -12,14 +12,17 @@ then
     exit 1
 fi
 
-echo "=> Remove old pngs"
+echo "=> Remove old build"
 
-rm -Rf "png"
+rm -Rf "build"
 
-cp -Rf "svg" \
-"png"
+cp "build/links.txt" \
+"src"
 
-cd "./png"
+cp -Rf "src" \
+"build"
+
+cd "./build"
 
 echo "=> Export SVG to PNG ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
