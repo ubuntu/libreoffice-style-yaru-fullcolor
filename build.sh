@@ -34,6 +34,6 @@ do
     echo "This $i file is exported"
 done
 
-zip -r "images_yaru.zip" *
+cd "../"
 
-echo "=> Finish"
+./generate-oxt.sh
