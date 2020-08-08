@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "build"
+cd "png"
 
 echo "Zip icons"
 
@@ -8,7 +8,7 @@ zip -r -q "images_yaru.zip" *
 
 cd "../"
 
-cp "build/images_yaru.zip" \
+cp "png/images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
 
 cd "oxt"
