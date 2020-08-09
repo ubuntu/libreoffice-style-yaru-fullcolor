@@ -10,7 +10,9 @@ zip -r -q "images_yaru.zip" *
 
 cd "../"
 
-cp "build/images_yaru.zip" \
+mv "build/images_yaru.zip" "images_yaru.zip"
+
+cp "images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
 
 cd "oxt"
