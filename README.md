@@ -4,6 +4,8 @@ A fullcolor icon pack for Libreoffice of the awesome Yaru theme.
 
 ![Preview of Libreoffice style Yaru](preview/libreoffice-style-yaru.png)
 
+If you want to contribute, please look at [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ## Install
 
 ### From extension
@@ -18,10 +20,10 @@ Then open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or _
 
 Because it is faster, install from script will be useful if you want to modify the icons and reinstall the pack many times for testing:
 
-```
-git clone https://github.com/Jupiter007-43/libreoffice-style-yaru-fullcolor.git
-cd libreoffice-style-yaru-fullcolor
-./install.sh
+```bash
+$ git clone https://github.com/Jupiter007-43/libreoffice-style-yaru-fullcolor.git
+$ cd libreoffice-style-yaru-fullcolor
+$ ./install.sh
 ```
 
 ⚠ Installing from script and extension will duplicate the icon pack into the options, so you should remove one before using the other way.
@@ -40,6 +42,6 @@ To remove the extension, open __Tools__ → __Extension Manager__ (or __Ctrl__ +
 
 If you want to remove an installation made with the script just execute the remove script at the root of the project:
 
-```
-./remove.sh
+```bash
+$ ./remove.sh
 ```
