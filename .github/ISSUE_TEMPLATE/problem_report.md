@@ -1,6 +1,6 @@
 ---
 name: Problem report
-about: Create a report to help us improve
+about: Create a report to help us improve the icon theme
 title: ''
 labels: ''
 assignees: ''
