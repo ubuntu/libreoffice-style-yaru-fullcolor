@@ -2,7 +2,7 @@
 
 ⚠ These are the instructions for contributing and modifying the Libreoffice Yaru icon theme. If you're not a developer, follow the install instructions in the [README.md](./README.md).
 
-You need to install these packges to working on the icons:
+You need to install these packages to working on the icons:
 
 ```bash
 sudo apt install inkscape optipng git
@@ -34,7 +34,7 @@ Now at the root of the project folder, execute the `build.sh` script like this (
 ./build.sh /cmd/lc_bold
 ```
 
-⚠ Do not provide the file extention and don't forget to add the `/` before the file path.
+⚠ Do not provide the file extension and don't forget to add the `/` before the file path.
 
 This will generate and optimize the corresponding PNG into the `build` folder, and also regenerate the ZIP and the OXT of the icon pack.
 
@@ -79,9 +79,9 @@ git commit
 Now think about a good commit message. The expected format is like the following:
 
 ```
-short explaination of the commit
+short explanation of the commit
 
-A more detailed explaination, possibly explaining the current state, why a change is needed and how you implemented the change. Try to find a good compromise between too short and too long.
+A more detailed explanation, possibly explaining the current state, why a change is needed and how you implemented the change. Try to find a good compromise between too short and too long.
 
 If it is a fix for an issue numbered 1234, inform GitHub system so that it can close it automatically when the PR is merged, like this:
 
