@@ -2,7 +2,7 @@
 name: Icon problem report
 about: Create a report to help us improve the icon theme
 title: ''
-labels: ''
+labels: 'bug, Area: icons'
 assignees: ''
 
 ---
