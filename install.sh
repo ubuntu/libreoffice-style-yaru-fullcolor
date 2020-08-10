@@ -40,4 +40,4 @@ for dir in \
         sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru.zip" "$dir"
 done
 
-echo -e "\n=> 🎉 Finish\n"
+echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
