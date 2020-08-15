@@ -74,5 +74,3 @@ else
     echo -e "\n=> ✨ Optimize PNG\n"
     optipng -o7 "./build${1}.png"
 fi
-
-./generate-oxt.sh
