@@ -26,7 +26,7 @@ cd "../"
 
 mv "build/images_yaru.zip" "images_yaru.zip"
 
-mkdir "oxt/iconsets"
+mkdir -p -v "oxt/iconsets"
 cp "images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
 
