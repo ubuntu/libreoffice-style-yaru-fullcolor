@@ -40,26 +40,38 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="28.927096"
-     inkscape:cx="7.8273827"
-     inkscape:cy="5.244944"
+     inkscape:cx="3.6271809"
+     inkscape:cy="6.0416301"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path823"
-     d="M 10,1 H 7 L 4,4 v 4.9999998 h 6 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid814" />
+  </sodipodi:namedview>
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 12,1 h 3 l 3,3 v 4.9999998 h -6 z"
-     id="path815"
+     d="M 10,1.0000002 H 7 L 4,4 v 5 h 6 z"
+     id="path828"
      inkscape:connector-curvature="0" />
   <path
-     d="m6 0-3 3v1 5 1h1 6 1 1 6 1v-1-5-1l-3-3h-1-3-1-1-3zm1 1h3v8h-6v-5h2 1v-1zm5 0h3v2 1h1 2v5h-6z"
-     fill="#b3b3b3"
-     id="path2" />
+     inkscape:connector-curvature="0"
+     id="path821"
+     d="m 12,1.0000002 h 3 L 18,4 v 5 h -6 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 11,3 v 4 c 0,3 1,3 4,3 3,0 4,0 4,-3 V 4 3 L 16,0 h -1 c -3,0 -4,0 -4,3 z m 1,0 c 0,-2 1,-2 3,-2 v 2 1 h 1 2 v 3 c 0,2 -1,2 -3,2 -2,0 -3,0 -3,-2 z"
+     id="path2-7"
+     inkscape:connector-curvature="0"
+     style="fill:#b3b3b3;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccc" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccc"
+     style="fill:#b3b3b3;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="m 11,3 v 4 c 0,3 -1,3 -4,3 C 4,10 3,10 3,7 V 4 3 L 6,0 h 1 c 3,0 4,0 4,3 z M 10,3 C 10,1 9,1 7,1 V 3 4 H 6 4 v 3 c 0,2 1,2 3,2 2,0 3,0 3,-2 z" />
 </svg>

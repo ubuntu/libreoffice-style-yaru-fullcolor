@@ -41,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="26.516504"
-     inkscape:cx="7.6641886"
-     inkscape:cy="4.0569413"
+     inkscape:zoom="18.75"
+     inkscape:cx="10.248779"
+     inkscape:cy="13.820847"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -53,18 +53,25 @@
        id="grid817" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     id="path821"
-     d="m 14,1 h 3 l 3,3 v 5 h -6 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 4,1 h 3 l 3,3 V 9 H 4 Z"
-     id="path819"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 4,1.0000002 H 7 L 10,4 V 9 H 4 Z"
+     id="path828"
      inkscape:connector-curvature="0" />
   <path
-     d="m3 0v10h1 6 1v-1-5-1l-3-3h-1-3zm10 0v10h1 6 1v-1-5-1l-3-3h-1-3zm-9 1h3v2 1h1 2v5h-6zm10 0h3v2 1h1 2v5h-6z"
-     fill="#762572"
-     id="path2"
-     style="fill:#6d6d6d;fill-opacity:1" />
+     inkscape:connector-curvature="0"
+     id="path821-7"
+     d="m 14,1.0000002 h 3 L 20,4 v 5 h -6 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="m 13,3 v 4 c 0,2.9999996 1,2.9999996 4,2.9999996 3,0 4,0 4,-2.9999996 V 4 3 L 18,0 h -1 c -3,0 -4,0 -4,3 z m 1,0 c 0,-2 1,-2 3,-2 v 2 1 h 1 2 v 3 c 0,2 -1,2 -3,2 -2,0 -3,0 -3,-2 z"
+     id="path2-7"
+     inkscape:connector-curvature="0"
+     style="fill:#6d6d6d;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccc" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccc"
+     style="fill:#6d6d6d;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="m 3,3 v 4 c 0,2.9999996 1,2.9999996 4,2.9999996 3,0 4,0 4,-2.9999996 V 4 3 L 8,0 H 7 C 4,0 3,0 3,3 Z M 4,3 C 4,1 5,1 7,1 v 2 1 h 1 2 V 7 C 10,9 9,9 7,9 5,9 4,9 4,7 Z" />
 </svg>
