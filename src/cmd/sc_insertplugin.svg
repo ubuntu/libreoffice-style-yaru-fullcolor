@@ -42,8 +42,8 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="32"
-   inkscape:cx="9.6832212"
-   inkscape:cy="5.9175346"
+   inkscape:cx="3.1498844"
+   inkscape:cy="12.53573"
    inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
@@ -63,8 +63,16 @@
    borderlayer="false">
   <inkscape:grid
      type="xygrid"
-     id="grid833" />
+     id="grid833"
+     spacingx="0.5"
+     spacingy="0.5"
+     dotted="true"
+     empspacing="1" />
+  <inkscape:grid
+     type="xygrid"
+     id="grid821" />
 </sodipodi:namedview>
+
 
 /&gt;<path
    style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aea795;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -90,4 +98,8 @@
    id="path22304"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cccccccccccssccccc" />
+<path
+   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;opacity:0.2"
+   d="M 5.8339844 2 C 2.3579444 2 1.98296 2.3098993 2 5.3242188 L 2 8 L 2 10.675781 C 1.983 13.690111 2.3579444 14 5.8339844 14 L 10.289062 14 C 13.765112 14 13.928657 13.689307 14 10.675781 L 14 8 L 14 5.3242188 C 14 2.3098593 13.642056 2 10.166016 2 L 9 2 L 5.8339844 2 z M 6 3 L 10 3 C 12.5 3 13 3 13 5 L 13 11 C 13 13 12.5 13 10 13 L 6 13 C 3.5 13 3 13 3 11 L 3 5 C 3 3 3.5 3 6 3 z "
+   id="path823" />
 </svg>
