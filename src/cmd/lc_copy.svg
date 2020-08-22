@@ -15,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_copy.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -42,11 +42,11 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="16.824036"
-     inkscape:cy="7.3393865"
-     inkscape:window-x="1920"
+     inkscape:cx="8.6260168"
+     inkscape:cy="9.1071535"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
@@ -61,86 +61,80 @@
        originy="3" />
   </sodipodi:namedview>
   <rect
-     style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect899-1"
-     width="11"
-     height="12"
-     x="9"
-     y="9"
+     rx="2"
      ry="2"
-     rx="2" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 6,4 C 4.892,4 4,4.892 4,6 v 8 c 0,1.108 0.892,2 2,2 H 9 V 11 C 9,9.892 9.892,9 11,9 h 4 V 6 C 15,4.892 14.108,4 13,4 Z"
-     id="rect899-2-7"
-     sodipodi:nodetypes="sssscsscsss" />
+     y="3"
+     x="3"
+     height="13"
+     width="12"
+     id="rect825"
+     style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect873-1"
-     width="9"
-     height="10"
-     x="5"
-     y="5"
+     rx="1"
      ry="1"
-     rx="1" />
+     y="4"
+     x="4"
+     height="11"
+     width="10"
+     id="rect827"
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect912-7"
-     width="7"
-     height="1"
+     y="6"
      x="6"
-     y="6" />
+     height="1"
+     width="6"
+     id="rect829"
+     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect914-5"
-     width="7"
-     height="1"
+     y="8"
      x="6"
-     y="8" />
+     height="1"
+     width="6"
+     id="rect831"
+     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect916-1"
-     width="4"
-     height="1"
+     y="10"
      x="6"
-     y="10" />
+     height="1"
+     width="3"
+     id="rect833"
+     style="opacity:1;vector-effect:none;fill:#c5c9f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:0.6;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect899"
-     width="11"
-     height="12"
-     x="9"
-     y="9"
+     width="12"
+     height="13"
+     x="8"
+     y="8"
      ry="2"
      rx="2" />
   <rect
      style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect873"
-     width="9"
-     height="10"
-     x="10"
-     y="10"
+     width="10"
+     height="11"
+     x="9"
+     y="9"
      ry="1"
      rx="1" />
   <rect
      style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect912"
-     width="7"
+     width="6"
      height="1"
      x="11"
      y="11" />
   <rect
      style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect914"
-     width="7"
+     width="6"
      height="1"
      x="11"
      y="13" />
   <rect
      style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect916"
-     width="4"
+     width="3"
      height="1"
      x="11"
      y="15" />
