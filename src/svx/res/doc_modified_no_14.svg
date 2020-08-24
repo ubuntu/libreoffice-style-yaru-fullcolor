@@ -42,8 +42,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="47.2"
-     inkscape:cx="0.72975208"
-     inkscape:cy="4.8488257"
+     inkscape:cx="1.5983961"
+     inkscape:cy="4.5945884"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -52,13 +52,6 @@
        type="xygrid"
        id="grid824" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect820"
-     width="8"
-     height="1"
-     x="3"
-     y="9" />
   <path
      id="path831"
      d="m 6.0000001,0.99998593 h 2 V 4.9999859 H 9.9999998 L 7.0000001,9.0000807 4.0000002,4.9999859 h 1.9999999 z"
@@ -66,9 +59,16 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <path
-     style="color:#000000;overflow:visible;opacity:1;fill:#c5c5c5;fill-opacity:1;stroke-width:0.83333331;marker:none"
+     style="color:#000000;overflow:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.83333331;marker:none"
      d="m 6.0000001,0.99999973 h 2 V 4.9999997 h 1.9999997 l -2.9999997,4.000094 -3,-4.000094 h 2 z"
      id="path827"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:1.99999976;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="8"
+     height="1"
+     x="3"
+     y="9" />
 </svg>
