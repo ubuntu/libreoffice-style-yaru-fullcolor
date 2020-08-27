@@ -15,7 +15,7 @@ If you want to contribute, please look at [CONTRIBUTING.md](./CONTRIBUTING.md).
 Since Libreoffice 6.0, you can install an icon pack with an extension. To do that, simply clone the repository and generate the extension with the build script at the root of the project:
 
 ```bash
-git clone https://github.com/Jupiter007-43/libreoffice-style-yaru-fullcolor.git
+git clone https://github.com/ubuntu/libreoffice-style-yaru-fullcolor.git
 cd libreoffice-style-yaru-fullcolor
 ./generate-oxt.sh
 ```
@@ -28,7 +28,7 @@ Open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl
 Because it is faster, install from script will be useful if you want to modify the icons and reinstall the pack many times for testing:
 
 ```bash
-git clone https://github.com/Jupiter007-43/libreoffice-style-yaru-fullcolor.git
+git clone https://github.com/ubuntu/libreoffice-style-yaru-fullcolor.git
 cd libreoffice-style-yaru-fullcolor
 ./install.sh
 ```
