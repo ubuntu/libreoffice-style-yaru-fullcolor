@@ -2,7 +2,7 @@
 
 A fullcolor icon pack for Libreoffice of the awesome Yaru theme.
 
-All these icons are based on the [Yaru icon](https://github.com/ubuntu/yaru) theme (derived from the Unity8 Suru icons and [Suru icon](https://snwh.org/suru) theme)
+All these icons are based on the [Yaru icon](https://github.com/ubuntu/yaru) theme (derived from the Unity8 Suru icons and [Suru icon](https://snwh.org/suru) theme) and the Breeze icons for Libreoffice.
 
 ![Preview of Libreoffice style Yaru](preview/libreoffice-style-yaru.png)
 
