@@ -26,12 +26,14 @@ for dir in \
   /opt/libreoffice*/share/config; do
   [ -d "$dir" ] || continue
   sudo rm -f -v "$dir/images_yaru.zip"
+  sudo rm -f -v "$dir/images_yaru_svg.zip"
 done
 
 echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
 
 sudo mkdir -p -v "/usr/share/libreoffice/share/config"
 sudo cp -v "images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru.zip"
+sudo cp -v "images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_svg.zip"
 
 for dir in \
     /usr/lib64/libreoffice/share/config \
@@ -40,6 +42,7 @@ for dir in \
     /opt/libreoffice*/share/config; do
         [ -d "$dir" ] || continue
         sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru.zip" "$dir"
+        sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_svg.zip" "$dir"
 done
 
 echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
