@@ -16,19 +16,26 @@
 
 echo
 
-cd "build"
-
 echo "=> 📦 Zip icons"
+
+cd "svg"
+
+zip -r -q "images_yaru_svg.zip" *
+
+cd "../png"
 
 zip -r -q "images_yaru.zip" *
 
 cd "../"
 
-mv "build/images_yaru.zip" "images_yaru.zip"
+mv "png/images_yaru.zip" "images_yaru.zip"
+mv "svg/images_yaru_svg.zip" "images_yaru_svg.zip"
 
 mkdir -p -v "oxt/iconsets"
 cp "images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
+cp "images_yaru_svg.zip" \
+"oxt/iconsets/images_yaru_svg.zip"
 
 cd "oxt"
 

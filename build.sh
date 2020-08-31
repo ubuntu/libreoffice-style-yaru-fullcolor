@@ -34,7 +34,7 @@ then
     exit 1
 elif [[ $1 = "--all" ]]
 then
-    echo -e "=> 🔥 Warning this will delete the /build folder and recreate it entirely from /src (will take a while)"
+    echo -e "=> 🔥 Warning this will delete the /png folder and recreate it entirely from /svg (will take a while)"
     read -p "=> Continue? (yes/no) " continue
 
     if [[ $continue != yes ]]
@@ -45,15 +45,14 @@ then
 
     echo -e "\n=> Remove old build"
 
-    rm -Rf "build"
+    rm -Rf "png"
 
-    cp "build/links.txt" \
-    "src"
+    cp -Rf "svg" \
+    "png"
 
-    cp -Rf "src" \
-    "build"
+    cd "./png"
 
-    cd "./build"
+    sed -i 's/.svg/.png/g' links.txt
 
     echo -e "\n=> 👷 Export all SVG to PNG ..."
     find -name "*.svg" -o -name "*.SVG" | while read i;
@@ -69,8 +68,8 @@ then
     cd "../"
 else
     echo -e "=> 🔨 Render file\n"
-    inkscape -f "./src${1}.svg" -e "./build${1}.png"
+    inkscape -f "./svg${1}.svg" -e "./png${1}.png"
 
     echo -e "\n=> ✨ Optimize PNG\n"
-    optipng -o7 "./build${1}.png"
+    optipng -o7 "./png${1}.png"
 fi
