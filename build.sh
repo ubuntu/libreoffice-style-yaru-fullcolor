@@ -85,7 +85,10 @@ else
     echo -e "\n=> 👷 Copy links.txt\n"
 
     cp -f "./src/links.txt" "./build/png/links.txt"
+    sed -i 's/.xxx/.png/g' "./build/png/links.txt"
+
     cp -f "./src/links.txt" "./build/svg/links.txt"
+    sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
 
     echo -e "=> 🔨 Render PNG file\n"
     inkscape -f "./src${1}.svg" -e "./build/png${1}.png"
