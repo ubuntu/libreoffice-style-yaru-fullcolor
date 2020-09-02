@@ -11,7 +11,7 @@
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://github.com/ubuntu/yaru">https://github.com/ubuntu/yaru</name>
+	    <name xlink:href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">https://github.com/ubuntu/libreoffice-style-yaru-fullcolor</name>
     </publisher>
     <icon>
         <default xlink:href="logo.png"/>
@@ -19,4 +19,9 @@
     <extension-description>
        <src xlink:href="pkg-desc/pkg-description.txt" />
     </extension-description>
+    <registration>
+        <simple-license accept-by="admin">
+            <license-text xlink:href="registration/license.txt" lang="en" />
+        </simple-license>
+    </registration>
 </description>
