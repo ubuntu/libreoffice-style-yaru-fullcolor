@@ -28,13 +28,19 @@ then
     exit 1
 fi
 
+if ! command -v svgo >/dev/null
+then
+    echo  -e "=> 🙅 Please install svgo\n"
+    exit 1
+fi
+
 if [[ -z $1 ]]
 then
     echo  -e "=> 🙅 Please give a valid parameter\n"
     exit 1
 elif [[ $1 = "--all" ]]
 then
-    echo -e "=> 🔥 Warning this will delete the /png folder and recreate it entirely from /svg (will take a while)"
+    echo -e "=> 🔥 Warning this will delete the /build folder and recreate it entirely from /src (will take a while)\n"
     read -p "=> Continue? (yes/no) " continue
 
     if [[ $continue != yes ]]
@@ -43,16 +49,20 @@ then
         exit 0
     fi
 
-    echo -e "\n=> Remove old build"
+    echo -e "\n=> Remove old build\n"
 
-    rm -Rf "png"
+    rm -Rf "build"
+    mkdir -p -v "build"
 
-    cp -Rf "svg" \
-    "png"
+    cp -Rf "src" \
+    "./build/svg"
 
-    cd "./png"
+    cp -Rf "src" \
+    "./build/png"
 
-    sed -i 's/.svg/.png/g' links.txt
+    cd "./build/png"
+
+    sed -i 's/.xxx/.png/g' links.txt
 
     echo -e "\n=> 👷 Export all SVG to PNG ..."
     find -name "*.svg" -o -name "*.SVG" | while read i;
@@ -66,10 +76,24 @@ then
     done
 
     cd "../"
+
+    sed -i 's/.xxx/.svg/g' ./svg/links.txt
+
+    echo -e "\n=> 👷 Minimify all SVG ...\n"
+    svgo -r -f svg
 else
-    echo -e "=> 🔨 Render file\n"
-    inkscape -f "./svg${1}.svg" -e "./png${1}.png"
+    echo -e "\n=> 👷 Minimify SVG\n"
+
+    cp -f "./src/links.txt" "./build/png/links.txt"
+    cp -f "./src/links.txt" "./build/svg/links.txt"
+
+    echo -e "=> 🔨 Render PNG file\n"
+    inkscape -f "./src${1}.svg" -e "./build/png${1}.png"
 
     echo -e "\n=> ✨ Optimize PNG\n"
-    optipng -o7 "./png${1}.png"
+    optipng -o7 "./build/png${1}.png"
+
+    echo -e "\n=> 👷 Minimify SVG\n"
+
+    svgo -i "./src${1}.svg" -o "./build/svg${1}.svg"
 fi
