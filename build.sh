@@ -79,10 +79,10 @@ then
 
     sed -i 's/.xxx/.svg/g' ./svg/links.txt
 
-    echo -e "\n=> 👷 Minimify all SVG ...\n"
+    echo -e "\n=> ✨ Minimify all SVG ...\n"
     svgo -r -f svg
 else
-    echo -e "\n=> 👷 Copy links.txt\n"
+    echo -e "=> 👷 Copy links.txt\n"
 
     cp -f "./src/links.txt" "./build/png/links.txt"
     sed -i 's/.xxx/.png/g' "./build/png/links.txt"
@@ -96,7 +96,7 @@ else
     echo -e "\n=> ✨ Optimize PNG\n"
     optipng -o7 "./build/png${1}.png"
 
-    echo -e "\n=> 👷 Minimify SVG\n"
+    echo -e "\n=> ✨ Minimify SVG"
 
     svgo -i "./src${1}.svg" -o "./build/svg${1}.svg"
 fi
