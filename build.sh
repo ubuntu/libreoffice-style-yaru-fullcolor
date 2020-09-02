@@ -82,7 +82,7 @@ then
     echo -e "\n=> 👷 Minimify all SVG ...\n"
     svgo -r -f svg
 else
-    echo -e "\n=> 👷 Minimify SVG\n"
+    echo -e "\n=> 👷 Copy links.txt\n"
 
     cp -f "./src/links.txt" "./build/png/links.txt"
     cp -f "./src/links.txt" "./build/svg/links.txt"
