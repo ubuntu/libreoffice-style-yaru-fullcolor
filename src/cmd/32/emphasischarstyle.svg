@@ -25,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,26 +45,29 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="6.3379558"
-     inkscape:cy="15.16098"
+     inkscape:cx="-2.0593617"
+     inkscape:cy="18.261324"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="1"
+       dotted="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid814" />
   </sodipodi:namedview>
   <path
-     style="fill:#000000;stroke:#000000;opacity:0.6;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     id="path819"
-     stroke-width="1.5"
-     fill="#232629"
-     d="m12.446289 4-5.071289 24h12.161133l.574218-2.660157h-9.208007l1.857422-8.569335h8.598633l.509764-2.625h-8.583984l1.590821-7.485351h9.175782l.574218-2.660157z" />
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 12.34375 5 L 6.5546875 27 L 20.5 27 L 21.044922 24 L 10.445312 24 L 12.287109 17 L 22.318359 17 L 22.863281 14 L 13.078125 14 L 14.65625 8 L 23.955078 8 L 24.5 5 L 12.34375 5 z "
+     id="path838" />
   <path
-     d="m12.446289 4-5.071289 24h12.161133l.574218-2.660157h-9.208007l1.857422-8.569335h8.598633l.509764-2.625h-8.583984l1.590821-7.485351h9.175782l.574218-2.660157z"
-     fill="#232629"
-     stroke-width="1.5"
-     id="path2"
-     style="fill:#ffffff" />
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 12.34375 5 L 6.5546875 27 L 20.5 27 L 21.044922 24 L 10.445312 24 L 12.287109 17 L 22.318359 17 L 22.863281 14 L 13.078125 14 L 14.65625 8 L 23.955078 8 L 24.5 5 L 12.34375 5 z "
+     id="path816" />
 </svg>
