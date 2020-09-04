@@ -41,9 +41,9 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="1.6475457"
-   inkscape:cy="8.5050382"
-   inkscape:window-x="1920"
+   inkscape:cx="2.4950033"
+   inkscape:cy="7.0813094"
+   inkscape:window-x="0"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4">
@@ -52,19 +52,18 @@
      id="grid817" />
 </sodipodi:namedview>
 
-/&gt;<rect
+
+/&gt;<path
+   inkscape:connector-curvature="0"
    style="opacity:1;vector-effect:none;fill:#2daaaa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect3830-5"
-   width="4"
-   height="4"
-   x="-2.3841858e-07"
-   y="12" />
+   d="m 0,12 v 2 c 0,2 1,2 3,2 h 1 v -4 z"
+   id="rect3830-5" />
 <rect
    style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-0-9"
    width="4"
    height="4"
-   x="3.9999993"
+   x="3.9999995"
    y="12" />
 <rect
    style="opacity:1;vector-effect:none;fill:#fdc92b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -73,26 +72,24 @@
    height="4"
    x="7.999999"
    y="12" />
-<rect
+<path
+   inkscape:connector-curvature="0"
    style="opacity:1;vector-effect:none;fill:#f34f17;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect3830-3-2"
-   width="4"
-   height="4"
-   x="12"
-   y="12" />
+   d="m 12,12 v 4 h 1 c 2,0 3,0 3,-2 v -2 z"
+   id="rect3830-3-2" />
 <rect
    style="opacity:1;vector-effect:none;fill:#31c6b7;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-9"
    width="4"
    height="4"
-   x="-2.3841858e-07"
+   x="0"
    y="8" />
 <rect
    style="opacity:1;vector-effect:none;fill:#76c22b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-0-7"
    width="4"
    height="4"
-   x="3.9999993"
+   x="3.9999995"
    y="8" />
 <rect
    style="opacity:1;vector-effect:none;fill:#ffda64;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -113,14 +110,14 @@
    id="rect3830-29"
    width="4"
    height="4"
-   x="-2.3841858e-07"
+   x="0"
    y="4" />
 <rect
    style="opacity:1;vector-effect:none;fill:#a6d74f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-0-3"
    width="4"
    height="4"
-   x="3.9999993"
+   x="3.9999995"
    y="4" />
 <rect
    style="opacity:1;vector-effect:none;fill:#fee581;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -136,88 +133,83 @@
    height="4"
    x="12"
    y="4" />
-<rect
+<path
+   inkscape:connector-curvature="0"
    style="opacity:1;vector-effect:none;fill:#81e9c0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect3830-78"
-   width="4"
-   height="4"
-   x="-2.3841858e-07"
-   y="0" />
+   d="M 3,0 C 1,0 0,0 0,2 V 4 H 4 V 0 Z"
+   id="rect3830-78" />
 <rect
    style="opacity:1;vector-effect:none;fill:#cbe667;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-0-4"
    width="4"
    height="4"
-   x="3.9999993"
-   y="0" />
+   x="3.9999995"
+   y="1.1920929e-07" />
 <rect
    style="opacity:1;vector-effect:none;fill:#fff4c9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect3830-2-5"
    width="4"
    height="4"
    x="7.999999"
-   y="0" />
-<rect
-   style="opacity:1;vector-effect:none;fill:#fec589;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect3830-3-0"
-   width="4"
-   height="4"
-   x="12"
-   y="0" />
-<path
-   style="fill:#ffffff;stroke:#ffffff;opacity:0;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-   id="path855"
-   fill="#232629"
-   d="m2 2v2h11 1v-2h-1zm0 4v2h2v-2zm3 0v2h2v-2zm3 0v2h1v-2zm4 0c-.38917 1.27687-1.36131 2.37115-1.78125 3.25-.14695.2613-.21875.55798-.21875.875 0 1.03875.892 1.875 2 1.875s2-.83625 2-1.875c0-.31702-.10302-.6137-.25-.875-.41994-.87885-1.36084-1.97313-1.75-3.25zm-10 4v1h7v-1zm0 3v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1z" />
-<path
-   style="fill:#000000"
-   d="m 2,2 v 2 h 11 1 V 2 h -1 z"
-   id="path850" />
-<path
-   style="fill:#000000"
-   d="M 2,6 V 8 H 4 V 6 Z"
-   id="path848" />
-<path
-   style="fill:#000000"
-   d="M 5,6 V 8 H 7 V 6 Z"
-   id="path846"
-   inkscape:connector-curvature="0" />
-<path
-   style="fill:#000000"
-   d="m 12,6 v 2 h 2 V 6 Z"
-   id="path844"
-   inkscape:connector-curvature="0" />
-<path
-   style="fill:#000000"
-   d="m 2,10 v 1 h 12 v -1 z"
-   id="path842" />
-<path
-   style="fill:#000000"
-   d="m 2,13 v 1 h 1 v -1 z"
-   id="path840" />
-<path
-   style="fill:#000000"
-   d="m 4,13 v 1 h 1 v -1 z"
-   id="path838" />
-<path
-   style="fill:#000000"
-   d="m 6,13 v 1 h 1 v -1 z"
-   id="path836" />
-<path
-   style="fill:#000000"
-   d="m 8,13 v 1 h 1 v -1 z"
-   id="path834" />
-<path
-   style="fill:#000000"
-   d="m 10,13 v 1 h 1 v -1 z"
-   id="path832" />
-<path
-   style="fill:#000000"
-   d="m 12,13 v 1 h 1 v -1 z"
-   id="path2" />
+   y="1.1920929e-07" />
 <path
    inkscape:connector-curvature="0"
-   id="path852"
-   d="m 9,6 v 2 h 2 V 6 Z"
-   style="fill:#000000" />
+   style="opacity:1;vector-effect:none;fill:#fec589;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   d="m 12,0 v 4 h 4 V 2 C 16,0 15,0 13,0 Z"
+   id="rect3830-3-0" />
+<g
+   id="g853"
+   style="fill:#232629;fill-opacity:1">
+  <path
+     id="path850"
+     d="m 2,2 v 2 h 11 1 V 2 h -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path848"
+     d="M 2,6 V 8 H 4 V 6 Z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path846"
+     d="M 5,6 V 8 H 7 V 6 Z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path844"
+     d="m 12,6 v 2 h 2 V 6 Z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path842"
+     d="m 2,10 v 1 h 12 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path840"
+     d="m 2,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path838"
+     d="m 4,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path836"
+     d="m 6,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path834"
+     d="m 8,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path832"
+     d="m 10,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     id="path2"
+     d="m 12,13 v 1 h 1 v -1 z"
+     style="fill:#232629;fill-opacity:1" />
+  <path
+     style="fill:#232629;fill-opacity:1"
+     d="m 9,6 v 2 h 2 V 6 Z"
+     id="path852"
+     inkscape:connector-curvature="0" />
+</g>
 </svg>
