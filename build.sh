@@ -82,7 +82,7 @@ then
     echo -e "\n=> ✨ Minimify all SVG ...\n"
     svgo -r -f svg
 else
-    echo -e "=> 👷 Copy links.txt\n"
+    echo -e "=> 🌠 Copy links.txt\n"
 
     cp -f "./src/links.txt" "./build/png/links.txt"
     sed -i 's/.xxx/.png/g' "./build/png/links.txt"
