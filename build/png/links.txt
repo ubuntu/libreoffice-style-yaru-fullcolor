@@ -2251,3 +2251,22 @@ vcl/querybox.png vcl/infobox.png
 vcl/warningbox.png vcl/errorbox.png
 xmlsecurity/res/key_12.png dbaccess/res/pkey.png
 xmlsecurity/res/signet_11x16.png xmlsecurity/res/notcertificate_16.png
+
+# LibreLogo
+cmd/32/librelogo-left.png cmd/32/rotateleft.png
+cmd/32/librelogo-right.png cmd/32/rotateright.png
+cmd/32/librelogo-run.png cmd/32/runbasic.png
+cmd/32/librelogo-stop.png cmd/32/basicstop.png
+cmd/32/librelogo-translate.png cmd/32/editglossary.png
+
+cmd/lc_librelogo-left.png cmd/lc_rotateleft.png
+cmd/lc_librelogo-right.png cmd/lc_rotateright.png
+cmd/lc_librelogo-run.png cmd/lc_runbasic.png
+cmd/lc_librelogo-stop.png cmd/lc_basicstop.png
+cmd/lc_librelogo-translate.png cmd/lc_editglossary.png
+
+cmd/sc_librelogo-left.png cmd/sc_rotateleft.png
+cmd/sc_librelogo-right.png cmd/sc_rotateright.png
+cmd/sc_librelogo-run.png cmd/sc_runbasic.png
+cmd/sc_librelogo-stop.png cmd/sc_basicstop.png
+cmd/sc_librelogo-translate.png cmd/sc_editglossary.png
