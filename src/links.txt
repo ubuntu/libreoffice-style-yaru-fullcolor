@@ -276,7 +276,7 @@ cmd/32/insertavmedia.xxx cmd/32/avmediaplayer.xxx
 cmd/32/insertcolumnsbefore.xxx cmd/32/insertcolumns.xxx
 cmd/32/insertcolumnsmenu.xxx cmd/32/insertcolumns.xxx
 cmd/32/insertctrl.xxx cmd/32/inserttable.xxx
-cmd/32/insertcurrencyfield.xxx cmd/32/formattedfield.xxx
+cmd/32/insertcurrencyfield.xxx cmd/32/numberformatpercent.xxx
 cmd/32/insertcurrentdate.xxx cmd/32/datefield.xxx
 cmd/32/insertcurrenttime.xxx cmd/32/timefield.xxx
 cmd/32/insertdatefield.xxx cmd/32/datefield.xxx
@@ -340,7 +340,7 @@ cmd/32/it/underlinedouble.xxx cmd/32/ca/underlinedouble.xxx
 cmd/32/it/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/justifypara.xxx cmd/32/alignblock.xxx
 cmd/32/km/underlinesimple.xxx cmd/32/km/underline.xxx
-cmd/32/languagemenu.xxx cmd/32/managelanguage.xxx
+cmd/32/languagemenu.xxx cmd/32/showallnotes.xxx
 cmd/32/lastpage.xxx cmd/32/lastrecord.xxx
 cmd/32/lastslide.xxx cmd/32/lastrecord.xxx
 cmd/32/leaveallgroups.xxx cmd/32/leavegroup.xxx
@@ -358,7 +358,7 @@ cmd/32/mailmergenextentry.xxx cmd/32/nextrecord.xxx
 cmd/32/mailmergepreventry.xxx cmd/32/prevrecord.xxx
 cmd/32/margins.xxx cmd/32/pagemargin.xxx
 cmd/32/measureattributes.xxx cmd/32/measureline.xxx
-cmd/32/mergecellsmenu.xxx cmd/32/togglemergecells.xxx
+cmd/32/mergecellsmenu.xxx cmd/32/mergecells.xxx
 cmd/32/togglemergecells.xxx cmd/32/mergecells.xxx
 cmd/32/managelanguage.xxx cmd/32/showallnotes.xxx
 cmd/32/mirrorhorz.xxx cmd/32/mirror.xxx
@@ -901,7 +901,7 @@ cmd/lc_insertavmedia.xxx cmd/lc_avmediaplayer.xxx
 cmd/lc_insertcolumnsbefore.xxx cmd/lc_insertcolumns.xxx
 cmd/lc_insertcolumnsmenu.xxx cmd/lc_insertcolumns.xxx
 cmd/lc_insertctrl.xxx cmd/lc_inserttable.xxx
-cmd/lc_insertcurrencyfield.xxx cmd/lc_formattedfield.xxx
+cmd/lc_insertcurrencyfield.xxx cmd/lc_numberformatpercent.xxx
 cmd/lc_insertcurrentdate.xxx cmd/lc_datefield.xxx
 cmd/lc_insertcurrenttime.xxx cmd/lc_timefield.xxx
 cmd/lc_insertdatefield.xxx cmd/lc_datefield.xxx
@@ -914,7 +914,7 @@ cmd/lc_insertfield.xxx cmd/lc_addfield.xxx
 cmd/lc_insertfilecontrol.xxx cmd/lc_open.xxx
 cmd/lc_insertfilefield.xxx cmd/lc_open.xxx
 cmd/lc_insertfootnotesmenu.xxx cmd/lc_insertfootnote.xxx
-cmd/lc_insertformattedfield.xxx cmd/lc_formattedfield.xxx
+cmd/lc_insertformattedfield.xxx cmd/lc_numberformatpercent.xxx
 cmd/lc_insertformcheck.xxx cmd/lc_checkbox.xxx
 cmd/lc_insertformcombo.xxx cmd/lc_combobox.xxx
 cmd/lc_insertformlist.xxx cmd/lc_listbox.xxx
@@ -963,7 +963,7 @@ cmd/lc_inserttimefieldfix.xxx cmd/lc_timefield.xxx
 cmd/lc_inserttoolbox.xxx cmd/lc_dataimport.xxx
 cmd/lc_insobjctrl.xxx cmd/lc_newdoc.xxx
 cmd/lc_justifypara.xxx cmd/lc_alignblock.xxx
-cmd/lc_languagemenu.xxx cmd/lc_managelanguage.xxx
+cmd/lc_languagemenu.xxx cmd/lc_showallnotes.xxx
 cmd/lc_lastpage.xxx cmd/lc_lastrecord.xxx
 cmd/lc_lastslide.xxx cmd/lc_lastrecord.xxx
 cmd/lc_leaveallgroups.xxx cmd/lc_leavegroup.xxx
@@ -981,7 +981,7 @@ cmd/lc_mailmergenextentry.xxx cmd/lc_nextrecord.xxx
 cmd/lc_mailmergepreventry.xxx cmd/lc_prevrecord.xxx
 cmd/lc_margins.xxx cmd/lc_pagemargin.xxx
 cmd/lc_measureattributes.xxx cmd/lc_measureline.xxx
-cmd/lc_mergecellsmenu.xxx cmd/lc_togglemergecells.xxx
+cmd/lc_mergecellsmenu.xxx cmd/lc_mergecells.xxx
 cmd/lc_managelanguage.xxx cmd/lc_showallnotes.xxx
 cmd/lc_togglemergecells.xxx cmd/lc_mergecells.xxx
 cmd/lc_mergedocument.xxx cmd/lc_mergedocuments.xxx
@@ -1207,7 +1207,7 @@ cmd/sc_arrowshapes.left-right-arrow.xxx cmd/sc_arrowshapes.xxx
 cmd/sc_arrowstoolbox.xxx cmd/sc_linearrowend.xxx
 cmd/sc_autocorrectdlg.xxx cmd/sc_autoformat.xxx
 cmd/sc_autofilter.xxx cmd/sc_datafilterautofilter.xxx
-cmd/sc_autoformatmenu.xxx cmd/sc_autocorrectdlg.xxx
+cmd/sc_autoformatmenu.xxx cmd/sc_autoformat.xxx
 cmd/sc_backgroundpatterncontroller.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_autopilotmenu.xxx cmd/sc_autoformat.xxx
 cmd/sc_badcellstyles.xxx cmd/sc_badcellstyle.xxx
@@ -1398,7 +1398,7 @@ cmd/sc_insertavmedia.xxx cmd/sc_avmediaplayer.xxx
 cmd/sc_insertcolumnsbefore.xxx cmd/sc_insertcolumns.xxx
 cmd/sc_insertcolumnsmenu.xxx cmd/sc_insertcolumns.xxx
 cmd/sc_insertctrl.xxx cmd/sc_inserttable.xxx
-cmd/sc_insertcurrencyfield.xxx cmd/sc_formattedfield.xxx
+cmd/sc_insertcurrencyfield.xxx cmd/sc_numberformatpercent.xxx
 cmd/sc_insertcurrentdate.xxx cmd/sc_datefield.xxx
 cmd/sc_insertcurrenttime.xxx cmd/sc_timefield.xxx
 cmd/sc_insertdatefield.xxx cmd/sc_datefield.xxx
@@ -1411,7 +1411,7 @@ cmd/sc_insertfield.xxx cmd/sc_addfield.xxx
 cmd/sc_insertfilecontrol.xxx cmd/sc_open.xxx
 cmd/sc_insertfilefield.xxx cmd/sc_open.xxx
 cmd/sc_insertfootnotesmenu.xxx cmd/sc_insertfootnote.xxx
-cmd/sc_insertformattedfield.xxx cmd/sc_formattedfield.xxx
+cmd/sc_insertformattedfield.xxx cmd/sc_numberformatpercent.xxx
 cmd/sc_insertformcheck.xxx cmd/sc_checkbox.xxx
 cmd/sc_insertformcombo.xxx cmd/sc_combobox.xxx
 cmd/sc_insertformlist.xxx cmd/sc_listbox.xxx
@@ -1460,7 +1460,7 @@ cmd/sc_inserttimefieldfix.xxx cmd/sc_timefield.xxx
 cmd/sc_inserttoolbox.xxx cmd/sc_dataimport.xxx
 cmd/sc_insobjctrl.xxx cmd/sc_newdoc.xxx
 cmd/sc_justifypara.xxx cmd/sc_alignblock.xxx
-cmd/sc_languagemenu.xxx cmd/sc_managelanguage.xxx
+cmd/sc_languagemenu.xxx cmd/sc_showallnotes.xxx
 cmd/sc_lastpage.xxx cmd/sc_lastrecord.xxx
 cmd/sc_lastslide.xxx cmd/sc_lastrecord.xxx
 cmd/sc_leaveallgroups.xxx cmd/sc_leavegroup.xxx
@@ -1479,7 +1479,7 @@ cmd/sc_mailmergenextentry.xxx cmd/sc_nextrecord.xxx
 cmd/sc_mailmergepreventry.xxx cmd/sc_prevrecord.xxx
 cmd/sc_margins.xxx cmd/sc_pagemargin.xxx
 cmd/sc_measureattributes.xxx cmd/sc_measureline.xxx
-cmd/sc_mergecellsmenu.xxx cmd/sc_togglemergecells.xxx
+cmd/sc_mergecellsmenu.xxx cmd/sc_mergecells.xxx
 cmd/sc_managelanguage.xxx cmd/sc_showallnotes.xxx
 cmd/sc_togglemergecells.xxx cmd/sc_mergecells.xxx
 cmd/sc_mergedocument.xxx cmd/sc_mergedocuments.xxx
@@ -1741,7 +1741,7 @@ dbaccess/res/sc040.xxx cmd/sc_reload.xxx
 dbaccess/res/sortdown.xxx cmd/sc_downsearch.xxx
 dbaccess/res/sortup.xxx cmd/sc_upsearch.xxx
 dbaccess/res/tables_32.xxx cmd/32/dbviewtables.xxx
-desktop/res/caution_16.xxx dbaccess/res/exwarning.xxx
+desktop/res/caution_16.xxx cmd/sc_warningcellstyles.xxx
 desktop/res/extension_32.xxx cmd/32/insertplugin.xxx
 desktop/res/shared_16.xxx cmd/sc_sharedocument.xxx
 desktop/res/info_16.xxx cmd/sc_helpindex.xxx
@@ -1757,7 +1757,7 @@ formula/res/fx.xxx cmd/sc_dbviewfunctions.xxx
 fpicker/res/fp011.xxx cmd/sc_firstpage.xxx
 fpicker/res/fp014.xxx cmd/sc_open.xxx
 fpicker/res/fp015.xxx cmd/sc_starshapes.xxx
-fpicker/res/fp016.xxx desktop/res/shared_16.xxx
+fpicker/res/fp016.xxx cmd/sc_sharedocument.xxx
 framework/res/addtemplate_32.xxx cmd/32/newdoc.xxx
 framework/res/arrow.xxx cmd/sc_nextrecord.xxx
 framework/res/extension.xxx cmd/lc_insertplugin.xxx
@@ -1906,11 +1906,11 @@ res/sx10605.xxx cmd/sc_open.xxx
 res/sx10704.xxx cmd/sc_datefield.xxx
 res/sx10705.xxx cmd/sc_timefield.xxx
 res/sx10706.xxx cmd/sc_text.xxx
-res/sx10707.xxx cmd/sc_formattedfield.xxx
+res/sx10707.xxx cmd/sc_numberformatpercent.xxx
 res/sx10708.xxx cmd/sc_patternfield.xxx
 res/sx10710.xxx cmd/sc_imagecontrol.xxx
 res/sx10715.xxx cmd/sc_datafilterstandardfilter.xxx
-res/sx10728.xxx cmd/sc_formattedfield.xxx
+res/sx10728.xxx cmd/sc_numberformatpercent.xxx
 res/sx10757.xxx cmd/sc_timefield.xxx
 res/sx10768.xxx cmd/sc_scrollbar.xxx
 res/sx10769.xxx cmd/sc_scrollbar.xxx
@@ -2070,7 +2070,7 @@ svx/res/AdjustColorRed_16x16.xxx cmd/sc_grafred.xxx
 svx/res/ColorModeBlackWhite_16x16.xxx cmd/sc_outputqualityblackwhite.xxx
 svx/res/ColorModeGrey_16x16.xxx cmd/sc_graphic.xxx
 svx/res/apply.xxx cmd/sc_ok.xxx
-svx/res/caution_11x16.xxx dbaccess/res/exwarning.xxx
+svx/res/caution_11x16.xxx cmd/sc_warningcellstyles.xxx
 svx/res/cd01.xxx cmd/sc_ok.xxx
 svx/res/cd015.xxx cmd/sc_toggleobjectbeziermode.xxx
 svx/res/cd016.xxx cmd/sc_beziermove.xxx
@@ -2157,7 +2157,7 @@ svx/res/symphony/AdjustColorGreen_16x16.xxx cmd/sc_grafgreen.xxx
 svx/res/symphony/AdjustColorRed_16x16.xxx cmd/sc_grafred.xxx
 svx/res/symphony/decrease_font.xxx cmd/sc_shrink.xxx
 svx/res/symphony/enlarge_font.xxx cmd/sc_grow.xxx
-svx/res/symphony/fill_color.xxx cmd/sc_backgroundpatterncontroller.xxx
+svx/res/symphony/fill_color.xxx cmd/sc_backgroundcolor.xxx
 svx/res/symphony/last_custom_common.xxx cmd/last_custom_common.xxx
 svx/res/symphony/last_custom_common_grey.xxx cmd/last_custom_common_grey.xxx
 svx/res/symphony/lpselected-spacing-1.xxx cmd/lc_spacepara1.xxx

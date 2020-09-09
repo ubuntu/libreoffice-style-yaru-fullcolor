@@ -276,7 +276,7 @@ cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertcolumnsmenu.png cmd/32/insertcolumns.png
 cmd/32/insertctrl.png cmd/32/inserttable.png
-cmd/32/insertcurrencyfield.png cmd/32/formattedfield.png
+cmd/32/insertcurrencyfield.png cmd/32/numberformatpercent.png
 cmd/32/insertcurrentdate.png cmd/32/datefield.png
 cmd/32/insertcurrenttime.png cmd/32/timefield.png
 cmd/32/insertdatefield.png cmd/32/datefield.png
@@ -340,7 +340,7 @@ cmd/32/it/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/it/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/justifypara.png cmd/32/alignblock.png
 cmd/32/km/underlinesimple.png cmd/32/km/underline.png
-cmd/32/languagemenu.png cmd/32/managelanguage.png
+cmd/32/languagemenu.png cmd/32/showallnotes.png
 cmd/32/lastpage.png cmd/32/lastrecord.png
 cmd/32/lastslide.png cmd/32/lastrecord.png
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
@@ -358,7 +358,7 @@ cmd/32/mailmergenextentry.png cmd/32/nextrecord.png
 cmd/32/mailmergepreventry.png cmd/32/prevrecord.png
 cmd/32/margins.png cmd/32/pagemargin.png
 cmd/32/measureattributes.png cmd/32/measureline.png
-cmd/32/mergecellsmenu.png cmd/32/togglemergecells.png
+cmd/32/mergecellsmenu.png cmd/32/mergecells.png
 cmd/32/togglemergecells.png cmd/32/mergecells.png
 cmd/32/managelanguage.png cmd/32/showallnotes.png
 cmd/32/mirrorhorz.png cmd/32/mirror.png
@@ -901,7 +901,7 @@ cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcolumnsbefore.png cmd/lc_insertcolumns.png
 cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumns.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
-cmd/lc_insertcurrencyfield.png cmd/lc_formattedfield.png
+cmd/lc_insertcurrencyfield.png cmd/lc_numberformatpercent.png
 cmd/lc_insertcurrentdate.png cmd/lc_datefield.png
 cmd/lc_insertcurrenttime.png cmd/lc_timefield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
@@ -914,7 +914,7 @@ cmd/lc_insertfield.png cmd/lc_addfield.png
 cmd/lc_insertfilecontrol.png cmd/lc_open.png
 cmd/lc_insertfilefield.png cmd/lc_open.png
 cmd/lc_insertfootnotesmenu.png cmd/lc_insertfootnote.png
-cmd/lc_insertformattedfield.png cmd/lc_formattedfield.png
+cmd/lc_insertformattedfield.png cmd/lc_numberformatpercent.png
 cmd/lc_insertformcheck.png cmd/lc_checkbox.png
 cmd/lc_insertformcombo.png cmd/lc_combobox.png
 cmd/lc_insertformlist.png cmd/lc_listbox.png
@@ -963,7 +963,7 @@ cmd/lc_inserttimefieldfix.png cmd/lc_timefield.png
 cmd/lc_inserttoolbox.png cmd/lc_dataimport.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_justifypara.png cmd/lc_alignblock.png
-cmd/lc_languagemenu.png cmd/lc_managelanguage.png
+cmd/lc_languagemenu.png cmd/lc_showallnotes.png
 cmd/lc_lastpage.png cmd/lc_lastrecord.png
 cmd/lc_lastslide.png cmd/lc_lastrecord.png
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
@@ -981,7 +981,7 @@ cmd/lc_mailmergenextentry.png cmd/lc_nextrecord.png
 cmd/lc_mailmergepreventry.png cmd/lc_prevrecord.png
 cmd/lc_margins.png cmd/lc_pagemargin.png
 cmd/lc_measureattributes.png cmd/lc_measureline.png
-cmd/lc_mergecellsmenu.png cmd/lc_togglemergecells.png
+cmd/lc_mergecellsmenu.png cmd/lc_mergecells.png
 cmd/lc_managelanguage.png cmd/lc_showallnotes.png
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_mergedocument.png cmd/lc_mergedocuments.png
@@ -1207,7 +1207,7 @@ cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 cmd/sc_autocorrectdlg.png cmd/sc_autoformat.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
-cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
+cmd/sc_autoformatmenu.png cmd/sc_autoformat.png
 cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
 cmd/sc_autopilotmenu.png cmd/sc_autoformat.png
 cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
@@ -1398,7 +1398,7 @@ cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcolumnsbefore.png cmd/sc_insertcolumns.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png
-cmd/sc_insertcurrencyfield.png cmd/sc_formattedfield.png
+cmd/sc_insertcurrencyfield.png cmd/sc_numberformatpercent.png
 cmd/sc_insertcurrentdate.png cmd/sc_datefield.png
 cmd/sc_insertcurrenttime.png cmd/sc_timefield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -1411,7 +1411,7 @@ cmd/sc_insertfield.png cmd/sc_addfield.png
 cmd/sc_insertfilecontrol.png cmd/sc_open.png
 cmd/sc_insertfilefield.png cmd/sc_open.png
 cmd/sc_insertfootnotesmenu.png cmd/sc_insertfootnote.png
-cmd/sc_insertformattedfield.png cmd/sc_formattedfield.png
+cmd/sc_insertformattedfield.png cmd/sc_numberformatpercent.png
 cmd/sc_insertformcheck.png cmd/sc_checkbox.png
 cmd/sc_insertformcombo.png cmd/sc_combobox.png
 cmd/sc_insertformlist.png cmd/sc_listbox.png
@@ -1460,7 +1460,7 @@ cmd/sc_inserttimefieldfix.png cmd/sc_timefield.png
 cmd/sc_inserttoolbox.png cmd/sc_dataimport.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_justifypara.png cmd/sc_alignblock.png
-cmd/sc_languagemenu.png cmd/sc_managelanguage.png
+cmd/sc_languagemenu.png cmd/sc_showallnotes.png
 cmd/sc_lastpage.png cmd/sc_lastrecord.png
 cmd/sc_lastslide.png cmd/sc_lastrecord.png
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
@@ -1479,7 +1479,7 @@ cmd/sc_mailmergenextentry.png cmd/sc_nextrecord.png
 cmd/sc_mailmergepreventry.png cmd/sc_prevrecord.png
 cmd/sc_margins.png cmd/sc_pagemargin.png
 cmd/sc_measureattributes.png cmd/sc_measureline.png
-cmd/sc_mergecellsmenu.png cmd/sc_togglemergecells.png
+cmd/sc_mergecellsmenu.png cmd/sc_mergecells.png
 cmd/sc_managelanguage.png cmd/sc_showallnotes.png
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_mergedocument.png cmd/sc_mergedocuments.png
@@ -1741,7 +1741,7 @@ dbaccess/res/sc040.png cmd/sc_reload.png
 dbaccess/res/sortdown.png cmd/sc_downsearch.png
 dbaccess/res/sortup.png cmd/sc_upsearch.png
 dbaccess/res/tables_32.png cmd/32/dbviewtables.png
-desktop/res/caution_16.png dbaccess/res/exwarning.png
+desktop/res/caution_16.png cmd/sc_warningcellstyles.png
 desktop/res/extension_32.png cmd/32/insertplugin.png
 desktop/res/shared_16.png cmd/sc_sharedocument.png
 desktop/res/info_16.png cmd/sc_helpindex.png
@@ -1757,7 +1757,7 @@ formula/res/fx.png cmd/sc_dbviewfunctions.png
 fpicker/res/fp011.png cmd/sc_firstpage.png
 fpicker/res/fp014.png cmd/sc_open.png
 fpicker/res/fp015.png cmd/sc_starshapes.png
-fpicker/res/fp016.png desktop/res/shared_16.png
+fpicker/res/fp016.png cmd/sc_sharedocument.png
 framework/res/addtemplate_32.png cmd/32/newdoc.png
 framework/res/arrow.png cmd/sc_nextrecord.png
 framework/res/extension.png cmd/lc_insertplugin.png
@@ -1906,11 +1906,11 @@ res/sx10605.png cmd/sc_open.png
 res/sx10704.png cmd/sc_datefield.png
 res/sx10705.png cmd/sc_timefield.png
 res/sx10706.png cmd/sc_text.png
-res/sx10707.png cmd/sc_formattedfield.png
+res/sx10707.png cmd/sc_numberformatpercent.png
 res/sx10708.png cmd/sc_patternfield.png
 res/sx10710.png cmd/sc_imagecontrol.png
 res/sx10715.png cmd/sc_datafilterstandardfilter.png
-res/sx10728.png cmd/sc_formattedfield.png
+res/sx10728.png cmd/sc_numberformatpercent.png
 res/sx10757.png cmd/sc_timefield.png
 res/sx10768.png cmd/sc_scrollbar.png
 res/sx10769.png cmd/sc_scrollbar.png
@@ -2070,7 +2070,7 @@ svx/res/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/ColorModeBlackWhite_16x16.png cmd/sc_outputqualityblackwhite.png
 svx/res/ColorModeGrey_16x16.png cmd/sc_graphic.png
 svx/res/apply.png cmd/sc_ok.png
-svx/res/caution_11x16.png dbaccess/res/exwarning.png
+svx/res/caution_11x16.png cmd/sc_warningcellstyles.png
 svx/res/cd01.png cmd/sc_ok.png
 svx/res/cd015.png cmd/sc_toggleobjectbeziermode.png
 svx/res/cd016.png cmd/sc_beziermove.png
@@ -2157,7 +2157,7 @@ svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/decrease_font.png cmd/sc_shrink.png
 svx/res/symphony/enlarge_font.png cmd/sc_grow.png
-svx/res/symphony/fill_color.png cmd/sc_backgroundpatterncontroller.png
+svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
 svx/res/symphony/last_custom_common.png cmd/last_custom_common.png
 svx/res/symphony/last_custom_common_grey.png cmd/last_custom_common_grey.png
 svx/res/symphony/lpselected-spacing-1.png cmd/lc_spacepara1.png
