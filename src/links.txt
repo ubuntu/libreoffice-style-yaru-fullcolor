@@ -2253,20 +2253,23 @@ xmlsecurity/res/key_12.xxx dbaccess/res/pkey.xxx
 xmlsecurity/res/signet_11x16.xxx xmlsecurity/res/notcertificate_16.xxx
 
 # LibreLogo
-cmd/32/librelogo-left.png cmd/32/rotateleft.png
-cmd/32/librelogo-right.png cmd/32/rotateright.png
-cmd/32/librelogo-run.png cmd/32/runbasic.png
-cmd/32/librelogo-stop.png cmd/32/basicstop.png
-cmd/32/librelogo-translate.png cmd/32/editglossary.png
+cmd/32/librelogo-clearscreen.xxx cmd/32/showsinglepage.xxx
+cmd/32/librelogo-left.xxx cmd/32/rotateleft.xxx
+cmd/32/librelogo-right.xxx cmd/32/rotateright.xxx
+cmd/32/librelogo-run.xxx cmd/32/runbasic.xxx
+cmd/32/librelogo-stop.xxx cmd/32/basicstop.xxx
+cmd/32/librelogo-translate.xxx cmd/32/editglossary.xxx
 
-cmd/lc_librelogo-left.png cmd/lc_rotateleft.png
-cmd/lc_librelogo-right.png cmd/lc_rotateright.png
-cmd/lc_librelogo-run.png cmd/lc_runbasic.png
-cmd/lc_librelogo-stop.png cmd/lc_basicstop.png
-cmd/lc_librelogo-translate.png cmd/lc_editglossary.png
+cmd/lc_librelogo-clearscreen.xxx cmd/lc_showsinglepage.xxx
+cmd/lc_librelogo-left.xxx cmd/lc_rotateleft.xxx
+cmd/lc_librelogo-right.xxx cmd/lc_rotateright.xxx
+cmd/lc_librelogo-run.xxx cmd/lc_runbasic.xxx
+cmd/lc_librelogo-stop.xxx cmd/lc_basicstop.xxx
+cmd/lc_librelogo-translate.xxx cmd/lc_editglossary.xxx
 
-cmd/sc_librelogo-left.png cmd/sc_rotateleft.png
-cmd/sc_librelogo-right.png cmd/sc_rotateright.png
-cmd/sc_librelogo-run.png cmd/sc_runbasic.png
-cmd/sc_librelogo-stop.png cmd/sc_basicstop.png
-cmd/sc_librelogo-translate.png cmd/sc_editglossary.png
+cmd/sc_librelogo-clearscreen.xxx cmd/sc_showsinglepage.xxx
+cmd/sc_librelogo-left.xxx cmd/sc_rotateleft.xxx
+cmd/sc_librelogo-right.xxx cmd/sc_rotateright.xxx
+cmd/sc_librelogo-run.xxx cmd/sc_runbasic.xxx
+cmd/sc_librelogo-stop.xxx cmd/sc_basicstop.xxx
+cmd/sc_librelogo-translate.xxx cmd/sc_editglossary.xxx
