@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_toolbarmode.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_toolbarmode.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><metadata
@@ -43,22 +43,24 @@
    inkscape:zoom="20.85965"
    inkscape:cx="6.4871854"
    inkscape:cy="8.6354294"
-   inkscape:window-x="1920"
-   inkscape:window-y="32"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg6">
+   inkscape:current-layer="svg6"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid848" />
 </sodipodi:namedview>
+
 /&gt;<path
-   d="m 3.9738692,1.5 c -0.817,0 -1.474,0.657 -1.474,1.474 l 2.5e-4,10.526 H 13.500119 l -2.5e-4,-10.526 c -1.9e-5,-0.817 -0.657,-1.474 -1.474,-1.474 z"
+   d="m 3.9738692,1.5 c -0.817,0 -1.474,0.657 -1.474,1.474 l 2.5e-4,8.526 H 13.500119 l -2.5e-4,-8.526 c -2.4e-5,-0.817 -0.657,-1.474 -1.474,-1.474 z"
    id="path22"
    inkscape:connector-curvature="0"
    style="fill:#ffffff;stroke:#8c8c8c"
    sodipodi:nodetypes="ssccsss" />
 <path
-   d="m 2.9998692,6 h 9.9999998 l 2.5e-4,7 H 3.0001192 Z"
+   d="m 2.9998692,6 h 9.9999998 l 2.5e-4,5 H 3.0001192 Z"
    id="path26"
    inkscape:connector-curvature="0"
    style="fill:#ffffff"
