@@ -2251,3 +2251,25 @@ vcl/querybox.svg vcl/infobox.svg
 vcl/warningbox.svg vcl/errorbox.svg
 xmlsecurity/res/key_12.svg dbaccess/res/pkey.svg
 xmlsecurity/res/signet_11x16.svg xmlsecurity/res/notcertificate_16.svg
+
+# LibreLogo
+cmd/32/librelogo-clearscreen.svg cmd/32/showsinglepage.svg
+cmd/32/librelogo-left.svg cmd/32/rotateleft.svg
+cmd/32/librelogo-right.svg cmd/32/rotateright.svg
+cmd/32/librelogo-run.svg cmd/32/runbasic.svg
+cmd/32/librelogo-stop.svg cmd/32/basicstop.svg
+cmd/32/librelogo-translate.svg cmd/32/editglossary.svg
+
+cmd/lc_librelogo-clearscreen.svg cmd/lc_showsinglepage.svg
+cmd/lc_librelogo-left.svg cmd/lc_rotateleft.svg
+cmd/lc_librelogo-right.svg cmd/lc_rotateright.svg
+cmd/lc_librelogo-run.svg cmd/lc_runbasic.svg
+cmd/lc_librelogo-stop.svg cmd/lc_basicstop.svg
+cmd/lc_librelogo-translate.svg cmd/lc_editglossary.svg
+
+cmd/sc_librelogo-clearscreen.svg cmd/sc_showsinglepage.svg
+cmd/sc_librelogo-left.svg cmd/sc_rotateleft.svg
+cmd/sc_librelogo-right.svg cmd/sc_rotateright.svg
+cmd/sc_librelogo-run.svg cmd/sc_runbasic.svg
+cmd/sc_librelogo-stop.svg cmd/sc_basicstop.svg
+cmd/sc_librelogo-translate.svg cmd/sc_editglossary.svg

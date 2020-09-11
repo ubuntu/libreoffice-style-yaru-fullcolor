@@ -2251,3 +2251,25 @@ vcl/querybox.xxx vcl/infobox.xxx
 vcl/warningbox.xxx vcl/errorbox.xxx
 xmlsecurity/res/key_12.xxx dbaccess/res/pkey.xxx
 xmlsecurity/res/signet_11x16.xxx xmlsecurity/res/notcertificate_16.xxx
+
+# LibreLogo
+cmd/32/librelogo-clearscreen.xxx cmd/32/showsinglepage.xxx
+cmd/32/librelogo-left.xxx cmd/32/rotateleft.xxx
+cmd/32/librelogo-right.xxx cmd/32/rotateright.xxx
+cmd/32/librelogo-run.xxx cmd/32/runbasic.xxx
+cmd/32/librelogo-stop.xxx cmd/32/basicstop.xxx
+cmd/32/librelogo-translate.xxx cmd/32/editglossary.xxx
+
+cmd/lc_librelogo-clearscreen.xxx cmd/lc_showsinglepage.xxx
+cmd/lc_librelogo-left.xxx cmd/lc_rotateleft.xxx
+cmd/lc_librelogo-right.xxx cmd/lc_rotateright.xxx
+cmd/lc_librelogo-run.xxx cmd/lc_runbasic.xxx
+cmd/lc_librelogo-stop.xxx cmd/lc_basicstop.xxx
+cmd/lc_librelogo-translate.xxx cmd/lc_editglossary.xxx
+
+cmd/sc_librelogo-clearscreen.xxx cmd/sc_showsinglepage.xxx
+cmd/sc_librelogo-left.xxx cmd/sc_rotateleft.xxx
+cmd/sc_librelogo-right.xxx cmd/sc_rotateright.xxx
+cmd/sc_librelogo-run.xxx cmd/sc_runbasic.xxx
+cmd/sc_librelogo-stop.xxx cmd/sc_basicstop.xxx
+cmd/sc_librelogo-translate.xxx cmd/sc_editglossary.xxx
