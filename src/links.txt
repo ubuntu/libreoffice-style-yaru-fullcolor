@@ -132,6 +132,7 @@ cmd/32/diaauto.xxx cmd/32/dia.xxx
 cmd/32/diagramaxisall.xxx cmd/32/diagramaxisxyz.xxx
 cmd/32/diagramaxismenu.xxx cmd/32/diagramaxis.xxx
 cmd/32/diagramgridmenu.xxx cmd/32/togglegridhorizontal.xxx
+cmd/32/distribute.xxx cmd/32/distributeselection.xxx
 cmd/32/donation.xxx cmd/32/currencyfield.xxx
 cmd/32/doubleclicktextedit.xxx cmd/32/pickthrough.xxx
 cmd/32/draw.xxx cmd/32/reload.xxx
@@ -801,6 +802,7 @@ cmd/lc_diaauto.xxx cmd/lc_dia.xxx
 cmd/lc_diagramaxisall.xxx cmd/lc_diagramaxisxyz.xxx
 cmd/lc_diagramaxismenu.xxx cmd/lc_diagramaxis.xxx
 cmd/lc_diagramgridmenu.xxx cmd/lc_togglegridhorizontal.xxx
+cmd/lc_distribute.xxx cmd/lc_distributeselection.xxx
 cmd/lc_donation.xxx cmd/lc_currencyfield.xxx
 cmd/lc_doubleclicktextedit.xxx cmd/lc_pickthrough.xxx
 cmd/lc_draw.xxx cmd/lc_reload.xxx
@@ -1298,6 +1300,7 @@ cmd/sc_diaauto.xxx cmd/sc_dia.xxx
 cmd/sc_diagramaxisall.xxx cmd/sc_diagramaxisxyz.xxx
 cmd/sc_diagramaxismenu.xxx cmd/sc_diagramaxis.xxx
 cmd/sc_diagramgridmenu.xxx cmd/sc_togglegridhorizontal.xxx
+cmd/sc_distribute.xxx cmd/sc_distributeselection.xxx
 cmd/sc_donation.xxx cmd/sc_currencyfield.xxx
 cmd/sc_doubleclicktextedit.xxx cmd/sc_pickthrough.xxx
 cmd/sc_draw.xxx cmd/sc_reload.xxx
@@ -2088,6 +2091,14 @@ svx/res/cd08.xxx cmd/sc_polygon.xxx
 svx/res/color.xxx cmd/sc_bmpmask.xxx
 svx/res/colordlg.xxx cmd/sc_graphicfiltersmooth.xxx
 svx/res/convrt3d.xxx cmd/sc_convertinto3d.xxx
+svx/res/dsth_cen.xxx cmd/sc_distributehorzcenter.xxx
+svx/res/dsth_dst.xxx cmd/sc_distributehorzdistance.xxx
+svx/res/dsth_hig.xxx cmd/sc_distributehorzright.xxx
+svx/res/dsth_low.xxx cmd/sc_distributehorzleft.xxx
+svx/res/dstv_cen.xxx cmd/sc_distributevertcenter.xxx
+svx/res/dstv_dst.xxx cmd/sc_distributevertdistance.xxx
+svx/res/dstv_hig.xxx cmd/sc_distributeverttop.xxx
+svx/res/dstv_low.xxx cmd/sc_distributevertbottom.xxx
 svx/res/fill_color.xxx cmd/sc_backgroundcolor.xxx
 svx/res/filter3d.xxx cmd/sc_datafilterstandardfilter.xxx
 svx/res/fontworkaligncentered_16.xxx cmd/sc_alignhorizontalcenter.xxx
