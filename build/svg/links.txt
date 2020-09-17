@@ -132,6 +132,7 @@ cmd/32/diaauto.svg cmd/32/dia.svg
 cmd/32/diagramaxisall.svg cmd/32/diagramaxisxyz.svg
 cmd/32/diagramaxismenu.svg cmd/32/diagramaxis.svg
 cmd/32/diagramgridmenu.svg cmd/32/togglegridhorizontal.svg
+cmd/32/distribute.svg cmd/32/distributeselection.svg
 cmd/32/donation.svg cmd/32/currencyfield.svg
 cmd/32/doubleclicktextedit.svg cmd/32/pickthrough.svg
 cmd/32/draw.svg cmd/32/reload.svg
@@ -801,6 +802,7 @@ cmd/lc_diaauto.svg cmd/lc_dia.svg
 cmd/lc_diagramaxisall.svg cmd/lc_diagramaxisxyz.svg
 cmd/lc_diagramaxismenu.svg cmd/lc_diagramaxis.svg
 cmd/lc_diagramgridmenu.svg cmd/lc_togglegridhorizontal.svg
+cmd/lc_distribute.svg cmd/lc_distributeselection.svg
 cmd/lc_donation.svg cmd/lc_currencyfield.svg
 cmd/lc_doubleclicktextedit.svg cmd/lc_pickthrough.svg
 cmd/lc_draw.svg cmd/lc_reload.svg
@@ -1298,6 +1300,7 @@ cmd/sc_diaauto.svg cmd/sc_dia.svg
 cmd/sc_diagramaxisall.svg cmd/sc_diagramaxisxyz.svg
 cmd/sc_diagramaxismenu.svg cmd/sc_diagramaxis.svg
 cmd/sc_diagramgridmenu.svg cmd/sc_togglegridhorizontal.svg
+cmd/sc_distribute.svg cmd/sc_distributeselection.svg
 cmd/sc_donation.svg cmd/sc_currencyfield.svg
 cmd/sc_doubleclicktextedit.svg cmd/sc_pickthrough.svg
 cmd/sc_draw.svg cmd/sc_reload.svg
@@ -2088,6 +2091,14 @@ svx/res/cd08.svg cmd/sc_polygon.svg
 svx/res/color.svg cmd/sc_bmpmask.svg
 svx/res/colordlg.svg cmd/sc_graphicfiltersmooth.svg
 svx/res/convrt3d.svg cmd/sc_convertinto3d.svg
+svx/res/dsth_cen.svg cmd/sc_distributehorzcenter.svg
+svx/res/dsth_dst.svg cmd/sc_distributehorzdistance.svg
+svx/res/dsth_hig.svg cmd/sc_distributehorzright.svg
+svx/res/dsth_low.svg cmd/sc_distributehorzleft.svg
+svx/res/dstv_cen.svg cmd/sc_distributevertcenter.svg
+svx/res/dstv_dst.svg cmd/sc_distributevertdistance.svg
+svx/res/dstv_hig.svg cmd/sc_distributeverttop.svg
+svx/res/dstv_low.svg cmd/sc_distributevertbottom.svg
 svx/res/fill_color.svg cmd/sc_backgroundcolor.svg
 svx/res/filter3d.svg cmd/sc_datafilterstandardfilter.svg
 svx/res/fontworkaligncentered_16.svg cmd/sc_alignhorizontalcenter.svg

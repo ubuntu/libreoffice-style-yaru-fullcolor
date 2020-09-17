@@ -10,7 +10,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
-   sodipodi:docname="sc_distributeselection.svg"
+   sodipodi:docname="sc_distributehorzcenter.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_distributeselection.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -22,6 +22,7 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
@@ -87,82 +88,18 @@
    transform="scale(1,-1)" />
 <rect
    style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect3871-9"
-   transform="matrix(0,1,1,0,0,0)"
-   y="4"
-   x="1"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect886"
-   transform="matrix(0,1,1,0,0,0)"
-   y="4"
-   x="4"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect888"
-   transform="matrix(0,1,1,0,0,0)"
-   y="4"
-   x="7"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect890"
-   transform="matrix(0,1,1,0,0,0)"
-   y="4"
-   x="10"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect892"
-   transform="matrix(0,1,1,0,0,0)"
-   y="4"
-   x="13"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="rect894"
    transform="matrix(0,1,1,0,0,0)"
    y="11.000001"
    x="1"
    height="0.99999905"
-   width="2" />
+   width="14" />
 <rect
    style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect896"
+   id="rect952"
    transform="matrix(0,1,1,0,0,0)"
-   y="11.000001"
-   x="4"
+   y="4"
+   x="1"
    height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect898"
-   transform="matrix(0,1,1,0,0,0)"
-   y="11.000001"
-   x="7"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect900"
-   transform="matrix(0,1,1,0,0,0)"
-   y="11.000001"
-   x="10"
-   height="0.99999905"
-   width="2" />
-<rect
-   style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:3.99999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect902"
-   transform="matrix(0,1,1,0,0,0)"
-   y="11.000001"
-   x="13"
-   height="0.99999905"
-   width="2" />
+   width="14" />
 </svg>

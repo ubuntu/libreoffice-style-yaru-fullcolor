@@ -132,6 +132,7 @@ cmd/32/diaauto.png cmd/32/dia.png
 cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
 cmd/32/diagramaxismenu.png cmd/32/diagramaxis.png
 cmd/32/diagramgridmenu.png cmd/32/togglegridhorizontal.png
+cmd/32/distribute.png cmd/32/distributeselection.png
 cmd/32/donation.png cmd/32/currencyfield.png
 cmd/32/doubleclicktextedit.png cmd/32/pickthrough.png
 cmd/32/draw.png cmd/32/reload.png
@@ -801,6 +802,7 @@ cmd/lc_diaauto.png cmd/lc_dia.png
 cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
 cmd/lc_diagramaxismenu.png cmd/lc_diagramaxis.png
 cmd/lc_diagramgridmenu.png cmd/lc_togglegridhorizontal.png
+cmd/lc_distribute.png cmd/lc_distributeselection.png
 cmd/lc_donation.png cmd/lc_currencyfield.png
 cmd/lc_doubleclicktextedit.png cmd/lc_pickthrough.png
 cmd/lc_draw.png cmd/lc_reload.png
@@ -1298,6 +1300,7 @@ cmd/sc_diaauto.png cmd/sc_dia.png
 cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
 cmd/sc_diagramaxismenu.png cmd/sc_diagramaxis.png
 cmd/sc_diagramgridmenu.png cmd/sc_togglegridhorizontal.png
+cmd/sc_distribute.png cmd/sc_distributeselection.png
 cmd/sc_donation.png cmd/sc_currencyfield.png
 cmd/sc_doubleclicktextedit.png cmd/sc_pickthrough.png
 cmd/sc_draw.png cmd/sc_reload.png
@@ -2088,6 +2091,14 @@ svx/res/cd08.png cmd/sc_polygon.png
 svx/res/color.png cmd/sc_bmpmask.png
 svx/res/colordlg.png cmd/sc_graphicfiltersmooth.png
 svx/res/convrt3d.png cmd/sc_convertinto3d.png
+svx/res/dsth_cen.png cmd/sc_distributehorzcenter.png
+svx/res/dsth_dst.png cmd/sc_distributehorzdistance.png
+svx/res/dsth_hig.png cmd/sc_distributehorzright.png
+svx/res/dsth_low.png cmd/sc_distributehorzleft.png
+svx/res/dstv_cen.png cmd/sc_distributevertcenter.png
+svx/res/dstv_dst.png cmd/sc_distributevertdistance.png
+svx/res/dstv_hig.png cmd/sc_distributeverttop.png
+svx/res/dstv_low.png cmd/sc_distributevertbottom.png
 svx/res/fill_color.png cmd/sc_backgroundcolor.png
 svx/res/filter3d.png cmd/sc_datafilterstandardfilter.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
