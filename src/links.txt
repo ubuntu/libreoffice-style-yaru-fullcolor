@@ -288,7 +288,7 @@ cmd/32/insertfield.xxx cmd/32/addfield.xxx
 cmd/32/insertfilecontrol.xxx cmd/32/open.xxx
 cmd/32/insertfilefield.xxx cmd/32/open.xxx
 cmd/32/insertfootnotesmenu.xxx cmd/32/insertfootnote.xxx
-cmd/32/insertformattedfield.xxx cmd/32/formattedfield.xxx
+cmd/32/insertformattedfield.xxx cmd/32/numberformatpercent.xxx
 cmd/32/insertformcheck.xxx cmd/32/checkbox.xxx
 cmd/32/insertformcombo.xxx cmd/32/combobox.xxx
 cmd/32/insertformlist.xxx cmd/32/listbox.xxx
