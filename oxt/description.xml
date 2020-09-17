@@ -5,7 +5,7 @@
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
     <identifier value="org.iconset.Yaru"/>
-	<version value="0.0.1"/>
+	<version value="2020-09-18"/>
     <display-name name="Fullcolor Yaru icon theme"/>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
@@ -24,4 +24,7 @@
             <license-text xlink:href="registration/license.txt" lang="en" />
         </simple-license>
     </registration>
+    <update-information>
+        <src xlink:href="https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/yaru-theme.update.xml" />
+    </update-information>
 </description>
