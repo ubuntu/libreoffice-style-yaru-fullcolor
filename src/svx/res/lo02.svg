@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lo02.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    width="16"
    height="16">
   <metadata
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,12 +43,13 @@
      showgrid="true"
      showborder="true"
      inkscape:zoom="32"
-     inkscape:cx="13.997671"
-     inkscape:cy="11.051327"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:cx="1.7927149"
+     inkscape:cy="10.457333"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid874" />
@@ -60,11 +61,6 @@
        empspacing="1"
        dotted="true" />
   </sodipodi:namedview>
-  <path
-     style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 4.5,3.5 h 10 l -3,10 h -10 z"
-     id="path859"
-     inkscape:connector-curvature="0" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d="M 4.5,3 A 0.50005,0.50005 0 0 0 4.0214844,3.3554688 l -3,10.0000002 A 0.50005,0.50005 0 0 0 1.5,14 h 10 a 0.50005,0.50005 0 0 0 0.478516,-0.355469 l 3,-9.9999998 A 0.50005,0.50005 0 0 0 14.5,3 Z m 0.3710938,1 h 8.9570312 l -2.699219,9 H 2.171875 Z"
