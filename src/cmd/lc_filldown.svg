@@ -7,27 +7,28 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 32 32"
+   viewBox="0 0 24 24"
    version="1.1"
-   id="svg4"
-   sodipodi:docname="dbviewtables.svg"
+   id="svg6"
+   sodipodi:docname="lc_filldown.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/dbviewtables.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_dbviewtablenames.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
   <metadata
-     id="metadata10">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,31 +40,45 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
-     id="namedview6"
+     id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="5.2604503"
-     inkscape:cy="19.692853"
+     inkscape:zoom="27.812867"
+     inkscape:cx="6.9508441"
+     inkscape:cy="11.739902"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
+     inkscape:current-layer="svg6"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid822" />
   </sodipodi:namedview>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect820"
-     width="22"
-     height="22"
+     id="rect827"
+     width="14"
+     height="14"
      x="5"
-     y="5" />
+     y="5"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
   <path
-     d="m 4,6 v 20 c 0,2 1,2 3,2 h 18 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,6 Z m 1,2 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,16 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,20 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,24 h 7 v 3 H 7 C 6,27 5,27 5,26 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 2 c 0,1 -1,1 -2,1 h -5 z"
      id="path2"
-     inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 5,9 h 14 v 9 c 0,1 -1,1 -2,1 H 7 C 6,19 5,19 5,18 Z"
+     sodipodi:nodetypes="sccccccssccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path856"
+     d="M 12,16 9,12 h 2 V 8 h 2 v 4 h 2 z"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:#6d6d6d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 12,16 9,12 h 2 V 8 h 2 v 4 h 2 z"
+     id="path834"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

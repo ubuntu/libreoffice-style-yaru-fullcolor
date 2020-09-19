@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
-   sodipodi:docname="dbviewtables.svg"
+   sodipodi:docname="filldown.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/dbviewtables.png"
    inkscape:export-xdpi="95"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,9 +62,19 @@
      x="5"
      y="5" />
   <path
-     d="m 4,6 v 20 c 0,2 1,2 3,2 h 18 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,6 Z m 1,2 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,16 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,20 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,24 h 7 v 3 H 7 C 6,27 5,27 5,26 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 2 c 0,1 -1,1 -2,1 h -5 z"
      id="path2"
-     inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 7 4 C 5 4 4 4 4 6 L 4 26 C 4 28 5 28 7 28 L 25 28 C 27 28 28 28 28 26 L 28 6 C 28 4 27 4 25 4 L 7 4 z M 5 12 L 27 12 L 27 15 L 27 16 L 27 19 L 27 20 L 27 23 L 27 24 L 27 26 C 27 27 26 27 25 27 L 21 27 L 20 27 L 19 27 L 13 27 L 12 27 L 10 27 L 7 27 C 6 27 5 27 5 26 L 5 24 L 5 23 L 5 20 L 5 19 L 5 16 L 5 15 L 5 12 z " />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:#6d6d6d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 16,21.00002 13,16 h 1.999999 L 15,11.000022 h 2.000001 L 17,16 h 2 z"
+     id="path839"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     id="path841"
+     d="M 16,21.00002 13,16 h 1.999999 L 15,11.000022 h 2.000001 L 17,16 h 2 z"
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
