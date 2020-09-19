@@ -124,7 +124,6 @@ cmd/32/definename.xxx cmd/32/label.xxx
 cmd/32/deleteallnotes.xxx cmd/32/deleteallannotation.xxx
 cmd/32/deletecomment.xxx cmd/32/deleteannotation.xxx
 cmd/32/deletenote.xxx cmd/32/deleteannotation.xxx
-cmd/32/deletepivottable.xxx cmd/32/delete.xxx
 cmd/32/deleterecord.xxx cmd/32/delete.xxx
 cmd/32/deleteshapehyperlink.xxx cmd/32/removehyperlink.xxx
 cmd/32/deleteslide.xxx cmd/32/deletepage.xxx
@@ -794,7 +793,6 @@ cmd/lc_definename.xxx cmd/lc_label.xxx
 cmd/lc_deleteallnotes.xxx cmd/lc_deleteallannotation.xxx
 cmd/lc_deletecomment.xxx cmd/lc_deleteannotation.xxx
 cmd/lc_deletenote.xxx cmd/lc_deleteannotation.xxx
-cmd/lc_deletepivottable.xxx cmd/lc_delete.xxx
 cmd/lc_deleterecord.xxx cmd/lc_delete.xxx
 cmd/lc_deleteshapehyperlink.xxx cmd/lc_removehyperlink.xxx
 cmd/lc_deleteslide.xxx cmd/lc_deletepage.xxx
@@ -1292,7 +1290,6 @@ cmd/sc_definename.xxx cmd/sc_label.xxx
 cmd/sc_deleteallnotes.xxx cmd/sc_deleteallannotation.xxx
 cmd/sc_deletecomment.xxx cmd/sc_deleteannotation.xxx
 cmd/sc_deletenote.xxx cmd/sc_deleteannotation.xxx
-cmd/sc_deletepivottable.xxx cmd/sc_delete.xxx
 cmd/sc_deleterecord.xxx cmd/sc_delete.xxx
 cmd/sc_deleteshapehyperlink.xxx cmd/sc_removehyperlink.xxx
 cmd/sc_deleteslide.xxx cmd/sc_deletepage.xxx
