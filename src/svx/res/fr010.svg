@@ -1,1 +1,63 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 4v15h1v-15z" fill="#232629"/><path d="m4 3v1 7 1 8h1 16v-1-15-1zm1 1h15v7h-15zm0 8h15v7h-15z" fill="#e95420"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="fr010.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="33.666667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g847"
+     transform="rotate(90,11.851485,15.772277)">
+    <path
+       d="m 1.0792079,14.623762 v 2 H 15.079208 v -2 z"
+       fill="#232629"
+       id="path2"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#6d6d6d;fill-opacity:1" />
+    <path
+       d="m -0.92079208,6.6237624 v 1 15.9999996 1 h 7.99999998 2 8.0000001 v -1 -15.9999996 -1 z m 1.99999998,2 h 6 V 22.623762 h -6 z m 8,0 H 15.079208 V 22.623762 H 9.0792079 Z"
+       fill="#e95420"
+       id="path4"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+</svg>
