@@ -10,7 +10,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
-   sodipodi:docname="dbviewtables.svg"
+   sodipodi:docname="fillleft.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/dbviewtables.png"
    inkscape:export-xdpi="95"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,11 +60,22 @@
      width="22"
      height="22"
      x="5"
-     y="5" />
+     y="-27"
+     transform="rotate(90)" />
   <path
-     d="m 4,6 v 20 c 0,2 1,2 3,2 h 18 c 2,0 3,0 3,-2 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,6 Z m 1,2 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,16 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,20 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,24 h 7 v 3 H 7 C 6,27 5,27 5,26 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 2 c 0,1 -1,1 -2,1 h -5 z"
      id="path2"
-     inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 28,7 C 28,5 28,4 26,4 H 6 C 4,4 4,5 4,7 v 18 c 0,2 0,3 2,3 h 20 c 2,0 2,-1 2,-3 z M 20,5 V 27 H 17 16 13 12 9 8 6 C 5,27 5,26 5,25 V 21 20 19 13 12 10 7 C 5,6 5,5 6,5 h 2 1 3 1 3 1 z" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:#6d6d6d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.000001,15.999979 5.00002,-3 v 1.999999 l 4.999978,10e-7 v 2.000001 l -4.999978,-1e-6 v 2 z"
+     id="path839"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     id="path841"
+     d="m 11.000001,15.999979 5.00002,-3 v 1.999999 l 4.999978,10e-7 v 2.000001 l -4.999978,-1e-6 v 2 z"
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
