@@ -124,7 +124,6 @@ cmd/32/definename.xxx cmd/32/label.xxx
 cmd/32/deleteallnotes.xxx cmd/32/deleteallannotation.xxx
 cmd/32/deletecomment.xxx cmd/32/deleteannotation.xxx
 cmd/32/deletenote.xxx cmd/32/deleteannotation.xxx
-cmd/32/deletepivottable.xxx cmd/32/delete.xxx
 cmd/32/deleterecord.xxx cmd/32/delete.xxx
 cmd/32/deleteshapehyperlink.xxx cmd/32/removehyperlink.xxx
 cmd/32/deleteslide.xxx cmd/32/deletepage.xxx
@@ -439,7 +438,7 @@ cmd/32/pt/underline.xxx cmd/32/ca/underline.xxx
 cmd/32/pt/underlinedouble.xxx cmd/32/ca/underlinedouble.xxx
 cmd/32/pt/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/quickedit.xxx cmd/32/editdoc.xxx
-cmd/32/recalcpivottable.xxx cmd/32/calculate.xxx
+cmd/32/recalcpivottable.xxx cmd/32/dataarearefresh.xxx
 cmd/32/recsave.xxx cmd/32/save.xxx
 cmd/32/rectangletoolbox.xxx cmd/32/rect.xxx
 cmd/32/recundo.xxx cmd/32/undo.xxx
@@ -794,7 +793,6 @@ cmd/lc_definename.xxx cmd/lc_label.xxx
 cmd/lc_deleteallnotes.xxx cmd/lc_deleteallannotation.xxx
 cmd/lc_deletecomment.xxx cmd/lc_deleteannotation.xxx
 cmd/lc_deletenote.xxx cmd/lc_deleteannotation.xxx
-cmd/lc_deletepivottable.xxx cmd/lc_delete.xxx
 cmd/lc_deleterecord.xxx cmd/lc_delete.xxx
 cmd/lc_deleteshapehyperlink.xxx cmd/lc_removehyperlink.xxx
 cmd/lc_deleteslide.xxx cmd/lc_deletepage.xxx
@@ -1052,7 +1050,7 @@ cmd/lc_printpagepreview.xxx cmd/lc_printpreview.xxx
 cmd/lc_printrangesmenu.xxx cmd/lc_defineprintarea.xxx
 cmd/lc_protecttracechangemode.xxx cmd/lc_protect.xxx
 cmd/lc_quickedit.xxx cmd/lc_editdoc.xxx
-cmd/lc_recalcpivottable.xxx cmd/lc_calculate.xxx
+cmd/lc_recalcpivottable.xxx cmd/lc_dataarearefresh.xxx
 cmd/lc_recsave.xxx cmd/lc_save.xxx
 cmd/lc_rectangletoolbox.xxx cmd/lc_rect.xxx
 cmd/lc_recundo.xxx cmd/lc_undo.xxx
@@ -1292,7 +1290,6 @@ cmd/sc_definename.xxx cmd/sc_label.xxx
 cmd/sc_deleteallnotes.xxx cmd/sc_deleteallannotation.xxx
 cmd/sc_deletecomment.xxx cmd/sc_deleteannotation.xxx
 cmd/sc_deletenote.xxx cmd/sc_deleteannotation.xxx
-cmd/sc_deletepivottable.xxx cmd/sc_delete.xxx
 cmd/sc_deleterecord.xxx cmd/sc_delete.xxx
 cmd/sc_deleteshapehyperlink.xxx cmd/sc_removehyperlink.xxx
 cmd/sc_deleteslide.xxx cmd/sc_deletepage.xxx
@@ -1552,7 +1549,7 @@ cmd/sc_printpagepreview.xxx cmd/sc_printpreview.xxx
 cmd/sc_printrangesmenu.xxx cmd/sc_defineprintarea.xxx
 cmd/sc_protecttracechangemode.xxx cmd/sc_protect.xxx
 cmd/sc_quickedit.xxx cmd/sc_editdoc.xxx
-cmd/sc_recalcpivottable.xxx cmd/sc_calculate.xxx
+cmd/sc_recalcpivottable.xxx cmd/sc_dataarearefresh.xxx
 cmd/sc_recsave.xxx cmd/sc_save.xxx
 cmd/sc_rectangletoolbox.xxx cmd/sc_rect.xxx
 cmd/sc_recundo.xxx cmd/sc_undo.xxx
