@@ -10,6 +10,13 @@ If you want to contribute, please look at [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Install
 
+### From extensions.libreoffice.org
+
+Installing from the official Libreoffice extension site is the the best way if you just want to use this icon pack without modification and if you want to have easy updates.
+Just download the lastest release here: https://extensions.libreoffice.org/en/extensions/show/1042
+
+Then open the .oxt file with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then click on __Add__ and browse for local directory where the extension placed.
+
 ### From extension
 
 Since Libreoffice 6.0, you can install an icon pack with an extension. To do that, simply clone the repository and generate the extension with the build script at the root of the project:
