@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="snapborder.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/snapborder.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -45,9 +45,10 @@
      inkscape:cx="-0.18485864"
      inkscape:cy="24.179387"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid825" />
@@ -72,13 +73,11 @@
      x="6"
      y="6" />
   <path
-     id="path843"
-     d="m 23,15 c -2.209139,0 -4,1.790861 -4,4 v 2 h -2 v 8 h 12 v -8 h -2 v -2 c 0,-2.209139 -1.790861,-4 -4,-4 z m 0,1 c 1.656854,0 3,1.343146 3,3 v 2 h -6 v -2 c 0,-1.656854 1.343146,-3 3,-3 z"
-     style="opacity:0.6;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.70000005;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0" />
+     id="path913"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 25.951172,21 A 2,2 0 0 0 24,23 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 26,22 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.52982211;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 23,15 c -2.209139,0 -4,1.790861 -4,4 v 2 h -2 v 8 h 12 v -8 h -2 v -2 c 0,-2.209139 -1.790861,-4 -4,-4 z m 0,1 c 1.656854,0 3,1.343146 3,3 v 2 h -6 v -2 c 0,-1.656854 1.343146,-3 3,-3 z"
-     id="rect827"
-     inkscape:connector-curvature="0" />
+     id="path874"
+     style="opacity:1;fill:#fee581;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 25.951172,21 A 2,2 0 0 0 24,23 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 26,22 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
 </svg>
