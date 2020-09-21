@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,6 +83,6 @@
      d="M 18.951172,14 A 2,2 0 0 0 17,16 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 19,15 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
   <path
      id="path855"
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:1.88562;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#fee581;fill-rule:evenodd;stroke-width:1.88562;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 18.951172,14 A 2,2 0 0 0 17,16 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 19,15 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
 </svg>

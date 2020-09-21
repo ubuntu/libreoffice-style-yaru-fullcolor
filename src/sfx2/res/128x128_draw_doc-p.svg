@@ -16,7 +16,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/sfx2/res/128x128_draw_doc-p.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -175,13 +175,14 @@
      inkscape:window-height="1011"
      id="namedview31"
      showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="81.243312"
-     inkscape:cy="26.286013"
+     inkscape:zoom="7.375"
+     inkscape:cx="81.664158"
+     inkscape:cy="81.018578"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="svg29"
+     inkscape:document-rotation="0" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -403,6 +404,6 @@
      d="M 100.99999,96.99999 C 97.68629,96.99999 95,99.68628 95,103 v 5 h -3 v 13 h 17.99999 v -13 h -3 v -5 c 0,-3.31372 -2.68629,-6.00001 -6,-6.00001 z m 0,1 c 2.76142,0 5,2.23859 5,5.00001 v 5 H 96 v -5 c 0,-2.76142 2.23857,-5.00001 4.99999,-5.00001 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff"
+     style="fill:#fee581;fill-opacity:1"
      sodipodi:nodetypes="ssccccccssssccss" />
 </svg>
