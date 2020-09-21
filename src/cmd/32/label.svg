@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="label.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/label.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,11 +81,11 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-12.186449"
-     inkscape:cy="18.713152"
+     inkscape:zoom="14.75"
+     inkscape:cx="1.5493377"
+     inkscape:cy="20.251521"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:snap-bbox="true"
@@ -93,7 +93,8 @@
      inkscape:bbox-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-nodes="false"
-     inkscape:snap-others="false">
+     inkscape:snap-others="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid837" />
@@ -117,15 +118,15 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
   <circle
-     r="2.5"
-     cy="11.5"
-     cx="20.5"
+     r="1.7857143"
+     cy="10.499999"
+     cx="21.5"
      id="circle845"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42857;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path841"
-     cx="20.5"
-     cy="11.5"
-     r="2.5" />
+     cx="21.5"
+     cy="10.5"
+     r="1.5" />
 </svg>
