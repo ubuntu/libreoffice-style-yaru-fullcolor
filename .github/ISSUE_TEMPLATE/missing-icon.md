@@ -2,7 +2,7 @@
 name: Missing icon
 about: Report a missing icon into the theme
 title: ''
-labels: 'enhancement, Area: icons'
+labels: 'Missing icon, Area: icons'
 assignees: ''
 
 ---
