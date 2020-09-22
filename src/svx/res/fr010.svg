@@ -37,27 +37,62 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="33.666667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     showgrid="true"
+     inkscape:zoom="23.805929"
+     inkscape:cx="19.889506"
+     inkscape:cy="12.33172"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <g
-     id="g847"
-     transform="rotate(90,11.851485,15.772277)">
-    <path
-       d="m 1.0792079,14.623762 v 2 H 15.079208 v -2 z"
-       fill="#232629"
-       id="path2"
-       sodipodi:nodetypes="ccccc"
-       style="fill:#6d6d6d;fill-opacity:1" />
-    <path
-       d="m -0.92079208,6.6237624 v 1 15.9999996 1 h 7.99999998 2 8.0000001 v -1 -15.9999996 -1 z m 1.99999998,2 h 6 V 22.623762 h -6 z m 8,0 H 15.079208 V 22.623762 H 9.0792079 Z"
-       fill="#e95420"
-       id="path4"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
-  </g>
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect947"
+     width="2"
+     height="2"
+     x="-13"
+     y="17"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect917"
+     width="2"
+     height="2"
+     x="-13"
+     y="11"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect888"
+     width="2"
+     height="2"
+     x="-13"
+     y="5"
+     transform="scale(-1,1)" />
+  <rect
+     style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect913"
+     width="2"
+     height="2"
+     x="-13"
+     y="8"
+     transform="scale(-1,1)" />
+  <path
+     d="M 21,2.9999999 H 20 4 3 V 11 v 2 8 h 1 16 1 z m -2,2 V 11 H 5 V 4.9999999 Z M 19,13 v 6 H 5 v -6 z"
+     fill="#e95420"
+     id="path4"
+     sodipodi:nodetypes="ccccccccccccccccccccc" />
+  <rect
+     style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect919"
+     width="2"
+     height="2"
+     x="-13"
+     y="14"
+     transform="scale(-1,1)" />
 </svg>
