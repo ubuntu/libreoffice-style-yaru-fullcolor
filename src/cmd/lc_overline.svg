@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_overline.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_overline.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -45,11 +45,12 @@
      inkscape:cx="1.0076943"
      inkscape:cy="12.667371"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
@@ -60,27 +61,25 @@
        inkscape:locked="false" />
   </sodipodi:namedview>
   <path
-     id="path846"
-     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 V 12 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2.999803 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 V 12 C 16,9.23 14.885,7 13.5,7 h -1 C 11.115,7 10,9.23 10,12 v 2.999803 c 0,2.77 1.115,5 2.5,5 z"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssssssssssss" />
+     id="path848"
+     style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12,22 C 8.676,22 6,19.324 6,16 v -5 c 0,-3.324 2.676,-6 6,-6 3.324,0 6,2.676 6,6 v 5 c 0,3.324 -2.676,6 -6,6 z m 0,-3 c 1.662,0 3,-1.731989 3,-3.882813 V 11.882812 C 15,9.731988 13.662,8 12,8 10.338,8 9,9.731989 9,11.882812 v 3.234375 C 9,17.268011 10.338,19 12,19 Z"
+     sodipodi:nodetypes="ssssssssssssss" />
   <path
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 4,3 V 2 h 16 v 1 z"
+     d="M 5,3 V 2 h 14 v 1 z"
      id="path825"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 4,3 H 20 V 2 H 4 Z"
+     d="M 5,3 H 19 V 2 H 5 Z"
      id="rect828"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.38178015;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 12,21.999803 c -3.324,0 -6,-3.122 -6,-7 V 12 c 0,-3.878 2.676,-7 6,-7 3.324,0 6,3.122 6,7 v 2.999803 c 0,3.878 -2.676,7 -6,7 z m 0.5,-2 h 1 c 1.385,0 2.5,-2.23 2.5,-5 V 12 C 16,9.23 14.885,7 13.5,7 h -1 C 11.115,7 10,9.23 10,12 v 2.999803 c 0,2.77 1.115,5 2.5,5 z"
-     id="rect835"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssssssssssss" />
+     id="rect836"
+     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12,22 C 8.676,22 6,19.324 6,16 v -5 c 0,-3.324 2.676,-6 6,-6 3.324,0 6,2.676 6,6 v 5 c 0,3.324 -2.676,6 -6,6 z m 0,-3 c 1.662,0 3,-1.731989 3,-3.882813 V 11.882812 C 15,9.731988 13.662,8 12,8 10.338,8 9,9.731989 9,11.882812 v 3.234375 C 9,17.268011 10.338,19 12,19 Z"
+     sodipodi:nodetypes="ssssssssssssss" />
 </svg>
