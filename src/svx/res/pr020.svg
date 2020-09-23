@@ -1,1 +1,57 @@
-<svg height="15" width="15" xmlns="http://www.w3.org/2000/svg"><path d="m2 1.99997h4.999996v5.00003h-4.999996z" fill="#b3b3b3"/><g fill="#762572"><path d="m1 12.99997h13v1h-13z"/><path d="m13 .99997h.999996v13.000003h-.999996z"/><path d="m1 .99997h13v.99997h-13z"/><path d="m1 .99997h1.000004v13.000003h-1.000004z"/><path d="m7 1.99997h1v10.99997h-1z"/><path d="m2 6.99997h10.999995v1h-10.999995z"/></g><g fill="#b3b3b3"><path d="m8 1.99997h4.999996v5.00003h-4.999996z"/><path d="m8 7.99997h4.999996v5.00003h-4.999996z"/><path d="m2 7.99997h4.999996v5.00003h-4.999996z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="15"
+   width="15"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="pr020.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="53.866667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <path
+     d="m 1.0000001,1.0000001 v 1 h 1.0000002 v -1 z m 2.0000001,0 v 1 h 1.9999999 v -1 z m 2.9999999,0 v 1 h 2.0000001 v -1 z m 3.0000001,0 v 1 H 11 v -1 z m 2.9999998,0 v 1 h 1 1 v -1 h -1 z m -10.9999999,2 v 2 h 1.0000001 v -2 z m 11.9999999,0 v 2 h 1 v -2 z m -11.9999999,3 v 2 h 1.0000001 v -2 z m 11.9999999,0 v 2 h 1 v -2 z M 1.0000001,8.9999999 V 11 H 2.0000003 V 8.9999999 Z M 13,8.9999999 V 11 h 1 V 8.9999999 Z M 1.0000001,12 v 2 H 2.0000002 V 12 Z M 13,12 v 1 h -1 v 1 h 1 1 v -2 z m -9.9999998,1 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 H 11 v -1 z"
+     style="opacity:0.8;fill:#808080;fill-opacity:1;opacity:0.8"
+     id="path4-5" />
+  <path
+     id="rect933"
+     style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1 1 L 1 2 L 1 13 L 1 14 L 2 14 L 14 14 L 14 13 L 14 1 L 2 1 L 1 1 z M 2 2 L 7 2 L 7 7 L 2 7 L 2 2 z M 8 2 L 13 2 L 13 7 L 8 7 L 8 2 z M 2 8 L 7 8 L 7 13 L 2 13 L 2 8 z M 8 8 L 13 8 L 13 13 L 8 13 L 8 8 z " />
+</svg>
