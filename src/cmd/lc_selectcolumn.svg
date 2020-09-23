@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_selectcolumn.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_selectcolumn.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,32 +41,43 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="3.9255343"
-     inkscape:cy="7.1070746"
+     inkscape:zoom="27.812867"
+     inkscape:cx="9.0978204"
+     inkscape:cy="13.751006"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect814"
+     id="rect827"
      width="14"
      height="14"
      x="5"
+     y="5"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
+  <rect
+     style="opacity:1;fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect861"
+     width="4"
+     height="14"
+     x="10"
      y="5" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 5,6 C 5,5 6,5 7,5 V 8 9 H 5.9003906 5 Z M 8,5 h 1 1 1 2 1 1 1 v 3 1 h -1 v 1 h 1 v 4 h -1 v 1 h 1 v 4 H 15 14 13 11 10 9 8 V 15 H 9 V 14 H 8 V 10 H 9 V 9 H 8 V 8 Z m 9,0 c 1,0 2,0 2,1 V 9 H 18 17 V 8 Z M 5,10 h 2 v 4 H 5 Z m 12,0 h 1 1 v 4 H 18 17 Z M 5,15 h 2 v 4 C 6,19 5,19 5,18 Z m 12,0 h 1 1 v 3 c 0,1 -1,1 -2,1 v -3 z"
+     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 7,5 H 9 V 6 7 H 8 5 V 6 C 5,5 6,5 7,5 Z m 3,0 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 5,8 h 3 1 v 1 1 H 5 V 9 Z m 5,0 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 1 1 H 8 5 v -1 z m 5,0 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 H 15 V 15 Z M 5,17 H 8 9 V 18.099609 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     d="m9 5v14h1v-.292969l4-4v4.292969h1v-5.292969-3.9999998-4-.7070312h-.707031-.292969v.2929688l-4 4v-4.2929688zm5 1.7070312v2.5859376l-4 4.0000002v-2.585938zm0 3.9999998v2.585938l-4 4v-2.585938z"
-     fill="#762572"
-     id="path4" />
+     id="rect841"
+     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 9 4 L 9 20 L 15 20 L 15 4 L 9 4 z M 10 5 L 14 5 L 14 7 L 10 7 L 10 5 z M 10 8 L 14 8 L 14 10 L 10 10 L 10 8 z M 10 11 L 14 11 L 14 13 L 10 13 L 10 11 z M 10 14 L 14 14 L 14 16 L 10 16 L 10 14 z M 10 17 L 14 17 L 14 19 L 10 19 L 10 17 z " />
 </svg>

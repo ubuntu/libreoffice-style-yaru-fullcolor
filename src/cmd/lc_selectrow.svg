@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_selectrow.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_selectrow.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,32 +41,47 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="4.1276095"
-     inkscape:cy="12.500701"
+     inkscape:zoom="39.333334"
+     inkscape:cx="12.002679"
+     inkscape:cy="10.667334"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect814"
-     width="14"
-     height="14"
-     x="5"
-     y="5" />
-  <path
-     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 5,6 C 5,5 6,5 7,5 H 9 V 6 7 H 8 5 Z m 5,-1 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 5,8 h 3 1 v 1 h 1 V 8 h 4 v 1 h 1 V 8 h 4 v 1 1 1 2 1 1 1 h -4 v -1 h -1 v 1 H 10 V 15 H 9 v 1 H 8 5 V 15 14 13 11 10 9 Z m 0,9 H 8 9 V 18.099609 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-  <path
-     d="m5 9v.7070312.2929688h.2929688l4 4h-4.2929688v1h14v-1h-.292969l-4-4h4.292969v-1h-5.292969-3.9999998-4zm1.7070312 1h2.5859376l4.0000002 4h-2.585938zm3.9999998 0h2.585938l4 4h-2.585938z"
-     fill="#762572"
-     id="path4" />
+  <g
+     id="g872"
+     transform="rotate(-90,14.275424,15.724576)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect827"
+       width="14"
+       height="14"
+       x="11"
+       y="6.4491525"
+       inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <rect
+       style="opacity:1;fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect861"
+       width="4"
+       height="14"
+       x="16"
+       y="6.4491525" />
+    <path
+       d="m 13,5.4491523 c -2,0 -3,0 -3,2 V 19.449152 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 7.4491523 c 0,-2 -1,-2 -3,-2 z m 0,1 h 2 v 1 1 h -1 -3 v -1 c 0,-1 1,-1 2,-1 z m 3,0 h 4 v 1 1 h -4 v -1 z m 5,0 h 2 c 1,0 2,0 2,1 v 1 h -3 -1 v -1 z m -10,3 h 3 1 v 0.9999997 1 h -4 v -1 z m 5,0 h 4 v 0.9999997 1 h -4 v -1 z m 5,0 h 4 v 0.9999997 1 h -4 v -1 z M 11,12.449152 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -10,3 h 4 v 1 1 h -1 -3 v -1 z m 5,0 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 h -4 v -1 z m -10,3 h 3 1 v 1.099609 0.900391 h -2 c -1,0 -2,0 -2,-1 z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:#6d6d6d;fill-opacity:1"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="rect841"
+       style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M 15,5.4491523 V 21.449152 h 6 V 5.4491523 Z m 1,1 h 4 v 2 h -4 z m 0,3 h 4 v 1.9999997 h -4 z m 0,2.9999997 h 4 v 2 h -4 z m 0,3 h 4 v 2 h -4 z m 0,3 h 4 v 2 h -4 z" />
+  </g>
 </svg>

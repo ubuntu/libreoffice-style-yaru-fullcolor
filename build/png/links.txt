@@ -79,7 +79,7 @@ cmd/32/clickchangerotation.png cmd/32/toggleobjectrotatemode.png
 cmd/32/closedocs.png cmd/32/closedoc.png
 cmd/32/closewin.png cmd/32/closepreview.png
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
-cmd/32/columnoperations.png cmd/32/entirecolumn.png
+cmd/32/columnoperations.png cmd/32/selectcolumn.png
 cmd/32/columnwidth.png cmd/32/setminimalcolumnwidth.png
 cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.png cmd/32/insertplugin.png
 cmd/32/commentchange.png cmd/32/commentchangetracking.png
@@ -150,6 +150,9 @@ cmd/32/editselectmenu.png cmd/32/selecttables.png
 cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
 cmd/32/editstyled.png cmd/32/editstyle.png
 cmd/32/ellipsetoolbox.png cmd/32/ellipse.png
+cmd/32/entirecell.png cmd/32/selectcell.png
+cmd/32/entirecolumn.png cmd/32/selectcolumn.png
+cmd/32/entirerow.png cmd/32/selectrow.png
 cmd/32/es/bold.png cmd/32/ca/bold.png
 cmd/32/es/italic.png cmd/32/de/italic.png
 cmd/32/es/numberformatdecdecimals.png cmd/32/de/numberformatdecdecimals.png
@@ -452,7 +455,7 @@ cmd/32/reportnavigator.png cmd/32/navigator.png
 cmd/32/rightpara.png cmd/32/alignright.png
 cmd/32/rotateflipmenu.png cmd/32/rotateleft.png
 cmd/32/rowheight.png cmd/32/setminimalrowheight.png
-cmd/32/rowoperations.png cmd/32/entirerow.png
+cmd/32/rowoperations.png cmd/32/selectrow.png
 cmd/32/ru/italic.png cmd/32/de/italic.png
 cmd/32/ru/underlinesimple.png cmd/32/ru/underline.png
 cmd/32/rulermenu.png cmd/32/ruler.png
@@ -744,7 +747,7 @@ cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
 cmd/lc_closedocs.png cmd/lc_closedoc.png
 cmd/lc_closewin.png cmd/lc_closepreview.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
-cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
+cmd/lc_columnoperations.png cmd/lc_selectcolumn.png
 cmd/lc_columnwidth.png cmd/lc_setminimalcolumnwidth.png
 cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/lc_insertplugin.png
 cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
@@ -820,6 +823,9 @@ cmd/lc_editselectmenu.png cmd/lc_selecttables.png
 cmd/lc_editshapehyperlink.png cmd/lc_inserthyperlink.png
 cmd/lc_editstyled.png cmd/lc_editstyle.png
 cmd/lc_ellipsetoolbox.png cmd/lc_ellipse.png
+cmd/lc_entirecell.png cmd/lc_selectcell.png
+cmd/lc_entirecolumn.png cmd/lc_selectcolumn.png
+cmd/lc_entirerow.png cmd/lc_selectrow.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
 cmd/lc_exportasgraphic.png cmd/lc_gallery.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
@@ -1064,7 +1070,7 @@ cmd/lc_reportnavigator.png cmd/lc_navigator.png
 cmd/lc_rightpara.png cmd/lc_alignright.png
 cmd/lc_rotateflipmenu.png cmd/lc_rotateleft.png
 cmd/lc_rowheight.png cmd/lc_setminimalrowheight.png
-cmd/lc_rowoperations.png cmd/lc_entirerow.png
+cmd/lc_rowoperations.png cmd/lc_selectrow.png
 cmd/lc_rulermenu.png cmd/lc_ruler.png
 cmd/lc_rulerrows.png cmd/lc_extrusiontiltleft.png
 cmd/lc_rulerrowsvertical.png cmd/lc_extrusiontiltright.png
@@ -1241,7 +1247,7 @@ cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 cmd/sc_closedocs.png cmd/sc_closedoc.png
 cmd/sc_closewin.png cmd/sc_closepreview.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
-cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
+cmd/sc_columnoperations.png cmd/sc_selectcolumn.png
 cmd/sc_columnwidth.png cmd/sc_setminimalcolumnwidth.png
 cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_insertplugin.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
@@ -1317,6 +1323,9 @@ cmd/sc_editselectmenu.png cmd/sc_selecttables.png
 cmd/sc_editshapehyperlink.png cmd/sc_inserthyperlink.png
 cmd/sc_editstyled.png cmd/sc_editstyle.png
 cmd/sc_ellipsetoolbox.png cmd/sc_ellipse.png
+cmd/sc_entirecell.png cmd/sc_selectcell.png
+cmd/sc_entirecolumn.png cmd/sc_selectcolumn.png
+cmd/sc_entirerow.png cmd/sc_selectrow.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_exportasgraphic.png cmd/sc_insertgraphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
@@ -1563,7 +1572,7 @@ cmd/sc_reportnavigator.png cmd/sc_navigator.png
 cmd/sc_rightpara.png cmd/sc_alignright.png
 cmd/sc_rotateflipmenu.png cmd/sc_rotateleft.png
 cmd/sc_rowheight.png cmd/sc_setminimalrowheight.png
-cmd/sc_rowoperations.png cmd/sc_entirerow.png
+cmd/sc_rowoperations.png cmd/sc_selectrow.png
 cmd/sc_rulermenu.png cmd/sc_ruler.png
 cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
