@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="deleterows.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/deleterows.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="8.7076638"
-     inkscape:cy="13.848022"
+     inkscape:zoom="20.85965"
+     inkscape:cx="23.180597"
+     inkscape:cy="16.913742"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -66,14 +67,14 @@
      style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     d="m4 11v1 2.732422 1.535156 2.732422 1h10 1 13v-1-7-1h-13-1zm1 1h1.3417969l-1.3417969 1.566406zm2.6582031 0h2.6835939l-5.341797 6.232422v-3.13086l2.3808594-2.777343zm3.9999999 0h2.341797.341797l-.341797.398438-5.3789062 6.27539-.28125.326172h-2.6816407l5.7226559-6.675781zm4 0h2.683594l-3.341797 3.898438-1 1.166015-1.378906 1.609375-.28125.326172h-2.6816409l4.3417969-5.064453 1-1.166016.380859-.445312zm4 0h2.683594l-5.720703 6.673828-.28125.326172h-1.339844-1-.341797l.341797-.398438.115234-.134765.884766-1.03125 4.380859-5.111328zm4 0h2.683594l-5.720703 6.673828-.28125.326172h-2.681641l5.722656-6.675781zm3.341797.769531v3.128907l-2.378906 2.77539-.28125.326172h-2.681641zm0 4.666016v1.564453h-1.341797z"
+     d="m 4,11 v 1 2.732422 1.535156 V 19 20 h 10 1 13 V 19 12 11 H 15 14 Z"
      id="path4"
-     fill="#c7162b" />
+     style="fill:#c7162b;fill-opacity:1" />
   <circle
      style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
      cy="26"
-     cx="25"
+     cx="26"
      r="5" />
   <path
      inkscape:connector-curvature="0"
@@ -81,6 +82,27 @@
      overflow="visible"
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="m 22.171575,23.878679 2.121318,2.121322 -2.121318,2.121322 0.707105,0.707105 2.12132,-2.12132 2.121322,2.121318 0.707105,-0.707105 -2.12132,-2.12132 2.12132,-2.12132 L 27.121322,23.171576 25,25.292894 22.87868,23.171574 Z"
+     d="m 23.171575,23.878679 2.121318,2.121322 -2.121318,2.121322 0.707105,0.707105 2.12132,-2.12132 2.121322,2.121318 0.707105,-0.707105 -2.12132,-2.12132 2.12132,-2.12132 L 28.121322,23.171576 26,25.292894 23.87868,23.171574 Z"
      sodipodi:nodetypes="ccccccccccccc" />
+  <rect
+     style="fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect853"
+     width="22"
+     height="7"
+     x="5"
+     y="12" />
+  <rect
+     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect855"
+     width="1"
+     height="7"
+     x="12"
+     y="12" />
+  <rect
+     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect857"
+     width="1"
+     height="7"
+     x="19"
+     y="12" />
 </svg>

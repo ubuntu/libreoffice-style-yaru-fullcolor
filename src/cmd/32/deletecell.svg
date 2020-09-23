@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="deletecell.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/deletecell.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="15.781175"
-     inkscape:cy="11.419037"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="29.5"
+     inkscape:cx="15.947004"
+     inkscape:cy="12.828608"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -66,9 +67,9 @@
      style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccaccccccccc" />
   <path
-     d="m12 11v1 2 1 4 1h1 2.732422 1.535156 2.732422v-1-7-1h-1.564453-1.537109-3.13086zm1 1h2.732422l-2.333984 2-.398438.341797v-.341797zm4.267578 0h1.732422v1.199219l-.935547.800781-1.166015 1-3.898438 3.341797v-2.683594l.324219-.277344.445312-.380859 1.166016-1zm1.732422 2.515625v2.683594l-2.101562 1.800781h-3.128907l4.666016-4zm0 4v.484375h-.564453z"
-     fill="#c7162b"
-     id="path4" />
+     d="m 12,11 v 1 2 1 4 1 h 1 2.732422 1.535156 H 20 v -1 -7 -1 h -1.564453 -1.537109 -3.13086 z"
+     id="path4"
+     style="fill:#c7162b;fill-opacity:1" />
   <circle
      style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:4.49999952;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
@@ -82,4 +83,11 @@
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
      d="M 27.914213,24.37868 26.5,25.792894 25.085786,24.378679 24.378679,25.085786 25.792893,26.5 24.37868,27.914214 25.085786,28.621321 26.5,27.207107 27.914213,28.621321 28.62132,27.914214 27.207107,26.5 28.62132,25.085787 Z" />
+  <rect
+     style="fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect845"
+     width="6"
+     height="7"
+     x="13"
+     y="12" />
 </svg>
