@@ -2166,8 +2166,7 @@ svx/res/symphony/AdjustColorRed_16x16.xxx cmd/sc_grafred.xxx
 svx/res/symphony/decrease_font.xxx cmd/sc_shrink.xxx
 svx/res/symphony/enlarge_font.xxx cmd/sc_grow.xxx
 svx/res/symphony/fill_color.xxx cmd/sc_backgroundcolor.xxx
-svx/res/symphony/last_custom_common.xxx cmd/last_custom_common.xxx
-svx/res/symphony/last_custom_common_grey.xxx cmd/last_custom_common_grey.xxx
+svx/res/symphony/last_custom_common_grey.xxx svx/res/symphony/last_custom_common.xxx
 svx/res/symphony/lpselected-spacing-1.xxx cmd/lc_spacepara1.xxx
 svx/res/symphony/lpselected-spacing-1_15.xxx cmd/lc_spacepara1.xxx
 svx/res/symphony/lpselected-spacing-1_5.xxx cmd/lc_spacepara15.xxx
@@ -2178,6 +2177,11 @@ svx/res/symphony/para_numbullet02.xxx cmd/sc_defaultnumbering.xxx
 svx/res/symphony/rotate_left.xxx cmd/sc_rotateleft.xxx
 svx/res/symphony/rotate_right.xxx cmd/sc_rotateright.xxx
 svx/res/symphony/spacing3.xxx cmd/sc_spacepara1.xxx
+svx/res/symphony/spacing_loose_s.xxx svx/res/symphony/spacing_loose.xxx
+svx/res/symphony/spacing_normal_s.xxx svx/res/symphony/spacing_normal.xxx
+svx/res/symphony/spacing_tight_s.xxx svx/res/symphony/spacing_tight.xxx
+svx/res/symphony/spacing_very_loose_s.xxx svx/res/symphony/spacing_very_loose.xxx
+svx/res/symphony/spacing_very_tight_s.xxx svx/res/symphony/spacing_very_tight.xxx
 svx/res/time.xxx cmd/sc_timefield.xxx
 svx/res/zoom_page_statusbar.xxx cmd/sc_zoompanning.xxx
 sw/res/all_left.xxx cmd/sc_firstrecord.xxx
