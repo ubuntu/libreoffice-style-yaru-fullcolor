@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_insertcolumns.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_insertcolumns.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="-6.6319408"
-     inkscape:cy="8.9708517"
+     inkscape:cx="7.9493744"
+     inkscape:cy="10.566158"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -63,12 +64,18 @@
      inkscape:export-xdpi="95"
      inkscape:export-ydpi="95"
      transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     style="fill:#ddf6d5;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect872"
+     width="4"
+     height="14"
+     x="-9"
+     y="5"
+     transform="scale(-1,1)" />
   <path
-     d="m 6,4 h 3 1 v 1 3 4 4 3 1 H 9 6.71875 6 C 4,20 4,19 4,17 V 16 12 9.28125 8 7 C 4,5 4,4 6,4 Z M 6,5 C 5,5 5,6 5,7 V 8 8.28125 L 8.28125,5 Z M 5,9.71875 V 12 12.28125 L 5.28125,12 9,8.28125 V 8 5.71875 Z m 0,4 V 16 16.28125 L 5.28125,16 9,12.28125 V 12 9.71875 L 6.71875,12 Z m 0,4 C 5,18 5,19 6,19 H 6.28125 L 9,16.28125 V 16 13.71875 L 6.71875,16 Z M 7.71875,19 H 9 v -1.28125 z"
      id="path4"
-     inkscape:connector-curvature="0"
      style="fill:#46a926;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="m 10,4 v 1 3 4 4 3 1 H 9 6.71875 6 C 4,20 4,19 4,17 V 16 12 9.28125 8 7 C 4,5 4,4 6,4 H 9 Z M 9,5 H 7 C 6,5 5,5 5,6 V 7 H 9 Z M 9,8 H 5 v 2 h 4 z m 0,3 H 5 v 2 h 4 z m 0,3 H 5 v 2 h 4 z m 0,3 H 5 v 1 c 0,1 1,1 2,1 h 2 z" />
   <path
      d="m 18,4 h -3 -1 -4 v 1 h 4 v 2 h -4 v 1 h 4 v 2 h -4 v 1 h 4 v 2 h -4 v 1 h 4 v 2 h -4 v 1 h 4 v 2 h -4 v 1 h 4 1 3 c 2,0 2,-1 2,-3 V 14 13 7 C 20,5 20,4 18,4 Z m 0,1 c 0.94389,0 1,1 1,2 H 15 V 5 Z m 1,3 v 2 H 15 V 8 Z m 0,3 v 2 h -4 v -2 z m 0,3 v 2 h -4 v -2 z m 0,3 c 0,1 0,2 -1,2 h -3 v -2 z"
      id="path2"

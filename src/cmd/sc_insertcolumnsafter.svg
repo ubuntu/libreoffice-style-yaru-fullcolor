@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_insertcolumnsafter.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_insertcolumnsafter.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="-5.0207553"
-     inkscape:cy="9.1025039"
+     inkscape:cx="10.815195"
+     inkscape:cy="6.093792"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -66,12 +67,17 @@
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="fill:#ddf6d5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="rect849"
+     width="3"
+     height="10"
+     x="10"
+     y="3" />
   <path
-     d="M 14,4 V 4.28125 5.71875 6 7 8.28125 9.71875 10 12 c 0,2 -1,2 -3,2 H 10 9 V 13 12 11 10 9.28125 8 7 6 5.28125 4 3 2 h 1 1 c 2,0 3,0 3,2 z M 13,4 C 13,3 12,3 11,3 h 1.71875 L 12.528866,3.1898835 11.71875,4 10,5.71875 V 6 7 8 8.28125 L 10.28125,8 l 1,-1 1,-1 L 13,5.28125 Z M 11.28125,3 H 10 V 4 4.28125 L 10.28125,4 Z M 13,6.71875 12.71875,7 l -1,1 L 10,9.71875 V 10 v 1 1 0.28125 L 10.28125,12 l 1,-1 1,-1 L 13,9.28125 V 7 Z m 0,4 L 12.71875,11 l -1,1 -1,1 H 11 c 1,0 2,0 2,-1 z"
      id="path4"
-     inkscape:connector-curvature="0"
      style="fill:#46a926;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 9 2 L 9 3 L 9 4 L 9 5.28125 L 9 6 L 9 7 L 9 8 L 9 9.28125 L 9 10 L 9 11 L 9 12 L 9 13 L 9 14 L 10 14 L 11 14 C 13 14 14 14 14 12 L 14 10 L 14 9.71875 L 14 8.28125 L 14 7 L 14 6 L 14 5.71875 L 14 4.28125 L 14 4 C 14 2 13 2 11 2 L 10 2 L 9 2 z M 10 3 L 11 3 C 12 3 13 3 13 4 L 13 5 L 10 5 L 10 3 z M 10 6 L 13 6 L 13 9 L 10 9 L 10 6 z M 10 10 L 13 10 L 13 12 C 13 13 12 13 11 13 L 10 13 L 10 10 z " />
   <circle
      style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"

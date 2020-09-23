@@ -10,7 +10,7 @@
    inkscape:export-ydpi="95"
    inkscape:export-xdpi="95"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_insertcell.png"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="lc_insertcell.svg"
    id="svg6"
    version="1.1"
@@ -34,9 +34,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="11.982339"
-     inkscape:cx="8.9546648"
-     inkscape:zoom="27.812867"
+     inkscape:cy="12.265826"
+     inkscape:cx="12.69273"
+     inkscape:zoom="55.625734"
      showgrid="true"
      id="namedview8"
      inkscape:window-height="1011"
@@ -78,16 +78,6 @@
        id="path835"
        d="m 9,10 v 4 h 6 v -4 z m 1,1 h 4 v 2 h -4 z"
        style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path837"
-       d="m 11,11 -1,2 h 1 l 1,-2 z"
-       style="fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 13,11 -1,2 h 1 l 1,-2 z"
-       id="path839"
-       inkscape:connector-curvature="0" />
   </g>
   <circle
      r="3.5"
@@ -102,4 +92,11 @@
      overflow="visible"
      id="path1063"
      inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#ddf6d5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="rect838"
+     width="4"
+     height="2"
+     x="10"
+     y="11" />
 </svg>
