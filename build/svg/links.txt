@@ -79,7 +79,7 @@ cmd/32/clickchangerotation.svg cmd/32/toggleobjectrotatemode.svg
 cmd/32/closedocs.svg cmd/32/closedoc.svg
 cmd/32/closewin.svg cmd/32/closepreview.svg
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
-cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
+cmd/32/columnoperations.svg cmd/32/selectcolumn.svg
 cmd/32/columnwidth.svg cmd/32/setminimalcolumnwidth.svg
 cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/32/insertplugin.svg
 cmd/32/commentchange.svg cmd/32/commentchangetracking.svg
@@ -150,6 +150,9 @@ cmd/32/editselectmenu.svg cmd/32/selecttables.svg
 cmd/32/editshapehyperlink.svg cmd/32/inserthyperlink.svg
 cmd/32/editstyled.svg cmd/32/editstyle.svg
 cmd/32/ellipsetoolbox.svg cmd/32/ellipse.svg
+cmd/32/entirecell.svg cmd/32/selectcell.svg
+cmd/32/entirecolumn.svg cmd/32/selectcolumn.svg
+cmd/32/entirerow.svg cmd/32/selectrow.svg
 cmd/32/es/bold.svg cmd/32/ca/bold.svg
 cmd/32/es/italic.svg cmd/32/de/italic.svg
 cmd/32/es/numberformatdecdecimals.svg cmd/32/de/numberformatdecdecimals.svg
@@ -452,7 +455,7 @@ cmd/32/reportnavigator.svg cmd/32/navigator.svg
 cmd/32/rightpara.svg cmd/32/alignright.svg
 cmd/32/rotateflipmenu.svg cmd/32/rotateleft.svg
 cmd/32/rowheight.svg cmd/32/setminimalrowheight.svg
-cmd/32/rowoperations.svg cmd/32/entirerow.svg
+cmd/32/rowoperations.svg cmd/32/selectrow.svg
 cmd/32/ru/italic.svg cmd/32/de/italic.svg
 cmd/32/ru/underlinesimple.svg cmd/32/ru/underline.svg
 cmd/32/rulermenu.svg cmd/32/ruler.svg
@@ -744,7 +747,7 @@ cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
 cmd/lc_closewin.svg cmd/lc_closepreview.svg
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
-cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
+cmd/lc_columnoperations.svg cmd/lc_selectcolumn.svg
 cmd/lc_columnwidth.svg cmd/lc_setminimalcolumnwidth.svg
 cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/lc_insertplugin.svg
 cmd/lc_commentchange.svg cmd/lc_commentchangetracking.svg
@@ -820,6 +823,9 @@ cmd/lc_editselectmenu.svg cmd/lc_selecttables.svg
 cmd/lc_editshapehyperlink.svg cmd/lc_inserthyperlink.svg
 cmd/lc_editstyled.svg cmd/lc_editstyle.svg
 cmd/lc_ellipsetoolbox.svg cmd/lc_ellipse.svg
+cmd/lc_entirecell.svg cmd/lc_selectcell.svg
+cmd/lc_entirecolumn.svg cmd/lc_selectcolumn.svg
+cmd/lc_entirerow.svg cmd/lc_selectrow.svg
 cmd/lc_exitsearch.svg cmd/lc_closedoc.svg
 cmd/lc_exportasgraphic.svg cmd/lc_gallery.svg
 cmd/lc_exportasmenu.svg cmd/lc_exportto.svg
@@ -1064,7 +1070,7 @@ cmd/lc_reportnavigator.svg cmd/lc_navigator.svg
 cmd/lc_rightpara.svg cmd/lc_alignright.svg
 cmd/lc_rotateflipmenu.svg cmd/lc_rotateleft.svg
 cmd/lc_rowheight.svg cmd/lc_setminimalrowheight.svg
-cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
+cmd/lc_rowoperations.svg cmd/lc_selectrow.svg
 cmd/lc_rulermenu.svg cmd/lc_ruler.svg
 cmd/lc_rulerrows.svg cmd/lc_extrusiontiltleft.svg
 cmd/lc_rulerrowsvertical.svg cmd/lc_extrusiontiltright.svg
@@ -1241,7 +1247,7 @@ cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg
 cmd/sc_closewin.svg cmd/sc_closepreview.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
-cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
+cmd/sc_columnoperations.svg cmd/sc_selectcolumn.svg
 cmd/sc_columnwidth.svg cmd/sc_setminimalcolumnwidth.svg
 cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/sc_insertplugin.svg
 cmd/sc_commentchange.svg cmd/sc_commentchangetracking.svg
@@ -1317,6 +1323,9 @@ cmd/sc_editselectmenu.svg cmd/sc_selecttables.svg
 cmd/sc_editshapehyperlink.svg cmd/sc_inserthyperlink.svg
 cmd/sc_editstyled.svg cmd/sc_editstyle.svg
 cmd/sc_ellipsetoolbox.svg cmd/sc_ellipse.svg
+cmd/sc_entirecell.svg cmd/sc_selectcell.svg
+cmd/sc_entirecolumn.svg cmd/sc_selectcolumn.svg
+cmd/sc_entirerow.svg cmd/sc_selectrow.svg
 cmd/sc_exitsearch.svg cmd/sc_closedoc.svg
 cmd/sc_exportasgraphic.svg cmd/sc_insertgraphic.svg
 cmd/sc_exportasmenu.svg cmd/sc_exportto.svg
@@ -1563,7 +1572,7 @@ cmd/sc_reportnavigator.svg cmd/sc_navigator.svg
 cmd/sc_rightpara.svg cmd/sc_alignright.svg
 cmd/sc_rotateflipmenu.svg cmd/sc_rotateleft.svg
 cmd/sc_rowheight.svg cmd/sc_setminimalrowheight.svg
-cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
+cmd/sc_rowoperations.svg cmd/sc_selectrow.svg
 cmd/sc_rulermenu.svg cmd/sc_ruler.svg
 cmd/sc_rulerrows.svg cmd/sc_extrusiontiltleft.svg
 cmd/sc_rulerrowsvertical.svg cmd/sc_extrusiontiltright.svg

@@ -10,9 +10,9 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
-   sodipodi:docname="deletecell.svg"
+   sodipodi:docname="selectcell.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/deletecell.png"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/entirecell.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
   <metadata
@@ -41,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="15.947004"
-     inkscape:cy="12.828608"
+     inkscape:zoom="10.429825"
+     inkscape:cx="24.710165"
+     inkscape:cy="3.4667744"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,22 +69,9 @@
   <path
      d="m 12,11 v 1 2 1 4 1 h 1 2.732422 1.535156 H 20 v -1 -7 -1 h -1.564453 -1.537109 -3.13086 z"
      id="path4"
-     style="fill:#c7162b;fill-opacity:1" />
-  <circle
-     style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:4.49999952;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path2644"
-     cy="26.5"
-     cx="26.5"
-     r="4.5" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path1063"
-     overflow="visible"
-     font-weight="400"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="M 27.914213,24.37868 26.5,25.792894 25.085786,24.378679 24.378679,25.085786 25.792893,26.5 24.37868,27.914214 25.085786,28.621321 26.5,27.207107 27.914213,28.621321 28.62132,27.914214 27.207107,26.5 28.62132,25.085787 Z" />
+     style="fill:#762572;fill-opacity:1" />
   <rect
-     style="fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect845"
      width="6"
      height="7"
