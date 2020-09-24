@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_definedbname.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -100,12 +100,13 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="1.5034665"
-     inkscape:cy="12.880692"
+     inkscape:cx="9.8754066"
+     inkscape:cy="13.017628"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid827" />
@@ -113,10 +114,10 @@
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect850"
-     width="3"
-     height="11"
+     width="15"
+     height="10.999999"
      x="4.0000005"
-     y="8.000001" />
+     y="8" />
   <rect
      style="opacity:1;fill:#a6d74f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect852"
@@ -125,14 +126,12 @@
      x="4.0000005"
      y="4" />
   <path
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 3,5 v 3 10 c 0,2 1,2 3,2 H 8 V 8 H 20 V 5 C 20,3 19,3 17,3 H 8 6 C 4,3 3,3 3,5 Z M 4,5 C 4,4 5,4 6,4 H 7 V 7 H 4 Z M 8,4 h 3 V 7 H 8 Z m 4,0 h 3 v 3 h -3 z m 4,0 h 1 c 1,0 2,0 2,1 V 7 H 16 Z M 3.9999999,8 H 7 v 3 H 4 Z m 0,4 H 7 v 3 H 4 Z m 0,4 H 7 v 3 H 6 C 5,19 4,19 4,18 Z"
      id="rect824"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6 3 C 4 3 3 3 3 5 L 3 8 L 3 15 L 3 18 C 3 20 4 20 6 20 L 8 20 L 13 20 L 13 19 L 12 19 L 12 16 L 13 16 L 13 15 L 12 15 L 12 12 L 13.283203 12 C 13.633551 11.407943 14.273266 11 15 11 L 12 11 L 12 8 L 15 8 L 15 11 C 15.603202 11 16.134458 11.28984 16.5 11.724609 C 16.988097 11.696703 17.519935 11.768132 18.142578 11.941406 L 18.144531 11.941406 C 18.204867 11.958149 18.243555 11.981988 18.300781 12 L 19 12 L 19 12.261719 C 19.26415 12.385952 19.489898 12.513606 19.683594 12.625 C 19.793877 12.688424 19.896843 12.739412 20 12.794922 L 20 8 L 20 5 C 20 4.75 19.984365 4.5312499 19.953125 4.3398438 C 19.73437 3 18.75 3 17 3 L 15 3 L 8 3 L 6 3 z M 6 4 L 7 4 L 7 7 L 4 7 L 4 5 C 4 4 5 4 6 4 z M 8 4 L 11 4 L 11 7 L 8 7 L 8 4 z M 12 4 L 15 4 L 15 7 L 12 7 L 12 4 z M 16 4 L 17 4 C 18 4 19 4 19 5 L 19 7 L 16 7 L 16 4 z M 4 8 L 7 8 L 7 11 L 4 11 L 4 8 z M 8 8 L 11 8 L 11 11 L 8 11 L 8 8 z M 16 8 L 19 8 L 19 11 L 16 11 L 16 8 z M 4 12 L 7 12 L 7 15 L 4 15 L 4 12 z M 8 12 L 11 12 L 11 15 L 8 15 L 8 12 z M 4 16 L 7 16 L 7 19 L 6 19 C 5 19 4 19 4 18 L 4 16 z M 8 16 L 11 16 L 11 19 L 8 19 L 8 16 z " />
   <path
      id="path60"
-     d="m 12,11 c -0.01,-0.303 0.738,-0.412 1.876,-0.095 1.137,0.315 1.443,0.847 2.73,1.214 1.193,0.34 3.4,-0.002 3.394,0.304 l 0.012,5.937 c 0.01,0.408 -2.068,0.387 -3.358,0.078 -1.287,-0.308 -1.53,-0.907 -2.743,-1.22 C 12.697,16.906 11.973,17.559 12,17 Z"
+     d="m 16,13 c -0.01,-0.303 0.738,-0.412 1.876,-0.095 1.137,0.315 1.443,0.847 2.73,1.214 1.193,0.34 3.4,-0.002 3.394,0.304 l 0.012,5.937 c 0.01,0.408 -2.068,0.387 -3.358,0.078 -1.287,-0.308 -1.53,-0.907 -2.743,-1.22 C 16.697,18.906 15.973,19.559 16,19 Z"
      inkscape:connector-curvature="0"
      style="fill:#fa9381;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
      sodipodi:nodetypes="ccccccccc" />
@@ -141,7 +140,7 @@
      id="rect861"
      width="2"
      height="12"
-     x="10"
-     y="10"
+     x="14"
+     y="12"
      ry="1" />
 </svg>
