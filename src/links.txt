@@ -441,7 +441,6 @@ cmd/32/pt/underline.xxx cmd/32/ca/underline.xxx
 cmd/32/pt/underlinedouble.xxx cmd/32/ca/underlinedouble.xxx
 cmd/32/pt/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/quickedit.xxx cmd/32/editdoc.xxx
-cmd/32/recalcpivottable.xxx cmd/32/dataarearefresh.xxx
 cmd/32/recsave.xxx cmd/32/save.xxx
 cmd/32/rectangletoolbox.xxx cmd/32/rect.xxx
 cmd/32/recundo.xxx cmd/32/undo.xxx
@@ -1056,7 +1055,6 @@ cmd/lc_printpagepreview.xxx cmd/lc_printpreview.xxx
 cmd/lc_printrangesmenu.xxx cmd/lc_defineprintarea.xxx
 cmd/lc_protecttracechangemode.xxx cmd/lc_protect.xxx
 cmd/lc_quickedit.xxx cmd/lc_editdoc.xxx
-cmd/lc_recalcpivottable.xxx cmd/lc_dataarearefresh.xxx
 cmd/lc_recsave.xxx cmd/lc_save.xxx
 cmd/lc_rectangletoolbox.xxx cmd/lc_rect.xxx
 cmd/lc_recundo.xxx cmd/lc_undo.xxx
@@ -1558,7 +1556,6 @@ cmd/sc_printpagepreview.xxx cmd/sc_printpreview.xxx
 cmd/sc_printrangesmenu.xxx cmd/sc_defineprintarea.xxx
 cmd/sc_protecttracechangemode.xxx cmd/sc_protect.xxx
 cmd/sc_quickedit.xxx cmd/sc_editdoc.xxx
-cmd/sc_recalcpivottable.xxx cmd/sc_dataarearefresh.xxx
 cmd/sc_recsave.xxx cmd/sc_save.xxx
 cmd/sc_rectangletoolbox.xxx cmd/sc_rect.xxx
 cmd/sc_recundo.xxx cmd/sc_undo.xxx

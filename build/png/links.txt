@@ -441,7 +441,6 @@ cmd/32/pt/underline.png cmd/32/ca/underline.png
 cmd/32/pt/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/pt/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/quickedit.png cmd/32/editdoc.png
-cmd/32/recalcpivottable.png cmd/32/dataarearefresh.png
 cmd/32/recsave.png cmd/32/save.png
 cmd/32/rectangletoolbox.png cmd/32/rect.png
 cmd/32/recundo.png cmd/32/undo.png
@@ -1056,7 +1055,6 @@ cmd/lc_printpagepreview.png cmd/lc_printpreview.png
 cmd/lc_printrangesmenu.png cmd/lc_defineprintarea.png
 cmd/lc_protecttracechangemode.png cmd/lc_protect.png
 cmd/lc_quickedit.png cmd/lc_editdoc.png
-cmd/lc_recalcpivottable.png cmd/lc_dataarearefresh.png
 cmd/lc_recsave.png cmd/lc_save.png
 cmd/lc_rectangletoolbox.png cmd/lc_rect.png
 cmd/lc_recundo.png cmd/lc_undo.png
@@ -1558,7 +1556,6 @@ cmd/sc_printpagepreview.png cmd/sc_printpreview.png
 cmd/sc_printrangesmenu.png cmd/sc_defineprintarea.png
 cmd/sc_protecttracechangemode.png cmd/sc_protect.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
-cmd/sc_recalcpivottable.png cmd/sc_dataarearefresh.png
 cmd/sc_recsave.png cmd/sc_save.png
 cmd/sc_rectangletoolbox.png cmd/sc_rect.png
 cmd/sc_recundo.png cmd/sc_undo.png
