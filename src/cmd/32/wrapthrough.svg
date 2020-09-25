@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="wrapthrough.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/wrapthrough.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="7.4006151"
-     inkscape:cy="11.018289"
+     inkscape:cx="7.2559931"
+     inkscape:cy="18.140282"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid850" />
@@ -66,34 +67,6 @@
      height="2.0000002"
      x="4"
      y="25" />
-  <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect852"
-     width="24"
-     height="2.0000002"
-     x="4"
-     y="9" />
-  <rect
-     y="13"
-     x="4"
-     height="2.0000002"
-     width="24"
-     id="rect854"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect856"
-     width="24"
-     height="2.0000002"
-     x="4"
-     y="17" />
-  <rect
-     y="21"
-     x="4"
-     height="2.0000002"
-     width="24"
-     id="rect858"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
@@ -104,4 +77,48 @@
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#d85eca;fill-opacity:1;stroke-width:0.85714281" />
+  <path
+     id="rect852"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.642357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 4 9 L 4 11 L 10 11 L 10 10 L 22 10 L 22 11 L 28 11 L 28 9 L 4 9 z " />
+  <path
+     id="rect854"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.642357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 4 13 L 4 15 L 10 15 L 10 13 L 4 13 z M 22 13 L 22 15 L 28 15 L 28 13 L 22 13 z " />
+  <path
+     id="rect856"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.642357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 4 17 L 4 19 L 10 19 L 10 17 L 4 17 z M 22 17 L 22 19 L 28 19 L 28 17 L 22 17 z " />
+  <path
+     id="rect858"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.642357;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 4 21 L 4 23 L 28 23 L 28 21 L 22 21 L 22 22 L 10 22 L 10 21 L 4 21 z " />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect859"
+     width="12"
+     height="1"
+     x="10"
+     y="10" />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect861"
+     width="12"
+     height="1"
+     x="10"
+     y="21" />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect863"
+     width="12"
+     height="2"
+     x="10"
+     y="13" />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect865"
+     width="12"
+     height="2"
+     x="10"
+     y="17" />
 </svg>
