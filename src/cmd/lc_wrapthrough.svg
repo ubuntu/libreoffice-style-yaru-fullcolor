@@ -41,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="10.336335"
-     inkscape:cy="12.225736"
+     inkscape:zoom="39.333334"
+     inkscape:cx="11.785937"
+     inkscape:cy="9.7526016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,27 +53,6 @@
        type="xygrid"
        id="grid846" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect849"
-     width="18"
-     height="2.0000002"
-     x="3"
-     y="7" />
-  <rect
-     y="11"
-     x="3"
-     height="2.0000002"
-     width="18"
-     id="rect851"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect853"
-     width="18"
-     height="2.0000002"
-     x="3"
-     y="15" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -98,4 +77,37 @@
      height="2.0000002"
      x="3"
      y="19" />
+  <path
+     id="rect849"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 3 7 L 3 9 L 8 9 L 8 8 L 16 8 L 16 9 L 21 9 L 21 7 L 3 7 z " />
+  <path
+     id="rect851"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 3 11 L 3 13 L 8 13 L 8 11 L 3 11 z M 16 11 L 16 13 L 21 13 L 21 11 L 16 11 z " />
+  <path
+     id="rect853"
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 3 15 L 3 17 L 21 17 L 21 15 L 16 15 L 16 16 L 8 16 L 8 15 L 3 15 z " />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect854"
+     width="8"
+     height="1"
+     x="8"
+     y="8" />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect856"
+     width="8"
+     height="2"
+     x="8"
+     y="11" />
+  <rect
+     style="fill:#1a7fd4;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
+     id="rect858"
+     width="8"
+     height="1"
+     x="8"
+     y="15" />
 </svg>
