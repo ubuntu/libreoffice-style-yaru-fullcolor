@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="zoomout.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/zoomout.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -45,29 +45,32 @@
      inkscape:cx="0.81047253"
      inkscape:cy="8.9698465"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid827" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     id="path827"
-     d="m 7.3243916,7.3243919 a 11,11 0 0 0 0,15.5563491 11,11 0 0 0 15.1848414,0.335599 l 4.967702,4.967702 0.707107,-0.707107 -4.962177,-4.962177 a 11,11 0 0 0 -0.341124,-15.1903661 11,11 0 0 0 -15.5563494,0 z"
-     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     id="path853"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:transform-center-y="1.1837315"
+     d="m 7.9088944,7.9364584 a 10,10 0 0 0 0.01381,14.1283236 10,10 0 0 0 13.7802946,0.345267 l 4.951129,4.951128 0.707107,-0.707107 -4.952509,-4.952509 A 10,10 0 0 0 22.06484,7.9226474 a 10,10 0 0 0 -14.1421356,0 10,10 0 0 0 -0.01381,0.01381 z"
+     inkscape:transform-center-x="-1.1837244" />
   <path
-     style="opacity:1;fill:#c8c4b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18786657;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 7.3243916,7.3243919 a 11,11 0 0 0 0,15.5563491 11,11 0 0 0 15.1848414,0.335599 l 4.967702,4.967702 0.707107,-0.707107 -4.962177,-4.962177 a 11,11 0 0 0 -0.341124,-15.1903661 11,11 0 0 0 -15.5563494,0 z"
-     id="circle843"
-     inkscape:connector-curvature="0" />
+     id="circle848"
+     style="opacity:1;fill:#c8c4b7;fill-opacity:1;fill-rule:evenodd;stroke-width:4.70588;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-y="1.1837315"
+     d="m 7.9088944,7.9364584 a 10,10 0 0 0 0.01381,14.1283236 10,10 0 0 0 13.7802946,0.345267 l 4.951129,4.951128 0.707107,-0.707107 -4.952509,-4.952509 A 10,10 0 0 0 22.06484,7.9226474 a 10,10 0 0 0 -14.1421356,0 10,10 0 0 0 -0.01381,0.01381 z"
+     inkscape:transform-center-x="-1.1837244" />
   <circle
-     style="opacity:1;fill:#fffffe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07987869;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path826"
-     cx="-1.4716537e-06"
-     cy="21.358252"
-     r="10"
+     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:4.23529;stroke-linecap:round;stroke-linejoin:round"
+     id="path844"
+     cx="4.0678322e-05"
+     cy="21.204355"
+     r="9"
      transform="rotate(-45)" />
   <rect
      style="opacity:1;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
