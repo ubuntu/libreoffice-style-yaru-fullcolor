@@ -74,9 +74,12 @@ cmd/32/changesmenu.xxx cmd/32/trackchangesbar.xxx
 cmd/32/characterbackgroundpattern.xxx cmd/32/backcolor.xxx
 cmd/32/charactermenu.xxx cmd/32/fontdialog.xxx
 cmd/32/charbackcolor.xxx cmd/32/backcolor.xxx
+cmd/32/charmapcontrol.xxx cmd/32/insertsymbol.xxx
 cmd/32/choosecontrols.xxx cmd/32/controlproperties.xxx
 cmd/32/clickchangerotation.xxx cmd/32/toggleobjectrotatemode.xxx
 cmd/32/closedocs.xxx cmd/32/closedoc.xxx
+cmd/32/closemasterview.xxx cmd/32/closedoc.xxx
+cmd/32/closepreview.xxx cmd/32/closedoc.xxx
 cmd/32/closewin.xxx cmd/32/closepreview.xxx
 cmd/32/colorview.xxx cmd/32/graphicfilterinvert.xxx
 cmd/32/columnoperations.xxx cmd/32/entirecolumn.xxx
@@ -150,6 +153,7 @@ cmd/32/editselectmenu.xxx cmd/32/selecttables.xxx
 cmd/32/editshapehyperlink.xxx cmd/32/inserthyperlink.xxx
 cmd/32/editstyled.xxx cmd/32/editstyle.xxx
 cmd/32/ellipsetoolbox.xxx cmd/32/ellipse.xxx
+cmd/32/errorcellstyle.xxx cmd/32/showerrors.xxx
 cmd/32/es/bold.xxx cmd/32/ca/bold.xxx
 cmd/32/es/italic.xxx cmd/32/de/italic.xxx
 cmd/32/es/numberformatdecdecimals.xxx cmd/32/de/numberformatdecdecimals.xxx
@@ -438,6 +442,7 @@ cmd/32/pt/underline.xxx cmd/32/ca/underline.xxx
 cmd/32/pt/underlinedouble.xxx cmd/32/ca/underlinedouble.xxx
 cmd/32/pt/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/quickedit.xxx cmd/32/editdoc.xxx
+cmd/32/quit.xxx cmd/32/closedoc.xxx
 cmd/32/recalcpivottable.xxx cmd/32/dataarearefresh.xxx
 cmd/32/recsave.xxx cmd/32/save.xxx
 cmd/32/rectangletoolbox.xxx cmd/32/rect.xxx
@@ -499,6 +504,7 @@ cmd/32/sl/underlinedouble.xxx cmd/32/pl/underlinedouble.xxx
 cmd/32/sl/underlinesimple.xxx cmd/32/pl/underline.xxx
 cmd/32/slidesetup.xxx cmd/32/pagesetup.xxx
 cmd/32/solidcreate.xxx cmd/32/editdoc.xxx
+cmd/32/solverdialog.xxx cmd/32/helpindex.xxx
 cmd/32/sortdown.xxx cmd/32/sortdescending.xxx
 cmd/32/sortup.xxx cmd/32/sortascending.xxx
 cmd/32/sourceview.xxx cmd/32/symbolshapes.brace-pair.xxx
@@ -739,9 +745,12 @@ cmd/lc_changesmenu.xxx cmd/lc_trackchangesbar.xxx
 cmd/lc_characterbackgroundpattern.xxx cmd/lc_backcolor.xxx
 cmd/lc_charactermenu.xxx cmd/lc_fontdialog.xxx
 cmd/lc_charbackcolor.xxx cmd/lc_backcolor.xxx
+cmd/lc_charmapcontrol.xxx cmd/lc_insertsymbol.xxx
 cmd/lc_choosecontrols.xxx cmd/lc_controlproperties.xxx
 cmd/lc_clickchangerotation.xxx cmd/lc_toggleobjectrotatemode.xxx
 cmd/lc_closedocs.xxx cmd/lc_closedoc.xxx
+cmd/lc_closemasterview.xxx cmd/lc_closedoc.xxx
+cmd/lc_closepreview.xxx cmd/lc_closedoc.xxx
 cmd/lc_closewin.xxx cmd/lc_closepreview.xxx
 cmd/lc_colorview.xxx cmd/lc_graphicfilterinvert.xxx
 cmd/lc_columnoperations.xxx cmd/lc_entirecolumn.xxx
@@ -820,6 +829,7 @@ cmd/lc_editselectmenu.xxx cmd/lc_selecttables.xxx
 cmd/lc_editshapehyperlink.xxx cmd/lc_inserthyperlink.xxx
 cmd/lc_editstyled.xxx cmd/lc_editstyle.xxx
 cmd/lc_ellipsetoolbox.xxx cmd/lc_ellipse.xxx
+cmd/lc_errorcellstyle.xxx cmd/lc_showerrors.xxx
 cmd/lc_exitsearch.xxx cmd/lc_closedoc.xxx
 cmd/lc_exportasgraphic.xxx cmd/lc_gallery.xxx
 cmd/lc_exportasmenu.xxx cmd/lc_exportto.xxx
@@ -1050,6 +1060,7 @@ cmd/lc_printpagepreview.xxx cmd/lc_printpreview.xxx
 cmd/lc_printrangesmenu.xxx cmd/lc_defineprintarea.xxx
 cmd/lc_protecttracechangemode.xxx cmd/lc_protect.xxx
 cmd/lc_quickedit.xxx cmd/lc_editdoc.xxx
+cmd/lc_quit.xxx cmd/lc_closedoc.xxx
 cmd/lc_recalcpivottable.xxx cmd/lc_dataarearefresh.xxx
 cmd/lc_recsave.xxx cmd/lc_save.xxx
 cmd/lc_rectangletoolbox.xxx cmd/lc_rect.xxx
@@ -1107,6 +1118,7 @@ cmd/lc_showtrackedchanges.xxx cmd/lc_addwatch.xxx
 cmd/lc_sidebarmenu.xxx cmd/lc_sidebar.xxx
 cmd/lc_slidesetup.xxx cmd/lc_pagesetup.xxx
 cmd/lc_solidcreate.xxx cmd/lc_editdoc.xxx
+cmd/lc_solverdialog.xxx cmd/lc_helpindex.xxx
 cmd/lc_sortdown.xxx cmd/lc_sortdescending.xxx
 cmd/lc_sortup.xxx cmd/lc_sortascending.xxx
 cmd/lc_sourcecharstyle.xxx cmd/lc_insertscript.xxx
@@ -1236,9 +1248,12 @@ cmd/sc_changesmenu.xxx cmd/sc_trackchangesbar.xxx
 cmd/sc_characterbackgroundpattern.xxx cmd/sc_backcolor.xxx
 cmd/sc_charactermenu.xxx cmd/sc_fontdialog.xxx
 cmd/sc_charbackcolor.xxx cmd/sc_backcolor.xxx
+cmd/sc_charmapcontrol.xxx cmd/sc_insertsymbol.xxx
 cmd/sc_choosecontrols.xxx cmd/sc_controlproperties.xxx
 cmd/sc_clickchangerotation.xxx cmd/sc_toggleobjectrotatemode.xxx
 cmd/sc_closedocs.xxx cmd/sc_closedoc.xxx
+cmd/sc_closemasterview.xxx cmd/sc_closedoc.xxx
+cmd/sc_closepreview.xxx cmd/sc_closedoc.xxx
 cmd/sc_closewin.xxx cmd/sc_closepreview.xxx
 cmd/sc_colorview.xxx cmd/sc_graphicfilterinvert.xxx
 cmd/sc_columnoperations.xxx cmd/sc_entirecolumn.xxx
@@ -1317,6 +1332,7 @@ cmd/sc_editselectmenu.xxx cmd/sc_selecttables.xxx
 cmd/sc_editshapehyperlink.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_editstyled.xxx cmd/sc_editstyle.xxx
 cmd/sc_ellipsetoolbox.xxx cmd/sc_ellipse.xxx
+cmd/sc_errorcellstyle.xxx cmd/sc_showerrors.xxx
 cmd/sc_exitsearch.xxx cmd/sc_closedoc.xxx
 cmd/sc_exportasgraphic.xxx cmd/sc_insertgraphic.xxx
 cmd/sc_exportasmenu.xxx cmd/sc_exportto.xxx
@@ -1549,6 +1565,7 @@ cmd/sc_printpagepreview.xxx cmd/sc_printpreview.xxx
 cmd/sc_printrangesmenu.xxx cmd/sc_defineprintarea.xxx
 cmd/sc_protecttracechangemode.xxx cmd/sc_protect.xxx
 cmd/sc_quickedit.xxx cmd/sc_editdoc.xxx
+cmd/sc_quit.xxx cmd/sc_closedoc.xxx
 cmd/sc_recalcpivottable.xxx cmd/sc_dataarearefresh.xxx
 cmd/sc_recsave.xxx cmd/sc_save.xxx
 cmd/sc_rectangletoolbox.xxx cmd/sc_rect.xxx
@@ -1607,6 +1624,7 @@ cmd/sc_showtrackedchanges.xxx cmd/sc_addwatch.xxx
 cmd/sc_sidebarmenu.xxx cmd/sc_sidebar.xxx
 cmd/sc_slidesetup.xxx cmd/sc_pagesetup.xxx
 cmd/sc_solidcreate.xxx cmd/sc_editdoc.xxx
+cmd/lc_solverdialog.xxx cmd/lc_helpindex.xxx
 cmd/sc_sortdown.xxx cmd/sc_sortdescending.xxx
 cmd/sc_sortup.xxx cmd/sc_sortascending.xxx
 cmd/sc_sourcecharstyle.xxx cmd/sc_insertscript.xxx

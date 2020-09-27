@@ -74,9 +74,12 @@ cmd/32/changesmenu.svg cmd/32/trackchangesbar.svg
 cmd/32/characterbackgroundpattern.svg cmd/32/backcolor.svg
 cmd/32/charactermenu.svg cmd/32/fontdialog.svg
 cmd/32/charbackcolor.svg cmd/32/backcolor.svg
+cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
 cmd/32/choosecontrols.svg cmd/32/controlproperties.svg
 cmd/32/clickchangerotation.svg cmd/32/toggleobjectrotatemode.svg
 cmd/32/closedocs.svg cmd/32/closedoc.svg
+cmd/32/closemasterview.svg cmd/32/closedoc.svg
+cmd/32/closepreview.svg cmd/32/closedoc.svg
 cmd/32/closewin.svg cmd/32/closepreview.svg
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
 cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
@@ -150,6 +153,7 @@ cmd/32/editselectmenu.svg cmd/32/selecttables.svg
 cmd/32/editshapehyperlink.svg cmd/32/inserthyperlink.svg
 cmd/32/editstyled.svg cmd/32/editstyle.svg
 cmd/32/ellipsetoolbox.svg cmd/32/ellipse.svg
+cmd/32/errorcellstyle.svg cmd/32/showerrors.svg
 cmd/32/es/bold.svg cmd/32/ca/bold.svg
 cmd/32/es/italic.svg cmd/32/de/italic.svg
 cmd/32/es/numberformatdecdecimals.svg cmd/32/de/numberformatdecdecimals.svg
@@ -438,6 +442,7 @@ cmd/32/pt/underline.svg cmd/32/ca/underline.svg
 cmd/32/pt/underlinedouble.svg cmd/32/ca/underlinedouble.svg
 cmd/32/pt/underlinesimple.svg cmd/32/ca/underline.svg
 cmd/32/quickedit.svg cmd/32/editdoc.svg
+cmd/32/quit.svg cmd/32/closedoc.svg
 cmd/32/recalcpivottable.svg cmd/32/dataarearefresh.svg
 cmd/32/recsave.svg cmd/32/save.svg
 cmd/32/rectangletoolbox.svg cmd/32/rect.svg
@@ -499,6 +504,7 @@ cmd/32/sl/underlinedouble.svg cmd/32/pl/underlinedouble.svg
 cmd/32/sl/underlinesimple.svg cmd/32/pl/underline.svg
 cmd/32/slidesetup.svg cmd/32/pagesetup.svg
 cmd/32/solidcreate.svg cmd/32/editdoc.svg
+cmd/32/solverdialog.svg cmd/32/helpindex.svg
 cmd/32/sortdown.svg cmd/32/sortdescending.svg
 cmd/32/sortup.svg cmd/32/sortascending.svg
 cmd/32/sourceview.svg cmd/32/symbolshapes.brace-pair.svg
@@ -739,9 +745,12 @@ cmd/lc_changesmenu.svg cmd/lc_trackchangesbar.svg
 cmd/lc_characterbackgroundpattern.svg cmd/lc_backcolor.svg
 cmd/lc_charactermenu.svg cmd/lc_fontdialog.svg
 cmd/lc_charbackcolor.svg cmd/lc_backcolor.svg
+cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
 cmd/lc_choosecontrols.svg cmd/lc_controlproperties.svg
 cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
+cmd/lc_closemasterview.svg cmd/lc_closedoc.svg
+cmd/lc_closepreview.svg cmd/lc_closedoc.svg
 cmd/lc_closewin.svg cmd/lc_closepreview.svg
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
@@ -820,6 +829,7 @@ cmd/lc_editselectmenu.svg cmd/lc_selecttables.svg
 cmd/lc_editshapehyperlink.svg cmd/lc_inserthyperlink.svg
 cmd/lc_editstyled.svg cmd/lc_editstyle.svg
 cmd/lc_ellipsetoolbox.svg cmd/lc_ellipse.svg
+cmd/lc_errorcellstyle.svg cmd/lc_showerrors.svg
 cmd/lc_exitsearch.svg cmd/lc_closedoc.svg
 cmd/lc_exportasgraphic.svg cmd/lc_gallery.svg
 cmd/lc_exportasmenu.svg cmd/lc_exportto.svg
@@ -1050,6 +1060,7 @@ cmd/lc_printpagepreview.svg cmd/lc_printpreview.svg
 cmd/lc_printrangesmenu.svg cmd/lc_defineprintarea.svg
 cmd/lc_protecttracechangemode.svg cmd/lc_protect.svg
 cmd/lc_quickedit.svg cmd/lc_editdoc.svg
+cmd/lc_quit.svg cmd/lc_closedoc.svg
 cmd/lc_recalcpivottable.svg cmd/lc_dataarearefresh.svg
 cmd/lc_recsave.svg cmd/lc_save.svg
 cmd/lc_rectangletoolbox.svg cmd/lc_rect.svg
@@ -1107,6 +1118,7 @@ cmd/lc_showtrackedchanges.svg cmd/lc_addwatch.svg
 cmd/lc_sidebarmenu.svg cmd/lc_sidebar.svg
 cmd/lc_slidesetup.svg cmd/lc_pagesetup.svg
 cmd/lc_solidcreate.svg cmd/lc_editdoc.svg
+cmd/lc_solverdialog.svg cmd/lc_helpindex.svg
 cmd/lc_sortdown.svg cmd/lc_sortdescending.svg
 cmd/lc_sortup.svg cmd/lc_sortascending.svg
 cmd/lc_sourcecharstyle.svg cmd/lc_insertscript.svg
@@ -1236,9 +1248,12 @@ cmd/sc_changesmenu.svg cmd/sc_trackchangesbar.svg
 cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_charactermenu.svg cmd/sc_fontdialog.svg
 cmd/sc_charbackcolor.svg cmd/sc_backcolor.svg
+cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
 cmd/sc_choosecontrols.svg cmd/sc_controlproperties.svg
 cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg
+cmd/sc_closemasterview.svg cmd/sc_closedoc.svg
+cmd/sc_closepreview.svg cmd/sc_closedoc.svg
 cmd/sc_closewin.svg cmd/sc_closepreview.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
@@ -1317,6 +1332,7 @@ cmd/sc_editselectmenu.svg cmd/sc_selecttables.svg
 cmd/sc_editshapehyperlink.svg cmd/sc_inserthyperlink.svg
 cmd/sc_editstyled.svg cmd/sc_editstyle.svg
 cmd/sc_ellipsetoolbox.svg cmd/sc_ellipse.svg
+cmd/sc_errorcellstyle.svg cmd/sc_showerrors.svg
 cmd/sc_exitsearch.svg cmd/sc_closedoc.svg
 cmd/sc_exportasgraphic.svg cmd/sc_insertgraphic.svg
 cmd/sc_exportasmenu.svg cmd/sc_exportto.svg
@@ -1549,6 +1565,7 @@ cmd/sc_printpagepreview.svg cmd/sc_printpreview.svg
 cmd/sc_printrangesmenu.svg cmd/sc_defineprintarea.svg
 cmd/sc_protecttracechangemode.svg cmd/sc_protect.svg
 cmd/sc_quickedit.svg cmd/sc_editdoc.svg
+cmd/sc_quit.svg cmd/sc_closedoc.svg
 cmd/sc_recalcpivottable.svg cmd/sc_dataarearefresh.svg
 cmd/sc_recsave.svg cmd/sc_save.svg
 cmd/sc_rectangletoolbox.svg cmd/sc_rect.svg
@@ -1607,6 +1624,7 @@ cmd/sc_showtrackedchanges.svg cmd/sc_addwatch.svg
 cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
 cmd/sc_slidesetup.svg cmd/sc_pagesetup.svg
 cmd/sc_solidcreate.svg cmd/sc_editdoc.svg
+cmd/lc_solverdialog.svg cmd/lc_helpindex.svg
 cmd/sc_sortdown.svg cmd/sc_sortdescending.svg
 cmd/sc_sortup.svg cmd/sc_sortascending.svg
 cmd/sc_sourcecharstyle.svg cmd/sc_insertscript.svg
@@ -2166,6 +2184,7 @@ svx/res/symphony/AdjustColorRed_16x16.svg cmd/sc_grafred.svg
 svx/res/symphony/decrease_font.svg cmd/sc_shrink.svg
 svx/res/symphony/enlarge_font.svg cmd/sc_grow.svg
 svx/res/symphony/fill_color.svg cmd/sc_backgroundcolor.svg
+svx/res/symphony/last_custom_common_grey.svg svx/res/symphony/last_custom_common.svg
 svx/res/symphony/lpselected-spacing-1.svg cmd/lc_spacepara1.svg
 svx/res/symphony/lpselected-spacing-1_15.svg cmd/lc_spacepara1.svg
 svx/res/symphony/lpselected-spacing-1_5.svg cmd/lc_spacepara15.svg

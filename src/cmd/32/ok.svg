@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="ok.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/ok.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="13.794157"
-     inkscape:cy="16.847741"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="20.85965"
+     inkscape:cx="14.334929"
+     inkscape:cy="14.543072"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid845" />
@@ -64,4 +65,8 @@
      d="M 22.487665,10.517992 14,19 9.0489595,14.052354 7.6331401,15.467364 14,21.828426 23.903526,11.932962 Z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
+  <path
+     id="path832"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:round;opacity:0.6"
+     d="M 15.892578 3 A 13 13 0 0 0 3 16 A 13 13 0 0 0 16 29 A 13 13 0 0 0 29 16 A 13 13 0 0 0 16 3 A 13 13 0 0 0 15.892578 3 z M 16 4 A 12 12 0 0 1 28 16 A 12 12 0 0 1 16 28 A 12 12 0 0 1 4 16 A 12 12 0 0 1 16 4 z " />
 </svg>
