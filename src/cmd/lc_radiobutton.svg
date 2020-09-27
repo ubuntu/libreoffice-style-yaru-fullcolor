@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_radiobutton.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_radiobutton.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -43,25 +43,30 @@
      showgrid="true"
      inkscape:zoom="27.812867"
      inkscape:cx="5.1229429"
-     inkscape:cy="12.375382"
+     inkscape:cy="12.339427"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path819"
      cx="12"
      cy="12"
-     r="8" />
+     r="10" />
   <circle
      r="3"
      cy="12"
      cx="12"
      id="circle823"
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path832"
+     style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:round"
+     d="M 11.980469 2 A 10 10 0 0 0 2 12 A 10 10 0 0 0 12 22 A 10 10 0 0 0 22 12 A 10 10 0 0 0 12 2 A 10 10 0 0 0 11.980469 2 z M 11.990234 3 A 9 9 0 0 1 12 3 A 9 9 0 0 1 21 12 A 9 9 0 0 1 12 21 A 9 9 0 0 1 3 12 A 9 9 0 0 1 11.990234 3 z " />
 </svg>

@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_showerrors.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,24 +44,29 @@
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="5.2049429"
-     inkscape:cy="7.9315186"
+     inkscape:cy="7.8976203"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.33333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path824"
      cx="8"
      cy="8"
-     r="6" />
+     r="7" />
   <path
      d="m 7,4.0000001 v 5 h 2 v -5 z M 7,9.9999999 V 12 H 9 V 9.9999999 Z"
      id="path4"
      inkscape:connector-curvature="0"
      style="fill:#ffffff" />
+  <path
+     id="path832"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;opacity:0.6"
+     d="M 7.90625 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 A 7 7 0 0 0 7.90625 1 z M 8 2 A 6 6 0 0 1 14 8 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 z " />
 </svg>

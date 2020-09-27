@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/reload.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -43,23 +43,28 @@
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="10.229042"
-     inkscape:cy="13.691325"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:cy="13.643386"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.16667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path819"
      cx="16"
      cy="16"
-     r="12" />
+     r="13" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 16 8 A 8 8 0 0 0 11.503906 9.3828125 L 12.957031 10.835938 A 6 6 0 0 1 16 10 A 6 6 0 0 1 22 16 A 6 6 0 0 1 21.164062 19.042969 L 22.611328 20.490234 A 8 8 0 0 0 24 16 A 8 8 0 0 0 16 8 z M 9.3886719 11.509766 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 24 A 8 8 0 0 0 20.496094 22.617188 L 19.042969 21.164062 A 6 6 0 0 1 16 22 A 6 6 0 0 1 10 16 A 6 6 0 0 1 10.835938 12.957031 L 9.3886719 11.509766 z "
      id="path821" />
+  <path
+     id="path832"
+     style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:round"
+     d="M 15.892578 3 A 13 13 0 0 0 3 16 A 13 13 0 0 0 16 29 A 13 13 0 0 0 29 16 A 13 13 0 0 0 16 3 A 13 13 0 0 0 15.892578 3 z M 16 4 A 12 12 0 0 1 28 16 A 12 12 0 0 1 16 28 A 12 12 0 0 1 4 16 A 12 12 0 0 1 16 4 z " />
 </svg>

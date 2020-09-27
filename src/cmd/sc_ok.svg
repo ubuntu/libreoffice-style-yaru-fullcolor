@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_ok.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_ok.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -40,17 +40,19 @@
    inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="59"
-   inkscape:cx="5.1571034"
-   inkscape:cy="8.5317435"
+   inkscape:zoom="29.5"
+   inkscape:cx="1.9824523"
+   inkscape:cy="6.1618038"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid845" />
 </sodipodi:namedview>
+
 
 /&gt;<circle
    style="opacity:1;fill:#46a926;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.50000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
@@ -64,4 +66,8 @@
    d="M 11.597177,5.2843583 6.9994201,9.876402 4.5246824,7.4050585 3.4615668,8.4673642 7,12 12.660891,6.3471827 Z"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccccccc" />
+<path
+   id="path832"
+   style="fill:#000000;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:round;opacity:0.6"
+   d="M 7.90625 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 A 7 7 0 0 0 7.90625 1 z M 8 2 A 6 6 0 0 1 14 8 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 z " />
 </svg>

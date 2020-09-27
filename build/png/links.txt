@@ -74,9 +74,12 @@ cmd/32/changesmenu.png cmd/32/trackchangesbar.png
 cmd/32/characterbackgroundpattern.png cmd/32/backcolor.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/charbackcolor.png cmd/32/backcolor.png
+cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
 cmd/32/choosecontrols.png cmd/32/controlproperties.png
 cmd/32/clickchangerotation.png cmd/32/toggleobjectrotatemode.png
 cmd/32/closedocs.png cmd/32/closedoc.png
+cmd/32/closemasterview.png cmd/32/closedoc.png
+cmd/32/closepreview.png cmd/32/closedoc.png
 cmd/32/closewin.png cmd/32/closepreview.png
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
 cmd/32/columnoperations.png cmd/32/selectcolumn.png
@@ -153,6 +156,7 @@ cmd/32/ellipsetoolbox.png cmd/32/ellipse.png
 cmd/32/entirecell.png cmd/32/selectcell.png
 cmd/32/entirecolumn.png cmd/32/selectcolumn.png
 cmd/32/entirerow.png cmd/32/selectrow.png
+cmd/32/errorcellstyle.png cmd/32/showerrors.png
 cmd/32/es/bold.png cmd/32/ca/bold.png
 cmd/32/es/italic.png cmd/32/de/italic.png
 cmd/32/es/numberformatdecdecimals.png cmd/32/de/numberformatdecdecimals.png
@@ -441,6 +445,8 @@ cmd/32/pt/underline.png cmd/32/ca/underline.png
 cmd/32/pt/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/pt/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/quickedit.png cmd/32/editdoc.png
+cmd/32/quit.png cmd/32/closedoc.png
+cmd/32/recalcpivottable.png cmd/32/dataarearefresh.png
 cmd/32/recsave.png cmd/32/save.png
 cmd/32/rectangletoolbox.png cmd/32/rect.png
 cmd/32/recundo.png cmd/32/undo.png
@@ -501,6 +507,7 @@ cmd/32/sl/underlinedouble.png cmd/32/pl/underlinedouble.png
 cmd/32/sl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/slidesetup.png cmd/32/pagesetup.png
 cmd/32/solidcreate.png cmd/32/editdoc.png
+cmd/32/solverdialog.png cmd/32/helpindex.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/sourceview.png cmd/32/symbolshapes.brace-pair.png
@@ -741,9 +748,12 @@ cmd/lc_changesmenu.png cmd/lc_trackchangesbar.png
 cmd/lc_characterbackgroundpattern.png cmd/lc_backcolor.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
+cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
 cmd/lc_choosecontrols.png cmd/lc_controlproperties.png
 cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
 cmd/lc_closedocs.png cmd/lc_closedoc.png
+cmd/lc_closemasterview.png cmd/lc_closedoc.png
+cmd/lc_closepreview.png cmd/lc_closedoc.png
 cmd/lc_closewin.png cmd/lc_closepreview.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
 cmd/lc_columnoperations.png cmd/lc_selectcolumn.png
@@ -825,6 +835,7 @@ cmd/lc_ellipsetoolbox.png cmd/lc_ellipse.png
 cmd/lc_entirecell.png cmd/lc_selectcell.png
 cmd/lc_entirecolumn.png cmd/lc_selectcolumn.png
 cmd/lc_entirerow.png cmd/lc_selectrow.png
+cmd/lc_errorcellstyle.png cmd/lc_showerrors.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
 cmd/lc_exportasgraphic.png cmd/lc_gallery.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
@@ -1055,6 +1066,8 @@ cmd/lc_printpagepreview.png cmd/lc_printpreview.png
 cmd/lc_printrangesmenu.png cmd/lc_defineprintarea.png
 cmd/lc_protecttracechangemode.png cmd/lc_protect.png
 cmd/lc_quickedit.png cmd/lc_editdoc.png
+cmd/lc_quit.png cmd/lc_closedoc.png
+cmd/lc_recalcpivottable.png cmd/lc_dataarearefresh.png
 cmd/lc_recsave.png cmd/lc_save.png
 cmd/lc_rectangletoolbox.png cmd/lc_rect.png
 cmd/lc_recundo.png cmd/lc_undo.png
@@ -1111,6 +1124,7 @@ cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 cmd/lc_solidcreate.png cmd/lc_editdoc.png
+cmd/lc_solverdialog.png cmd/lc_helpindex.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_sourcecharstyle.png cmd/lc_insertscript.png
@@ -1240,9 +1254,12 @@ cmd/sc_changesmenu.png cmd/sc_trackchangesbar.png
 cmd/sc_characterbackgroundpattern.png cmd/sc_backcolor.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
+cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
 cmd/sc_choosecontrols.png cmd/sc_controlproperties.png
 cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 cmd/sc_closedocs.png cmd/sc_closedoc.png
+cmd/sc_closemasterview.png cmd/sc_closedoc.png
+cmd/sc_closepreview.png cmd/sc_closedoc.png
 cmd/sc_closewin.png cmd/sc_closepreview.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
 cmd/sc_columnoperations.png cmd/sc_selectcolumn.png
@@ -1324,6 +1341,7 @@ cmd/sc_ellipsetoolbox.png cmd/sc_ellipse.png
 cmd/sc_entirecell.png cmd/sc_selectcell.png
 cmd/sc_entirecolumn.png cmd/sc_selectcolumn.png
 cmd/sc_entirerow.png cmd/sc_selectrow.png
+cmd/sc_errorcellstyle.png cmd/sc_showerrors.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_exportasgraphic.png cmd/sc_insertgraphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
@@ -1556,6 +1574,8 @@ cmd/sc_printpagepreview.png cmd/sc_printpreview.png
 cmd/sc_printrangesmenu.png cmd/sc_defineprintarea.png
 cmd/sc_protecttracechangemode.png cmd/sc_protect.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
+cmd/sc_quit.png cmd/sc_closedoc.png
+cmd/sc_recalcpivottable.png cmd/sc_dataarearefresh.png
 cmd/sc_recsave.png cmd/sc_save.png
 cmd/sc_rectangletoolbox.png cmd/sc_rect.png
 cmd/sc_recundo.png cmd/sc_undo.png
@@ -1613,6 +1633,7 @@ cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
+cmd/lc_solverdialog.png cmd/lc_helpindex.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_sourcecharstyle.png cmd/sc_insertscript.png
