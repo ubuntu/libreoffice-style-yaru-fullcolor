@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="insertcolumnsafter.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/insertcolumnsafter.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="-4.2274697"
-     inkscape:cy="16.736548"
+     inkscape:zoom="29.5"
+     inkscape:cx="17.940931"
+     inkscape:cy="15.753775"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -80,10 +81,15 @@
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
      d="m 6,24.000001 v 2 h 2.000001 v 1 H 6 v 2 H 5 v -2 H 3 v -1 h 2 v -2 z" />
+  <rect
+     style="fill:#ddf6d5;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="rect875"
+     width="7"
+     height="22"
+     x="20"
+     y="5" />
   <path
-     d="m 28,6.0000017 v 11.0000003 9 c 0,2 -1,2 -3,2 H 19 V 4.0000017 h 6 c 2,0 3,0 3,2 z m -1.769531,-1 H 23.101562 L 20.326172,7.3789079 20,7.6601579 v 2.6816411 z m -4.666016,0 H 20 V 6.3417986 Z M 27,5.6582048 20.326172,11.378908 20,11.660158 v 2.681641 c 2.333402,-1.99992 4.666101,-4.000661 7,-6.0000004 z m 0,4 c -2.333143,2.0008722 -4.668272,3.9994362 -7,6.0019532 v 2.681641 c 2.224735,-1.908164 4.450369,-3.815281 6.675781,-5.722656 L 27,12.341799 Z m 0,4.0000002 c -2.224739,1.906749 -4.448791,3.814301 -6.673828,5.720703 L 20,19.660158 v 2.681641 c 2.33442,-1.998731 4.664608,-4.002405 7,-6 z m 0,4 c -2.224309,1.907251 -4.449173,3.813856 -6.673828,5.720703 L 20,23.660158 v 2.681641 c 2.333402,-1.99992 4.666101,-4.000661 7,-6 z m 0,4 -6.232422,5.341797 h 3.130859 C 24.932215,26.113845 25.965751,25.227406 27,24.341799 Z m 0,4 -1.566406,1.341797 c 0.566406,0 1.566406,0 1.566406,-1 z"
      id="path4"
-     inkscape:connector-curvature="0"
      style="fill:#46a926;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 19 4 L 19 28 L 25 28 C 27 28 28 28 28 26 L 28 17 L 28 6 C 28 4 27 4 25 4 L 19 4 z M 20 5 L 25 5 C 26 5 27 5 27 6 L 27 7 L 20 7 L 20 5 z M 20 8 L 27 8 L 27 11 L 20 11 L 20 8 z M 20 12 L 27 12 L 27 15 L 20 15 L 20 12 z M 20 16 L 27 16 L 27 19 L 20 19 L 20 16 z M 20 20 L 27 20 L 27 23 L 20 23 L 20 20 z M 20 24 L 27 24 L 27 26 C 27 27 26 27 25 27 L 20 27 L 20 24 z " />
 </svg>

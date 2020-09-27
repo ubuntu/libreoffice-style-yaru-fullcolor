@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_selectcolumn.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_selectcolumn.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -43,30 +43,58 @@
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="-0.59112073"
-     inkscape:cy="8.276693"
+     inkscape:cy="8.2427947"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect814"
      width="10"
      height="10"
-     x="3"
-     y="3" />
+     x="2.9999998"
+     y="-12.999999"
+     transform="rotate(90)" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 h 6 c 2,0 3,0 3,-2 V 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 3,4 C 3,3 4,3 5,3 h 6 c 1,0 2,0 2,1 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 c 0,1 -1,1 -2,1 H 5 C 4,13 3,13 3,12 V 10 H 5 V 9 H 3 V 7 H 5 V 6 H 3 Z"
+     d="m 13.999999,4.9999998 c 0,-2 0,-3 -2,-3 h -1 -5.9999997 -1 c -2,0 -2,1 -2,3 V 11 c 0,2 0,3 2,3 h 1 5.9999997 1 c 2,0 2,-1 2,-3 z m -2,-2 c 1,0 1,1 1,2 v 1 h -2 v 1 h 2 v 2 h -2 v 1 h 2 V 11 c 0,1 0,2 -1,2 h -1 -5.9999997 -1 c -1,0 -1,-1 -1,-2 V 9.9999998 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -1 c 0,-1 0,-2 1,-2 h 1 5.9999997 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
-  <path
-     d="m5 3v10h1.71875l3.28125-3.28125v3.28125h1v-4.28125-4-1.71875h-1v1.28125l-4 4v-2.5625l2.71875-2.71875h-1.4375l-1.28125 1.28125v-1.28125zm5 2.71875v2.5625l-4 4v-2.5625z"
-     fill="#762572"
-     id="path4" />
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect837"
+     width="12"
+     height="6"
+     x="1.9999998"
+     y="-10.999999"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="10"
+     height="4"
+     x="2.9999998"
+     y="-9.999999"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect834"
+     width="4"
+     height="1"
+     x="6"
+     y="6" />
+  <rect
+     style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect836"
+     width="4"
+     height="1"
+     x="6"
+     y="9" />
 </svg>
