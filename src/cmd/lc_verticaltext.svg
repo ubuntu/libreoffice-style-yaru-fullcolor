@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_verticaltext.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -44,10 +44,11 @@
      inkscape:zoom="19.666667"
      inkscape:cx="8.8604996"
      inkscape:cy="9.3698731"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid836" />
@@ -74,17 +75,4 @@
        d="m 8.0000049,7.9867227 v 2.0000127 h 3.0000001 v 6.0000006 h 1.999997 V 9.9867354 h 3 V 7.9867227 Z"
        style="fill:#ffffff;fill-opacity:1;stroke-width:1" />
   </g>
-  <circle
-     style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path2644"
-     cy="18.500086"
-     cx="18.500023"
-     r="3.5" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path1063"
-     overflow="visible"
-     font-weight="400"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:1;marker:none"
-     d="m 18,16 v 2.000013 H 16.000002 V 19 H 18 v 2.000013 h 1.000002 V 19 H 21 V 18.000013 H 19.000002 V 16 Z" />
 </svg>
