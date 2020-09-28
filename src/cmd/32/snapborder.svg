@@ -54,30 +54,28 @@
        id="grid825" />
   </sodipodi:namedview>
   <path
-     d="M 28,25 V 4 H 4 V 28 H 17 28 Z M 17,27 H 5 V 5 h 22 v 20 2 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#e95420"
-     sodipodi:nodetypes="cccccccccccccc" />
+     id="rect824"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5.0000005,5.0000005 H 27 V 27 H 5.0000005 Z"
+     sodipodi:nodetypes="ccccc" />
   <path
-     d="M 17,26 H 6 V 6 h 20 v 19 1 z M 27,25 V 5 H 5 v 22 h 12 10 z"
-     id="path4"
      inkscape:connector-curvature="0"
      style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect814"
-     width="20"
-     height="20"
-     x="6"
-     y="6" />
+     d="M 4,4 V 28 H 28 V 4 Z M 5,5 H 27 V 27 H 5 Z"
+     id="path2"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#e95420"
+     d="M 3,3 V 29 H 29 V 3 Z M 4,4 H 28 V 28 H 4 Z"
+     id="path4"
+     sodipodi:nodetypes="cccccccccc" />
   <path
      id="path913"
      style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 25.951172,21 A 2,2 0 0 0 24,23 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 26,22 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
+     d="M 26.951172,22 A 2,2 0 0 0 25,24 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 27,23 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
   <path
      id="path874"
      style="opacity:1;fill:#fee581;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 25.951172,21 A 2,2 0 0 0 24,23 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 26,22 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
+     d="M 26.951172,22 A 2,2 0 0 0 25,24 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 27,23 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
 </svg>

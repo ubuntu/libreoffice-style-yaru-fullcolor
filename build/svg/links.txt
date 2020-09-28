@@ -131,6 +131,7 @@ cmd/32/deleterecord.svg cmd/32/delete.svg
 cmd/32/deleteshapehyperlink.svg cmd/32/removehyperlink.svg
 cmd/32/deleteslide.svg cmd/32/deletepage.svg
 cmd/32/diaauto.svg cmd/32/dia.svg
+cmd/32/diagramarea.svg cmd/32/insertframe.svg
 cmd/32/diagramaxisall.svg cmd/32/diagramaxisxyz.svg
 cmd/32/diagramaxismenu.svg cmd/32/diagramaxis.svg
 cmd/32/diagramgridmenu.svg cmd/32/togglegridhorizontal.svg
@@ -217,7 +218,7 @@ cmd/32/fontworkshapetype.fontwork-triangle-up.svg cmd/32/basicshapes.isosceles-t
 cmd/32/fontworkshapetype.svg cmd/32/fontwork.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
 cmd/32/formatbulletsmenu.svg cmd/32/defaultbullet.svg
-cmd/32/formatframemenu.svg cmd/32/framedialog.svg
+cmd/32/formatframemenu.svg cmd/32/insertframe.svg
 cmd/32/formatimagemenu.svg cmd/32/graphicdialog.svg
 cmd/32/formatobjectmenu.svg cmd/32/text.svg
 cmd/32/formatselection.svg cmd/32/formproperties.svg
@@ -229,6 +230,7 @@ cmd/32/formfilterexecute.svg cmd/32/datafilterstandardfilter.svg
 cmd/32/fr/underline.svg cmd/32/ca/underline.svg
 cmd/32/fr/underlinedouble.svg cmd/32/ca/underlinedouble.svg
 cmd/32/fr/underlinesimple.svg cmd/32/ca/underline.svg
+cmd/32/framedialog.svg cmd/32/insertframe.svg
 cmd/32/functionbox.svg cmd/32/dbviewfunctions.svg
 cmd/32/functiondialog.svg cmd/32/dbviewfunctions.svg
 cmd/32/goodcellstyles.svg cmd/32/goodcellstyle.svg
@@ -354,6 +356,7 @@ cmd/32/lastslide.svg cmd/32/lastrecord.svg
 cmd/32/leaveallgroups.svg cmd/32/leavegroup.svg
 cmd/32/leftpara.svg cmd/32/alignleft.svg
 cmd/32/linespacing.svg cmd/32/spacepara15.svg
+cmd/32/linestyle.svg cmd/32/borderdialog.svg
 cmd/32/linetoolbox.svg cmd/32/freeline.svg
 cmd/32/loadbasic.svg cmd/32/dataimport.svg
 cmd/32/loadstyles.svg cmd/32/open.svg
@@ -483,7 +486,7 @@ cmd/32/sectionalignright.svg cmd/32/objectalignright.svg
 cmd/32/sectionaligntop.svg cmd/32/alignup.svg
 cmd/32/selectmode.svg cmd/32/selectobject.svg
 cmd/32/sendfax.svg cmd/32/print.svg
-cmd/32/setborderstyle.svg cmd/32/diagramarea.svg
+cmd/32/setborderstyle.svg cmd/32/insertframe.svg
 cmd/32/setdefault.svg cmd/32/resetattributes.svg
 cmd/32/setobjecttobackground.svg cmd/32/sendtoback.svg
 cmd/32/setobjecttoforeground.svg cmd/32/bringtofront.svg
@@ -507,6 +510,7 @@ cmd/32/sl/underline.svg cmd/32/pl/underline.svg
 cmd/32/sl/underlinedouble.svg cmd/32/pl/underlinedouble.svg
 cmd/32/sl/underlinesimple.svg cmd/32/pl/underline.svg
 cmd/32/slidesetup.svg cmd/32/pagesetup.svg
+cmd/32/snapframe.svg cmd/32/snapborder.svg
 cmd/32/solidcreate.svg cmd/32/editdoc.svg
 cmd/32/solverdialog.svg cmd/32/helpindex.svg
 cmd/32/sortdown.svg cmd/32/sortdescending.svg
@@ -573,7 +577,7 @@ cmd/32/viewsidebarstyles.svg cmd/32/designerdialog.svg
 cmd/32/viewtrackchanges.svg cmd/32/addwatch.svg
 cmd/32/vscrollbar.svg cmd/32/scrollbar.svg
 cmd/32/webhtml.svg cmd/32/browseview.svg
-cmd/32/xlinestyle.svg cmd/32/linestyle.svg
+cmd/32/xlinestyle.svg cmd/32/borderdialog.svg
 cmd/32/yes.svg cmd/32/ok.svg
 cmd/32/zoom.svg cmd/32/zoomoptimal.svg
 cmd/32/zoom100percent.svg cmd/32/view100.svg
@@ -873,7 +877,7 @@ cmd/lc_fontworkshapetype.svg cmd/lc_fontwork.svg
 cmd/lc_footnotecellstyles.svg cmd/lc_insertfootnote.svg
 cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
 cmd/lc_formatbulletsmenu.svg cmd/lc_defaultbullet.svg
-cmd/lc_formatframemenu.svg cmd/lc_framedialog.svg
+cmd/lc_formatframemenu.svg cmd/lc_insertframe.svg
 cmd/lc_formatimagemenu.svg cmd/lc_graphicdialog.svg
 cmd/lc_formatobjectmenu.svg cmd/lc_text.svg
 cmd/lc_formatselection.svg cmd/lc_formproperties.svg
@@ -882,6 +886,7 @@ cmd/lc_formattedfield.svg cmd/lc_numberformatpercent.svg
 cmd/lc_formattextmenu.svg cmd/lc_scaletext.svg
 cmd/lc_formfilter.svg cmd/lc_datafilterspecialfilter.svg
 cmd/lc_formfilterexecute.svg cmd/lc_datafilterstandardfilter.svg
+cmd/lc_framedialog.svg cmd/lc_insertframe.svg
 cmd/lc_functionbox.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_functiondialog.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_goodcellstyles.svg cmd/lc_goodcellstyle.svg
@@ -987,6 +992,7 @@ cmd/lc_lastslide.svg cmd/lc_lastrecord.svg
 cmd/lc_leaveallgroups.svg cmd/lc_leavegroup.svg
 cmd/lc_leftpara.svg cmd/lc_alignleft.svg
 cmd/lc_linespacing.svg cmd/lc_spacepara15.svg
+cmd/lc_linestyle.svg cmd/lc_borderdialog.svg
 cmd/lc_linetoolbox.svg cmd/lc_freeline.svg
 cmd/lc_loadbasic.svg cmd/lc_dataimport.svg
 cmd/lc_loadstyles.svg cmd/lc_open.svg
@@ -1103,7 +1109,7 @@ cmd/lc_sectionalignright.svg cmd/lc_objectalignright.svg
 cmd/lc_sectionaligntop.svg cmd/lc_alignup.svg
 cmd/lc_selectmode.svg cmd/lc_selectobject.svg
 cmd/lc_sendfax.svg cmd/lc_print.svg
-cmd/lc_setborderstyle.svg cmd/lc_diagramarea.svg
+cmd/lc_setborderstyle.svg cmd/lc_insertframe.svg
 cmd/lc_setdefault.svg cmd/lc_resetattributes.svg
 cmd/lc_setobjecttobackground.svg cmd/lc_sendtoback.svg
 cmd/lc_setobjecttoforeground.svg cmd/lc_bringtofront.svg
@@ -1125,6 +1131,7 @@ cmd/lc_showruler.svg cmd/lc_ruler.svg
 cmd/lc_showtrackedchanges.svg cmd/lc_addwatch.svg
 cmd/lc_sidebarmenu.svg cmd/lc_sidebar.svg
 cmd/lc_slidesetup.svg cmd/lc_pagesetup.svg
+cmd/lc_snapframe.svg cmd/lc_snapborder.svg
 cmd/lc_solidcreate.svg cmd/lc_editdoc.svg
 cmd/lc_solverdialog.svg cmd/lc_helpindex.svg
 cmd/lc_sortdown.svg cmd/lc_sortdescending.svg
@@ -1170,7 +1177,7 @@ cmd/lc_viewsidebarstyles.svg cmd/lc_designerdialog.svg
 cmd/lc_viewtrackchanges.svg cmd/lc_addwatch.svg
 cmd/lc_vscrollbar.svg cmd/lc_scrollbar.svg
 cmd/lc_webhtml.svg cmd/lc_browseview.svg
-cmd/lc_xlinestyle.svg cmd/lc_linestyle.svg
+cmd/lc_xlinestyle.svg cmd/lc_borderdialog.svg
 cmd/lc_yes.svg cmd/lc_ok.svg
 cmd/lc_zoom.svg cmd/lc_zoomoptimal.svg
 cmd/lc_zoom100percent.svg cmd/lc_view100.svg
@@ -1380,7 +1387,7 @@ cmd/sc_fontworkshapetype.svg cmd/sc_fontwork.svg
 cmd/sc_footnotecellstyles.svg cmd/sc_insertfootnote.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 cmd/sc_formatbulletsmenu.svg cmd/sc_defaultbullet.svg
-cmd/sc_formatframemenu.svg cmd/sc_framedialog.svg
+cmd/sc_formatframemenu.svg cmd/sc_insertframe.svg
 cmd/sc_formatimagemenu.svg cmd/sc_graphicdialog.svg
 cmd/sc_formatobjectmenu.svg cmd/sc_text.svg
 cmd/sc_formatselection.svg cmd/sc_formproperties.svg
@@ -1389,6 +1396,7 @@ cmd/sc_formattedfield.svg cmd/sc_numberformatpercent.svg
 cmd/sc_formattextmenu.svg cmd/sc_scaletext.svg
 cmd/sc_formfilter.svg cmd/sc_datafilterspecialfilter.svg
 cmd/sc_formfilterexecute.svg cmd/sc_datafilterstandardfilter.svg
+cmd/sc_framedialog.svg cmd/sc_insertframe.svg
 cmd/sc_functionbox.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_functiondialog.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_goodcellstyles.svg cmd/sc_goodcellstyle.svg
@@ -1494,6 +1502,7 @@ cmd/sc_lastslide.svg cmd/sc_lastrecord.svg
 cmd/sc_leaveallgroups.svg cmd/sc_leavegroup.svg
 cmd/sc_leftpara.svg cmd/sc_alignleft.svg
 cmd/sc_linespacing.svg cmd/sc_spacepara15.svg
+cmd/sc_linestyle.svg cmd/sc_borderdialog.svg
 cmd/sc_linetoolbox.svg cmd/sc_freeline.svg
 cmd/sc_loadbasic.svg cmd/sc_dataimport.svg
 cmd/sc_lock.svg cmd/sc_protect.svg
@@ -1613,7 +1622,7 @@ cmd/sc_sectionaligntop.svg cmd/sc_alignup.svg
 cmd/sc_selectmode.svg cmd/sc_selectobject.svg
 cmd/sc_sendfax.svg cmd/sc_print.svg
 cmd/sc_sendfeedback.svg cmd/sc_sendmail.svg
-cmd/sc_setborderstyle.svg cmd/sc_diagramarea.svg
+cmd/sc_setborderstyle.svg cmd/sc_insertframe.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
 cmd/sc_setobjecttobackground.svg cmd/sc_sendtoback.svg
 cmd/sc_setobjecttoforeground.svg cmd/sc_bringtofront.svg
@@ -1635,6 +1644,7 @@ cmd/sc_showruler.svg cmd/sc_ruler.svg
 cmd/sc_showtrackedchanges.svg cmd/sc_addwatch.svg
 cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
 cmd/sc_slidesetup.svg cmd/sc_pagesetup.svg
+cmd/sc_snapframe.svg cmd/sc_snapborder.svg
 cmd/sc_solidcreate.svg cmd/sc_editdoc.svg
 cmd/lc_solverdialog.svg cmd/lc_helpindex.svg
 cmd/sc_sortdown.svg cmd/sc_sortdescending.svg
@@ -1680,7 +1690,7 @@ cmd/sc_viewsidebarstyles.svg cmd/sc_designerdialog.svg
 cmd/sc_viewtrackchanges.svg cmd/sc_addwatch.svg
 cmd/sc_vscrollbar.svg cmd/sc_scrollbar.svg
 cmd/sc_webhtml.svg cmd/sc_browseview.svg
-cmd/sc_xlinestyle.svg cmd/sc_linestyle.svg
+cmd/sc_xlinestyle.svg cmd/sc_borderdialog.svg
 cmd/sc_yes.svg cmd/sc_ok.svg
 cmd/sc_zoom.svg cmd/sc_zoomoptimal.svg
 cmd/sc_zoom100percent.svg cmd/sc_view100.svg
@@ -2042,7 +2052,7 @@ sfx2/res/signet.svg cmd/sc_signature.svg
 sfx2/res/sortascending.svg cmd/lc_sortascending.svg
 sfx2/res/styfam1.svg cmd/sc_charfontname.svg
 sfx2/res/styfam2.svg cmd/sc_controlcodes.svg
-sfx2/res/styfam3.svg cmd/sc_linestyle.svg
+sfx2/res/styfam3.svg cmd/sc_borderdialog.svg
 sfx2/res/styfam4.svg cmd/sc_showsinglepage.svg
 sfx2/res/symphony/sidebar-3d-large.svg cmd/lc_cube.svg
 sfx2/res/symphony/sidebar-3d-small.svg cmd/sc_cube.svg
@@ -2260,7 +2270,7 @@ sw/res/sc20558.svg cmd/sc_ok.svg
 sw/res/sc_datainrows.svg cmd/sc_datainrows.svg
 sw/res/sf01.svg cmd/sc_controlcodes.svg
 sw/res/sf02.svg cmd/sc_charfontname.svg
-sw/res/sf03.svg cmd/sc_diagramarea.svg
+sw/res/sf03.svg cmd/sc_insertframe.svg
 sw/res/sf04.svg cmd/sc_showsinglepage.svg
 sw/res/sf05.svg cmd/sc_defaultbullet.svg
 sw/res/sf06.svg sw/res/nc20001.svg
