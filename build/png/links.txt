@@ -46,6 +46,7 @@ cmd/32/arrowshapes.left-right-arrow.png cmd/32/arrowshapes.png
 cmd/32/arrowstoolbox.png cmd/32/linearrowend.png
 cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
+cmd/32/avmediaplayer.png cmd/32/insertvideo.png
 cmd/32/backgroundpatterncontroller.png cmd/32/backgroundcolor.png
 cmd/32/autopilotmenu.png cmd/32/autoformat.png
 cmd/32/badcellstyles.png cmd/32/badcellstyle.png
@@ -240,7 +241,7 @@ cmd/32/grafinvert.png cmd/32/graphicfilterinvert.png
 cmd/32/grafmode.png cmd/32/graphicdialog.png
 cmd/32/graphicfilterposter.png cmd/32/graphicdialog.png
 cmd/32/graphicfiltertoolbox.png cmd/32/autoformat.png
-cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
+cmd/32/graphicmenu.png cmd/32/insertvideo.png
 cmd/32/gridmenu.png cmd/32/gridvisible.png
 cmd/32/groupmenu.png cmd/32/formatgroup.png
 cmd/32/groupoutlinemenu.png cmd/32/autooutline.png
@@ -279,7 +280,7 @@ cmd/32/inscellsctrl.png cmd/32/inserttable.png
 cmd/32/insert.png cmd/32/inserttable.png
 cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
 cmd/32/insertauthoritiesentry.png cmd/32/bibliographycomponent.png
-cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
+cmd/32/insertavmedia.png cmd/32/insertvideo.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertcolumnsmenu.png cmd/32/insertcolumns.png
 cmd/32/insertctrl.png cmd/32/inserttable.png
@@ -722,6 +723,7 @@ cmd/lc_arrowshapes.left-right-arrow.png cmd/lc_arrowshapes.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
 cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
+cmd/lc_avmediaplayer.png cmd/lc_insertvideo.png
 cmd/lc_backgroundpatterncontroller.png cmd/lc_backgroundcolor.png
 cmd/lc_autopilotmenu.png cmd/lc_autoformat.png
 cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
@@ -893,7 +895,7 @@ cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfiltertoolbox.png cmd/lc_autoformat.png
-cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
+cmd/lc_graphicmenu.png cmd/lc_insertvideo.png
 cmd/lc_gridmenu.png cmd/lc_gridvisible.png
 cmd/lc_groupmenu.png cmd/lc_formatgroup.png
 cmd/lc_groupoutlinemenu.png cmd/lc_autooutline.png
@@ -914,7 +916,7 @@ cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
 cmd/lc_insert.png cmd/lc_inserttable.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertauthoritiesentry.png cmd/lc_bibliographycomponent.png
-cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
+cmd/lc_insertavmedia.png cmd/lc_insertvideo.png
 cmd/lc_insertcolumnsbefore.png cmd/lc_insertcolumns.png
 cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumns.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
@@ -1228,6 +1230,7 @@ cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
 cmd/sc_autocorrectdlg.png cmd/sc_autoformat.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autoformat.png
+cmd/sc_avmediaplayer.png cmd/sc_insertvideo.png
 cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
 cmd/sc_autopilotmenu.png cmd/sc_autoformat.png
 cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
@@ -1400,7 +1403,7 @@ cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfiltertoolbox.png cmd/sc_autoformat.png
-cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
+cmd/sc_graphicmenu.png cmd/sc_insertvideo.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_groupmenu.png cmd/sc_formatgroup.png
 cmd/sc_groupoutlinemenu.png cmd/sc_autooutline.png
@@ -1421,7 +1424,7 @@ cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
 cmd/sc_insert.png cmd/sc_inserttable.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertauthoritiesentry.png cmd/sc_bibliographycomponent.png
-cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
+cmd/sc_insertavmedia.png cmd/sc_insertvideo.png
 cmd/sc_insertcolumnsbefore.png cmd/sc_insertcolumns.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png

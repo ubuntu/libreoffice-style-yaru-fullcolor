@@ -46,6 +46,7 @@ cmd/32/arrowshapes.left-right-arrow.xxx cmd/32/arrowshapes.xxx
 cmd/32/arrowstoolbox.xxx cmd/32/linearrowend.xxx
 cmd/32/autofilter.xxx cmd/32/datafilterautofilter.xxx
 cmd/32/autoformatmenu.xxx cmd/32/autocorrectdlg.xxx
+cmd/32/avmediaplayer.xxx cmd/32/insertvideo.xxx
 cmd/32/backgroundpatterncontroller.xxx cmd/32/backgroundcolor.xxx
 cmd/32/autopilotmenu.xxx cmd/32/autoformat.xxx
 cmd/32/badcellstyles.xxx cmd/32/badcellstyle.xxx
@@ -240,7 +241,7 @@ cmd/32/grafinvert.xxx cmd/32/graphicfilterinvert.xxx
 cmd/32/grafmode.xxx cmd/32/graphicdialog.xxx
 cmd/32/graphicfilterposter.xxx cmd/32/graphicdialog.xxx
 cmd/32/graphicfiltertoolbox.xxx cmd/32/autoformat.xxx
-cmd/32/graphicmenu.xxx cmd/32/avmediaplayer.xxx
+cmd/32/graphicmenu.xxx cmd/32/insertvideo.xxx
 cmd/32/gridmenu.xxx cmd/32/gridvisible.xxx
 cmd/32/groupmenu.xxx cmd/32/formatgroup.xxx
 cmd/32/groupoutlinemenu.xxx cmd/32/autooutline.xxx
@@ -279,7 +280,7 @@ cmd/32/inscellsctrl.xxx cmd/32/inserttable.xxx
 cmd/32/insert.xxx cmd/32/inserttable.xxx
 cmd/32/insertauthorfield.xxx cmd/32/dbviewaliases.xxx
 cmd/32/insertauthoritiesentry.xxx cmd/32/bibliographycomponent.xxx
-cmd/32/insertavmedia.xxx cmd/32/avmediaplayer.xxx
+cmd/32/insertavmedia.xxx cmd/32/insertvideo.xxx
 cmd/32/insertcolumnsbefore.xxx cmd/32/insertcolumns.xxx
 cmd/32/insertcolumnsmenu.xxx cmd/32/insertcolumns.xxx
 cmd/32/insertctrl.xxx cmd/32/inserttable.xxx
@@ -722,6 +723,7 @@ cmd/lc_arrowshapes.left-right-arrow.xxx cmd/lc_arrowshapes.xxx
 cmd/lc_arrowstoolbox.xxx cmd/lc_linearrowend.xxx
 cmd/lc_autofilter.xxx cmd/lc_datafilterautofilter.xxx
 cmd/lc_autoformatmenu.xxx cmd/lc_autocorrectdlg.xxx
+cmd/lc_avmediaplayer.xxx cmd/lc_insertvideo.xxx
 cmd/lc_backgroundpatterncontroller.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_autopilotmenu.xxx cmd/lc_autoformat.xxx
 cmd/lc_badcellstyles.xxx cmd/lc_badcellstyle.xxx
@@ -893,7 +895,7 @@ cmd/lc_grafinvert.xxx cmd/lc_graphicfilterinvert.xxx
 cmd/lc_grafmode.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_graphicfilterposter.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_graphicfiltertoolbox.xxx cmd/lc_autoformat.xxx
-cmd/lc_graphicmenu.xxx cmd/lc_avmediaplayer.xxx
+cmd/lc_graphicmenu.xxx cmd/lc_insertvideo.xxx
 cmd/lc_gridmenu.xxx cmd/lc_gridvisible.xxx
 cmd/lc_groupmenu.xxx cmd/lc_formatgroup.xxx
 cmd/lc_groupoutlinemenu.xxx cmd/lc_autooutline.xxx
@@ -914,7 +916,7 @@ cmd/lc_inscellsctrl.xxx cmd/lc_inserttable.xxx
 cmd/lc_insert.xxx cmd/lc_inserttable.xxx
 cmd/lc_insertauthorfield.xxx cmd/lc_dbviewaliases.xxx
 cmd/lc_insertauthoritiesentry.xxx cmd/lc_bibliographycomponent.xxx
-cmd/lc_insertavmedia.xxx cmd/lc_avmediaplayer.xxx
+cmd/lc_insertavmedia.xxx cmd/lc_insertvideo.xxx
 cmd/lc_insertcolumnsbefore.xxx cmd/lc_insertcolumns.xxx
 cmd/lc_insertcolumnsmenu.xxx cmd/lc_insertcolumns.xxx
 cmd/lc_insertctrl.xxx cmd/lc_inserttable.xxx
@@ -1228,6 +1230,7 @@ cmd/sc_arrowstoolbox.xxx cmd/sc_linearrowend.xxx
 cmd/sc_autocorrectdlg.xxx cmd/sc_autoformat.xxx
 cmd/sc_autofilter.xxx cmd/sc_datafilterautofilter.xxx
 cmd/sc_autoformatmenu.xxx cmd/sc_autoformat.xxx
+cmd/sc_avmediaplayer.xxx cmd/sc_insertvideo.xxx
 cmd/sc_backgroundpatterncontroller.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_autopilotmenu.xxx cmd/sc_autoformat.xxx
 cmd/sc_badcellstyles.xxx cmd/sc_badcellstyle.xxx
@@ -1400,7 +1403,7 @@ cmd/sc_grafinvert.xxx cmd/sc_graphicfilterinvert.xxx
 cmd/sc_grafmode.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_graphicfilterposter.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_graphicfiltertoolbox.xxx cmd/sc_autoformat.xxx
-cmd/sc_graphicmenu.xxx cmd/sc_avmediaplayer.xxx
+cmd/sc_graphicmenu.xxx cmd/sc_insertvideo.xxx
 cmd/sc_gridmenu.xxx cmd/sc_gridvisible.xxx
 cmd/sc_groupmenu.xxx cmd/sc_formatgroup.xxx
 cmd/sc_groupoutlinemenu.xxx cmd/sc_autooutline.xxx
@@ -1421,7 +1424,7 @@ cmd/sc_inscellsctrl.xxx cmd/sc_inserttable.xxx
 cmd/sc_insert.xxx cmd/sc_inserttable.xxx
 cmd/sc_insertauthorfield.xxx cmd/sc_dbviewaliases.xxx
 cmd/sc_insertauthoritiesentry.xxx cmd/sc_bibliographycomponent.xxx
-cmd/sc_insertavmedia.xxx cmd/sc_avmediaplayer.xxx
+cmd/sc_insertavmedia.xxx cmd/sc_insertvideo.xxx
 cmd/sc_insertcolumnsbefore.xxx cmd/sc_insertcolumns.xxx
 cmd/sc_insertcolumnsmenu.xxx cmd/sc_insertcolumns.xxx
 cmd/sc_insertctrl.xxx cmd/sc_inserttable.xxx
