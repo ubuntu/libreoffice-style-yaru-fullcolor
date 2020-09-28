@@ -309,6 +309,7 @@ cmd/32/insertframeinteractnocolumns.xxx cmd/32/insertframe.xxx
 cmd/32/insertframemenu.xxx cmd/32/insertframe.xxx
 cmd/32/insertgridcontrol.xxx cmd/32/gridvisible.xxx
 cmd/32/insertheaderfootermenu.xxx cmd/32/editheaderandfooter.xxx
+cmd/32/inserthyperlinkcontrol.xxx cmd/32/inserthyperlink.xxx
 cmd/32/insertimagecontrol.xxx cmd/32/drawchart.xxx
 cmd/32/insertlistbox.xxx cmd/32/listbox.xxx
 cmd/32/insertmenuaxes.xxx cmd/32/diagramaxis.xxx
@@ -944,6 +945,7 @@ cmd/lc_insertframeinteractnocolumns.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertframemenu.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertgridcontrol.xxx cmd/lc_gridvisible.xxx
 cmd/lc_insertheaderfootermenu.xxx cmd/lc_editheaderandfooter.xxx
+cmd/lc_inserthyperlinkcontrol.xxx cmd/lc_inserthyperlink.xxx
 cmd/lc_insertimagecontrol.xxx cmd/lc_drawchart.xxx
 cmd/lc_insertlinebreak.xxx cmd/lc_wraptext.xxx
 cmd/lc_insertlistbox.xxx cmd/lc_listbox.xxx
@@ -1450,6 +1452,7 @@ cmd/sc_insertframeinteractnocolumns.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertframemenu.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertgridcontrol.xxx cmd/sc_gridvisible.xxx
 cmd/sc_insertheaderfootermenu.xxx cmd/sc_editheaderandfooter.xxx
+cmd/sc_inserthyperlinkcontrol.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_insertimagecontrol.xxx cmd/sc_drawchart.xxx
 cmd/sc_insertlinebreak.xxx cmd/sc_wraptext.xxx
 cmd/sc_insertlistbox.xxx cmd/sc_listbox.xxx
@@ -1947,7 +1950,7 @@ res/tables_32.xxx cmd/32/dbviewtables.xxx
 sc/res/date.xxx cmd/sc_datefield.xxx
 sc/res/dropcopy.xxx cmd/sc_copy.xxx
 sc/res/droplink.xxx sw/res/nc20005.xxx
-sc/res/dropurl.xxx cmd/sc_inserthyperlinkcontrol.xxx
+sc/res/dropurl.xxx cmd/sc_inserthyperlink.xxx
 sc/res/file.xxx cmd/sc_open.xxx
 sc/res/fx.xxx cmd/sc_dbviewfunctions.xxx
 sc/res/lc26047.xxx cmd/lc_dbviewfunctions.xxx
@@ -1967,7 +1970,7 @@ sc/res/nc03.xxx cmd/sc_viewdatasourcebrowser.xxx
 sc/res/nc04.xxx sw/res/nc20003.xxx
 sc/res/nc05.xxx cmd/sc_insertobject.xxx
 sc/res/nc06.xxx cmd/sc_shownote.xxx
-sc/res/nc07.xxx cmd/sc_inserthyperlinkcontrol.xxx
+sc/res/nc07.xxx cmd/sc_inserthyperlink.xxx
 sc/res/nc08.xxx cmd/sc_insertdraw.xxx
 sc/res/page.xxx cmd/sc_insertpagenumberfield.xxx
 sc/res/pages.xxx cmd/sc_insertpagecountfield.xxx
@@ -2216,10 +2219,15 @@ sw/res/all_right.xxx cmd/sc_lastrecord.xxx
 sw/res/lc20556.xxx cmd/lc_dbviewfunctions.xxx
 sw/res/lc20557.xxx cmd/lc_cancel.xxx
 sw/res/lc20558.xxx cmd/lc_ok.xxx
-sw/res/nc20002.xxx sw/res/sr20003.xxx
+sw/res/nc20001.xxx cmd/sc_inserttable.xxx
+sw/res/nc20002.xxx cmd/sc_insertframe.xxx
+sw/res/nc20003.xxx cmd/sc_insertgraphic.xxx
 sw/res/nc20004.xxx cmd/sc_insertobject.xxx
+sw/res/nc20005.xxx cmd/sc_insertbookmark.xxx
 sw/res/nc20006.xxx cmd/sc_insertsection.xxx
-sw/res/nc20007.xxx cmd/sc_inserthyperlinkcontrol.xxx
+sw/res/nc20007.xxx cmd/sc_inserthyperlink.xxx
+sw/res/nc20008.xxx cmd/sc_insertreferencefield.xxx
+sw/res/nc20009.xxx cmd/sc_insertindexesentry.xxx
 sw/res/nc20010.xxx cmd/sc_shownote.xxx
 sw/res/nc20011.xxx cmd/sc_insertdraw.xxx
 sw/res/one_left.xxx cmd/sc_prevrecord.xxx
@@ -2237,7 +2245,7 @@ sw/res/sc20175.xxx cmd/sc_nextrecord.xxx
 sw/res/sc20182.xxx cmd/sc_toggleanchortype.xxx
 sw/res/sc20186.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20233.xxx cmd/sc_ok.xxx
-sw/res/sc20235.xxx cmd/sc_inserthyperlinkcontrol.xxx
+sw/res/sc20235.xxx cmd/sc_inserthyperlink.xxx
 sw/res/sc20238.xxx sw/res/nc20005.xxx
 sw/res/sc20239.xxx cmd/sc_copy.xxx
 sw/res/sc20244.xxx sw/res/sc20234.xxx
@@ -2259,6 +2267,7 @@ sw/res/sf06.xxx sw/res/nc20001.xxx
 sw/res/sr20000.xxx cmd/sc_downsearch.xxx
 sw/res/sr20001.xxx cmd/sc_upsearch.xxx
 sw/res/sr20002.xxx cmd/sc_inserttable.xxx
+sw/res/sr20003.xxx cmd/sc_text.xxx
 sw/res/sr20004.xxx cmd/sc_showsinglepage.xxx
 sw/res/sr20005.xxx cmd/sc_insertdraw.xxx
 sw/res/sr20007.xxx cmd/sc_insertsection.xxx

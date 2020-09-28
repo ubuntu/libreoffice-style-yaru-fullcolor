@@ -309,6 +309,7 @@ cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
 cmd/32/insertframemenu.png cmd/32/insertframe.png
 cmd/32/insertgridcontrol.png cmd/32/gridvisible.png
 cmd/32/insertheaderfootermenu.png cmd/32/editheaderandfooter.png
+cmd/32/inserthyperlinkcontrol.png cmd/32/inserthyperlink.png
 cmd/32/insertimagecontrol.png cmd/32/drawchart.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
 cmd/32/insertmenuaxes.png cmd/32/diagramaxis.png
@@ -944,6 +945,7 @@ cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
 cmd/lc_insertframemenu.png cmd/lc_insertframe.png
 cmd/lc_insertgridcontrol.png cmd/lc_gridvisible.png
 cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
+cmd/lc_inserthyperlinkcontrol.png cmd/lc_inserthyperlink.png
 cmd/lc_insertimagecontrol.png cmd/lc_drawchart.png
 cmd/lc_insertlinebreak.png cmd/lc_wraptext.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
@@ -1450,6 +1452,7 @@ cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
 cmd/sc_insertframemenu.png cmd/sc_insertframe.png
 cmd/sc_insertgridcontrol.png cmd/sc_gridvisible.png
 cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
+cmd/sc_inserthyperlinkcontrol.png cmd/sc_inserthyperlink.png
 cmd/sc_insertimagecontrol.png cmd/sc_drawchart.png
 cmd/sc_insertlinebreak.png cmd/sc_wraptext.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
@@ -1947,7 +1950,7 @@ res/tables_32.png cmd/32/dbviewtables.png
 sc/res/date.png cmd/sc_datefield.png
 sc/res/dropcopy.png cmd/sc_copy.png
 sc/res/droplink.png sw/res/nc20005.png
-sc/res/dropurl.png cmd/sc_inserthyperlinkcontrol.png
+sc/res/dropurl.png cmd/sc_inserthyperlink.png
 sc/res/file.png cmd/sc_open.png
 sc/res/fx.png cmd/sc_dbviewfunctions.png
 sc/res/lc26047.png cmd/lc_dbviewfunctions.png
@@ -1967,7 +1970,7 @@ sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
 sc/res/nc04.png sw/res/nc20003.png
 sc/res/nc05.png cmd/sc_insertobject.png
 sc/res/nc06.png cmd/sc_shownote.png
-sc/res/nc07.png cmd/sc_inserthyperlinkcontrol.png
+sc/res/nc07.png cmd/sc_inserthyperlink.png
 sc/res/nc08.png cmd/sc_insertdraw.png
 sc/res/page.png cmd/sc_insertpagenumberfield.png
 sc/res/pages.png cmd/sc_insertpagecountfield.png
@@ -2216,10 +2219,15 @@ sw/res/all_right.png cmd/sc_lastrecord.png
 sw/res/lc20556.png cmd/lc_dbviewfunctions.png
 sw/res/lc20557.png cmd/lc_cancel.png
 sw/res/lc20558.png cmd/lc_ok.png
-sw/res/nc20002.png sw/res/sr20003.png
+sw/res/nc20001.png cmd/sc_inserttable.png
+sw/res/nc20002.png cmd/sc_insertframe.png
+sw/res/nc20003.png cmd/sc_insertgraphic.png
 sw/res/nc20004.png cmd/sc_insertobject.png
+sw/res/nc20005.png cmd/sc_insertbookmark.png
 sw/res/nc20006.png cmd/sc_insertsection.png
-sw/res/nc20007.png cmd/sc_inserthyperlinkcontrol.png
+sw/res/nc20007.png cmd/sc_inserthyperlink.png
+sw/res/nc20008.png cmd/sc_insertreferencefield.png
+sw/res/nc20009.png cmd/sc_insertindexesentry.png
 sw/res/nc20010.png cmd/sc_shownote.png
 sw/res/nc20011.png cmd/sc_insertdraw.png
 sw/res/one_left.png cmd/sc_prevrecord.png
@@ -2237,7 +2245,7 @@ sw/res/sc20175.png cmd/sc_nextrecord.png
 sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
-sw/res/sc20235.png cmd/sc_inserthyperlinkcontrol.png
+sw/res/sc20235.png cmd/sc_inserthyperlink.png
 sw/res/sc20238.png sw/res/nc20005.png
 sw/res/sc20239.png cmd/sc_copy.png
 sw/res/sc20244.png sw/res/sc20234.png
@@ -2259,6 +2267,7 @@ sw/res/sf06.png sw/res/nc20001.png
 sw/res/sr20000.png cmd/sc_downsearch.png
 sw/res/sr20001.png cmd/sc_upsearch.png
 sw/res/sr20002.png cmd/sc_inserttable.png
+sw/res/sr20003.png cmd/sc_text.png
 sw/res/sr20004.png cmd/sc_showsinglepage.png
 sw/res/sr20005.png cmd/sc_insertdraw.png
 sw/res/sr20007.png cmd/sc_insertsection.png

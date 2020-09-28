@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_insertmath.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_insertmath.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-295.54137"
-     inkscape:cy="-25.452085"
+     inkscape:zoom="16"
+     inkscape:cx="0.32360475"
+     inkscape:cy="18.265607"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid838" />
@@ -69,17 +70,4 @@
      style="fill:#4d4d4d;fill-opacity:1"
      d="m 11.65625,7 -0.125,0.34375 -2.625,7.46875 L 7.4375,12.25 7.28125,12 H 7 6 v 1 h 0.71875 l 1.84375,3.25 0.53125,0.9375 0.375,-1.03125 L 12.34375,8 H 18 V 7 H 12 Z M 15,10 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 0.7733,0 1.46912,-0.30407 2,-0.78125 V 16 h 1 v -3 -3 h -1 v 0.78125 C 16.46912,10.30407 15.7733,10 15,10 Z m 0,1 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
      id="path2-3" />
-  <circle
-     style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path2644"
-     cy="17.551222"
-     cx="18.489227"
-     r="3.5" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path1063"
-     overflow="visible"
-     font-weight="400"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="m 17.989228,15.051221 v 2 h -2.000001 v 1 h 2.000001 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
 </svg>

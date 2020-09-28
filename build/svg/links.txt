@@ -309,6 +309,7 @@ cmd/32/insertframeinteractnocolumns.svg cmd/32/insertframe.svg
 cmd/32/insertframemenu.svg cmd/32/insertframe.svg
 cmd/32/insertgridcontrol.svg cmd/32/gridvisible.svg
 cmd/32/insertheaderfootermenu.svg cmd/32/editheaderandfooter.svg
+cmd/32/inserthyperlinkcontrol.svg cmd/32/inserthyperlink.svg
 cmd/32/insertimagecontrol.svg cmd/32/drawchart.svg
 cmd/32/insertlistbox.svg cmd/32/listbox.svg
 cmd/32/insertmenuaxes.svg cmd/32/diagramaxis.svg
@@ -944,6 +945,7 @@ cmd/lc_insertframeinteractnocolumns.svg cmd/lc_insertframe.svg
 cmd/lc_insertframemenu.svg cmd/lc_insertframe.svg
 cmd/lc_insertgridcontrol.svg cmd/lc_gridvisible.svg
 cmd/lc_insertheaderfootermenu.svg cmd/lc_editheaderandfooter.svg
+cmd/lc_inserthyperlinkcontrol.svg cmd/lc_inserthyperlink.svg
 cmd/lc_insertimagecontrol.svg cmd/lc_drawchart.svg
 cmd/lc_insertlinebreak.svg cmd/lc_wraptext.svg
 cmd/lc_insertlistbox.svg cmd/lc_listbox.svg
@@ -1450,6 +1452,7 @@ cmd/sc_insertframeinteractnocolumns.svg cmd/sc_insertframe.svg
 cmd/sc_insertframemenu.svg cmd/sc_insertframe.svg
 cmd/sc_insertgridcontrol.svg cmd/sc_gridvisible.svg
 cmd/sc_insertheaderfootermenu.svg cmd/sc_editheaderandfooter.svg
+cmd/sc_inserthyperlinkcontrol.svg cmd/sc_inserthyperlink.svg
 cmd/sc_insertimagecontrol.svg cmd/sc_drawchart.svg
 cmd/sc_insertlinebreak.svg cmd/sc_wraptext.svg
 cmd/sc_insertlistbox.svg cmd/sc_listbox.svg
@@ -1947,7 +1950,7 @@ res/tables_32.svg cmd/32/dbviewtables.svg
 sc/res/date.svg cmd/sc_datefield.svg
 sc/res/dropcopy.svg cmd/sc_copy.svg
 sc/res/droplink.svg sw/res/nc20005.svg
-sc/res/dropurl.svg cmd/sc_inserthyperlinkcontrol.svg
+sc/res/dropurl.svg cmd/sc_inserthyperlink.svg
 sc/res/file.svg cmd/sc_open.svg
 sc/res/fx.svg cmd/sc_dbviewfunctions.svg
 sc/res/lc26047.svg cmd/lc_dbviewfunctions.svg
@@ -1967,7 +1970,7 @@ sc/res/nc03.svg cmd/sc_viewdatasourcebrowser.svg
 sc/res/nc04.svg sw/res/nc20003.svg
 sc/res/nc05.svg cmd/sc_insertobject.svg
 sc/res/nc06.svg cmd/sc_shownote.svg
-sc/res/nc07.svg cmd/sc_inserthyperlinkcontrol.svg
+sc/res/nc07.svg cmd/sc_inserthyperlink.svg
 sc/res/nc08.svg cmd/sc_insertdraw.svg
 sc/res/page.svg cmd/sc_insertpagenumberfield.svg
 sc/res/pages.svg cmd/sc_insertpagecountfield.svg
@@ -2216,10 +2219,15 @@ sw/res/all_right.svg cmd/sc_lastrecord.svg
 sw/res/lc20556.svg cmd/lc_dbviewfunctions.svg
 sw/res/lc20557.svg cmd/lc_cancel.svg
 sw/res/lc20558.svg cmd/lc_ok.svg
-sw/res/nc20002.svg sw/res/sr20003.svg
+sw/res/nc20001.svg cmd/sc_inserttable.svg
+sw/res/nc20002.svg cmd/sc_insertframe.svg
+sw/res/nc20003.svg cmd/sc_insertgraphic.svg
 sw/res/nc20004.svg cmd/sc_insertobject.svg
+sw/res/nc20005.svg cmd/sc_insertbookmark.svg
 sw/res/nc20006.svg cmd/sc_insertsection.svg
-sw/res/nc20007.svg cmd/sc_inserthyperlinkcontrol.svg
+sw/res/nc20007.svg cmd/sc_inserthyperlink.svg
+sw/res/nc20008.svg cmd/sc_insertreferencefield.svg
+sw/res/nc20009.svg cmd/sc_insertindexesentry.svg
 sw/res/nc20010.svg cmd/sc_shownote.svg
 sw/res/nc20011.svg cmd/sc_insertdraw.svg
 sw/res/one_left.svg cmd/sc_prevrecord.svg
@@ -2237,7 +2245,7 @@ sw/res/sc20175.svg cmd/sc_nextrecord.svg
 sw/res/sc20182.svg cmd/sc_toggleanchortype.svg
 sw/res/sc20186.svg cmd/sc_prevrecord.svg
 sw/res/sc20233.svg cmd/sc_ok.svg
-sw/res/sc20235.svg cmd/sc_inserthyperlinkcontrol.svg
+sw/res/sc20235.svg cmd/sc_inserthyperlink.svg
 sw/res/sc20238.svg sw/res/nc20005.svg
 sw/res/sc20239.svg cmd/sc_copy.svg
 sw/res/sc20244.svg sw/res/sc20234.svg
@@ -2259,6 +2267,7 @@ sw/res/sf06.svg sw/res/nc20001.svg
 sw/res/sr20000.svg cmd/sc_downsearch.svg
 sw/res/sr20001.svg cmd/sc_upsearch.svg
 sw/res/sr20002.svg cmd/sc_inserttable.svg
+sw/res/sr20003.svg cmd/sc_text.svg
 sw/res/sr20004.svg cmd/sc_showsinglepage.svg
 sw/res/sr20005.svg cmd/sc_insertdraw.svg
 sw/res/sr20007.svg cmd/sc_insertsection.svg
