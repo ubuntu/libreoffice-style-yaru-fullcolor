@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_insertindexesentry.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_insertindexesentry.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,13 +42,14 @@
      id="namedview8"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="59"
-     inkscape:cx="6.2477853"
-     inkscape:cy="7.1080575"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="29.5"
+     inkscape:cx="6.0968868"
+     inkscape:cy="8.371896"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -77,19 +78,6 @@
      width="7"
      id="rect823"
      style="opacity:1;fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path2644"
-     cy="12.499999"
-     cx="12.499999"
-     r="3.5" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path1063"
-     overflow="visible"
-     font-weight="400"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="M 12,9.9999995 V 12 H 9.9999994 v 1 H 12 v 2 h 1 v -2 h 2 V 12 H 13 V 9.9999995 Z" />
   <rect
      style="opacity:1;fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect832"
@@ -103,24 +91,28 @@
      cx="4"
      cy="9"
      r="1" />
-  <rect
-     y="4"
-     x="6"
-     height="1"
-     width="7"
-     id="rect836"
-     style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     r="1"
-     cy="5"
-     cx="4"
-     id="circle838"
-     style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect825"
-     width="7"
-     height="1"
-     x="6"
-     y="6" />
+  <g
+     id="g844"
+     style="fill:#232629;fill-opacity:1">
+    <rect
+       y="4"
+       x="6"
+       height="1"
+       width="7"
+       id="rect836"
+       style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="1"
+       cy="5"
+       cx="4"
+       id="circle838"
+       style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#232629;fill-opacity:1;stroke:none;stroke-width:1.87082875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect825"
+       width="7"
+       height="1"
+       x="6"
+       y="6" />
+  </g>
 </svg>
