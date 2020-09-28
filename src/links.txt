@@ -131,6 +131,7 @@ cmd/32/deleterecord.xxx cmd/32/delete.xxx
 cmd/32/deleteshapehyperlink.xxx cmd/32/removehyperlink.xxx
 cmd/32/deleteslide.xxx cmd/32/deletepage.xxx
 cmd/32/diaauto.xxx cmd/32/dia.xxx
+cmd/32/diagramarea.xxx cmd/32/insertframe.xxx
 cmd/32/diagramaxisall.xxx cmd/32/diagramaxisxyz.xxx
 cmd/32/diagramaxismenu.xxx cmd/32/diagramaxis.xxx
 cmd/32/diagramgridmenu.xxx cmd/32/togglegridhorizontal.xxx
@@ -217,7 +218,7 @@ cmd/32/fontworkshapetype.fontwork-triangle-up.xxx cmd/32/basicshapes.isosceles-t
 cmd/32/fontworkshapetype.xxx cmd/32/fontwork.xxx
 cmd/32/formatallnotes.xxx cmd/32/editannotation.xxx
 cmd/32/formatbulletsmenu.xxx cmd/32/defaultbullet.xxx
-cmd/32/formatframemenu.xxx cmd/32/framedialog.xxx
+cmd/32/formatframemenu.xxx cmd/32/insertframe.xxx
 cmd/32/formatimagemenu.xxx cmd/32/graphicdialog.xxx
 cmd/32/formatobjectmenu.xxx cmd/32/text.xxx
 cmd/32/formatselection.xxx cmd/32/formproperties.xxx
@@ -229,6 +230,7 @@ cmd/32/formfilterexecute.xxx cmd/32/datafilterstandardfilter.xxx
 cmd/32/fr/underline.xxx cmd/32/ca/underline.xxx
 cmd/32/fr/underlinedouble.xxx cmd/32/ca/underlinedouble.xxx
 cmd/32/fr/underlinesimple.xxx cmd/32/ca/underline.xxx
+cmd/32/framedialog.xxx cmd/32/insertframe.xxx
 cmd/32/functionbox.xxx cmd/32/dbviewfunctions.xxx
 cmd/32/functiondialog.xxx cmd/32/dbviewfunctions.xxx
 cmd/32/goodcellstyles.xxx cmd/32/goodcellstyle.xxx
@@ -354,6 +356,7 @@ cmd/32/lastslide.xxx cmd/32/lastrecord.xxx
 cmd/32/leaveallgroups.xxx cmd/32/leavegroup.xxx
 cmd/32/leftpara.xxx cmd/32/alignleft.xxx
 cmd/32/linespacing.xxx cmd/32/spacepara15.xxx
+cmd/32/linestyle.xxx cmd/32/borderdialog.xxx
 cmd/32/linetoolbox.xxx cmd/32/freeline.xxx
 cmd/32/loadbasic.xxx cmd/32/dataimport.xxx
 cmd/32/loadstyles.xxx cmd/32/open.xxx
@@ -483,7 +486,7 @@ cmd/32/sectionalignright.xxx cmd/32/objectalignright.xxx
 cmd/32/sectionaligntop.xxx cmd/32/alignup.xxx
 cmd/32/selectmode.xxx cmd/32/selectobject.xxx
 cmd/32/sendfax.xxx cmd/32/print.xxx
-cmd/32/setborderstyle.xxx cmd/32/diagramarea.xxx
+cmd/32/setborderstyle.xxx cmd/32/insertframe.xxx
 cmd/32/setdefault.xxx cmd/32/resetattributes.xxx
 cmd/32/setobjecttobackground.xxx cmd/32/sendtoback.xxx
 cmd/32/setobjecttoforeground.xxx cmd/32/bringtofront.xxx
@@ -507,6 +510,7 @@ cmd/32/sl/underline.xxx cmd/32/pl/underline.xxx
 cmd/32/sl/underlinedouble.xxx cmd/32/pl/underlinedouble.xxx
 cmd/32/sl/underlinesimple.xxx cmd/32/pl/underline.xxx
 cmd/32/slidesetup.xxx cmd/32/pagesetup.xxx
+cmd/32/snapframe.xxx cmd/32/snapborder.xxx
 cmd/32/solidcreate.xxx cmd/32/editdoc.xxx
 cmd/32/solverdialog.xxx cmd/32/helpindex.xxx
 cmd/32/sortdown.xxx cmd/32/sortdescending.xxx
@@ -573,7 +577,7 @@ cmd/32/viewsidebarstyles.xxx cmd/32/designerdialog.xxx
 cmd/32/viewtrackchanges.xxx cmd/32/addwatch.xxx
 cmd/32/vscrollbar.xxx cmd/32/scrollbar.xxx
 cmd/32/webhtml.xxx cmd/32/browseview.xxx
-cmd/32/xlinestyle.xxx cmd/32/linestyle.xxx
+cmd/32/xlinestyle.xxx cmd/32/borderdialog.xxx
 cmd/32/yes.xxx cmd/32/ok.xxx
 cmd/32/zoom.xxx cmd/32/zoomoptimal.xxx
 cmd/32/zoom100percent.xxx cmd/32/view100.xxx
@@ -873,7 +877,7 @@ cmd/lc_fontworkshapetype.xxx cmd/lc_fontwork.xxx
 cmd/lc_footnotecellstyles.xxx cmd/lc_insertfootnote.xxx
 cmd/lc_formatallnotes.xxx cmd/lc_editannotation.xxx
 cmd/lc_formatbulletsmenu.xxx cmd/lc_defaultbullet.xxx
-cmd/lc_formatframemenu.xxx cmd/lc_framedialog.xxx
+cmd/lc_formatframemenu.xxx cmd/lc_insertframe.xxx
 cmd/lc_formatimagemenu.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_formatobjectmenu.xxx cmd/lc_text.xxx
 cmd/lc_formatselection.xxx cmd/lc_formproperties.xxx
@@ -882,6 +886,7 @@ cmd/lc_formattedfield.xxx cmd/lc_numberformatpercent.xxx
 cmd/lc_formattextmenu.xxx cmd/lc_scaletext.xxx
 cmd/lc_formfilter.xxx cmd/lc_datafilterspecialfilter.xxx
 cmd/lc_formfilterexecute.xxx cmd/lc_datafilterstandardfilter.xxx
+cmd/lc_framedialog.xxx cmd/lc_insertframe.xxx
 cmd/lc_functionbox.xxx cmd/lc_dbviewfunctions.xxx
 cmd/lc_functiondialog.xxx cmd/lc_dbviewfunctions.xxx
 cmd/lc_goodcellstyles.xxx cmd/lc_goodcellstyle.xxx
@@ -987,6 +992,7 @@ cmd/lc_lastslide.xxx cmd/lc_lastrecord.xxx
 cmd/lc_leaveallgroups.xxx cmd/lc_leavegroup.xxx
 cmd/lc_leftpara.xxx cmd/lc_alignleft.xxx
 cmd/lc_linespacing.xxx cmd/lc_spacepara15.xxx
+cmd/lc_linestyle.xxx cmd/lc_borderdialog.xxx
 cmd/lc_linetoolbox.xxx cmd/lc_freeline.xxx
 cmd/lc_loadbasic.xxx cmd/lc_dataimport.xxx
 cmd/lc_loadstyles.xxx cmd/lc_open.xxx
@@ -1103,7 +1109,7 @@ cmd/lc_sectionalignright.xxx cmd/lc_objectalignright.xxx
 cmd/lc_sectionaligntop.xxx cmd/lc_alignup.xxx
 cmd/lc_selectmode.xxx cmd/lc_selectobject.xxx
 cmd/lc_sendfax.xxx cmd/lc_print.xxx
-cmd/lc_setborderstyle.xxx cmd/lc_diagramarea.xxx
+cmd/lc_setborderstyle.xxx cmd/lc_insertframe.xxx
 cmd/lc_setdefault.xxx cmd/lc_resetattributes.xxx
 cmd/lc_setobjecttobackground.xxx cmd/lc_sendtoback.xxx
 cmd/lc_setobjecttoforeground.xxx cmd/lc_bringtofront.xxx
@@ -1125,6 +1131,7 @@ cmd/lc_showruler.xxx cmd/lc_ruler.xxx
 cmd/lc_showtrackedchanges.xxx cmd/lc_addwatch.xxx
 cmd/lc_sidebarmenu.xxx cmd/lc_sidebar.xxx
 cmd/lc_slidesetup.xxx cmd/lc_pagesetup.xxx
+cmd/lc_snapframe.xxx cmd/lc_snapborder.xxx
 cmd/lc_solidcreate.xxx cmd/lc_editdoc.xxx
 cmd/lc_solverdialog.xxx cmd/lc_helpindex.xxx
 cmd/lc_sortdown.xxx cmd/lc_sortdescending.xxx
@@ -1170,7 +1177,7 @@ cmd/lc_viewsidebarstyles.xxx cmd/lc_designerdialog.xxx
 cmd/lc_viewtrackchanges.xxx cmd/lc_addwatch.xxx
 cmd/lc_vscrollbar.xxx cmd/lc_scrollbar.xxx
 cmd/lc_webhtml.xxx cmd/lc_browseview.xxx
-cmd/lc_xlinestyle.xxx cmd/lc_linestyle.xxx
+cmd/lc_xlinestyle.xxx cmd/lc_borderdialog.xxx
 cmd/lc_yes.xxx cmd/lc_ok.xxx
 cmd/lc_zoom.xxx cmd/lc_zoomoptimal.xxx
 cmd/lc_zoom100percent.xxx cmd/lc_view100.xxx
@@ -1380,7 +1387,7 @@ cmd/sc_fontworkshapetype.xxx cmd/sc_fontwork.xxx
 cmd/sc_footnotecellstyles.xxx cmd/sc_insertfootnote.xxx
 cmd/sc_formatallnotes.xxx cmd/sc_editannotation.xxx
 cmd/sc_formatbulletsmenu.xxx cmd/sc_defaultbullet.xxx
-cmd/sc_formatframemenu.xxx cmd/sc_framedialog.xxx
+cmd/sc_formatframemenu.xxx cmd/sc_insertframe.xxx
 cmd/sc_formatimagemenu.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_formatobjectmenu.xxx cmd/sc_text.xxx
 cmd/sc_formatselection.xxx cmd/sc_formproperties.xxx
@@ -1389,6 +1396,7 @@ cmd/sc_formattedfield.xxx cmd/sc_numberformatpercent.xxx
 cmd/sc_formattextmenu.xxx cmd/sc_scaletext.xxx
 cmd/sc_formfilter.xxx cmd/sc_datafilterspecialfilter.xxx
 cmd/sc_formfilterexecute.xxx cmd/sc_datafilterstandardfilter.xxx
+cmd/sc_framedialog.xxx cmd/sc_insertframe.xxx
 cmd/sc_functionbox.xxx cmd/sc_dbviewfunctions.xxx
 cmd/sc_functiondialog.xxx cmd/sc_dbviewfunctions.xxx
 cmd/sc_goodcellstyles.xxx cmd/sc_goodcellstyle.xxx
@@ -1494,6 +1502,7 @@ cmd/sc_lastslide.xxx cmd/sc_lastrecord.xxx
 cmd/sc_leaveallgroups.xxx cmd/sc_leavegroup.xxx
 cmd/sc_leftpara.xxx cmd/sc_alignleft.xxx
 cmd/sc_linespacing.xxx cmd/sc_spacepara15.xxx
+cmd/sc_linestyle.xxx cmd/sc_borderdialog.xxx
 cmd/sc_linetoolbox.xxx cmd/sc_freeline.xxx
 cmd/sc_loadbasic.xxx cmd/sc_dataimport.xxx
 cmd/sc_lock.xxx cmd/sc_protect.xxx
@@ -1613,7 +1622,7 @@ cmd/sc_sectionaligntop.xxx cmd/sc_alignup.xxx
 cmd/sc_selectmode.xxx cmd/sc_selectobject.xxx
 cmd/sc_sendfax.xxx cmd/sc_print.xxx
 cmd/sc_sendfeedback.xxx cmd/sc_sendmail.xxx
-cmd/sc_setborderstyle.xxx cmd/sc_diagramarea.xxx
+cmd/sc_setborderstyle.xxx cmd/sc_insertframe.xxx
 cmd/sc_setdefault.xxx cmd/sc_resetattributes.xxx
 cmd/sc_setobjecttobackground.xxx cmd/sc_sendtoback.xxx
 cmd/sc_setobjecttoforeground.xxx cmd/sc_bringtofront.xxx
@@ -1635,6 +1644,7 @@ cmd/sc_showruler.xxx cmd/sc_ruler.xxx
 cmd/sc_showtrackedchanges.xxx cmd/sc_addwatch.xxx
 cmd/sc_sidebarmenu.xxx cmd/sc_sidebar.xxx
 cmd/sc_slidesetup.xxx cmd/sc_pagesetup.xxx
+cmd/sc_snapframe.xxx cmd/sc_snapborder.xxx
 cmd/sc_solidcreate.xxx cmd/sc_editdoc.xxx
 cmd/lc_solverdialog.xxx cmd/lc_helpindex.xxx
 cmd/sc_sortdown.xxx cmd/sc_sortdescending.xxx
@@ -1680,7 +1690,7 @@ cmd/sc_viewsidebarstyles.xxx cmd/sc_designerdialog.xxx
 cmd/sc_viewtrackchanges.xxx cmd/sc_addwatch.xxx
 cmd/sc_vscrollbar.xxx cmd/sc_scrollbar.xxx
 cmd/sc_webhtml.xxx cmd/sc_browseview.xxx
-cmd/sc_xlinestyle.xxx cmd/sc_linestyle.xxx
+cmd/sc_xlinestyle.xxx cmd/sc_borderdialog.xxx
 cmd/sc_yes.xxx cmd/sc_ok.xxx
 cmd/sc_zoom.xxx cmd/sc_zoomoptimal.xxx
 cmd/sc_zoom100percent.xxx cmd/sc_view100.xxx
@@ -2042,7 +2052,7 @@ sfx2/res/signet.xxx cmd/sc_signature.xxx
 sfx2/res/sortascending.xxx cmd/lc_sortascending.xxx
 sfx2/res/styfam1.xxx cmd/sc_charfontname.xxx
 sfx2/res/styfam2.xxx cmd/sc_controlcodes.xxx
-sfx2/res/styfam3.xxx cmd/sc_linestyle.xxx
+sfx2/res/styfam3.xxx cmd/sc_borderdialog.xxx
 sfx2/res/styfam4.xxx cmd/sc_showsinglepage.xxx
 sfx2/res/symphony/sidebar-3d-large.xxx cmd/lc_cube.xxx
 sfx2/res/symphony/sidebar-3d-small.xxx cmd/sc_cube.xxx
@@ -2260,7 +2270,7 @@ sw/res/sc20558.xxx cmd/sc_ok.xxx
 sw/res/sc_datainrows.xxx cmd/sc_datainrows.xxx
 sw/res/sf01.xxx cmd/sc_controlcodes.xxx
 sw/res/sf02.xxx cmd/sc_charfontname.xxx
-sw/res/sf03.xxx cmd/sc_diagramarea.xxx
+sw/res/sf03.xxx cmd/sc_insertframe.xxx
 sw/res/sf04.xxx cmd/sc_showsinglepage.xxx
 sw/res/sf05.xxx cmd/sc_defaultbullet.xxx
 sw/res/sf06.xxx sw/res/nc20001.xxx

@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_borderdialog.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_borderdialog.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,36 +42,32 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="19.666666"
-     inkscape:cx="-3.2256993"
-     inkscape:cy="13.735076"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:cx="9.1657868"
+     inkscape:cy="13.103654"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid842" />
   </sodipodi:namedview>
   <path
-     d="M 9,19 H 5 V 5 h 14 v 12 2 z M 20,17 V 4 H 4 v 16 h 5 11 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#e95420"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <path
-     d="M 9,18 H 6 V 6 h 12 v 11 1 z M 19,17 V 5 H 5 v 14 h 4 10 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect824"
-     width="12"
-     height="12"
-     x="6"
-     y="6"
-     ry="0" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4,4 H 20 V 20 H 4 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 2,2 V 22 H 22 V 20 2 Z M 4,4 H 20 V 20 H 4 Z"
+     fill="#e95420"
+     id="path2"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     id="path4"
+     d="M 3,3 V 21 H 21 V 3 Z M 4,4 H 20 V 20 H 4 Z"
+     sodipodi:nodetypes="cccccccccc"
+     style="fill:#232629;fill-opacity:1" />
   <g
      transform="matrix(0.73400013,0,0,0.73400013,13.632274,14.132274)"
      id="g47"

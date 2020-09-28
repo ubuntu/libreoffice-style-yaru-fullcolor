@@ -131,6 +131,7 @@ cmd/32/deleterecord.png cmd/32/delete.png
 cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
 cmd/32/deleteslide.png cmd/32/deletepage.png
 cmd/32/diaauto.png cmd/32/dia.png
+cmd/32/diagramarea.png cmd/32/insertframe.png
 cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
 cmd/32/diagramaxismenu.png cmd/32/diagramaxis.png
 cmd/32/diagramgridmenu.png cmd/32/togglegridhorizontal.png
@@ -217,7 +218,7 @@ cmd/32/fontworkshapetype.fontwork-triangle-up.png cmd/32/basicshapes.isosceles-t
 cmd/32/fontworkshapetype.png cmd/32/fontwork.png
 cmd/32/formatallnotes.png cmd/32/editannotation.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
-cmd/32/formatframemenu.png cmd/32/framedialog.png
+cmd/32/formatframemenu.png cmd/32/insertframe.png
 cmd/32/formatimagemenu.png cmd/32/graphicdialog.png
 cmd/32/formatobjectmenu.png cmd/32/text.png
 cmd/32/formatselection.png cmd/32/formproperties.png
@@ -229,6 +230,7 @@ cmd/32/formfilterexecute.png cmd/32/datafilterstandardfilter.png
 cmd/32/fr/underline.png cmd/32/ca/underline.png
 cmd/32/fr/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/fr/underlinesimple.png cmd/32/ca/underline.png
+cmd/32/framedialog.png cmd/32/insertframe.png
 cmd/32/functionbox.png cmd/32/dbviewfunctions.png
 cmd/32/functiondialog.png cmd/32/dbviewfunctions.png
 cmd/32/goodcellstyles.png cmd/32/goodcellstyle.png
@@ -354,6 +356,7 @@ cmd/32/lastslide.png cmd/32/lastrecord.png
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
 cmd/32/leftpara.png cmd/32/alignleft.png
 cmd/32/linespacing.png cmd/32/spacepara15.png
+cmd/32/linestyle.png cmd/32/borderdialog.png
 cmd/32/linetoolbox.png cmd/32/freeline.png
 cmd/32/loadbasic.png cmd/32/dataimport.png
 cmd/32/loadstyles.png cmd/32/open.png
@@ -483,7 +486,7 @@ cmd/32/sectionalignright.png cmd/32/objectalignright.png
 cmd/32/sectionaligntop.png cmd/32/alignup.png
 cmd/32/selectmode.png cmd/32/selectobject.png
 cmd/32/sendfax.png cmd/32/print.png
-cmd/32/setborderstyle.png cmd/32/diagramarea.png
+cmd/32/setborderstyle.png cmd/32/insertframe.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/setobjecttobackground.png cmd/32/sendtoback.png
 cmd/32/setobjecttoforeground.png cmd/32/bringtofront.png
@@ -507,6 +510,7 @@ cmd/32/sl/underline.png cmd/32/pl/underline.png
 cmd/32/sl/underlinedouble.png cmd/32/pl/underlinedouble.png
 cmd/32/sl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/slidesetup.png cmd/32/pagesetup.png
+cmd/32/snapframe.png cmd/32/snapborder.png
 cmd/32/solidcreate.png cmd/32/editdoc.png
 cmd/32/solverdialog.png cmd/32/helpindex.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
@@ -573,7 +577,7 @@ cmd/32/viewsidebarstyles.png cmd/32/designerdialog.png
 cmd/32/viewtrackchanges.png cmd/32/addwatch.png
 cmd/32/vscrollbar.png cmd/32/scrollbar.png
 cmd/32/webhtml.png cmd/32/browseview.png
-cmd/32/xlinestyle.png cmd/32/linestyle.png
+cmd/32/xlinestyle.png cmd/32/borderdialog.png
 cmd/32/yes.png cmd/32/ok.png
 cmd/32/zoom.png cmd/32/zoomoptimal.png
 cmd/32/zoom100percent.png cmd/32/view100.png
@@ -873,7 +877,7 @@ cmd/lc_fontworkshapetype.png cmd/lc_fontwork.png
 cmd/lc_footnotecellstyles.png cmd/lc_insertfootnote.png
 cmd/lc_formatallnotes.png cmd/lc_editannotation.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
-cmd/lc_formatframemenu.png cmd/lc_framedialog.png
+cmd/lc_formatframemenu.png cmd/lc_insertframe.png
 cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatobjectmenu.png cmd/lc_text.png
 cmd/lc_formatselection.png cmd/lc_formproperties.png
@@ -882,6 +886,7 @@ cmd/lc_formattedfield.png cmd/lc_numberformatpercent.png
 cmd/lc_formattextmenu.png cmd/lc_scaletext.png
 cmd/lc_formfilter.png cmd/lc_datafilterspecialfilter.png
 cmd/lc_formfilterexecute.png cmd/lc_datafilterstandardfilter.png
+cmd/lc_framedialog.png cmd/lc_insertframe.png
 cmd/lc_functionbox.png cmd/lc_dbviewfunctions.png
 cmd/lc_functiondialog.png cmd/lc_dbviewfunctions.png
 cmd/lc_goodcellstyles.png cmd/lc_goodcellstyle.png
@@ -987,6 +992,7 @@ cmd/lc_lastslide.png cmd/lc_lastrecord.png
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
 cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_linespacing.png cmd/lc_spacepara15.png
+cmd/lc_linestyle.png cmd/lc_borderdialog.png
 cmd/lc_linetoolbox.png cmd/lc_freeline.png
 cmd/lc_loadbasic.png cmd/lc_dataimport.png
 cmd/lc_loadstyles.png cmd/lc_open.png
@@ -1103,7 +1109,7 @@ cmd/lc_sectionalignright.png cmd/lc_objectalignright.png
 cmd/lc_sectionaligntop.png cmd/lc_alignup.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_sendfax.png cmd/lc_print.png
-cmd/lc_setborderstyle.png cmd/lc_diagramarea.png
+cmd/lc_setborderstyle.png cmd/lc_insertframe.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
 cmd/lc_setobjecttobackground.png cmd/lc_sendtoback.png
 cmd/lc_setobjecttoforeground.png cmd/lc_bringtofront.png
@@ -1125,6 +1131,7 @@ cmd/lc_showruler.png cmd/lc_ruler.png
 cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
+cmd/lc_snapframe.png cmd/lc_snapborder.png
 cmd/lc_solidcreate.png cmd/lc_editdoc.png
 cmd/lc_solverdialog.png cmd/lc_helpindex.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
@@ -1170,7 +1177,7 @@ cmd/lc_viewsidebarstyles.png cmd/lc_designerdialog.png
 cmd/lc_viewtrackchanges.png cmd/lc_addwatch.png
 cmd/lc_vscrollbar.png cmd/lc_scrollbar.png
 cmd/lc_webhtml.png cmd/lc_browseview.png
-cmd/lc_xlinestyle.png cmd/lc_linestyle.png
+cmd/lc_xlinestyle.png cmd/lc_borderdialog.png
 cmd/lc_yes.png cmd/lc_ok.png
 cmd/lc_zoom.png cmd/lc_zoomoptimal.png
 cmd/lc_zoom100percent.png cmd/lc_view100.png
@@ -1380,7 +1387,7 @@ cmd/sc_fontworkshapetype.png cmd/sc_fontwork.png
 cmd/sc_footnotecellstyles.png cmd/sc_insertfootnote.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
-cmd/sc_formatframemenu.png cmd/sc_framedialog.png
+cmd/sc_formatframemenu.png cmd/sc_insertframe.png
 cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatobjectmenu.png cmd/sc_text.png
 cmd/sc_formatselection.png cmd/sc_formproperties.png
@@ -1389,6 +1396,7 @@ cmd/sc_formattedfield.png cmd/sc_numberformatpercent.png
 cmd/sc_formattextmenu.png cmd/sc_scaletext.png
 cmd/sc_formfilter.png cmd/sc_datafilterspecialfilter.png
 cmd/sc_formfilterexecute.png cmd/sc_datafilterstandardfilter.png
+cmd/sc_framedialog.png cmd/sc_insertframe.png
 cmd/sc_functionbox.png cmd/sc_dbviewfunctions.png
 cmd/sc_functiondialog.png cmd/sc_dbviewfunctions.png
 cmd/sc_goodcellstyles.png cmd/sc_goodcellstyle.png
@@ -1494,6 +1502,7 @@ cmd/sc_lastslide.png cmd/sc_lastrecord.png
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
 cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_linespacing.png cmd/sc_spacepara15.png
+cmd/sc_linestyle.png cmd/sc_borderdialog.png
 cmd/sc_linetoolbox.png cmd/sc_freeline.png
 cmd/sc_loadbasic.png cmd/sc_dataimport.png
 cmd/sc_lock.png cmd/sc_protect.png
@@ -1613,7 +1622,7 @@ cmd/sc_sectionaligntop.png cmd/sc_alignup.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
 cmd/sc_sendfax.png cmd/sc_print.png
 cmd/sc_sendfeedback.png cmd/sc_sendmail.png
-cmd/sc_setborderstyle.png cmd/sc_diagramarea.png
+cmd/sc_setborderstyle.png cmd/sc_insertframe.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 cmd/sc_setobjecttobackground.png cmd/sc_sendtoback.png
 cmd/sc_setobjecttoforeground.png cmd/sc_bringtofront.png
@@ -1635,6 +1644,7 @@ cmd/sc_showruler.png cmd/sc_ruler.png
 cmd/sc_showtrackedchanges.png cmd/sc_addwatch.png
 cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
+cmd/sc_snapframe.png cmd/sc_snapborder.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
 cmd/lc_solverdialog.png cmd/lc_helpindex.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
@@ -1680,7 +1690,7 @@ cmd/sc_viewsidebarstyles.png cmd/sc_designerdialog.png
 cmd/sc_viewtrackchanges.png cmd/sc_addwatch.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
 cmd/sc_webhtml.png cmd/sc_browseview.png
-cmd/sc_xlinestyle.png cmd/sc_linestyle.png
+cmd/sc_xlinestyle.png cmd/sc_borderdialog.png
 cmd/sc_yes.png cmd/sc_ok.png
 cmd/sc_zoom.png cmd/sc_zoomoptimal.png
 cmd/sc_zoom100percent.png cmd/sc_view100.png
@@ -2042,7 +2052,7 @@ sfx2/res/signet.png cmd/sc_signature.png
 sfx2/res/sortascending.png cmd/lc_sortascending.png
 sfx2/res/styfam1.png cmd/sc_charfontname.png
 sfx2/res/styfam2.png cmd/sc_controlcodes.png
-sfx2/res/styfam3.png cmd/sc_linestyle.png
+sfx2/res/styfam3.png cmd/sc_borderdialog.png
 sfx2/res/styfam4.png cmd/sc_showsinglepage.png
 sfx2/res/symphony/sidebar-3d-large.png cmd/lc_cube.png
 sfx2/res/symphony/sidebar-3d-small.png cmd/sc_cube.png
@@ -2260,7 +2270,7 @@ sw/res/sc20558.png cmd/sc_ok.png
 sw/res/sc_datainrows.png cmd/sc_datainrows.png
 sw/res/sf01.png cmd/sc_controlcodes.png
 sw/res/sf02.png cmd/sc_charfontname.png
-sw/res/sf03.png cmd/sc_diagramarea.png
+sw/res/sf03.png cmd/sc_insertframe.png
 sw/res/sf04.png cmd/sc_showsinglepage.png
 sw/res/sf05.png cmd/sc_defaultbullet.png
 sw/res/sf06.png sw/res/nc20001.png

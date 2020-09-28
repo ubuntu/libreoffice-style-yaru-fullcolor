@@ -53,24 +53,19 @@
        type="xygrid"
        id="grid832" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect824"
-     width="12"
-     height="12"
-     x="5.9999995"
-     y="6"
-     ry="0" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#e95420"
-     d="M 4,3.9999997 V 20 H 20 V 18 3.9999997 Z M 6,6.0000002 H 18 V 18 H 6 Z"
+     id="rect824"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4,4 H 20 V 20 H 4 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 2,2 V 22 H 22 V 20 2 Z M 4,4 H 20 V 20 H 4 Z"
+     fill="#e95420"
      id="path2"
      sodipodi:nodetypes="ccccccccccc" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     d="M 5,5.0000002 V 19 H 19 V 5.0000002 Z m 1,1 H 18 V 18 H 6 Z"
      id="path4"
-     sodipodi:nodetypes="cccccccccc" />
+     d="M 3,3 V 21 H 21 V 3 Z M 4,4 H 20 V 20 H 4 Z"
+     sodipodi:nodetypes="cccccccccc"
+     style="fill:#232629;fill-opacity:1" />
 </svg>
