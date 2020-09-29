@@ -41,8 +41,8 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="2.6213736"
-   inkscape:cy="3.9641769"
+   inkscape:cx="4.9841914"
+   inkscape:cy="5.6332712"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -53,20 +53,23 @@
      id="grid831" />
 </sodipodi:namedview>
 
+
 /&gt;<circle
-   style="opacity:1;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:1.75;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle833"
+   cx="8"
+   cy="8"
+   r="6" />
+<circle
+   style="opacity:1;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="path819"
    cx="8"
    cy="8"
-   r="7" />
+   r="6" />
 <circle
    r="2"
    cy="8"
    cx="8"
    id="circle823"
    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-<path
-   id="path833"
-   style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:round"
-   d="M 7.90625 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 A 7 7 0 0 0 7.90625 1 z M 8 2 A 6 6 0 0 1 14 8 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 z " />
 </svg>

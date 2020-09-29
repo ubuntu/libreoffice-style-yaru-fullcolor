@@ -53,24 +53,26 @@
        type="xygrid"
        id="grid823" />
   </sodipodi:namedview>
+  <circle
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
+     id="circle834"
+     cx="12"
+     cy="12"
+     r="9" />
   <path
      d="m -29.581104,4.4067797 -0.707032,0.7070312 7.292969,7.2929691 -7.292969,7.292969 0.707032,0.707031 7.292968,-7.292969 7.292969,7.292969 0.707031,-0.707031 -7.292969,-7.292969 7.292969,-7.2929691 -0.707031,-0.7070312 -7.292969,7.2929693 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#c7162b" />
   <circle
-     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
      id="path904"
      cx="12"
      cy="12"
-     r="10" />
+     r="9" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.73205078;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 7.2270292,8.2876895 10.93934,12 7.2270292,15.71231 8.2876895,16.77297 12,13.06066 15.71231,16.772971 16.77297,15.712311 13.06066,12 16.772971,8.2876895 15.712311,7.2270293 12,10.93934 8.2876894,7.2270292 Z"
      id="rect825"
      inkscape:connector-curvature="0" />
-  <path
-     id="path833"
-     style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke-width:2;stroke-linecap:round"
-     d="M 11.980469 2 A 10 10 0 0 0 2 12 A 10 10 0 0 0 12 22 A 10 10 0 0 0 22 12 A 10 10 0 0 0 12 2 A 10 10 0 0 0 11.980469 2 z M 11.990234 3 A 9 9 0 0 1 12 3 A 9 9 0 0 1 21 12 A 9 9 0 0 1 12 21 A 9 9 0 0 1 3 12 A 9 9 0 0 1 11.990234 3 z " />
 </svg>
