@@ -521,6 +521,7 @@ cmd/32/sourceview.xxx cmd/32/symbolshapes.brace-pair.xxx
 cmd/32/spelldialog.xxx cmd/32/spelling.xxx
 cmd/32/spellingandgrammardialog.xxx cmd/32/spelling.xxx
 cmd/32/starchartdialog.xxx cmd/32/insertobjectdialog.xxx
+cmd/32/statisticsmenu.xxx cmd/32/drawchart.xxx
 cmd/32/styleapply.xxx cmd/32/formatarea.xxx
 cmd/32/stylewatercanmode.xxx cmd/32/formatarea.xxx
 cmd/32/sv/bold.xxx cmd/32/de/bold.xxx
@@ -1145,6 +1146,7 @@ cmd/lc_sourceview.xxx cmd/lc_symbolshapes.brace-pair.xxx
 cmd/lc_spelldialog.xxx cmd/lc_spelling.xxx
 cmd/lc_spellingandgrammardialog.xxx cmd/lc_spelling.xxx
 cmd/lc_starchartdialog.xxx cmd/lc_insertobjectdialog.xxx
+cmd/lc_statisticsmenu.xxx cmd/lc_drawchart.xxx
 cmd/lc_styleapply.xxx cmd/lc_formatarea.xxx
 cmd/lc_stylewatercanmode.xxx cmd/lc_formatarea.xxx
 cmd/lc_switchcontroldesignmode.xxx cmd/lc_editdoc.xxx
@@ -1660,6 +1662,7 @@ cmd/sc_sourceview.xxx cmd/sc_symbolshapes.brace-pair.xxx
 cmd/sc_spelldialog.xxx cmd/sc_spelling.xxx
 cmd/sc_spellingandgrammardialog.xxx cmd/sc_spelling.xxx
 cmd/sc_starchartdialog.xxx cmd/sc_insertobjectdialog.xxx
+cmd/sc_statisticsmenu.xxx cmd/sc_drawchart.xxx
 cmd/sc_styleapply.xxx cmd/sc_formatarea.xxx
 cmd/sc_stylewatercanmode.xxx cmd/sc_formatarea.xxx
 cmd/sc_switchcontroldesignmode.xxx cmd/sc_editdoc.xxx
