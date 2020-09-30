@@ -76,6 +76,7 @@ cmd/32/characterbackgroundpattern.svg cmd/32/backcolor.svg
 cmd/32/charactermenu.svg cmd/32/fontdialog.svg
 cmd/32/charbackcolor.svg cmd/32/backcolor.svg
 cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
+cmd/32/chartmenu.svg cmd/32/drawchart.svg
 cmd/32/choosecontrols.svg cmd/32/controlproperties.svg
 cmd/32/clickchangerotation.svg cmd/32/toggleobjectrotatemode.svg
 cmd/32/closedocs.svg cmd/32/closedoc.svg
@@ -756,6 +757,7 @@ cmd/lc_characterbackgroundpattern.svg cmd/lc_backcolor.svg
 cmd/lc_charactermenu.svg cmd/lc_fontdialog.svg
 cmd/lc_charbackcolor.svg cmd/lc_backcolor.svg
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
+cmd/lc_chartmenu.svg cmd/lc_drawchart.svg
 cmd/lc_choosecontrols.svg cmd/lc_controlproperties.svg
 cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
@@ -1267,6 +1269,7 @@ cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_charactermenu.svg cmd/sc_fontdialog.svg
 cmd/sc_charbackcolor.svg cmd/sc_backcolor.svg
 cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
+cmd/sc_chartmenu.svg cmd/sc_drawchart.svg
 cmd/sc_choosecontrols.svg cmd/sc_controlproperties.svg
 cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg

@@ -76,6 +76,7 @@ cmd/32/characterbackgroundpattern.png cmd/32/backcolor.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/charbackcolor.png cmd/32/backcolor.png
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
+cmd/32/chartmenu.png cmd/32/drawchart.png
 cmd/32/choosecontrols.png cmd/32/controlproperties.png
 cmd/32/clickchangerotation.png cmd/32/toggleobjectrotatemode.png
 cmd/32/closedocs.png cmd/32/closedoc.png
@@ -756,6 +757,7 @@ cmd/lc_characterbackgroundpattern.png cmd/lc_backcolor.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
 cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
+cmd/lc_chartmenu.png cmd/lc_drawchart.png
 cmd/lc_choosecontrols.png cmd/lc_controlproperties.png
 cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
 cmd/lc_closedocs.png cmd/lc_closedoc.png
@@ -1267,6 +1269,7 @@ cmd/sc_characterbackgroundpattern.png cmd/sc_backcolor.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
+cmd/sc_chartmenu.png cmd/sc_drawchart.png
 cmd/sc_choosecontrols.png cmd/sc_controlproperties.png
 cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 cmd/sc_closedocs.png cmd/sc_closedoc.png
