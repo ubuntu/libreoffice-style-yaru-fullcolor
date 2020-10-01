@@ -1,7 +1,7 @@
-/svx/res/3dgeo.xxx cmd/lc_window3d.xxx
-/svx/res/3dlight.xxx svx/res/lighton.xxx
-/svx/res/blend3d.xxx cmd/lc_sphere.xxx
-/svx/res/objects.xxx cmd/lc_insertdraw.xxx
+svx/res/3dgeo.xxx cmd/lc_window3d.xxx
+svx/res/3dlight.xxx svx/res/lighton.xxx
+svx/res/blend3d.xxx cmd/lc_sphere.xxx
+svx/res/objects.xxx cmd/lc_insertdraw.xxx
 avmedia/res/av02048.xxx cmd/sc_open.xxx
 avmedia/res/av02049.xxx cmd/sc_runbasic.xxx
 avmedia/res/av02050.xxx cmd/sc_mediapause.xxx
@@ -81,7 +81,7 @@ cmd/32/clickchangerotation.xxx cmd/32/toggleobjectrotatemode.xxx
 cmd/32/closedocs.xxx cmd/32/closedoc.xxx
 cmd/32/closemasterview.xxx cmd/32/closedoc.xxx
 cmd/32/closepreview.xxx cmd/32/closedoc.xxx
-cmd/32/closewin.xxx cmd/32/closepreview.xxx
+cmd/32/closewin.xxx cmd/32/closedoc.xxx
 cmd/32/colorview.xxx cmd/32/graphicfilterinvert.xxx
 cmd/32/columnoperations.xxx cmd/32/selectcolumn.xxx
 cmd/32/columnwidth.xxx cmd/32/setminimalcolumnwidth.xxx
@@ -761,7 +761,7 @@ cmd/lc_clickchangerotation.xxx cmd/lc_toggleobjectrotatemode.xxx
 cmd/lc_closedocs.xxx cmd/lc_closedoc.xxx
 cmd/lc_closemasterview.xxx cmd/lc_closedoc.xxx
 cmd/lc_closepreview.xxx cmd/lc_closedoc.xxx
-cmd/lc_closewin.xxx cmd/lc_closepreview.xxx
+cmd/lc_closewin.xxx cmd/lc_closedoc.xxx
 cmd/lc_colorview.xxx cmd/lc_graphicfilterinvert.xxx
 cmd/lc_columnoperations.xxx cmd/lc_selectcolumn.xxx
 cmd/lc_columnwidth.xxx cmd/lc_setminimalcolumnwidth.xxx
@@ -1272,7 +1272,7 @@ cmd/sc_clickchangerotation.xxx cmd/sc_toggleobjectrotatemode.xxx
 cmd/sc_closedocs.xxx cmd/sc_closedoc.xxx
 cmd/sc_closemasterview.xxx cmd/sc_closedoc.xxx
 cmd/sc_closepreview.xxx cmd/sc_closedoc.xxx
-cmd/sc_closewin.xxx cmd/sc_closepreview.xxx
+cmd/sc_closewin.xxx cmd/sc_closedoc.xxx
 cmd/sc_colorview.xxx cmd/sc_graphicfilterinvert.xxx
 cmd/sc_columnoperations.xxx cmd/sc_selectcolumn.xxx
 cmd/sc_columnwidth.xxx cmd/sc_setminimalcolumnwidth.xxx
@@ -1962,7 +1962,7 @@ res/sx18003.xxx res/minus.xxx
 res/tables_32.xxx cmd/32/dbviewtables.xxx
 sc/res/date.xxx cmd/sc_datefield.xxx
 sc/res/dropcopy.xxx cmd/sc_copy.xxx
-sc/res/droplink.xxx sw/res/nc20005.xxx
+sc/res/droplink.xxx cmd/sc_insertbookmark.xxx
 sc/res/dropurl.xxx cmd/sc_inserthyperlink.xxx
 sc/res/file.xxx cmd/sc_open.xxx
 sc/res/fx.xxx cmd/sc_dbviewfunctions.xxx
@@ -1980,7 +1980,7 @@ sc/res/na09.xxx cmd/sc_animationeffects.xxx
 sc/res/nc01.xxx cmd/sc_dbviewtablenames.xxx
 sc/res/nc02.xxx cmd/sc_dataranges.xxx
 sc/res/nc03.xxx cmd/sc_viewdatasourcebrowser.xxx
-sc/res/nc04.xxx sw/res/nc20003.xxx
+sc/res/nc04.xxx cmd/sc_insertgraphic.xxx
 sc/res/nc05.xxx cmd/sc_insertobject.xxx
 sc/res/nc06.xxx cmd/sc_shownote.xxx
 sc/res/nc07.xxx cmd/sc_inserthyperlink.xxx
@@ -2018,7 +2018,7 @@ sd/res/nv04.xxx cmd/sc_prevrecord.xxx
 sd/res/nv05.xxx cmd/sc_nextrecord.xxx
 sd/res/nv06.xxx cmd/sc_lastrecord.xxx
 sd/res/nv08.xxx cmd/sc_copy.xxx
-sd/res/nv09.xxx sw/res/nc20005.xxx
+sd/res/nv09.xxx cmd/sc_insertbookmark.xxx
 sd/res/ole.xxx cmd/lc_insertobject.xxx
 sd/res/page.xxx cmd/lc_adddirect.xxx
 sd/res/pipette.xxx cmd/lc_bmpmask.xxx
@@ -2043,7 +2043,7 @@ sfx2/res/closedoc.xxx vcl/res/closedoc.xxx
 sfx2/res/deleterow.xxx cmd/sc_cancel.xxx
 sfx2/res/doccl.xxx cmd/sc_newdoc.xxx
 sfx2/res/exec_action.xxx cmd/sc_config.xxx
-sfx2/res/favourite.xxx sw/res/nc20005.xxx
+sfx2/res/favourite.xxx cmd/sc_insertbookmark.xxx
 sfx2/res/favourite_big.xxx cmd/lc_insertbookmark.xxx
 sfx2/res/hlpdoc.xxx cmd/sc_helpindex.xxx
 sfx2/res/minus.xxx res/minus.xxx
@@ -2259,11 +2259,11 @@ sw/res/sc20182.xxx cmd/sc_toggleanchortype.xxx
 sw/res/sc20186.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20233.xxx cmd/sc_ok.xxx
 sw/res/sc20235.xxx cmd/sc_inserthyperlink.xxx
-sw/res/sc20238.xxx sw/res/nc20005.xxx
+sw/res/sc20238.xxx cmd/sc_insertbookmark.xxx
 sw/res/sc20239.xxx cmd/sc_copy.xxx
 sw/res/sc20244.xxx sw/res/sc20234.xxx
 sw/res/sc20245.xxx cmd/sc_insertdraw.xxx
-sw/res/sc20246.xxx sw/res/nc20005.xxx
+sw/res/sc20246.xxx cmd/sc_insertbookmark.xxx
 sw/res/sc20247.xxx cmd/sc_dataimport.xxx
 sw/res/sc20248.xxx cmd/sc_save.xxx
 sw/res/sc20249.xxx cmd/sc_navigator.xxx
@@ -2276,7 +2276,7 @@ sw/res/sf02.xxx cmd/sc_charfontname.xxx
 sw/res/sf03.xxx cmd/sc_insertframe.xxx
 sw/res/sf04.xxx cmd/sc_showsinglepage.xxx
 sw/res/sf05.xxx cmd/sc_defaultbullet.xxx
-sw/res/sf06.xxx sw/res/nc20001.xxx
+sw/res/sf06.xxx cmd/sc_inserttable.xxx
 sw/res/sr20000.xxx cmd/sc_downsearch.xxx
 sw/res/sr20001.xxx cmd/sc_upsearch.xxx
 sw/res/sr20002.xxx cmd/sc_inserttable.xxx
@@ -2284,7 +2284,7 @@ sw/res/sr20003.xxx cmd/sc_text.xxx
 sw/res/sr20004.xxx cmd/sc_showsinglepage.xxx
 sw/res/sr20005.xxx cmd/sc_insertdraw.xxx
 sw/res/sr20007.xxx cmd/sc_insertsection.xxx
-sw/res/sr20008.xxx sw/res/nc20005.xxx
+sw/res/sr20008.xxx cmd/sc_insertbookmark.xxx
 sw/res/sr20009.xxx cmd/sc_insertgraphic.xxx
 sw/res/sr20010.xxx cmd/sc_insertobject.xxx
 sw/res/sr20011.xxx sw/res/nc20000.xxx
