@@ -1,0 +1,17 @@
+name: Check links.txt integrity
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run check-links
+        run: ./check-links.sh
