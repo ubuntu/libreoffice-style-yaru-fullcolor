@@ -63,4 +63,6 @@ done
 if [[ $errors > 0 ]]; then
     echo -e "\n$errors error(s) found"
     exit 1
+else
+    echo "🎉 0 error found"
 fi
