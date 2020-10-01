@@ -428,6 +428,7 @@ cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 cmd/32/pageup.png cmd/32/prevrecord.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
 cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
+cmd/32/photoalbumdialog.png cmd/32/gallery.png
 cmd/32/pl/bold.png cmd/32/fr/bold.png
 cmd/32/pl/italic.png cmd/32/de/italic.png
 cmd/32/pl/underlinesimple.png cmd/32/pl/underline.png
@@ -521,6 +522,7 @@ cmd/32/sourceview.png cmd/32/symbolshapes.brace-pair.png
 cmd/32/spelldialog.png cmd/32/spelling.png
 cmd/32/spellingandgrammardialog.png cmd/32/spelling.png
 cmd/32/starchartdialog.png cmd/32/insertobjectdialog.png
+cmd/32/statisticsmenu.png cmd/32/drawchart.png
 cmd/32/styleapply.png cmd/32/formatarea.png
 cmd/32/stylewatercanmode.png cmd/32/formatarea.png
 cmd/32/sv/bold.png cmd/32/de/bold.png
@@ -1066,6 +1068,7 @@ cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pageup.png cmd/lc_prevrecord.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
+cmd/lc_photoalbumdialog.png cmd/lc_gallery.png
 cmd/lc_pluginsactive.png cmd/lc_insertplugin.png
 cmd/lc_presentation.png cmd/lc_dia.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
@@ -1145,6 +1148,7 @@ cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
 cmd/lc_spelldialog.png cmd/lc_spelling.png
 cmd/lc_spellingandgrammardialog.png cmd/lc_spelling.png
 cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
+cmd/lc_statisticsmenu.png cmd/lc_drawchart.png
 cmd/lc_styleapply.png cmd/lc_formatarea.png
 cmd/lc_stylewatercanmode.png cmd/lc_formatarea.png
 cmd/lc_switchcontroldesignmode.png cmd/lc_editdoc.png
@@ -1580,6 +1584,7 @@ cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pageup.png cmd/sc_prevrecord.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
+cmd/sc_photoalbumdialog.png cmd/sc_gallery.png
 cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 cmd/sc_presentation.png cmd/sc_dia.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
@@ -1660,6 +1665,7 @@ cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
 cmd/sc_spelldialog.png cmd/sc_spelling.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelling.png
 cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
+cmd/sc_statisticsmenu.png cmd/sc_drawchart.png
 cmd/sc_styleapply.png cmd/sc_formatarea.png
 cmd/sc_stylewatercanmode.png cmd/sc_formatarea.png
 cmd/sc_switchcontroldesignmode.png cmd/sc_editdoc.png

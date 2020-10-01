@@ -428,6 +428,7 @@ cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
 cmd/32/paragraphmenu.xxx cmd/32/paragraphdialog.xxx
 cmd/32/pastespecialmenu.xxx cmd/32/pastespecial.xxx
+cmd/32/photoalbumdialog.xxx cmd/32/gallery.xxx
 cmd/32/pl/bold.xxx cmd/32/fr/bold.xxx
 cmd/32/pl/italic.xxx cmd/32/de/italic.xxx
 cmd/32/pl/underlinesimple.xxx cmd/32/pl/underline.xxx
@@ -1067,6 +1068,7 @@ cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
 cmd/lc_paragraphmenu.xxx cmd/lc_paragraphdialog.xxx
 cmd/lc_pastespecialmenu.xxx cmd/lc_pastespecial.xxx
+cmd/lc_photoalbumdialog.xxx cmd/lc_gallery.xxx
 cmd/lc_pluginsactive.xxx cmd/lc_insertplugin.xxx
 cmd/lc_presentation.xxx cmd/lc_dia.xxx
 cmd/lc_previewprintoptions.xxx cmd/lc_printpreview.xxx
@@ -1582,6 +1584,7 @@ cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
 cmd/sc_paragraphmenu.xxx cmd/sc_paragraphdialog.xxx
 cmd/sc_pastespecialmenu.xxx cmd/sc_pastespecial.xxx
+cmd/sc_photoalbumdialog.xxx cmd/sc_gallery.xxx
 cmd/sc_pluginsactive.xxx cmd/sc_insertplugin.xxx
 cmd/sc_presentation.xxx cmd/sc_dia.xxx
 cmd/sc_previewprintoptions.xxx cmd/sc_printpreview.xxx

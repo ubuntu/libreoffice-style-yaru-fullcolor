@@ -14,7 +14,7 @@
    version="1.1"
    id="svg89"
    sodipodi:docname="imagebutton.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/imagebutton.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -48,9 +48,10 @@
      inkscape:cx="2.4383394"
      inkscape:cy="18.321535"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg89">
+     inkscape:current-layer="svg89"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid915" />
@@ -277,21 +278,13 @@
        d="m 3.5,4.0449219 c -1.1079984,0 -2,0.8919937 -2,2 V 25.044922 c 0,1.068339 0.83218,1.927535 1.8847656,1.988281 H 28.488281 c 1.107999,0 2,-0.891994 2,-2 V 6.0332031 c 0,-1.0665223 -0.828871,-1.9249004 -1.878906,-1.9882812 z" />
   </g>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.83797026;marker:none;enable-background:accumulate"
-     d="M 3.175,3.4395832 1.8520833,6.0854167 h 4.7625 l -1.5875,-1.8520835 -0.79375,0.7937501 z"
-     id="path1099"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
+     d="m 6.0854167,2.38125 c -0.2922519,0 -0.5291667,0.2369152 -0.5291667,0.5291667 0,0.2922519 0.2369148,0.5291669 0.5291667,0.5291669 0.2922519,0 0.5291666,-0.236915 0.5291666,-0.5291669 0,-0.2922515 -0.2369147,-0.5291667 -0.5291666,-0.5291667 z"
+     id="path4527-0"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6d6d6d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11625;marker:none;enable-background:accumulate"
+     sodipodi:nodetypes="sssss" />
   <path
-     style="opacity:1;vector-effect:none;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:1.06599462;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path3397"
-     sodipodi:type="arc"
-     sodipodi:cx="5.8246641"
-     sodipodi:cy="2.9065859"
-     sodipodi:rx="0.53299731"
-     sodipodi:ry="0.53299731"
-     sodipodi:start="6.2325882"
-     sodipodi:end="6.2319424"
-     sodipodi:open="true"
-     d="M 6.3569793,2.8796293 A 0.53299731,0.53299731 0 0 1 5.8517067,3.4388968 0.53299731,0.53299731 0 0 1 5.2923576,2.9337144 0.53299731,0.53299731 0 0 1 5.7974497,2.3742838 0.53299731,0.53299731 0 0 1 6.3569618,2.8792856" />
+     d="M 3.7041667,3.571875 2.38125,6.0854167 H 3.6257913 6.0854167 L 4.8947917,3.96875 4.365625,4.6302083 Z"
+     id="path4156-2"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6d6d6d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74661;marker:none;enable-background:accumulate"
+     sodipodi:nodetypes="ccccccc" />
 </svg>
