@@ -53,24 +53,26 @@
        type="xygrid"
        id="grid823" />
   </sodipodi:namedview>
+  <circle
+     style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
+     id="circle834"
+     cx="16"
+     cy="16"
+     r="12" />
   <path
      d="m -45.692631,6.7118644 -0.748047,0.7480469 11.251953,11.2519527 -11.251953,11.251953 0.748047,0.748047 11.251953,-11.251953 11.251953,11.251953 0.748047,-0.748047 L -33.692631,18.711864 -22.440678,7.4599113 -23.188725,6.7118644 -34.440678,17.963817 Z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#c7162b" />
   <circle
-     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.50000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
      id="path904"
      cx="16"
      cy="16"
-     r="13" />
+     r="12" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 20.949747,9.636039 16,14.585786 11.050253,9.636039 9.636039,11.050253 14.585786,16 9.636039,20.949747 11.050253,22.363961 16,17.414214 20.949747,22.363961 22.363961,20.949747 17.414214,16 22.363961,11.050253 Z"
      id="rect825"
      inkscape:connector-curvature="0" />
-  <path
-     id="path833"
-     style="opacity:0.6;fill:#000000;fill-rule:evenodd;stroke-width:2;stroke-linecap:round"
-     d="M 15.892578 3 A 13 13 0 0 0 3 16 A 13 13 0 0 0 16 29 A 13 13 0 0 0 29 16 A 13 13 0 0 0 16 3 A 13 13 0 0 0 15.892578 3 z M 16 4 A 12 12 0 0 1 28 16 A 12 12 0 0 1 16 28 A 12 12 0 0 1 4 16 A 12 12 0 0 1 16 4 z " />
 </svg>
