@@ -76,6 +76,7 @@ cmd/32/characterbackgroundpattern.svg cmd/32/backcolor.svg
 cmd/32/charactermenu.svg cmd/32/fontdialog.svg
 cmd/32/charbackcolor.svg cmd/32/backcolor.svg
 cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
+cmd/32/chartmenu.svg cmd/32/drawchart.svg
 cmd/32/choosecontrols.svg cmd/32/controlproperties.svg
 cmd/32/clickchangerotation.svg cmd/32/toggleobjectrotatemode.svg
 cmd/32/closedocs.svg cmd/32/closedoc.svg
@@ -427,6 +428,7 @@ cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
 cmd/32/pageup.svg cmd/32/prevrecord.svg
 cmd/32/paragraphmenu.svg cmd/32/paragraphdialog.svg
 cmd/32/pastespecialmenu.svg cmd/32/pastespecial.svg
+cmd/32/photoalbumdialog.svg cmd/32/gallery.svg
 cmd/32/pl/bold.svg cmd/32/fr/bold.svg
 cmd/32/pl/italic.svg cmd/32/de/italic.svg
 cmd/32/pl/underlinesimple.svg cmd/32/pl/underline.svg
@@ -520,6 +522,7 @@ cmd/32/sourceview.svg cmd/32/symbolshapes.brace-pair.svg
 cmd/32/spelldialog.svg cmd/32/spelling.svg
 cmd/32/spellingandgrammardialog.svg cmd/32/spelling.svg
 cmd/32/starchartdialog.svg cmd/32/insertobjectdialog.svg
+cmd/32/statisticsmenu.svg cmd/32/drawchart.svg
 cmd/32/styleapply.svg cmd/32/formatarea.svg
 cmd/32/stylewatercanmode.svg cmd/32/formatarea.svg
 cmd/32/sv/bold.svg cmd/32/de/bold.svg
@@ -756,6 +759,7 @@ cmd/lc_characterbackgroundpattern.svg cmd/lc_backcolor.svg
 cmd/lc_charactermenu.svg cmd/lc_fontdialog.svg
 cmd/lc_charbackcolor.svg cmd/lc_backcolor.svg
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
+cmd/lc_chartmenu.svg cmd/lc_drawchart.svg
 cmd/lc_choosecontrols.svg cmd/lc_controlproperties.svg
 cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
@@ -1064,6 +1068,7 @@ cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
 cmd/lc_pageup.svg cmd/lc_prevrecord.svg
 cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
 cmd/lc_pastespecialmenu.svg cmd/lc_pastespecial.svg
+cmd/lc_photoalbumdialog.svg cmd/lc_gallery.svg
 cmd/lc_pluginsactive.svg cmd/lc_insertplugin.svg
 cmd/lc_presentation.svg cmd/lc_dia.svg
 cmd/lc_previewprintoptions.svg cmd/lc_printpreview.svg
@@ -1143,6 +1148,7 @@ cmd/lc_sourceview.svg cmd/lc_symbolshapes.brace-pair.svg
 cmd/lc_spelldialog.svg cmd/lc_spelling.svg
 cmd/lc_spellingandgrammardialog.svg cmd/lc_spelling.svg
 cmd/lc_starchartdialog.svg cmd/lc_insertobjectdialog.svg
+cmd/lc_statisticsmenu.svg cmd/lc_drawchart.svg
 cmd/lc_styleapply.svg cmd/lc_formatarea.svg
 cmd/lc_stylewatercanmode.svg cmd/lc_formatarea.svg
 cmd/lc_switchcontroldesignmode.svg cmd/lc_editdoc.svg
@@ -1267,6 +1273,7 @@ cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_charactermenu.svg cmd/sc_fontdialog.svg
 cmd/sc_charbackcolor.svg cmd/sc_backcolor.svg
 cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
+cmd/sc_chartmenu.svg cmd/sc_drawchart.svg
 cmd/sc_choosecontrols.svg cmd/sc_controlproperties.svg
 cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg
@@ -1577,6 +1584,7 @@ cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
 cmd/sc_pageup.svg cmd/sc_prevrecord.svg
 cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
 cmd/sc_pastespecialmenu.svg cmd/sc_pastespecial.svg
+cmd/sc_photoalbumdialog.svg cmd/sc_gallery.svg
 cmd/sc_pluginsactive.svg cmd/sc_insertplugin.svg
 cmd/sc_presentation.svg cmd/sc_dia.svg
 cmd/sc_previewprintoptions.svg cmd/sc_printpreview.svg
@@ -1657,6 +1665,7 @@ cmd/sc_sourceview.svg cmd/sc_symbolshapes.brace-pair.svg
 cmd/sc_spelldialog.svg cmd/sc_spelling.svg
 cmd/sc_spellingandgrammardialog.svg cmd/sc_spelling.svg
 cmd/sc_starchartdialog.svg cmd/sc_insertobjectdialog.svg
+cmd/sc_statisticsmenu.svg cmd/sc_drawchart.svg
 cmd/sc_styleapply.svg cmd/sc_formatarea.svg
 cmd/sc_stylewatercanmode.svg cmd/sc_formatarea.svg
 cmd/sc_switchcontroldesignmode.svg cmd/sc_editdoc.svg

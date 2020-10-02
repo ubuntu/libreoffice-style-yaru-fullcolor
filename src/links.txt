@@ -76,6 +76,7 @@ cmd/32/characterbackgroundpattern.xxx cmd/32/backcolor.xxx
 cmd/32/charactermenu.xxx cmd/32/fontdialog.xxx
 cmd/32/charbackcolor.xxx cmd/32/backcolor.xxx
 cmd/32/charmapcontrol.xxx cmd/32/insertsymbol.xxx
+cmd/32/chartmenu.xxx cmd/32/drawchart.xxx
 cmd/32/choosecontrols.xxx cmd/32/controlproperties.xxx
 cmd/32/clickchangerotation.xxx cmd/32/toggleobjectrotatemode.xxx
 cmd/32/closedocs.xxx cmd/32/closedoc.xxx
@@ -427,6 +428,7 @@ cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
 cmd/32/paragraphmenu.xxx cmd/32/paragraphdialog.xxx
 cmd/32/pastespecialmenu.xxx cmd/32/pastespecial.xxx
+cmd/32/photoalbumdialog.xxx cmd/32/gallery.xxx
 cmd/32/pl/bold.xxx cmd/32/fr/bold.xxx
 cmd/32/pl/italic.xxx cmd/32/de/italic.xxx
 cmd/32/pl/underlinesimple.xxx cmd/32/pl/underline.xxx
@@ -520,6 +522,7 @@ cmd/32/sourceview.xxx cmd/32/symbolshapes.brace-pair.xxx
 cmd/32/spelldialog.xxx cmd/32/spelling.xxx
 cmd/32/spellingandgrammardialog.xxx cmd/32/spelling.xxx
 cmd/32/starchartdialog.xxx cmd/32/insertobjectdialog.xxx
+cmd/32/statisticsmenu.xxx cmd/32/drawchart.xxx
 cmd/32/styleapply.xxx cmd/32/formatarea.xxx
 cmd/32/stylewatercanmode.xxx cmd/32/formatarea.xxx
 cmd/32/sv/bold.xxx cmd/32/de/bold.xxx
@@ -756,6 +759,7 @@ cmd/lc_characterbackgroundpattern.xxx cmd/lc_backcolor.xxx
 cmd/lc_charactermenu.xxx cmd/lc_fontdialog.xxx
 cmd/lc_charbackcolor.xxx cmd/lc_backcolor.xxx
 cmd/lc_charmapcontrol.xxx cmd/lc_insertsymbol.xxx
+cmd/lc_chartmenu.xxx cmd/lc_drawchart.xxx
 cmd/lc_choosecontrols.xxx cmd/lc_controlproperties.xxx
 cmd/lc_clickchangerotation.xxx cmd/lc_toggleobjectrotatemode.xxx
 cmd/lc_closedocs.xxx cmd/lc_closedoc.xxx
@@ -1064,6 +1068,7 @@ cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
 cmd/lc_paragraphmenu.xxx cmd/lc_paragraphdialog.xxx
 cmd/lc_pastespecialmenu.xxx cmd/lc_pastespecial.xxx
+cmd/lc_photoalbumdialog.xxx cmd/lc_gallery.xxx
 cmd/lc_pluginsactive.xxx cmd/lc_insertplugin.xxx
 cmd/lc_presentation.xxx cmd/lc_dia.xxx
 cmd/lc_previewprintoptions.xxx cmd/lc_printpreview.xxx
@@ -1143,6 +1148,7 @@ cmd/lc_sourceview.xxx cmd/lc_symbolshapes.brace-pair.xxx
 cmd/lc_spelldialog.xxx cmd/lc_spelling.xxx
 cmd/lc_spellingandgrammardialog.xxx cmd/lc_spelling.xxx
 cmd/lc_starchartdialog.xxx cmd/lc_insertobjectdialog.xxx
+cmd/lc_statisticsmenu.xxx cmd/lc_drawchart.xxx
 cmd/lc_styleapply.xxx cmd/lc_formatarea.xxx
 cmd/lc_stylewatercanmode.xxx cmd/lc_formatarea.xxx
 cmd/lc_switchcontroldesignmode.xxx cmd/lc_editdoc.xxx
@@ -1267,6 +1273,7 @@ cmd/sc_characterbackgroundpattern.xxx cmd/sc_backcolor.xxx
 cmd/sc_charactermenu.xxx cmd/sc_fontdialog.xxx
 cmd/sc_charbackcolor.xxx cmd/sc_backcolor.xxx
 cmd/sc_charmapcontrol.xxx cmd/sc_insertsymbol.xxx
+cmd/sc_chartmenu.xxx cmd/sc_drawchart.xxx
 cmd/sc_choosecontrols.xxx cmd/sc_controlproperties.xxx
 cmd/sc_clickchangerotation.xxx cmd/sc_toggleobjectrotatemode.xxx
 cmd/sc_closedocs.xxx cmd/sc_closedoc.xxx
@@ -1577,6 +1584,7 @@ cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
 cmd/sc_paragraphmenu.xxx cmd/sc_paragraphdialog.xxx
 cmd/sc_pastespecialmenu.xxx cmd/sc_pastespecial.xxx
+cmd/sc_photoalbumdialog.xxx cmd/sc_gallery.xxx
 cmd/sc_pluginsactive.xxx cmd/sc_insertplugin.xxx
 cmd/sc_presentation.xxx cmd/sc_dia.xxx
 cmd/sc_previewprintoptions.xxx cmd/sc_printpreview.xxx
@@ -1657,6 +1665,7 @@ cmd/sc_sourceview.xxx cmd/sc_symbolshapes.brace-pair.xxx
 cmd/sc_spelldialog.xxx cmd/sc_spelling.xxx
 cmd/sc_spellingandgrammardialog.xxx cmd/sc_spelling.xxx
 cmd/sc_starchartdialog.xxx cmd/sc_insertobjectdialog.xxx
+cmd/sc_statisticsmenu.xxx cmd/sc_drawchart.xxx
 cmd/sc_styleapply.xxx cmd/sc_formatarea.xxx
 cmd/sc_stylewatercanmode.xxx cmd/sc_formatarea.xxx
 cmd/sc_switchcontroldesignmode.xxx cmd/sc_editdoc.xxx
