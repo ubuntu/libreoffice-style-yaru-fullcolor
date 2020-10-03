@@ -383,6 +383,7 @@ cmd/32/moveslidedown.xxx cmd/32/downsearch.xxx
 cmd/32/moveslidefirst.xxx cmd/32/movepagefirst.xxx
 cmd/32/moveslidelast.xxx cmd/32/movepagelast.xxx
 cmd/32/moveslideup.xxx cmd/32/upsearch.xxx
+cmd/32/name.xxx cmd/32/renametable.xxx
 cmd/32/namegroup.xxx cmd/32/label.xxx
 cmd/32/navigateback.xxx cmd/32/prevrecord.xxx
 cmd/32/navigateforward.xxx cmd/32/nextrecord.xxx
@@ -1024,6 +1025,7 @@ cmd/lc_moveslidedown.xxx cmd/lc_downsearch.xxx
 cmd/lc_moveslidefirst.xxx cmd/lc_movepagefirst.xxx
 cmd/lc_moveslidelast.xxx cmd/lc_movepagelast.xxx
 cmd/lc_moveslideup.xxx cmd/lc_upsearch.xxx
+cmd/lc_name.xxx cmd/lc_renametable.xxx
 cmd/lc_namegroup.xxx cmd/lc_label.xxx
 cmd/lc_navigateback.xxx cmd/lc_prevrecord.xxx
 cmd/lc_navigateforward.xxx cmd/lc_nextrecord.xxx
@@ -1539,6 +1541,7 @@ cmd/sc_moveslidedown.xxx cmd/sc_downsearch.xxx
 cmd/sc_moveslidefirst.xxx cmd/sc_movepagefirst.xxx
 cmd/sc_moveslidelast.xxx cmd/sc_movepagelast.xxx
 cmd/sc_moveslideup.xxx cmd/sc_upsearch.xxx
+cmd/sc_name.xxx cmd/sc_renametable.xxx
 cmd/sc_namegroup.xxx cmd/sc_label.xxx
 cmd/sc_navigateback.xxx cmd/sc_prevrecord.xxx
 cmd/sc_navigateforward.xxx cmd/sc_nextrecord.xxx
