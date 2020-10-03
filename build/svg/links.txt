@@ -1,7 +1,7 @@
-/svx/res/3dgeo.svg cmd/lc_window3d.svg
-/svx/res/3dlight.svg svx/res/lighton.svg
-/svx/res/blend3d.svg cmd/lc_sphere.svg
-/svx/res/objects.svg cmd/lc_insertdraw.svg
+svx/res/3dgeo.svg cmd/lc_window3d.svg
+svx/res/3dlight.svg svx/res/lighton.svg
+svx/res/blend3d.svg cmd/lc_sphere.svg
+svx/res/objects.svg cmd/lc_insertdraw.svg
 avmedia/res/av02048.svg cmd/sc_open.svg
 avmedia/res/av02049.svg cmd/sc_runbasic.svg
 avmedia/res/av02050.svg cmd/sc_mediapause.svg
@@ -82,7 +82,7 @@ cmd/32/clickchangerotation.svg cmd/32/toggleobjectrotatemode.svg
 cmd/32/closedocs.svg cmd/32/closedoc.svg
 cmd/32/closemasterview.svg cmd/32/closedoc.svg
 cmd/32/closepreview.svg cmd/32/closedoc.svg
-cmd/32/closewin.svg cmd/32/closepreview.svg
+cmd/32/closewin.svg cmd/32/closedoc.svg
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
 cmd/32/columnoperations.svg cmd/32/selectcolumn.svg
 cmd/32/columnwidth.svg cmd/32/setminimalcolumnwidth.svg
@@ -765,7 +765,7 @@ cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
 cmd/lc_closemasterview.svg cmd/lc_closedoc.svg
 cmd/lc_closepreview.svg cmd/lc_closedoc.svg
-cmd/lc_closewin.svg cmd/lc_closepreview.svg
+cmd/lc_closewin.svg cmd/lc_closedoc.svg
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_columnoperations.svg cmd/lc_selectcolumn.svg
 cmd/lc_columnwidth.svg cmd/lc_setminimalcolumnwidth.svg
@@ -1279,7 +1279,7 @@ cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg
 cmd/sc_closemasterview.svg cmd/sc_closedoc.svg
 cmd/sc_closepreview.svg cmd/sc_closedoc.svg
-cmd/sc_closewin.svg cmd/sc_closepreview.svg
+cmd/sc_closewin.svg cmd/sc_closedoc.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_columnoperations.svg cmd/sc_selectcolumn.svg
 cmd/sc_columnwidth.svg cmd/sc_setminimalcolumnwidth.svg
@@ -1971,7 +1971,7 @@ res/sx18003.svg res/minus.svg
 res/tables_32.svg cmd/32/dbviewtables.svg
 sc/res/date.svg cmd/sc_datefield.svg
 sc/res/dropcopy.svg cmd/sc_copy.svg
-sc/res/droplink.svg sw/res/nc20005.svg
+sc/res/droplink.svg cmd/sc_insertbookmark.svg
 sc/res/dropurl.svg cmd/sc_inserthyperlink.svg
 sc/res/file.svg cmd/sc_open.svg
 sc/res/fx.svg cmd/sc_dbviewfunctions.svg
@@ -1989,7 +1989,7 @@ sc/res/na09.svg cmd/sc_animationeffects.svg
 sc/res/nc01.svg cmd/sc_dbviewtablenames.svg
 sc/res/nc02.svg cmd/sc_dataranges.svg
 sc/res/nc03.svg cmd/sc_viewdatasourcebrowser.svg
-sc/res/nc04.svg sw/res/nc20003.svg
+sc/res/nc04.svg cmd/sc_insertgraphic.svg
 sc/res/nc05.svg cmd/sc_insertobject.svg
 sc/res/nc06.svg cmd/sc_shownote.svg
 sc/res/nc07.svg cmd/sc_inserthyperlink.svg
@@ -2027,7 +2027,7 @@ sd/res/nv04.svg cmd/sc_prevrecord.svg
 sd/res/nv05.svg cmd/sc_nextrecord.svg
 sd/res/nv06.svg cmd/sc_lastrecord.svg
 sd/res/nv08.svg cmd/sc_copy.svg
-sd/res/nv09.svg sw/res/nc20005.svg
+sd/res/nv09.svg cmd/sc_insertbookmark.svg
 sd/res/ole.svg cmd/lc_insertobject.svg
 sd/res/page.svg cmd/lc_adddirect.svg
 sd/res/pipette.svg cmd/lc_bmpmask.svg
@@ -2052,7 +2052,7 @@ sfx2/res/closedoc.svg vcl/res/closedoc.svg
 sfx2/res/deleterow.svg cmd/sc_cancel.svg
 sfx2/res/doccl.svg cmd/sc_newdoc.svg
 sfx2/res/exec_action.svg cmd/sc_config.svg
-sfx2/res/favourite.svg sw/res/nc20005.svg
+sfx2/res/favourite.svg cmd/sc_insertbookmark.svg
 sfx2/res/favourite_big.svg cmd/lc_insertbookmark.svg
 sfx2/res/hlpdoc.svg cmd/sc_helpindex.svg
 sfx2/res/minus.svg res/minus.svg
@@ -2268,11 +2268,11 @@ sw/res/sc20182.svg cmd/sc_toggleanchortype.svg
 sw/res/sc20186.svg cmd/sc_prevrecord.svg
 sw/res/sc20233.svg cmd/sc_ok.svg
 sw/res/sc20235.svg cmd/sc_inserthyperlink.svg
-sw/res/sc20238.svg sw/res/nc20005.svg
+sw/res/sc20238.svg cmd/sc_insertbookmark.svg
 sw/res/sc20239.svg cmd/sc_copy.svg
 sw/res/sc20244.svg sw/res/sc20234.svg
 sw/res/sc20245.svg cmd/sc_insertdraw.svg
-sw/res/sc20246.svg sw/res/nc20005.svg
+sw/res/sc20246.svg cmd/sc_insertbookmark.svg
 sw/res/sc20247.svg cmd/sc_dataimport.svg
 sw/res/sc20248.svg cmd/sc_save.svg
 sw/res/sc20249.svg cmd/sc_navigator.svg
@@ -2285,7 +2285,7 @@ sw/res/sf02.svg cmd/sc_charfontname.svg
 sw/res/sf03.svg cmd/sc_insertframe.svg
 sw/res/sf04.svg cmd/sc_showsinglepage.svg
 sw/res/sf05.svg cmd/sc_defaultbullet.svg
-sw/res/sf06.svg sw/res/nc20001.svg
+sw/res/sf06.svg cmd/sc_inserttable.svg
 sw/res/sr20000.svg cmd/sc_downsearch.svg
 sw/res/sr20001.svg cmd/sc_upsearch.svg
 sw/res/sr20002.svg cmd/sc_inserttable.svg
@@ -2293,7 +2293,7 @@ sw/res/sr20003.svg cmd/sc_text.svg
 sw/res/sr20004.svg cmd/sc_showsinglepage.svg
 sw/res/sr20005.svg cmd/sc_insertdraw.svg
 sw/res/sr20007.svg cmd/sc_insertsection.svg
-sw/res/sr20008.svg sw/res/nc20005.svg
+sw/res/sr20008.svg cmd/sc_insertbookmark.svg
 sw/res/sr20009.svg cmd/sc_insertgraphic.svg
 sw/res/sr20010.svg cmd/sc_insertobject.svg
 sw/res/sr20011.svg sw/res/nc20000.svg
