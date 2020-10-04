@@ -383,6 +383,7 @@ cmd/32/moveslidedown.svg cmd/32/downsearch.svg
 cmd/32/moveslidefirst.svg cmd/32/movepagefirst.svg
 cmd/32/moveslidelast.svg cmd/32/movepagelast.svg
 cmd/32/moveslideup.svg cmd/32/upsearch.svg
+cmd/32/name.svg cmd/32/renametable.svg
 cmd/32/namegroup.svg cmd/32/label.svg
 cmd/32/navigateback.svg cmd/32/prevrecord.svg
 cmd/32/navigateforward.svg cmd/32/nextrecord.svg
@@ -1024,6 +1025,7 @@ cmd/lc_moveslidedown.svg cmd/lc_downsearch.svg
 cmd/lc_moveslidefirst.svg cmd/lc_movepagefirst.svg
 cmd/lc_moveslidelast.svg cmd/lc_movepagelast.svg
 cmd/lc_moveslideup.svg cmd/lc_upsearch.svg
+cmd/lc_name.svg cmd/lc_renametable.svg
 cmd/lc_namegroup.svg cmd/lc_label.svg
 cmd/lc_navigateback.svg cmd/lc_prevrecord.svg
 cmd/lc_navigateforward.svg cmd/lc_nextrecord.svg
@@ -1539,6 +1541,7 @@ cmd/sc_moveslidedown.svg cmd/sc_downsearch.svg
 cmd/sc_moveslidefirst.svg cmd/sc_movepagefirst.svg
 cmd/sc_moveslidelast.svg cmd/sc_movepagelast.svg
 cmd/sc_moveslideup.svg cmd/sc_upsearch.svg
+cmd/sc_name.svg cmd/sc_renametable.svg
 cmd/sc_namegroup.svg cmd/sc_label.svg
 cmd/sc_navigateback.svg cmd/sc_prevrecord.svg
 cmd/sc_navigateforward.svg cmd/sc_nextrecord.svg

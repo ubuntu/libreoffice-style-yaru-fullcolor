@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_renamemasterpage.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_renamemasterpage.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -45,9 +45,10 @@
      inkscape:cx="15.161892"
      inkscape:cy="8.5928754"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid827" />
@@ -64,16 +65,21 @@
      d="m 13.016156,6.0268935 c 1.556581,0.0108 5.10999,-0.01175 6.659941,0.03877 0.461229,0.04267 1.016188,0.206419 1.15534,0.709967 0.218994,0.635346 0.108414,1.3337868 0.145796,1.9819238 0.0078,2.2970837 0.02297,5.5964297 -0.02152,7.8857807 -0.0391,0.461928 -0.202551,1.012664 -0.698756,1.163665 -0.632456,0.225084 -1.284144,0.12274 -1.935974,0.1543 -1.424235,0.0068 -4.850563,0.01102 -6.27642,0.01131 -1.704531,3.49e-4 -5.407388,-0.005 -7.10619,-0.01851 -0.511911,-0.01201 -1.183699,0.01993 -1.584745,-0.405192 -0.421097,-0.539784 -0.287073,-1.268022 -0.322745,-1.903785 -0.01187,-2.444324 -0.02769,-5.9110977 0.0219,-8.3567965 0.04928,-0.40204 0.169992,-0.862952 0.575139,-1.044475 0.668169,-0.294097 1.426205,-0.168019 2.125921,-0.205572 1.754407,-0.0118 5.507874,-0.01249 7.262313,-0.01139 z"
      style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      sodipodi:nodetypes="cccccccscccccccc" />
-  <path
-     sodipodi:nodetypes="ccccccccccccc"
-     style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0"
-     id="path822"
-     d="m 17,13 v 2 h 2 v 6 h -2 v 2 h 6 v -2 h -2 v -6 h 2 v -2 z" />
-  <path
-     d="m 17,13 v 2 h 2 v 6 h -2 v 2 h 6 v -2 h -2 v -6 h 2 v -2 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccc" />
+  <g
+     id="g866"
+     style="display:inline"
+     transform="translate(-110,177)">
+    <path
+       sodipodi:nodetypes="cccccccccscsccccccccscsc"
+       inkscape:connector-curvature="0"
+       id="path3543"
+       d="m 126.99219,-168 v 1 2 h 1.99219 c 0.002,0.008 0.008,0.0254 0.008,0.0254 l -1.9e-4,6.9746 c 0,0 -0.006,0.0171 -0.008,0.0254 H 126.992 v 3 h 2 c 0.59893,0 1.08626,-0.20045 1.5,-0.46094 0.41374,0.26049 0.90107,0.46094 1.5,0.46094 h 2 v -3 H 132 c -0.002,-0.008 -0.008,-0.0254 -0.008,-0.0254 l 1.9e-4,-6.9746 c 0,0 0.006,-0.0171 0.008,-0.0254 h 1.992 v -3 h -2 c -0.59893,0 -1.08626,0.20045 -1.5,0.46094 -0.41374,-0.26049 -0.90156,-0.4367 -1.5,-0.46094 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccsccccsccscsccsccccsccscsc"
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#111111;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 127.99219,-167 v 1 h 1 c 0.58333,0 0.73736,0.21691 0.86523,0.47266 0.12788,0.25574 0.13477,0.52734 0.13477,0.52734 l -1.9e-4,7.02538 c 0,0 -0.007,0.2716 -0.13477,0.52734 -0.12787,0.25575 -0.41161,0.56018 -0.86523,0.47266 h -1 v 1 h 1 c 0.72726,0 1.19053,-0.35304 1.5,-0.73828 0.30947,0.38524 0.77274,0.73828 1.5,0.73828 h 1 v -1 h -1 c -0.58333,0 -0.73736,-0.21691 -0.86523,-0.47266 -0.12788,-0.25574 -0.13477,-0.52734 -0.13477,-0.52734 L 130.99219,-165 c 0,0 0.007,-0.2716 0.13477,-0.52734 0.12787,-0.25575 0.28365,-0.42754 0.86523,-0.47266 h 1 v -1 h -1 c -0.72726,0 -1.19053,0.35304 -1.5,0.73828 -0.30947,-0.38524 -0.77519,-0.67869 -1.5,-0.73828 z"
+       id="path7092" />
+  </g>
 </svg>
