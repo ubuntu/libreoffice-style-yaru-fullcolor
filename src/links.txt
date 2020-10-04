@@ -423,7 +423,6 @@ cmd/32/outlinedown.xxx cmd/32/movedown.xxx
 cmd/32/outlineleft.xxx cmd/32/decrementindent.xxx
 cmd/32/outlineright.xxx cmd/32/decrementlevel.xxx
 cmd/32/outlineup.xxx cmd/32/moveup.xxx
-cmd/32/outputqualitygrayscale.xxx cmd/32/graphic.xxx
 cmd/32/pagedown.xxx cmd/32/nextrecord.xxx
 cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
@@ -1064,7 +1063,6 @@ cmd/lc_outlinedown.xxx cmd/lc_movedown.xxx
 cmd/lc_outlineleft.xxx cmd/lc_decrementindent.xxx
 cmd/lc_outlineright.xxx cmd/lc_decrementlevel.xxx
 cmd/lc_outlineup.xxx cmd/lc_moveup.xxx
-cmd/lc_outputqualitygrayscale.xxx cmd/lc_graphic.xxx
 cmd/lc_pagedown.xxx cmd/lc_nextrecord.xxx
 cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
@@ -1581,7 +1579,6 @@ cmd/sc_outlinedown.xxx cmd/sc_movedown.xxx
 cmd/sc_outlineleft.xxx cmd/sc_decrementindent.xxx
 cmd/sc_outlineright.xxx cmd/sc_decrementlevel.xxx
 cmd/sc_outlineup.xxx cmd/sc_moveup.xxx
-cmd/sc_outputqualitygrayscale.xxx cmd/sc_graphic.xxx
 cmd/sc_pagedown.xxx cmd/sc_nextrecord.xxx
 cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
