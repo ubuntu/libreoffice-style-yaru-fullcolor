@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_dataranges.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dataranges.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -45,24 +45,25 @@
      inkscape:cx="1.9424059"
      inkscape:cy="5.2079294"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect814"
-     width="10"
-     height="10"
-     x="3"
-     y="3" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="12"
+     height="12"
+     x="2.0000002"
+     y="1.9999999" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 h 4 1 1 c 2,0 3,0 3,-2 V 9 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 3,4 C 3,3 4,3 5,3 H 6 V 5 H 3 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 10 Z M 3,6 H 6 V 9 H 3 Z M 7,6 H 9 V 9 H 7 Z m 3,0 h 3 v 3 h -3 z m -7,4 h 3 v 3 H 5 C 4,13 3,13 3,12 Z m 4,0 h 2 v 3 H 7 Z m 3,0 h 3 v 2 c 0,1 -1,1 -2,1 h -1 z"
+     d="M 0.99999985,2.9999999 V 13 c 0,2 0.99999995,2 3.00000025,2 H 10 h 1 1 c 2,0 3,0 3,-2 V 2.9999999 C 15,0.99999989 14,0.99999989 12,0.99999989 H 4.0000001 c -2.0000003,0 -3.00000025,0 -3.00000025,2.00000001 z m 3.00000025,-1 h 1 v 3 H 1.9999999 v -2 c 0,-1 1,-1 2.0000002,-1 z m 2,0 H 10 v 3 H 6.0000001 Z m 4.9999999,0 h 1 c 1,0 2,0 2,1 v 2 h -1 -1 -1 z m -9.0000002,4 h 3.0000003 v 4 H 1.9999999 Z m 4.0000003,0 H 10 v 4 H 6.0000001 Z m 4.9999999,0 h 1 1 1 v 4 H 13 12 11 Z M 1.9999999,11 h 3.0000002 v 3 h -1 C 2.9999999,14 1.9999999,14 1.9999999,13 Z m 4.0000002,0 H 10 v 3 H 6.0000001 Z M 11,11 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

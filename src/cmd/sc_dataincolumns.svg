@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_dataincolumns.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dataincolumns.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,28 +41,30 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="59"
-     inkscape:cx="6.4369494"
-     inkscape:cy="8.3578631"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="29.5"
+     inkscape:cx="-1.5721905"
+     inkscape:cy="6.5488565"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="rect816"
-     width="10"
-     height="10"
-     x="3"
-     y="3" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect820"
+     width="12"
+     height="12"
+     x="1.999999"
+     y="-14"
+     transform="scale(1,-1)" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 h 6 c 2,0 3,0 3,-2 V 5 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 3,4 C 3,3 4,3 5,3 H 6 V 5 H 3 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 10 Z M 3,6 H 6 V 9 H 3 Z M 7,6 H 9 V 9 H 7 Z m 3,0 h 3 v 3 h -3 z"
+     d="M 4,15 C 2,15 1,15 1,13 V 3 C 1,1 2,1 4,1 h 8 c 2,0 3,0 3,2 v 10 c 0,2 -1,2 -3,2 z M 2,10 H 5 V 7 H 2 Z m 4,0 h 4.000001 V 7 H 6 Z m 5.000001,0 H 14 V 7 H 11.000001 Z M 2,6 H 5 V 2 H 4 C 3,2 2,2 2,3 Z m 4,0 h 4.000001 V 2 H 6 Z m 5.000001,0 H 14 V 3 C 14,2 13,2 12,2 h -0.999999 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

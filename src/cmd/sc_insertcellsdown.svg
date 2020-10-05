@@ -54,18 +54,33 @@
        id="grid822" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect816"
-     width="10"
-     height="10"
-     x="3"
-     y="2.9999499" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect814"
+     width="12"
+     height="12"
+     x="2"
+     y="-14"
+     transform="rotate(90)" />
   <path
-     d="m 5,1.99995 c -2,0 -3,0 -3,2 v 8 c 0,2 1,2 3,2 h 4 1 1 c 2,0 3,0 3,-2 v -8 c 0,-2 -1,-2 -3,-2 z m 0,1 h 1 v 2 H 3 v -1 c 0,-1 1,-1 2,-1 z m 2,0 h 2 v 2 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 v 1 h -1 -1 -1 z m -7,3 h 3 v 3 H 3 Z m 4,0 h 2 v 3 H 7 Z m 3,0 h 1 1 1 v 3 h -1 -1 -1 z m -7,4 h 3 v 3 H 5 c -1,0 -2,0 -2,-1 z m 4,0 h 2 v 3 H 7 Z m 3,0 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
-     id="path2"
-     inkscape:connector-curvature="0"
+     id="path2-3"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 3,1 C 1,1 1,2 1,4 v 8 c 0,2 0,3 2,3 h 1 8 1 c 2,0 2,-1 2,-3 V 4 C 15,2 15,1 13,1 H 12 4 Z M 3,2 H 4 5 V 5 H 2 V 4 C 2,3 2,2 3,2 Z m 3,0 h 4 V 14 H 6 Z m 5,0 h 1 1 c 1,0 1,1 1,2 V 5 H 11 Z M 2,6 h 3 v 4 H 2 Z m 9,0 h 3 v 4 h -3 z m -9,5 h 3 v 3 H 4 3 C 2,14 2,13 2,12 Z m 9,0 h 3 v 1 c 0,1 0,2 -1,2 h -1 -1 z" />
+  <rect
+     style="fill:#46a926;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect837"
+     width="6"
+     height="6"
+     x="5"
+     y="-11"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#ddf6d5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.14174;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="4"
+     height="4"
+     x="6"
+     y="-10"
+     transform="rotate(90)" />
   <path
      inkscape:connector-curvature="0"
      id="path856"
@@ -91,15 +106,4 @@
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
      d="m 12.000002,9.999951 v 2 h -2.000001 v 1 h 2.000001 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
-  <path
-     style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 6,4.99995 v 5 h 4 v -5 z"
-     id="rect822" />
-  <rect
-     style="fill:#ddf6d5;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect841"
-     width="2"
-     height="3"
-     x="7"
-     y="6" />
 </svg>
