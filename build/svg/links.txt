@@ -39,6 +39,7 @@ cmd/32/alignvcenter.svg cmd/32/alignverticalcenter.svg
 cmd/32/anchormenu.svg cmd/32/toggleanchortype.svg
 cmd/32/apply.svg cmd/32/ok.svg
 cmd/32/ar/bulletliststyle.svg cmd/32/ar/defaultbullet.svg
+cmd/32/ar/linenumberdialog.svg cmd/32/ar/linenumberingdialog.svg
 cmd/32/ar/numberliststyle.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/arrangeframemenu.svg cmd/32/bringtofront.svg
 cmd/32/arrangemenu.svg cmd/32/bringtofront.svg
@@ -181,7 +182,7 @@ cmd/32/fa/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
 cmd/32/fa/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/fa/defaultnumbering.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/fa/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
-cmd/32/fa/linenumberdialog.svg cmd/32/ar/linenumberdialog.svg
+cmd/32/fa/linenumberdialog.svg cmd/32/ar/linenumberingdialog.svg
 cmd/32/fa/numberingstart.svg cmd/32/ar/numberingstart.svg
 cmd/32/fa/numberliststyle.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/fa/outlinebullet.svg cmd/32/ar/outlinebullet.svg
@@ -256,7 +257,7 @@ cmd/32/he/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
 cmd/32/he/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/he/defaultnumbering.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/he/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
-cmd/32/he/linenumberdialog.svg cmd/32/ar/linenumberdialog.svg
+cmd/32/he/linenumberdialog.svg cmd/32/ar/linenumberingdialog.svg
 cmd/32/he/numberingstart.svg cmd/32/ar/numberingstart.svg
 cmd/32/he/numberliststyle.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/he/outlinebullet.svg cmd/32/ar/outlinebullet.svg
@@ -358,6 +359,7 @@ cmd/32/lastpage.svg cmd/32/lastrecord.svg
 cmd/32/lastslide.svg cmd/32/lastrecord.svg
 cmd/32/leaveallgroups.svg cmd/32/leavegroup.svg
 cmd/32/leftpara.svg cmd/32/alignleft.svg
+cmd/32/linenumberdialog.svg cmd/32/linenumberingdialog.svg
 cmd/32/linespacing.svg cmd/32/spacepara15.svg
 cmd/32/linestyle.svg cmd/32/borderdialog.svg
 cmd/32/linetoolbox.svg cmd/32/freeline.svg
@@ -425,7 +427,6 @@ cmd/32/outlinedown.svg cmd/32/movedown.svg
 cmd/32/outlineleft.svg cmd/32/decrementindent.svg
 cmd/32/outlineright.svg cmd/32/decrementlevel.svg
 cmd/32/outlineup.svg cmd/32/moveup.svg
-cmd/32/outputqualitygrayscale.svg cmd/32/graphic.svg
 cmd/32/pagedown.svg cmd/32/nextrecord.svg
 cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
 cmd/32/pageup.svg cmd/32/prevrecord.svg
@@ -569,7 +570,7 @@ cmd/32/ur/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
 cmd/32/ur/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/ur/defaultnumbering.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/ur/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
-cmd/32/ur/linenumberdialog.svg cmd/32/ar/linenumberdialog.svg
+cmd/32/ur/linenumberdialog.svg cmd/32/ar/linenumberingdialog.svg
 cmd/32/ur/numberingstart.svg cmd/32/ar/numberingstart.svg
 cmd/32/ur/numberliststyle.svg cmd/32/ar/defaultnumbering.svg
 cmd/32/ur/outlinebullet.svg cmd/32/ar/outlinebullet.svg
@@ -594,10 +595,12 @@ cmd/32/zoommode.svg cmd/32/zoomoptimal.svg
 cmd/32/zoomplus.svg cmd/32/zoomin.svg
 cmd/32/zoomtoolbox.svg cmd/32/zoomoptimal.svg
 cmd/ar/lc_bulletliststyle.svg cmd/ar/lc_defaultbullet.svg
+cmd/ar/lc_linenumberdialog.svg cmd/ar/lc_linenumberingdialog.svg
 cmd/ar/lc_numberliststyle.svg cmd/ar/lc_defaultnumbering.svg
-cmd/ar/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
-cmd/ar/sc_numberliststyle.svg cmd/ar/sc_defaultnumbering.svg
 cmd/ca/lc_underlinesimple.svg cmd/ca/lc_underline.svg
+cmd/ar/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
+cmd/ar/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
+cmd/ar/sc_numberliststyle.svg cmd/ar/sc_defaultnumbering.svg
 cmd/ca/sc_underlinesimple.svg cmd/ca/sc_underline.svg
 cmd/es/lc_bold.svg cmd/ca/lc_bold.svg
 cmd/es/lc_italic.svg cmd/de/lc_italic.svg
@@ -624,7 +627,7 @@ cmd/fa/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
 cmd/fa/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/fa/lc_defaultnumbering.svg cmd/ar/lc_defaultnumbering.svg
 cmd/fa/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
-cmd/fa/lc_linenumberdialog.svg cmd/ar/lc_linenumberdialog.svg
+cmd/fa/lc_linenumberdialog.svg cmd/ar/lc_linenumberingdialog.svg
 cmd/fa/lc_numberingstart.svg cmd/ar/lc_numberingstart.svg
 cmd/fa/lc_numberliststyle.svg cmd/ar/lc_defaultnumbering.svg
 cmd/fa/lc_outlinebullet.svg cmd/ar/lc_outlinebullet.svg
@@ -640,7 +643,7 @@ cmd/fa/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
 cmd/fa/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/fa/sc_defaultnumbering.svg cmd/ar/sc_defaultnumbering.svg
 cmd/fa/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg
-cmd/fa/sc_linenumberdialog.svg cmd/ar/sc_linenumberdialog.svg
+cmd/fa/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
 cmd/fa/sc_numberingstart.svg cmd/ar/sc_numberingstart.svg
 cmd/fa/sc_numberliststyle.svg cmd/ar/sc_defaultnumbering.svg
 cmd/fa/sc_outlinebullet.svg cmd/ar/sc_outlinebullet.svg
@@ -666,7 +669,7 @@ cmd/he/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
 cmd/he/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/he/lc_defaultnumbering.svg cmd/ar/lc_defaultnumbering.svg
 cmd/he/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
-cmd/he/lc_linenumberdialog.svg cmd/ar/lc_linenumberdialog.svg
+cmd/he/lc_linenumberdialog.svg cmd/ar/lc_linenumberingdialog.svg
 cmd/he/lc_numberingstart.svg cmd/ar/lc_numberingstart.svg
 cmd/he/lc_numberliststyle.svg cmd/ar/lc_defaultnumbering.svg
 cmd/he/lc_outlinebullet.svg cmd/ar/lc_outlinebullet.svg
@@ -682,7 +685,7 @@ cmd/he/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
 cmd/he/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/he/sc_defaultnumbering.svg cmd/ar/sc_defaultnumbering.svg
 cmd/he/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg
-cmd/he/sc_linenumberdialog.svg cmd/ar/sc_linenumberdialog.svg
+cmd/he/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
 cmd/he/sc_numberingstart.svg cmd/ar/sc_numberingstart.svg
 cmd/he/sc_numberliststyle.svg cmd/ar/sc_defaultnumbering.svg
 cmd/he/sc_outlinebullet.svg cmd/ar/sc_outlinebullet.svg
@@ -1001,6 +1004,7 @@ cmd/lc_lastpage.svg cmd/lc_lastrecord.svg
 cmd/lc_lastslide.svg cmd/lc_lastrecord.svg
 cmd/lc_leaveallgroups.svg cmd/lc_leavegroup.svg
 cmd/lc_leftpara.svg cmd/lc_alignleft.svg
+cmd/lc_linenumberdialog.svg cmd/lc_linenumberingdialog.svg
 cmd/lc_linespacing.svg cmd/lc_spacepara15.svg
 cmd/lc_linestyle.svg cmd/lc_borderdialog.svg
 cmd/lc_linetoolbox.svg cmd/lc_freeline.svg
@@ -1068,7 +1072,6 @@ cmd/lc_outlinedown.svg cmd/lc_movedown.svg
 cmd/lc_outlineleft.svg cmd/lc_decrementindent.svg
 cmd/lc_outlineright.svg cmd/lc_decrementlevel.svg
 cmd/lc_outlineup.svg cmd/lc_moveup.svg
-cmd/lc_outputqualitygrayscale.svg cmd/lc_graphic.svg
 cmd/lc_pagedown.svg cmd/lc_nextrecord.svg
 cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
 cmd/lc_pageup.svg cmd/lc_prevrecord.svg
@@ -1518,6 +1521,7 @@ cmd/sc_lastpage.svg cmd/sc_lastrecord.svg
 cmd/sc_lastslide.svg cmd/sc_lastrecord.svg
 cmd/sc_leaveallgroups.svg cmd/sc_leavegroup.svg
 cmd/sc_leftpara.svg cmd/sc_alignleft.svg
+cmd/sc_linenumberdialog.svg cmd/sc_linenumberingdialog.svg
 cmd/sc_linespacing.svg cmd/sc_spacepara15.svg
 cmd/sc_linestyle.svg cmd/sc_borderdialog.svg
 cmd/sc_linetoolbox.svg cmd/sc_freeline.svg
@@ -1587,7 +1591,6 @@ cmd/sc_outlinedown.svg cmd/sc_movedown.svg
 cmd/sc_outlineleft.svg cmd/sc_decrementindent.svg
 cmd/sc_outlineright.svg cmd/sc_decrementlevel.svg
 cmd/sc_outlineup.svg cmd/sc_moveup.svg
-cmd/sc_outputqualitygrayscale.svg cmd/sc_graphic.svg
 cmd/sc_pagedown.svg cmd/sc_nextrecord.svg
 cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
 cmd/sc_pageup.svg cmd/sc_prevrecord.svg
@@ -1745,7 +1748,7 @@ cmd/ur/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
 cmd/ur/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/ur/lc_defaultnumbering.svg cmd/ar/lc_defaultnumbering.svg
 cmd/ur/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
-cmd/ur/lc_linenumberdialog.svg cmd/ar/lc_linenumberdialog.svg
+cmd/ur/lc_linenumberdialog.svg cmd/ar/lc_linenumberingdialog.svg
 cmd/ur/lc_numberingstart.svg cmd/ar/lc_numberingstart.svg
 cmd/ur/lc_numberliststyle.svg cmd/ar/lc_defaultnumbering.svg
 cmd/ur/lc_outlinebullet.svg cmd/ar/lc_outlinebullet.svg
@@ -1761,7 +1764,7 @@ cmd/ur/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
 cmd/ur/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/ur/sc_defaultnumbering.svg cmd/ar/sc_defaultnumbering.svg
 cmd/ur/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg
-cmd/ur/sc_linenumberdialog.svg cmd/ar/sc_linenumberdialog.svg
+cmd/ur/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
 cmd/ur/sc_numberingstart.svg cmd/ar/sc_numberingstart.svg
 cmd/ur/sc_numberliststyle.svg cmd/ar/sc_defaultnumbering.svg
 cmd/ur/sc_outlinebullet.svg cmd/ar/sc_outlinebullet.svg

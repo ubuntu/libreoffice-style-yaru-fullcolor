@@ -39,6 +39,7 @@ cmd/32/alignvcenter.xxx cmd/32/alignverticalcenter.xxx
 cmd/32/anchormenu.xxx cmd/32/toggleanchortype.xxx
 cmd/32/apply.xxx cmd/32/ok.xxx
 cmd/32/ar/bulletliststyle.xxx cmd/32/ar/defaultbullet.xxx
+cmd/32/ar/linenumberdialog.xxx cmd/32/ar/linenumberingdialog.xxx
 cmd/32/ar/numberliststyle.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/arrangeframemenu.xxx cmd/32/bringtofront.xxx
 cmd/32/arrangemenu.xxx cmd/32/bringtofront.xxx
@@ -181,7 +182,7 @@ cmd/32/fa/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
 cmd/32/fa/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/fa/defaultnumbering.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/fa/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
-cmd/32/fa/linenumberdialog.xxx cmd/32/ar/linenumberdialog.xxx
+cmd/32/fa/linenumberdialog.xxx cmd/32/ar/linenumberingdialog.xxx
 cmd/32/fa/numberingstart.xxx cmd/32/ar/numberingstart.xxx
 cmd/32/fa/numberliststyle.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/fa/outlinebullet.xxx cmd/32/ar/outlinebullet.xxx
@@ -256,7 +257,7 @@ cmd/32/he/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
 cmd/32/he/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/he/defaultnumbering.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/he/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
-cmd/32/he/linenumberdialog.xxx cmd/32/ar/linenumberdialog.xxx
+cmd/32/he/linenumberdialog.xxx cmd/32/ar/linenumberingdialog.xxx
 cmd/32/he/numberingstart.xxx cmd/32/ar/numberingstart.xxx
 cmd/32/he/numberliststyle.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/he/outlinebullet.xxx cmd/32/ar/outlinebullet.xxx
@@ -358,6 +359,7 @@ cmd/32/lastpage.xxx cmd/32/lastrecord.xxx
 cmd/32/lastslide.xxx cmd/32/lastrecord.xxx
 cmd/32/leaveallgroups.xxx cmd/32/leavegroup.xxx
 cmd/32/leftpara.xxx cmd/32/alignleft.xxx
+cmd/32/linenumberdialog.xxx cmd/32/linenumberingdialog.xxx
 cmd/32/linespacing.xxx cmd/32/spacepara15.xxx
 cmd/32/linestyle.xxx cmd/32/borderdialog.xxx
 cmd/32/linetoolbox.xxx cmd/32/freeline.xxx
@@ -425,7 +427,6 @@ cmd/32/outlinedown.xxx cmd/32/movedown.xxx
 cmd/32/outlineleft.xxx cmd/32/decrementindent.xxx
 cmd/32/outlineright.xxx cmd/32/decrementlevel.xxx
 cmd/32/outlineup.xxx cmd/32/moveup.xxx
-cmd/32/outputqualitygrayscale.xxx cmd/32/graphic.xxx
 cmd/32/pagedown.xxx cmd/32/nextrecord.xxx
 cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
@@ -569,7 +570,7 @@ cmd/32/ur/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
 cmd/32/ur/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/ur/defaultnumbering.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/ur/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
-cmd/32/ur/linenumberdialog.xxx cmd/32/ar/linenumberdialog.xxx
+cmd/32/ur/linenumberdialog.xxx cmd/32/ar/linenumberingdialog.xxx
 cmd/32/ur/numberingstart.xxx cmd/32/ar/numberingstart.xxx
 cmd/32/ur/numberliststyle.xxx cmd/32/ar/defaultnumbering.xxx
 cmd/32/ur/outlinebullet.xxx cmd/32/ar/outlinebullet.xxx
@@ -594,10 +595,12 @@ cmd/32/zoommode.xxx cmd/32/zoomoptimal.xxx
 cmd/32/zoomplus.xxx cmd/32/zoomin.xxx
 cmd/32/zoomtoolbox.xxx cmd/32/zoomoptimal.xxx
 cmd/ar/lc_bulletliststyle.xxx cmd/ar/lc_defaultbullet.xxx
+cmd/ar/lc_linenumberdialog.xxx cmd/ar/lc_linenumberingdialog.xxx
 cmd/ar/lc_numberliststyle.xxx cmd/ar/lc_defaultnumbering.xxx
-cmd/ar/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
-cmd/ar/sc_numberliststyle.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/ca/lc_underlinesimple.xxx cmd/ca/lc_underline.xxx
+cmd/ar/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
+cmd/ar/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
+cmd/ar/sc_numberliststyle.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/ca/sc_underlinesimple.xxx cmd/ca/sc_underline.xxx
 cmd/es/lc_bold.xxx cmd/ca/lc_bold.xxx
 cmd/es/lc_italic.xxx cmd/de/lc_italic.xxx
@@ -624,7 +627,7 @@ cmd/fa/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
 cmd/fa/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/fa/lc_defaultnumbering.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/fa/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
-cmd/fa/lc_linenumberdialog.xxx cmd/ar/lc_linenumberdialog.xxx
+cmd/fa/lc_linenumberdialog.xxx cmd/ar/lc_linenumberingdialog.xxx
 cmd/fa/lc_numberingstart.xxx cmd/ar/lc_numberingstart.xxx
 cmd/fa/lc_numberliststyle.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/fa/lc_outlinebullet.xxx cmd/ar/lc_outlinebullet.xxx
@@ -640,7 +643,7 @@ cmd/fa/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
 cmd/fa/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/fa/sc_defaultnumbering.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/fa/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
-cmd/fa/sc_linenumberdialog.xxx cmd/ar/sc_linenumberdialog.xxx
+cmd/fa/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
 cmd/fa/sc_numberingstart.xxx cmd/ar/sc_numberingstart.xxx
 cmd/fa/sc_numberliststyle.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/fa/sc_outlinebullet.xxx cmd/ar/sc_outlinebullet.xxx
@@ -666,7 +669,7 @@ cmd/he/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
 cmd/he/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/he/lc_defaultnumbering.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/he/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
-cmd/he/lc_linenumberdialog.xxx cmd/ar/lc_linenumberdialog.xxx
+cmd/he/lc_linenumberdialog.xxx cmd/ar/lc_linenumberingdialog.xxx
 cmd/he/lc_numberingstart.xxx cmd/ar/lc_numberingstart.xxx
 cmd/he/lc_numberliststyle.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/he/lc_outlinebullet.xxx cmd/ar/lc_outlinebullet.xxx
@@ -682,7 +685,7 @@ cmd/he/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
 cmd/he/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/he/sc_defaultnumbering.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/he/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
-cmd/he/sc_linenumberdialog.xxx cmd/ar/sc_linenumberdialog.xxx
+cmd/he/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
 cmd/he/sc_numberingstart.xxx cmd/ar/sc_numberingstart.xxx
 cmd/he/sc_numberliststyle.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/he/sc_outlinebullet.xxx cmd/ar/sc_outlinebullet.xxx
@@ -1001,6 +1004,7 @@ cmd/lc_lastpage.xxx cmd/lc_lastrecord.xxx
 cmd/lc_lastslide.xxx cmd/lc_lastrecord.xxx
 cmd/lc_leaveallgroups.xxx cmd/lc_leavegroup.xxx
 cmd/lc_leftpara.xxx cmd/lc_alignleft.xxx
+cmd/lc_linenumberdialog.xxx cmd/lc_linenumberingdialog.xxx
 cmd/lc_linespacing.xxx cmd/lc_spacepara15.xxx
 cmd/lc_linestyle.xxx cmd/lc_borderdialog.xxx
 cmd/lc_linetoolbox.xxx cmd/lc_freeline.xxx
@@ -1068,7 +1072,6 @@ cmd/lc_outlinedown.xxx cmd/lc_movedown.xxx
 cmd/lc_outlineleft.xxx cmd/lc_decrementindent.xxx
 cmd/lc_outlineright.xxx cmd/lc_decrementlevel.xxx
 cmd/lc_outlineup.xxx cmd/lc_moveup.xxx
-cmd/lc_outputqualitygrayscale.xxx cmd/lc_graphic.xxx
 cmd/lc_pagedown.xxx cmd/lc_nextrecord.xxx
 cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
@@ -1518,6 +1521,7 @@ cmd/sc_lastpage.xxx cmd/sc_lastrecord.xxx
 cmd/sc_lastslide.xxx cmd/sc_lastrecord.xxx
 cmd/sc_leaveallgroups.xxx cmd/sc_leavegroup.xxx
 cmd/sc_leftpara.xxx cmd/sc_alignleft.xxx
+cmd/sc_linenumberdialog.xxx cmd/sc_linenumberingdialog.xxx
 cmd/sc_linespacing.xxx cmd/sc_spacepara15.xxx
 cmd/sc_linestyle.xxx cmd/sc_borderdialog.xxx
 cmd/sc_linetoolbox.xxx cmd/sc_freeline.xxx
@@ -1587,7 +1591,6 @@ cmd/sc_outlinedown.xxx cmd/sc_movedown.xxx
 cmd/sc_outlineleft.xxx cmd/sc_decrementindent.xxx
 cmd/sc_outlineright.xxx cmd/sc_decrementlevel.xxx
 cmd/sc_outlineup.xxx cmd/sc_moveup.xxx
-cmd/sc_outputqualitygrayscale.xxx cmd/sc_graphic.xxx
 cmd/sc_pagedown.xxx cmd/sc_nextrecord.xxx
 cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
@@ -1745,7 +1748,7 @@ cmd/ur/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
 cmd/ur/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/ur/lc_defaultnumbering.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/ur/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
-cmd/ur/lc_linenumberdialog.xxx cmd/ar/lc_linenumberdialog.xxx
+cmd/ur/lc_linenumberdialog.xxx cmd/ar/lc_linenumberingdialog.xxx
 cmd/ur/lc_numberingstart.xxx cmd/ar/lc_numberingstart.xxx
 cmd/ur/lc_numberliststyle.xxx cmd/ar/lc_defaultnumbering.xxx
 cmd/ur/lc_outlinebullet.xxx cmd/ar/lc_outlinebullet.xxx
@@ -1761,7 +1764,7 @@ cmd/ur/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
 cmd/ur/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/ur/sc_defaultnumbering.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/ur/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
-cmd/ur/sc_linenumberdialog.xxx cmd/ar/sc_linenumberdialog.xxx
+cmd/ur/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
 cmd/ur/sc_numberingstart.xxx cmd/ar/sc_numberingstart.xxx
 cmd/ur/sc_numberliststyle.xxx cmd/ar/sc_defaultnumbering.xxx
 cmd/ur/sc_outlinebullet.xxx cmd/ar/sc_outlinebullet.xxx
