@@ -15,7 +15,7 @@
 # this program; if not, see <https://www.gnu.org/licenses/lgpl-3.0.txt>
 
 function check-links() {
-    linksfile=$1
+    workingfolder=$1
     verbose=$2
     n=1
     errors=0
@@ -39,7 +39,7 @@ function check-links() {
         fi
 
         let n+=1
-    done < $linksfile
+    done < "${workingfolder}/links.txt"
 
     n=1
 
@@ -62,24 +62,44 @@ function check-links() {
         let n+=1
     done
 
+    n=1
+
+    for i in "${targeticons[@]}"
+    do
+        if [ ! -f "./${workingfolder}/${i/.xxx/.svg}" ]; then
+
+            echo "Error line $n: target file ${workingfolder}/${i/.xxx/.svg} not found"
+
+            let errors+=1
+        fi
+        let n+=1
+    done
+
     return $errors
 }
 
-bold=$(tput bold)
-normal=$(tput sgr0)
+echo -e "\n=> ⏳ Checking src/links.txt - please wait\n"
 
-echo -e "\n=> ⏳ Checking src/links.txt - please wait"
-
-check-links "src/links.txt"
+check-links "src"
 
 if [[ $? > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
-    echo -e "\n=> ⏳ Checking build/***/links.txt - please wait"
+    echo -e "=> ⏳ Checking build/svg/links.txt - please wait\n"
 
-    if [[ $(check-links 'build/svg/links.txt') > 0 ]] || [[ $(check-links 'build/png/links.txt') > 0 ]]; then
-        echo -e "\n=> Errors errors found into /build links files - please run ${bold}./generate-links.sh${normal} to regenerate them\n"
+    check-links 'build/svg'
+
+    errors=$?
+
+    echo -e "\n=> ⏳ Checking build/png/links.txt - please wait\n"
+
+    check-links 'build/png'
+
+    let errors+=$?
+
+    if [[ errors > 0 ]]; then
+        echo -e "\n=> Errors found into /build links files - please run ${bold}./generate-links.sh${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
         exit 1
     else
         echo -e "\n=> 🎉 0 error found\n"
