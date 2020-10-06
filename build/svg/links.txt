@@ -408,7 +408,9 @@ cmd/32/numberformattime.svg cmd/32/timefield.svg
 cmd/32/numberingmenu.svg cmd/32/outlinebullet.svg
 cmd/32/numericfield.svg cmd/32/numberformatstandard.svg
 cmd/32/objectalign.svg cmd/32/objectalignleft.svg
+cmd/32/objectbackone.svg cmd/32/backward.svg
 cmd/32/objectcatalog.svg cmd/32/dbviewforms.svg
+cmd/32/objectforwardone.svg cmd/32/forward.svg
 cmd/32/objectmenu.svg cmd/32/insertobject.svg
 cmd/32/objectmirrorhorizontal.svg cmd/32/mirror.svg
 cmd/32/objectmirrorvertical.svg cmd/32/mirrorvert.svg
@@ -493,8 +495,6 @@ cmd/32/selectmode.svg cmd/32/selectobject.svg
 cmd/32/sendfax.svg cmd/32/print.svg
 cmd/32/setborderstyle.svg cmd/32/insertframe.svg
 cmd/32/setdefault.svg cmd/32/resetattributes.svg
-cmd/32/setobjecttobackground.svg cmd/32/sendtoback.svg
-cmd/32/setobjecttoforeground.svg cmd/32/bringtofront.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
 cmd/32/settabbgcolor.svg cmd/32/backgroundcolor.svg
 cmd/32/shapeslinemenu.svg cmd/32/line.svg
@@ -1051,7 +1051,9 @@ cmd/lc_numberformattime.svg cmd/lc_timefield.svg
 cmd/lc_numberingmenu.svg cmd/lc_outlinebullet.svg
 cmd/lc_numericfield.svg cmd/lc_numberformatstandard.svg
 cmd/lc_objectalign.svg cmd/lc_objectalignleft.svg
+cmd/lc_objectbackone.svg cmd/lc_backward.svg
 cmd/lc_objectcatalog.svg cmd/lc_dbviewforms.svg
+cmd/lc_objectforwardone.svg cmd/lc_forward.svg
 cmd/lc_objectmenu.svg cmd/lc_insertobject.svg
 cmd/lc_objectmirrorhorizontal.svg cmd/lc_mirror.svg
 cmd/lc_objectmirrorvertical.svg cmd/lc_mirrorvert.svg
@@ -1123,8 +1125,6 @@ cmd/lc_selectmode.svg cmd/lc_selectobject.svg
 cmd/lc_sendfax.svg cmd/lc_print.svg
 cmd/lc_setborderstyle.svg cmd/lc_insertframe.svg
 cmd/lc_setdefault.svg cmd/lc_resetattributes.svg
-cmd/lc_setobjecttobackground.svg cmd/lc_sendtoback.svg
-cmd/lc_setobjecttoforeground.svg cmd/lc_bringtofront.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
 cmd/lc_settabbgcolor.svg cmd/lc_backgroundcolor.svg
 cmd/lc_shapeslinemenu.svg cmd/lc_line.svg
@@ -1567,7 +1567,9 @@ cmd/sc_numberformattime.svg cmd/sc_timefield.svg
 cmd/sc_numberingmenu.svg cmd/sc_outlinebullet.svg
 cmd/sc_numericfield.svg cmd/sc_numberformatstandard.svg
 cmd/sc_objectalign.svg cmd/sc_objectalignleft.svg
+cmd/sc_objectbackone.svg cmd/sc_backward.svg
 cmd/sc_objectcatalog.svg cmd/sc_dbviewforms.svg
+cmd/sc_objectforwardone.svg cmd/sc_forward.svg
 cmd/sc_objectmenu.svg cmd/sc_insertobject.svg
 cmd/sc_objectmirrorhorizontal.svg cmd/sc_mirror.svg
 cmd/sc_objectmirrorvertical.svg cmd/sc_mirrorvert.svg
@@ -1641,8 +1643,6 @@ cmd/sc_sendfax.svg cmd/sc_print.svg
 cmd/sc_sendfeedback.svg cmd/sc_sendmail.svg
 cmd/sc_setborderstyle.svg cmd/sc_insertframe.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
-cmd/sc_setobjecttobackground.svg cmd/sc_sendtoback.svg
-cmd/sc_setobjecttoforeground.svg cmd/sc_bringtofront.svg
 cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
 cmd/sc_settabbgcolor.svg cmd/sc_backgroundcolor.svg
 cmd/sc_shapeslinemenu.svg cmd/sc_line.svg
