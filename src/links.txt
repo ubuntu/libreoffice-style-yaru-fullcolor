@@ -408,7 +408,9 @@ cmd/32/numberformattime.xxx cmd/32/timefield.xxx
 cmd/32/numberingmenu.xxx cmd/32/outlinebullet.xxx
 cmd/32/numericfield.xxx cmd/32/numberformatstandard.xxx
 cmd/32/objectalign.xxx cmd/32/objectalignleft.xxx
+cmd/32/objectbackone.xxx cmd/32/backward.xxx
 cmd/32/objectcatalog.xxx cmd/32/dbviewforms.xxx
+cmd/32/objectforwardone.xxx cmd/32/forward.xxx
 cmd/32/objectmenu.xxx cmd/32/insertobject.xxx
 cmd/32/objectmirrorhorizontal.xxx cmd/32/mirror.xxx
 cmd/32/objectmirrorvertical.xxx cmd/32/mirrorvert.xxx
@@ -1051,7 +1053,9 @@ cmd/lc_numberformattime.xxx cmd/lc_timefield.xxx
 cmd/lc_numberingmenu.xxx cmd/lc_outlinebullet.xxx
 cmd/lc_numericfield.xxx cmd/lc_numberformatstandard.xxx
 cmd/lc_objectalign.xxx cmd/lc_objectalignleft.xxx
+cmd/lc_objectbackone.xxx cmd/lc_backward.xxx
 cmd/lc_objectcatalog.xxx cmd/lc_dbviewforms.xxx
+cmd/lc_objectforwardone.xxx cmd/lc_forward.xxx
 cmd/lc_objectmenu.xxx cmd/lc_insertobject.xxx
 cmd/lc_objectmirrorhorizontal.xxx cmd/lc_mirror.xxx
 cmd/lc_objectmirrorvertical.xxx cmd/lc_mirrorvert.xxx
@@ -1567,7 +1571,9 @@ cmd/sc_numberformattime.xxx cmd/sc_timefield.xxx
 cmd/sc_numberingmenu.xxx cmd/sc_outlinebullet.xxx
 cmd/sc_numericfield.xxx cmd/sc_numberformatstandard.xxx
 cmd/sc_objectalign.xxx cmd/sc_objectalignleft.xxx
+cmd/sc_objectbackone.xxx cmd/sc_backward.xxx
 cmd/sc_objectcatalog.xxx cmd/sc_dbviewforms.xxx
+cmd/sc_objectforwardone.xxx cmd/sc_forward.xxx
 cmd/sc_objectmenu.xxx cmd/sc_insertobject.xxx
 cmd/sc_objectmirrorhorizontal.xxx cmd/sc_mirror.xxx
 cmd/sc_objectmirrorvertical.xxx cmd/sc_mirrorvert.xxx

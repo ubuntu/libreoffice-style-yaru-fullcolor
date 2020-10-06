@@ -408,7 +408,9 @@ cmd/32/numberformattime.png cmd/32/timefield.png
 cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numericfield.png cmd/32/numberformatstandard.png
 cmd/32/objectalign.png cmd/32/objectalignleft.png
+cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objectcatalog.png cmd/32/dbviewforms.png
+cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/objectmenu.png cmd/32/insertobject.png
 cmd/32/objectmirrorhorizontal.png cmd/32/mirror.png
 cmd/32/objectmirrorvertical.png cmd/32/mirrorvert.png
@@ -1051,7 +1053,9 @@ cmd/lc_numberformattime.png cmd/lc_timefield.png
 cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_objectalign.png cmd/lc_objectalignleft.png
+cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectcatalog.png cmd/lc_dbviewforms.png
+cmd/lc_objectforwardone.png cmd/lc_forward.png
 cmd/lc_objectmenu.png cmd/lc_insertobject.png
 cmd/lc_objectmirrorhorizontal.png cmd/lc_mirror.png
 cmd/lc_objectmirrorvertical.png cmd/lc_mirrorvert.png
@@ -1567,7 +1571,9 @@ cmd/sc_numberformattime.png cmd/sc_timefield.png
 cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_objectalign.png cmd/sc_objectalignleft.png
+cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectcatalog.png cmd/sc_dbviewforms.png
+cmd/sc_objectforwardone.png cmd/sc_forward.png
 cmd/sc_objectmenu.png cmd/sc_insertobject.png
 cmd/sc_objectmirrorhorizontal.png cmd/sc_mirror.png
 cmd/sc_objectmirrorvertical.png cmd/sc_mirrorvert.png
