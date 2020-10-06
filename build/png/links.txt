@@ -493,8 +493,6 @@ cmd/32/selectmode.png cmd/32/selectobject.png
 cmd/32/sendfax.png cmd/32/print.png
 cmd/32/setborderstyle.png cmd/32/insertframe.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
-cmd/32/setobjecttobackground.png cmd/32/sendtoback.png
-cmd/32/setobjecttoforeground.png cmd/32/bringtofront.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
 cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
 cmd/32/shapeslinemenu.png cmd/32/line.png
@@ -1123,8 +1121,6 @@ cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_sendfax.png cmd/lc_print.png
 cmd/lc_setborderstyle.png cmd/lc_insertframe.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
-cmd/lc_setobjecttobackground.png cmd/lc_sendtoback.png
-cmd/lc_setobjecttoforeground.png cmd/lc_bringtofront.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
@@ -1641,8 +1637,6 @@ cmd/sc_sendfax.png cmd/sc_print.png
 cmd/sc_sendfeedback.png cmd/sc_sendmail.png
 cmd/sc_setborderstyle.png cmd/sc_insertframe.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
-cmd/sc_setobjecttobackground.png cmd/sc_sendtoback.png
-cmd/sc_setobjecttoforeground.png cmd/sc_bringtofront.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
