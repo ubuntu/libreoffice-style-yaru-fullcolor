@@ -495,8 +495,6 @@ cmd/32/selectmode.svg cmd/32/selectobject.svg
 cmd/32/sendfax.svg cmd/32/print.svg
 cmd/32/setborderstyle.svg cmd/32/insertframe.svg
 cmd/32/setdefault.svg cmd/32/resetattributes.svg
-cmd/32/setobjecttobackground.svg cmd/32/sendtoback.svg
-cmd/32/setobjecttoforeground.svg cmd/32/bringtofront.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
 cmd/32/settabbgcolor.svg cmd/32/backgroundcolor.svg
 cmd/32/shapeslinemenu.svg cmd/32/line.svg
@@ -1127,8 +1125,6 @@ cmd/lc_selectmode.svg cmd/lc_selectobject.svg
 cmd/lc_sendfax.svg cmd/lc_print.svg
 cmd/lc_setborderstyle.svg cmd/lc_insertframe.svg
 cmd/lc_setdefault.svg cmd/lc_resetattributes.svg
-cmd/lc_setobjecttobackground.svg cmd/lc_sendtoback.svg
-cmd/lc_setobjecttoforeground.svg cmd/lc_bringtofront.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
 cmd/lc_settabbgcolor.svg cmd/lc_backgroundcolor.svg
 cmd/lc_shapeslinemenu.svg cmd/lc_line.svg
@@ -1647,8 +1643,6 @@ cmd/sc_sendfax.svg cmd/sc_print.svg
 cmd/sc_sendfeedback.svg cmd/sc_sendmail.svg
 cmd/sc_setborderstyle.svg cmd/sc_insertframe.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
-cmd/sc_setobjecttobackground.svg cmd/sc_sendtoback.svg
-cmd/sc_setobjecttoforeground.svg cmd/sc_bringtofront.svg
 cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
 cmd/sc_settabbgcolor.svg cmd/sc_backgroundcolor.svg
 cmd/sc_shapeslinemenu.svg cmd/sc_line.svg

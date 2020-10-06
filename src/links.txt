@@ -495,8 +495,6 @@ cmd/32/selectmode.xxx cmd/32/selectobject.xxx
 cmd/32/sendfax.xxx cmd/32/print.xxx
 cmd/32/setborderstyle.xxx cmd/32/insertframe.xxx
 cmd/32/setdefault.xxx cmd/32/resetattributes.xxx
-cmd/32/setobjecttobackground.xxx cmd/32/sendtoback.xxx
-cmd/32/setobjecttoforeground.xxx cmd/32/bringtofront.xxx
 cmd/32/setoptimalcolumnwidthdirect.xxx cmd/32/setoptimalcolumnwidth.xxx
 cmd/32/settabbgcolor.xxx cmd/32/backgroundcolor.xxx
 cmd/32/shapeslinemenu.xxx cmd/32/line.xxx
@@ -1127,8 +1125,6 @@ cmd/lc_selectmode.xxx cmd/lc_selectobject.xxx
 cmd/lc_sendfax.xxx cmd/lc_print.xxx
 cmd/lc_setborderstyle.xxx cmd/lc_insertframe.xxx
 cmd/lc_setdefault.xxx cmd/lc_resetattributes.xxx
-cmd/lc_setobjecttobackground.xxx cmd/lc_sendtoback.xxx
-cmd/lc_setobjecttoforeground.xxx cmd/lc_bringtofront.xxx
 cmd/lc_setoptimalcolumnwidthdirect.xxx cmd/lc_setoptimalcolumnwidth.xxx
 cmd/lc_settabbgcolor.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_shapeslinemenu.xxx cmd/lc_line.xxx
@@ -1647,8 +1643,6 @@ cmd/sc_sendfax.xxx cmd/sc_print.xxx
 cmd/sc_sendfeedback.xxx cmd/sc_sendmail.xxx
 cmd/sc_setborderstyle.xxx cmd/sc_insertframe.xxx
 cmd/sc_setdefault.xxx cmd/sc_resetattributes.xxx
-cmd/sc_setobjecttobackground.xxx cmd/sc_sendtoback.xxx
-cmd/sc_setobjecttoforeground.xxx cmd/sc_bringtofront.xxx
 cmd/sc_setoptimalcolumnwidthdirect.xxx cmd/sc_setoptimalcolumnwidth.xxx
 cmd/sc_settabbgcolor.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_shapeslinemenu.xxx cmd/sc_line.xxx
