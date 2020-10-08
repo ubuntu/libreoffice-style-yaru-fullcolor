@@ -14,11 +14,12 @@
 # You should have received a copy of the GNU Lesser General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/lgpl-3.0.txt>
 
+errors=0
+
 function check-links() {
     workingfolder=$1
     verbose=$2
     n=1
-    errors=0
     linkedicons=()
     targeticons=()
 
@@ -74,15 +75,13 @@ function check-links() {
         fi
         let n+=1
     done
-
-    return $errors
 }
 
 echo -e "\n=> ⏳ Checking src/links.txt - please wait\n"
 
 check-links "src"
 
-if [[ $? > 0 ]]; then
+if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
@@ -90,15 +89,11 @@ else
 
     check-links 'build/svg'
 
-    errors=$?
-
     echo -e "\n=> ⏳ Checking build/png/links.txt - please wait\n"
 
     check-links 'build/png'
 
-    let errors+=$?
-
-    if [[ errors > 0 ]]; then
+    if [[ ${errors} > 0 ]]; then
         echo -e "\n=> Errors found into /build links files - please run ${bold}./generate-links.sh${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
         exit 1
     else
