@@ -10,7 +10,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="lc_selecttable.svg"
+   sodipodi:docname="lc_selecttables.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_selecttable.png"
    inkscape:export-xdpi="95"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +56,18 @@
        dotted="false"
        spacingx="1"
        spacingy="1" />
+    <inkscape:grid
+       dotted="true"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="10"
+       type="xygrid"
+       id="grid832" />
   </sodipodi:namedview>
+  <path
+     style="fill:#f3d8f2;stroke:#762572;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 4.5,19.5 v 3 h 5 l 3,-3"
+     id="path834" />
   <rect
      style="opacity:1;fill:#f3d8f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect827"
@@ -67,9 +79,9 @@
      inkscape:export-xdpi="95"
      inkscape:export-ydpi="95" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 7,5 H 9 V 6 7 H 8 5 V 6 C 5,5 6,5 7,5 Z m 3,0 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 5,8 h 3 1 v 1 1 H 5 V 9 Z m 5,0 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 1 1 H 8 5 v -1 z m 5,0 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 H 15 V 15 Z M 5,17 H 8 9 V 18.099609 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
+     d="M 7,4 C 5,4 4,4 4,6 v 14 h 13 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 7,5 H 9 V 6 7 H 8 5 V 6 C 5,5 6,5 7,5 Z m 3,0 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 5,8 h 3 1 v 1 1 H 5 V 9 Z m 5,0 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 1 1 H 8 5 v -1 z m 5,0 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 H 15 V 15 Z M 5,17 H 8 9 V 18.099609 19 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#762572"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>
