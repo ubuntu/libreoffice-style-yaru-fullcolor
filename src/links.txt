@@ -247,6 +247,7 @@ cmd/32/grafmode.xxx cmd/32/graphicdialog.xxx
 cmd/32/graphicfilterposter.xxx cmd/32/graphicdialog.xxx
 cmd/32/graphicfiltertoolbox.xxx cmd/32/autoformat.xxx
 cmd/32/graphicmenu.xxx cmd/32/insertvideo.xxx
+cmd/32/grid.xxx cmd/32/inserttable.xxx
 cmd/32/gridmenu.xxx cmd/32/gridvisible.xxx
 cmd/32/groupmenu.xxx cmd/32/formatgroup.xxx
 cmd/32/groupoutlinemenu.xxx cmd/32/autooutline.xxx
@@ -401,6 +402,7 @@ cmd/32/nexttrackedchange.xxx cmd/32/nextrecord.xxx
 cmd/32/nl/italic.xxx cmd/32/ca/italic.xxx
 cmd/32/nl/underlinesimple.xxx cmd/32/nl/underline.xxx
 cmd/32/no.xxx cmd/32/cancel.xxx
+cmd/32/normalviewmode.xxx cmd/32/inserttable.xxx
 cmd/32/numberformatcurrency.xxx cmd/32/currencyfield.xxx
 cmd/32/numberformatcurrencysimple.xxx cmd/32/currencyfield.xxx
 cmd/32/numberformatdate.xxx cmd/32/datefield.xxx
@@ -911,6 +913,7 @@ cmd/lc_grafmode.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_graphicfilterposter.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_graphicfiltertoolbox.xxx cmd/lc_autoformat.xxx
 cmd/lc_graphicmenu.xxx cmd/lc_insertvideo.xxx
+cmd/lc_grid.xxx cmd/lc_inserttable.xxx
 cmd/lc_gridmenu.xxx cmd/lc_gridvisible.xxx
 cmd/lc_groupmenu.xxx cmd/lc_formatgroup.xxx
 cmd/lc_groupoutlinemenu.xxx cmd/lc_autooutline.xxx
@@ -1044,6 +1047,7 @@ cmd/lc_nextpage.xxx cmd/lc_nextrecord.xxx
 cmd/lc_nextslide.xxx cmd/lc_nextrecord.xxx
 cmd/lc_nexttrackedchange.xxx cmd/lc_nextrecord.xxx
 cmd/lc_no.xxx cmd/lc_cancel.xxx
+cmd/lc_normalviewmode.xxx cmd/lc_inserttable.xxx
 cmd/lc_notecellstyles.xxx cmd/lc_insertannotation.xxx
 cmd/lc_numberformatcurrency.xxx cmd/lc_currencyfield.xxx
 cmd/lc_numberformatcurrencysimple.xxx cmd/lc_currencyfield.xxx
@@ -1426,6 +1430,7 @@ cmd/sc_grafmode.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_graphicfilterposter.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_graphicfiltertoolbox.xxx cmd/sc_autoformat.xxx
 cmd/sc_graphicmenu.xxx cmd/sc_insertvideo.xxx
+cmd/sc_grid.xxx cmd/sc_inserttable.xxx
 cmd/sc_gridmenu.xxx cmd/sc_gridvisible.xxx
 cmd/sc_groupmenu.xxx cmd/sc_formatgroup.xxx
 cmd/sc_groupoutlinemenu.xxx cmd/sc_autooutline.xxx
@@ -1560,6 +1565,7 @@ cmd/sc_nextpage.xxx cmd/sc_nextrecord.xxx
 cmd/sc_nextslide.xxx cmd/sc_nextrecord.xxx
 cmd/sc_nexttrackedchange.xxx cmd/sc_nextrecord.xxx
 cmd/sc_no.xxx cmd/sc_cancel.xxx
+cmd/sc_normalviewmode.xxx cmd/sc_inserttable.xxx
 cmd/sc_notecellstyles.xxx cmd/sc_shownote.xxx
 cmd/sc_numberformatcurrency.xxx cmd/sc_currencyfield.xxx
 cmd/sc_numberformatcurrencysimple.xxx cmd/sc_currencyfield.xxx
@@ -1964,7 +1970,7 @@ res/sx10597.xxx cmd/sc_label.xxx
 res/sx10599.xxx cmd/sc_text.xxx
 res/sx10600.xxx cmd/lc_listbox.xxx
 res/sx10601.xxx cmd/sc_combobox.xxx
-res/sx10603.xxx cmd/sc_grid.xxx
+res/sx10603.xxx cmd/sc_inserttable.xxx
 res/sx10605.xxx cmd/sc_open.xxx
 res/sx10704.xxx cmd/sc_datefield.xxx
 res/sx10705.xxx cmd/sc_timefield.xxx

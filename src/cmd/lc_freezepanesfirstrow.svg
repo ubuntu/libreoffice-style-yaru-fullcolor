@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_freezepanesfirstrow.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_freezepanesfirstrow.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,28 +41,112 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="27.812868"
-     inkscape:cx="8.5713302"
-     inkscape:cy="8.9911061"
+     inkscape:zoom="19.666668"
+     inkscape:cx="4.8040789"
+     inkscape:cy="7.1628382"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect816"
-     width="14"
-     height="14"
-     x="5"
-     y="5" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect827"
+     width="16"
+     height="16"
+     x="-20"
+     y="4"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95"
+     transform="rotate(-90)" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 2 10 c 0,2 1,2 3,2 h 7 1 2 c 2,0 3,0 3,-2 V 14 8 6 C 20,4 19,4 17,4 Z M 5,8 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 2 H 8 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,17 H 8 9 V 18.09375 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
+     d="M 6,3 C 4,3 3,3 3,5 v 14 c 0,2 1,2 3,2 h 12 c 2,0 3,0 3,-2 V 5 C 21,3 20,3 18,3 Z m 0,1 h 3 1 4 1 3 c 1,0 2,0 2,1 v 2 1 2 1 2 1 2 1 2 c 0,1 -1,1 -2,1 H 15 14 10 9 6 C 5,20 4,20 4,19 V 17 16 14 13 11 10 8 7 5 C 4,4 5,4 6,4 Z" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect967"
+     width="16"
+     height="1"
+     x="4"
+     y="14" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect969"
+     width="1"
+     height="16"
+     x="10"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect971"
+     width="1"
+     height="16"
+     x="13"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect973"
+     width="1"
+     height="16"
+     x="7"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect975"
+     width="1"
+     height="16"
+     x="16"
+     y="4" />
+  <rect
+     style="opacity:0.3;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect985"
+     width="16"
+     height="5"
+     x="4"
+     y="4" />
+  <path
+     id="path977"
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1"
+     d="M 6,3 C 4,3 3,3 3,5 v 5 H 4 V 8 7 5 C 4,4 5,4 6,4 h 3 1 4 1 3 c 1,0 2,0 2,1 v 2 1 2 h 1 V 5 C 21,3 20,3 18,3 Z" />
+  <rect
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect965"
+     width="16"
+     height="1"
+     x="4"
+     y="9" />
+  <rect
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect987"
+     width="1"
+     height="5"
+     x="16"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect991"
+     width="1"
+     height="5"
+     x="13"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect993"
+     width="1"
+     height="5"
+     x="10"
+     y="4" />
+  <rect
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     id="rect995"
+     width="1"
+     height="5"
+     x="7"
+     y="4" />
 </svg>

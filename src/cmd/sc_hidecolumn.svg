@@ -11,7 +11,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="sc_hidecolumn.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_hidecolumn.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,35 +41,64 @@
      inkscape:window-height="1011"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="59"
-     inkscape:cx="8.0219974"
-     inkscape:cy="6.1353278"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="29.5"
+     inkscape:cx="1.5093957"
+     inkscape:cy="8.1691734"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8">
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid821" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect814"
-     width="10"
-     height="10"
-     x="2.9999998"
-     y="3" />
+     width="12"
+     height="12"
+     x="2"
+     y="-14"
+     transform="rotate(90)" />
   <path
-     d="M 1.9999999,4.0000002 V 12 c 0,2 0.9999999,2 2.9999999,2 H 11 c 2,0 3,0 3,-2 V 4.0000002 c 0,-2 -1,-2 -3,-2 H 4.9999998 c -2,0 -2.9999999,0 -2.9999999,2 z m 0.9999999,0 c 0,-1 1,-1 2,-1 H 11 c 1,0 2,0 2,1 v 2 h -2 v 1 h 2 v 2 H 11 V 10 h 2 v 2 c 0,1 -1,1 -2,1 H 4.9999998 c -1,0 -2,0 -2,-1 v -2 h 2 V 9.0000002 h -2 v -2 h 2 v -1 h -2 z"
+     d="m 15,3.9999999 c 0,-2 0,-3 -2,-3 H 12 4 3 c -2.00000005,0 -2.00000005,1 -2.00000005,3 V 12 c 0,2 0,3 2.00000005,3 h 1 8 1 c 2,0 2,-1 2,-3 z m -2,-2 c 1,0 1,1 1,2 v 0.9999998 h -3 v 1 h 3 v 4 H 11 V 11 h 3 v 1 c 0,1 0,2 -1,2 H 12 4 3 C 2,14 2,13 2,12 V 11 H 5 V 9.9999997 H 2 v -4 h 3 v -1 H 2 V 3.9999999 c 0,-1 0,-2 1,-2 h 1 8 z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#762572"
-     d="M 4.9999998,3.0000002 V 13 h 1.71875 l 3.28125,-3.2812498 V 13 H 11 v -4.2812498 -4 -1.71875 H 9.9999998 v 1.28125 l -4,4 v -2.5625 l 2.71875,-2.71875 h -1.4375 l -1.28125,1.28125 v -1.28125 z m 5,2.71875 v 2.5625 l -4,3.9999998 V 9.7187502 Z"
-     id="path4" />
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect837"
+     width="14"
+     height="6"
+     x="0.99999994"
+     y="-11"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="12"
+     height="4"
+     x="2"
+     y="-10"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect834"
+     width="1"
+     height="4"
+     x="5"
+     y="-10"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect836"
+     width="1"
+     height="4"
+     x="10"
+     y="-10"
+     transform="rotate(90)" />
   <circle
      style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path831"

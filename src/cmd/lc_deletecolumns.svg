@@ -43,8 +43,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="9.3312159"
-     inkscape:cy="9.3089536"
+     inkscape:cx="6.4416473"
+     inkscape:cy="9.9603495"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,24 +56,37 @@
   </sodipodi:namedview>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect827"
-     width="14"
-     height="14"
-     x="5"
-     y="5"
+     id="rect827-3"
+     width="16"
+     height="16"
+     x="4"
+     y="4"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
      inkscape:export-xdpi="95"
-     inkscape:export-ydpi="95"
-     transform="matrix(0,1,1,0,0,0)" />
+     inkscape:export-ydpi="95" />
   <path
-     id="path2"
-     style="fill:#6d6d6d;fill-opacity:1"
-     d="M 6 4 C 4 4 4 5 4 7 L 4 13 L 4 14 L 4 17 C 4 19 4 20 6 20 L 9 20 L 10 20 L 14 20 L 15 20 L 18 20 C 20 20 20 19 20 17 L 20 14 L 20 13 L 20 7 C 20 5 20 4 18 4 L 15 4 L 14 4 L 10 4 L 9 4 L 6 4 z M 6 5 L 9 5 L 9 7 L 5 7 C 5 6 5.05611 5 6 5 z M 10 5 L 14 5 L 14 7 L 10 7 L 10 5 z M 15 5 L 18 5 C 18.94389 5 19 6 19 7 L 15 7 L 15 5 z M 5 8 L 9 8 L 9 10 L 5 10 L 5 8 z M 10 8 L 14 8 L 14 10 L 10 10 L 10 8 z M 15 8 L 19 8 L 19 10 L 15 10 L 15 8 z M 5 11 L 9 11 L 9 13 L 5 13 L 5 11 z M 10 11 L 14 11 L 14 13 L 10 13 L 10 11 z M 15 11 L 19 11 L 19 13 L 15 13 L 15 11 z M 5 14 L 9 14 L 9 16 L 5 16 L 5 14 z M 10 14 L 14 14 L 14 16 L 10 16 L 10 14 z M 15 14 L 19 14 L 19 16 L 15 16 L 15 14 z M 5 17 L 9 17 L 9 19 L 6 19 C 5 19 5 18 5 17 z M 10 17 L 14 17 L 14 19 L 10 19 L 10 17 z M 15 17 L 19 17 C 19 18 19 19 18 19 L 15 19 L 15 17 z " />
+     d="m 6.0000001,3 c -2,0 -2.9999999,0 -2.9999999,2 v 14 c 0,2 0.9999999,2 2.9999999,2 H 18 c 2,0 3,0 3,-2 V 5 C 21,3 20,3 18,3 Z m -2,2 c 0,-1 1,-1 2,-1 H 8.9999999 V 5 7 H 7.9999998 4.0000001 Z M 9.9999999,4 H 14 V 5 7 H 9.9999999 V 5 Z M 15,4 h 3 c 1,0 2,0 2,1 V 7 H 16 15 V 5 Z M 4.0000001,8 h 3.9999997 1.0000001 v 2 H 4.0000001 Z M 9.9999999,8 H 14 v 2 H 9.9999999 Z M 15,8 h 5 v 2 H 15 Z M 4.0000001,11 h 4.9999998 v 2 H 4.0000001 Z m 5.9999998,0 H 14 v 2 H 9.9999999 Z M 15,11 h 5 v 2 H 15 Z M 4.0000001,14 h 4.9999998 v 2 H 7.9999998 4.0000001 Z m 5.9999998,0 H 14 v 2 H 9.9999999 Z M 15,14 h 5 v 2 H 15 Z M 4.0000001,17 H 7.9999998 8.9999999 V 19.099609 20 H 6.0000001 c -1,0 -2,0 -2,-1 z m 5.9999998,0 H 14 v 3 H 9.9999999 Z M 15,17 h 5 v 2 c 0,1 -1,1 -2,1 h -3 z"
+     id="path2-7"
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke-width:0.999999"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="opacity:1;fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect861"
+     width="4"
+     height="16"
+     x="10"
+     y="4" />
+  <path
+     id="rect841"
+     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.9999999,3 V 21 H 15 V 3 Z m 1,1 H 14 V 7 H 9.9999999 Z m 0,4 H 14 v 2 H 9.9999999 Z m 0,3 H 14 v 2 H 9.9999999 Z m 0,3 H 14 v 2 H 9.9999999 Z m 0,3 H 14 v 3 H 9.9999999 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
   <circle
-     style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
-     cy="18.5"
-     cx="18.5"
+     cy="19.5"
+     cx="19.5"
      r="3.5" />
   <path
      inkscape:connector-curvature="0"
@@ -81,16 +94,5 @@
      overflow="visible"
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="M 19.914214,16.37868 18.5,17.792893 17.085786,16.37868 16.37868,17.085786 17.792893,18.5 16.37868,19.914214 17.085786,20.62132 18.5,19.207107 19.914214,20.62132 20.62132,19.914214 19.207107,18.5 20.62132,17.085786 Z" />
-  <rect
-     style="fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect851"
-     width="4"
-     height="14"
-     x="10"
-     y="5" />
-  <path
-     id="rect835"
-     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 9 4 L 9 20 L 15 20 L 15 4 L 9 4 z M 10 5 L 14 5 L 14 7 L 10 7 L 10 5 z M 10 8 L 14 8 L 14 10 L 10 10 L 10 8 z M 10 11 L 14 11 L 14 13 L 10 13 L 10 11 z M 10 14 L 14 14 L 14 16 L 10 16 L 10 14 z M 10 17 L 14 17 L 14 19 L 10 19 L 10 17 z " />
+     d="M 20.914214,17.37868 19.5,18.792893 18.085786,17.37868 17.37868,18.085786 18.792893,19.5 17.37868,20.914214 18.085786,21.62132 19.5,20.207107 20.914214,21.62132 21.62132,20.914214 20.207107,19.5 21.62132,18.085786 Z" />
 </svg>

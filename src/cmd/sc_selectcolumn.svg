@@ -56,13 +56,13 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect814"
-     width="10"
-     height="10"
-     x="2.9999998"
-     y="-12.999999"
+     width="12"
+     height="12"
+     x="2.0000002"
+     y="-14"
      transform="rotate(90)" />
   <path
-     d="m 13.999999,4.9999998 c 0,-2 0,-3 -2,-3 h -1 -5.9999997 -1 c -2,0 -2,1 -2,3 V 11 c 0,2 0,3 2,3 h 1 5.9999997 1 c 2,0 2,-1 2,-3 z m -2,-2 c 1,0 1,1 1,2 v 1 h -2 v 1 h 2 v 2 h -2 v 1 h 2 V 11 c 0,1 0,2 -1,2 h -1 -5.9999997 -1 c -1,0 -1,-1 -1,-2 V 9.9999998 h 2 v -1 h -2 v -2 h 2 v -1 h -2 v -1 c 0,-1 0,-2 1,-2 h 1 5.9999997 z"
+     d="m 15,4.0000001 c 0,-2 0,-3 -2,-3 h -1 -8.0000001 -1 c -2,0 -2,1 -2,3 V 12 c 0,2 0,3 2,3 h 1 H 12 13 c 2,0 2,-1 2,-3 z m -2,-2 c 1,0 1,1 1,2 v 0.9999998 h -3 v 1 h 3 v 4 H 11 V 11 h 3 v 1 c 0,1 0,2 -1,2 h -1 -8.0000001 -1 c -1,0 -1,-1 -1,-2 v -1 h 3 V 9.9999999 h -3 v -4 h 3 v -1 h -3 V 4.0000001 c 0,-1 0,-2 1,-2 h 1 H 12 Z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
@@ -70,31 +70,33 @@
   <rect
      style="fill:#762572;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect837"
-     width="12"
+     width="14"
      height="6"
-     x="1.9999998"
-     y="-10.999999"
+     x="1.0000001"
+     y="-11"
      transform="rotate(90)" />
   <rect
      style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect839"
-     width="10"
+     width="12"
      height="4"
-     x="2.9999998"
-     y="-9.999999"
+     x="2.0000002"
+     y="-10"
      transform="rotate(90)" />
   <rect
      style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect834"
-     width="4"
-     height="1"
-     x="6"
-     y="6" />
+     width="1"
+     height="4"
+     x="5"
+     y="-10"
+     transform="rotate(90)" />
   <rect
      style="fill:#762572;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect836"
-     width="4"
-     height="1"
-     x="6"
-     y="9" />
+     width="1"
+     height="4"
+     x="10"
+     y="-10"
+     transform="rotate(90)" />
 </svg>

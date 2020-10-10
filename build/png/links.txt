@@ -247,6 +247,7 @@ cmd/32/grafmode.png cmd/32/graphicdialog.png
 cmd/32/graphicfilterposter.png cmd/32/graphicdialog.png
 cmd/32/graphicfiltertoolbox.png cmd/32/autoformat.png
 cmd/32/graphicmenu.png cmd/32/insertvideo.png
+cmd/32/grid.png cmd/32/inserttable.png
 cmd/32/gridmenu.png cmd/32/gridvisible.png
 cmd/32/groupmenu.png cmd/32/formatgroup.png
 cmd/32/groupoutlinemenu.png cmd/32/autooutline.png
@@ -401,6 +402,7 @@ cmd/32/nexttrackedchange.png cmd/32/nextrecord.png
 cmd/32/nl/italic.png cmd/32/ca/italic.png
 cmd/32/nl/underlinesimple.png cmd/32/nl/underline.png
 cmd/32/no.png cmd/32/cancel.png
+cmd/32/normalviewmode.png cmd/32/inserttable.png
 cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/numberformatdate.png cmd/32/datefield.png
@@ -911,6 +913,7 @@ cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfiltertoolbox.png cmd/lc_autoformat.png
 cmd/lc_graphicmenu.png cmd/lc_insertvideo.png
+cmd/lc_grid.png cmd/lc_inserttable.png
 cmd/lc_gridmenu.png cmd/lc_gridvisible.png
 cmd/lc_groupmenu.png cmd/lc_formatgroup.png
 cmd/lc_groupoutlinemenu.png cmd/lc_autooutline.png
@@ -1044,6 +1047,7 @@ cmd/lc_nextpage.png cmd/lc_nextrecord.png
 cmd/lc_nextslide.png cmd/lc_nextrecord.png
 cmd/lc_nexttrackedchange.png cmd/lc_nextrecord.png
 cmd/lc_no.png cmd/lc_cancel.png
+cmd/lc_normalviewmode.png cmd/lc_inserttable.png
 cmd/lc_notecellstyles.png cmd/lc_insertannotation.png
 cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
 cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
@@ -1426,6 +1430,7 @@ cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfiltertoolbox.png cmd/sc_autoformat.png
 cmd/sc_graphicmenu.png cmd/sc_insertvideo.png
+cmd/sc_grid.png cmd/sc_inserttable.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_groupmenu.png cmd/sc_formatgroup.png
 cmd/sc_groupoutlinemenu.png cmd/sc_autooutline.png
@@ -1560,6 +1565,7 @@ cmd/sc_nextpage.png cmd/sc_nextrecord.png
 cmd/sc_nextslide.png cmd/sc_nextrecord.png
 cmd/sc_nexttrackedchange.png cmd/sc_nextrecord.png
 cmd/sc_no.png cmd/sc_cancel.png
+cmd/sc_normalviewmode.png cmd/sc_inserttable.png
 cmd/sc_notecellstyles.png cmd/sc_shownote.png
 cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
@@ -1964,7 +1970,7 @@ res/sx10597.png cmd/sc_label.png
 res/sx10599.png cmd/sc_text.png
 res/sx10600.png cmd/lc_listbox.png
 res/sx10601.png cmd/sc_combobox.png
-res/sx10603.png cmd/sc_grid.png
+res/sx10603.png cmd/sc_inserttable.png
 res/sx10605.png cmd/sc_open.png
 res/sx10704.png cmd/sc_datefield.png
 res/sx10705.png cmd/sc_timefield.png

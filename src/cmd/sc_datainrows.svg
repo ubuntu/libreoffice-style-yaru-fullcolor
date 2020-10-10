@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_datainrows.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_datainrows.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -40,29 +40,31 @@
    inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="59"
-   inkscape:cx="9.0414888"
-   inkscape:cy="6.490647"
-   inkscape:window-x="1920"
-   inkscape:window-y="32"
+   inkscape:zoom="29.5"
+   inkscape:cx="4.5403895"
+   inkscape:cy="7.16896"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid817" />
 </sodipodi:namedview>
 
+
+
 /&gt;<rect
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-   id="rect816"
-   width="10"
-   height="10"
-   x="3"
-   y="3" />
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect820"
+   width="12"
+   height="12"
+   x="-14.000001"
+   y="1.9999999"
+   transform="rotate(-90)" />
 <path
-   d="m 2,4 v 8 c 0,2 1,2 3,2 h 4 1 1 c 2,0 3,0 3,-2 V 5 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 7,3 H 9 V 5 H 7 Z m 3,0 h 1 c 1,0 2,0 2,1 V 5 H 10 Z M 7,6 H 9 V 9 H 7 Z m 3,0 h 1 1 1 v 3 h -1 -1 -1 z m -3,4 h 2 v 3 H 7 Z m 3,0 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
    id="path2"
-   inkscape:connector-curvature="0"
    style="fill:#6d6d6d;fill-opacity:1"
-   sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+   d="M 3 1 C 1 1 1 2 1 4 L 1 12 C 1 14 1 15 3 15 L 13 15 C 15 15 15 14 15 12 L 15 4 C 15 2 15 1 13 1 L 3 1 z M 6 2 L 9 2 L 10 2 L 13 2 C 14 2 14 3 14 4 L 14 5 L 10 5 L 9 5 L 6 5 L 6 2 z M 6 6 L 8.5722656 6 L 9 6 L 10 6 L 10.546875 6 L 14 6 L 14 10 L 10.546875 10 L 10 10 L 9 10 L 8.5722656 10 L 6 10 L 6 6 z M 6 11 L 9 11 L 10 11 L 14 11 L 14 12 C 14 13 14 14 13 14 L 10 14 L 9 14 L 6 14 L 6 11 z " />
 </svg>

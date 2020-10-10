@@ -55,29 +55,51 @@
        id="grid822" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect822"
-     width="10"
-     height="10"
-     x="3"
-     y="3" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect814"
+     width="12"
+     height="12"
+     x="2"
+     y="-14"
+     transform="rotate(90)" />
   <path
-     d="m 2,4 v 8 c 0,2 1,2 3,2 h 6 c 2,0 3,0 3,-2 V 4 C 14,2 13,2 11,2 H 5 C 3,2 2,2 2,4 Z M 3,4 C 3,3 4,3 5,3 h 6 c 1,0 2,0 2,1 v 2 h -2 v 1 h 2 v 2 h -2 v 1 h 2 v 2 c 0,1 -1,1 -2,1 H 5 C 4,13 3,13 3,12 V 10 H 5 V 9 H 3 V 7 H 5 V 6 H 3 Z"
+     d="m 15,4.0000001 c 0,-2 0,-3 -2,-3 h -1 -7.9999999 -1 c -2,0 -2,1 -2,3 V 12 c 0,2 0,3 2,3 h 1 H 12 13 c 2,0 2,-1 2,-3 z m -2,-2 c 1,0 1,1 1,2 v 1 h -3 v 1 h 3 V 10 h -3 v 1 h 3 v 1 c 0,1 0,2 -1,2 h -1 -7.9999999 -1 c -1,0 -1,-1 -1,-2 v -1 h 3 v -1 h -3 V 6.0000001 h 3 v -1 h -3 v -1 c 0,-1 0,-2 1,-2 h 1 H 12 Z"
      id="path2"
      inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
-  <path
-     id="rect835"
-     style="fill:#c7162b;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-     d="M 5 2 L 5 14 L 11 14 L 11 2 L 5 2 z M 6 3 L 10 3 L 10 13 L 6 13 L 6 3 z " />
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
   <rect
-     style="fill:#fad1d6;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-     id="rect842"
-     width="4"
-     height="10"
-     x="6"
-     y="3" />
+     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect837"
+     width="14"
+     height="6"
+     x="1.0000001"
+     y="-11"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#fad1d6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="12"
+     height="4"
+     x="2"
+     y="-10"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect834"
+     width="1"
+     height="4"
+     x="5"
+     y="-10"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect836"
+     width="1"
+     height="4"
+     x="10"
+     y="-10"
+     transform="rotate(90)" />
   <circle
      style="opacity:1;vector-effect:none;fill:#c7162b;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
@@ -91,18 +113,4 @@
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
      d="m 13.914215,10.378679 -1.414214,1.414213 -1.414214,-1.414213 -0.707106,0.707106 1.414213,1.414214 -1.414213,1.414214 0.707106,0.707106 1.414214,-1.414213 1.414214,1.414213 0.707106,-0.707106 -1.414213,-1.414214 1.414213,-1.414214 z" />
-  <rect
-     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect844"
-     width="4.6993823"
-     height="1"
-     x="5.7199473"
-     y="6" />
-  <rect
-     style="fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect846"
-     width="4"
-     height="1"
-     x="6"
-     y="9" />
 </svg>

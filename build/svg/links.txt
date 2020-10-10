@@ -247,6 +247,7 @@ cmd/32/grafmode.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfilterposter.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfiltertoolbox.svg cmd/32/autoformat.svg
 cmd/32/graphicmenu.svg cmd/32/insertvideo.svg
+cmd/32/grid.svg cmd/32/inserttable.svg
 cmd/32/gridmenu.svg cmd/32/gridvisible.svg
 cmd/32/groupmenu.svg cmd/32/formatgroup.svg
 cmd/32/groupoutlinemenu.svg cmd/32/autooutline.svg
@@ -401,6 +402,7 @@ cmd/32/nexttrackedchange.svg cmd/32/nextrecord.svg
 cmd/32/nl/italic.svg cmd/32/ca/italic.svg
 cmd/32/nl/underlinesimple.svg cmd/32/nl/underline.svg
 cmd/32/no.svg cmd/32/cancel.svg
+cmd/32/normalviewmode.svg cmd/32/inserttable.svg
 cmd/32/numberformatcurrency.svg cmd/32/currencyfield.svg
 cmd/32/numberformatcurrencysimple.svg cmd/32/currencyfield.svg
 cmd/32/numberformatdate.svg cmd/32/datefield.svg
@@ -911,6 +913,7 @@ cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfilterposter.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfiltertoolbox.svg cmd/lc_autoformat.svg
 cmd/lc_graphicmenu.svg cmd/lc_insertvideo.svg
+cmd/lc_grid.svg cmd/lc_inserttable.svg
 cmd/lc_gridmenu.svg cmd/lc_gridvisible.svg
 cmd/lc_groupmenu.svg cmd/lc_formatgroup.svg
 cmd/lc_groupoutlinemenu.svg cmd/lc_autooutline.svg
@@ -1044,6 +1047,7 @@ cmd/lc_nextpage.svg cmd/lc_nextrecord.svg
 cmd/lc_nextslide.svg cmd/lc_nextrecord.svg
 cmd/lc_nexttrackedchange.svg cmd/lc_nextrecord.svg
 cmd/lc_no.svg cmd/lc_cancel.svg
+cmd/lc_normalviewmode.svg cmd/lc_inserttable.svg
 cmd/lc_notecellstyles.svg cmd/lc_insertannotation.svg
 cmd/lc_numberformatcurrency.svg cmd/lc_currencyfield.svg
 cmd/lc_numberformatcurrencysimple.svg cmd/lc_currencyfield.svg
@@ -1426,6 +1430,7 @@ cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
 cmd/sc_graphicfiltertoolbox.svg cmd/sc_autoformat.svg
 cmd/sc_graphicmenu.svg cmd/sc_insertvideo.svg
+cmd/sc_grid.svg cmd/sc_inserttable.svg
 cmd/sc_gridmenu.svg cmd/sc_gridvisible.svg
 cmd/sc_groupmenu.svg cmd/sc_formatgroup.svg
 cmd/sc_groupoutlinemenu.svg cmd/sc_autooutline.svg
@@ -1560,6 +1565,7 @@ cmd/sc_nextpage.svg cmd/sc_nextrecord.svg
 cmd/sc_nextslide.svg cmd/sc_nextrecord.svg
 cmd/sc_nexttrackedchange.svg cmd/sc_nextrecord.svg
 cmd/sc_no.svg cmd/sc_cancel.svg
+cmd/sc_normalviewmode.svg cmd/sc_inserttable.svg
 cmd/sc_notecellstyles.svg cmd/sc_shownote.svg
 cmd/sc_numberformatcurrency.svg cmd/sc_currencyfield.svg
 cmd/sc_numberformatcurrencysimple.svg cmd/sc_currencyfield.svg
@@ -1964,7 +1970,7 @@ res/sx10597.svg cmd/sc_label.svg
 res/sx10599.svg cmd/sc_text.svg
 res/sx10600.svg cmd/lc_listbox.svg
 res/sx10601.svg cmd/sc_combobox.svg
-res/sx10603.svg cmd/sc_grid.svg
+res/sx10603.svg cmd/sc_inserttable.svg
 res/sx10605.svg cmd/sc_open.svg
 res/sx10704.svg cmd/sc_datefield.svg
 res/sx10705.svg cmd/sc_timefield.svg
