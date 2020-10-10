@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,9 +42,9 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="39.333334"
-     inkscape:cx="11.165973"
-     inkscape:cy="16.040422"
+     inkscape:zoom="27.812867"
+     inkscape:cx="8.8926727"
+     inkscape:cy="10.174974"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,23 +65,24 @@
        id="grid832" />
   </sodipodi:namedview>
   <path
-     style="fill:#f3d8f2;stroke:#762572;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 4.5,19.5 v 3 h 5 l 3,-3"
-     id="path834" />
+     style="fill:#f3d8f2;fill-opacity:1;stroke:#762572;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3.5,17.5 v 5 h 6 l 3,-3"
+     id="path834"
+     sodipodi:nodetypes="cccc" />
   <rect
      style="opacity:1;fill:#f3d8f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect827"
-     width="14"
-     height="14"
-     x="5"
-     y="5"
+     id="rect827-0"
+     width="16"
+     height="16"
+     x="4"
+     y="3"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
      inkscape:export-xdpi="95"
      inkscape:export-ydpi="95" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 14 h 13 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z M 7,5 H 9 V 6 7 H 8 5 V 6 C 5,5 6,5 7,5 Z m 3,0 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 5,8 h 3 1 v 1 1 H 5 V 9 Z m 5,0 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 1 1 H 8 5 v -1 z m 5,0 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 H 15 V 15 Z M 5,17 H 8 9 V 18.099609 19 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
-     id="path2"
+     d="M 6,2 C 4,2 3,2 3,4.0000004 V 18 c 0,2 1,2 3,2 h 12 c 2,0 3,0 3,-2 V 4.0000004 C 21,2 20,2 18,2 Z M 4,4.0000004 C 4,3 5,3 6,3 h 3 v 1.0000004 2 H 8 4 Z M 10,3 h 4 v 1.0000004 2 h -4 v -2 z m 5,0 h 3 c 1,0 2,0 2,1.0000004 v 2 h -4 -1 v -2 z M 4,7.0000004 H 8 9 V 9.0000002 H 4 Z m 6,0 h 4 v 1.9999998 h -4 z m 5,0 h 5 V 9.0000002 H 15 Z M 4,10 h 5 v 2 H 4 Z m 6,0 h 4 v 2 h -4 z m 5,0 h 5 v 2 H 15 Z M 4,13 h 5 v 2 H 8 4 Z m 6,0 h 4 v 2 h -4 z m 5,0 h 5 v 2 H 15 Z M 4,16 H 8 9 V 18.099609 19 H 6 C 5,19 4,19 4,18 Z m 6,0 h 4 v 3 h -4 z m 5,0 h 5 v 2 c 0,1 -1,1 -2,1 h -3 z"
+     id="path2-2"
      inkscape:connector-curvature="0"
-     style="fill:#762572"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#762572;fill-opacity:1"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

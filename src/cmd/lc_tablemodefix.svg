@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_tablemodefix.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_tablemodefix.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="10.196902"
-     inkscape:cy="14.79717"
+     inkscape:cx="11.643933"
+     inkscape:cy="9.9289758"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -55,23 +56,28 @@
   <path
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1;stroke:#000000;opacity:0.6;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path828"
-     d="m 4,14 v 5 h 1 v -2 h 14 v 2 h 1 v -5 h -1 v 2 H 5 v -2 z" />
+     d="m 3,15 v 5 h 1 v -2 h 16 v 2 h 1 v -5 h -1 v 2 H 4 v -2 z" />
   <path
-     d="m 4,14 v 5 h 1 v -2 h 14 v 2 h 1 v -5 h -1 v 2 H 5 v -2 z"
+     d="m 3,15 v 5 h 1 v -2 h 16 v 2 h 1 v -5 h -1 v 2 H 4 v -2 z"
      id="path4"
      style="fill:#aee3f8;fill-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccc" />
-  <path
+  <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 5,4 v 8 H 19 V 4 Z"
      id="rect827"
-     inkscape:connector-curvature="0" />
+     width="16"
+     height="9"
+     x="4"
+     y="4"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
   <path
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
-     d="M 7,3 C 5,3 4,3 4,5 v 7 h 1 v -2 h 4 v 2 h 1 v -2 h 4 v 2 h 1 v -2 h 4 v 2 h 1 V 5 C 20,3 19,3 17,3 Z M 7,4 H 9 V 5 6 H 8 5 V 5 C 5,4 6,4 7,4 Z m 3,0 h 4 V 5 6 H 10 V 5 Z m 5,0 h 2 c 1,0 2,0 2,1 V 6 H 16 15 V 5 Z M 5,7 H 8 9 V 9 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z"
-     id="path2-3"
-     inkscape:connector-curvature="0" />
+     id="path2-4"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke-width:0.999999"
+     d="M 6,3 C 4,3 3,3 3,5 v 8 h 1 v -2 h 5 v 2 h 1 v -2 h 4 v 2 h 1 v -2 h 5 v 2 h 1 V 5 C 21,3 20,3 18,3 Z M 6,4 H 9 V 5 7 H 8 4 V 5 C 4,4 5,4 6,4 Z m 4,0 h 4 V 5 7 H 10 V 5 Z m 5,0 h 3 c 1,0 2,0 2,1 V 7 H 16 15 V 5 Z M 4,8 h 4 1 v 2 H 4 Z m 6,0 h 4 v 2 h -4 z m 5,0 h 5 v 2 h -5 z"
+     sodipodi:nodetypes="ssccccccccccccccsssscccccssccccccccssccccccccccccccccccccc" />
 </svg>

@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_viewrowcolumnheaders.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_viewrowcolumnheaders.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,27 +42,29 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="11.793407"
-     inkscape:cy="7.7134935"
+     inkscape:cx="13.681584"
+     inkscape:cy="12.082958"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect826"
-     width="9"
-     height="11"
-     x="10"
-     y="8" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect827"
+     width="16"
+     height="16"
+     x="4"
+     y="4"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z m 3,4 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -5,3 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 h -4 v -1 z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke-width:0.999999"
+     d="M 6 3 C 4 3 3 3 3 5 L 3 19 C 3 21 4 21 6 21 L 18 21 C 20 21 21 21 21 19 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 9 8 L 14 8 L 14 10 L 9 10 L 9 8 z M 15 8 L 20 8 L 20 10 L 15 10 L 15 8 z M 9 11 L 14 11 L 14 13 L 9 13 L 9 11 z M 15 11 L 20 11 L 20 13 L 15 13 L 15 11 z M 9 14 L 14 14 L 14 16 L 9 16 L 9 14 z M 15 14 L 20 14 L 20 16 L 15 16 L 15 14 z M 9 17 L 14 17 L 14 20 L 9 20 L 9 17 z M 15 17 L 20 17 L 20 19 C 20 20 19 20 18 20 L 15 20 L 15 17 z " />
 </svg>

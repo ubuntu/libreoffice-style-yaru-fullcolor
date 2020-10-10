@@ -41,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="55.625733"
-     inkscape:cx="9.1207963"
-     inkscape:cy="12.069952"
+     inkscape:zoom="19.666667"
+     inkscape:cx="27.408076"
+     inkscape:cy="6.0439689"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,20 +55,32 @@
   </sodipodi:namedview>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect827"
-     width="14"
-     height="14"
-     x="5"
-     y="5"
+     id="rect827-7"
+     width="16"
+     height="16"
+     x="4"
+     y="4"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
      inkscape:export-xdpi="95"
      inkscape:export-ydpi="95" />
   <path
-     d="m 7,3.9999998 c -2,0 -3,0 -3,2 V 18 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 5.9999998 c 0,-2 -1,-2 -3,-2 z m -2,2 c 0,-1 1,-1 2,-1 h 2 v 1 1 H 8 5 Z m 5,-1 h 4 v 1 1 h -4 v -1 z m 5,0 h 2 c 1,0 2,0 2,1 v 1 h -3 -1 v -1 z m -10,3 h 3 1 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,11 h 4 v 2 H 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,14 h 4 v 2 H 8 5 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 2 H 15 Z M 5,17 H 8 9 V 18.099609 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
-     id="path2"
-     inkscape:connector-curvature="0"
+     id="path2-8"
      style="opacity:1;fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 6,3 C 4,3 3,3 3,5 v 14 c 0,2 1,2 3,2 h 12 c 2,0 3,0 3,-2 V 5 C 21,3 20,3 18,3 Z M 6,4 H 9 V 5 9 H 4 V 5 C 4,4 5,4 6,4 Z m 4,0 h 4 V 5 9 H 10 V 5 Z m 5,0 h 3 c 1,0 2,0 2,1 V 9 H 15 V 5 Z M 4,10 h 5 v 4 H 8 4 Z m 6,0 h 4 v 4 h -4 z m 5,0 h 5 v 4 H 15 Z M 4,15 H 8 9 V 19.099609 20 H 6 C 5,20 4,20 4,19 Z m 6,0 h 4 v 5 h -4 z m 5,0 h 5 v 4 c 0,1 -1,1 -2,1 h -3 z"
+     sodipodi:nodetypes="sssssssssscccccsccccccccsccccccccccccccccccccccccccssccccccccsscc" />
+  <path
+     style="fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9,9 v 6 h 6 V 9 Z m 1,1 h 4 v 4 h -4 z"
+     id="path835-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc" />
+  <rect
+     style="opacity:1;fill:#ddf6d5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect842"
+     width="4"
+     height="4"
+     x="10"
+     y="10" />
   <circle
      style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
@@ -85,26 +97,13 @@
   <path
      sodipodi:nodetypes="cccccccc"
      style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 22,5 18,2 v 2 l -4,4.2e-5 v 2 L 18,6 v 1.9999999 z"
+     d="M 23,4 19,1 v 2 l -4,4.2e-5 v 2 L 19,5 v 1.9999999 z"
      id="path836"
      inkscape:connector-curvature="0" />
   <path
      sodipodi:nodetypes="cccccccc"
      id="path838"
-     d="M 22,5 18,2 v 2 l -4,4.2e-5 v 2 L 18,6 v 1.9999999 z"
+     d="M 23,4 19,1 v 2 l -4,4.2e-5 v 2 L 19,5 v 1.9999999 z"
      style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      inkscape:connector-curvature="0" />
-  <path
-     sodipodi:nodetypes="cccccccccc"
-     inkscape:connector-curvature="0"
-     id="path835"
-     d="m 9,10 v 4 h 6 v -4 z m 1,1 h 4 v 2 h -4 z"
-     style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="fill:#ddf6d5;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect838"
-     width="4"
-     height="2"
-     x="10"
-     y="11" />
 </svg>

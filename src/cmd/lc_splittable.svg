@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_splittable.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_splittable.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,36 +41,39 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="7.8262781"
-     inkscape:cy="6.7837767"
+     inkscape:zoom="13.906434"
+     inkscape:cx="3.6753698"
+     inkscape:cy="5.6130465"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect827"
-     width="14"
-     height="14"
-     x="-19"
-     y="-19"
+     id="rect827-3"
+     width="16"
+     height="16"
+     x="4"
+     y="4"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
      inkscape:export-xdpi="95"
-     inkscape:export-ydpi="95"
-     transform="scale(-1)" />
+     inkscape:export-ydpi="95" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 2 h 1 4 1 4 1 4 1 V 6 C 20,4 19,4 17,4 Z M 7,5 H 9 V 6 7 H 8 5 V 6 C 5,5 6,5 7,5 Z m 3,0 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z M 4,16 v 2 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 16 H 19 15 14 10 9 5 Z m 1,1 H 8 9 V 18.099609 19 H 7 C 6,19 5,19 5,18 Z m 5,0 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     id="path2-7"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
+     d="M 6 3 C 4 3 3 3 3 5 L 3 8 L 4 8 L 9 8 L 10 8 L 14 8 L 15 8 L 20 8 L 21 8 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 6 4 L 9 4 L 9 5 L 9 7 L 8 7 L 4 7 L 4 5 C 4 4 5 4 6 4 z M 10 4 L 14 4 L 14 5 L 14 7 L 10 7 L 10 5 L 10 4 z M 15 4 L 18 4 C 19 4 20 4 20 5 L 20 7 L 16 7 L 15 7 L 15 5 L 15 4 z " />
   <path
-     d="m4 9v6h16v-6zm1 1h14l-2 2 2 2h-14l2-2z"
+     d="m 3,9 v 6 H 21 V 9 Z m 1,1 h 16 l -2,2 2,2 H 4 l 2,-2 z"
      fill="#c7162b"
-     id="path4" />
+     id="path4"
+     sodipodi:nodetypes="cccccccccccc" />
+  <path
+     id="path845"
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
+     d="m 18,21 c 2,0 3,0 3,-2 V 16 H 20 15 14 10 9 4 3 v 3 c 0,2 1,2 3,2 z m 0,-1 h -3 v -1 -2 h 1 4 v 2 c 0,1 -1,1 -2,1 z m -4,0 h -4 v -1 -2 h 4 v 2 z M 9,20 H 6 C 5,20 4,20 4,19 v -2 h 4 1 v 2 z" />
 </svg>

@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_datainrows.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_datainrows.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -44,25 +44,28 @@
      inkscape:zoom="39.333333"
      inkscape:cx="7.2044135"
      inkscape:cy="11.248763"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="rect816"
-     width="14"
-     height="14"
-     x="5"
-     y="5" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect827"
+     width="16"
+     height="16"
+     x="4"
+     y="4"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
   <path
-     d="M 7,4 C 5,4 4,4 4,6 v 12 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 6 C 20,4 19,4 17,4 Z m 3,1 h 4 V 6 7 H 10 V 6 Z m 5,0 h 2 c 1,0 2,0 2,1 V 7 H 16 15 V 6 Z m -5,3 h 4 v 1 1 H 10 V 9 Z m 5,0 h 4 v 1 1 H 15 V 9 Z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 2 h -4 z m -5,3 h 4 v 2 h -4 v -1 z m 5,0 h 4 v 1 1 h -4 v -1 z m -5,3 h 4 v 2 h -4 z m 5,0 h 4 v 1 c 0,1 -1,1 -2,1 h -2 z"
      id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke-width:0.999999"
+     d="M 6,3 C 4,3 3,3 3,5 v 14 c 0,2 1,2 3,2 h 12 c 2,0 3,0 3,-2 V 5 C 21,3 20,3 18,3 Z m 2,1 h 10 c 1,0 2,0 2,1 V 9 H 8 V 5 Z m 0,6 h 12 v 4 H 8 Z m 0,5 h 12 v 4 c 0,1 -1,1 -2,1 H 8 Z"
+     sodipodi:nodetypes="sssssssssccsccccccccccccccc" />
 </svg>
