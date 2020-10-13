@@ -194,8 +194,8 @@ cmd/32/fa/romanlowliststyle.svg cmd/32/ar/romanlowliststyle.svg
 cmd/32/fa/undo.svg cmd/32/ar/undo.svg
 cmd/32/fieldmenu.svg cmd/32/addfield.svg
 cmd/32/fieldnames.svg cmd/32/addfield.svg
-cmd/32/fillcolor.svg cmd/32/formatarea.svg
-cmd/32/fillstyle.svg cmd/32/formatarea.svg
+cmd/32/fillcolor.svg cmd/32/backgroundcolor.svg
+cmd/32/fillstyle.svg cmd/32/backgroundcolor.svg
 cmd/32/filtercrit.svg cmd/32/datafilterstandardfilter.svg
 cmd/32/findbar.svg cmd/32/recsearch.svg
 cmd/32/firstslide.svg cmd/32/firstpage.svg
@@ -221,6 +221,7 @@ cmd/32/fontworkshapetype.fontwork-fade-down.svg cmd/32/basicshapes.trapezoid.svg
 cmd/32/fontworkshapetype.fontwork-triangle-up.svg cmd/32/basicshapes.isosceles-triangle.svg
 cmd/32/fontworkshapetype.svg cmd/32/fontwork.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
+cmd/32/formatarea.svg cmd/32/backgroundcolor.svg
 cmd/32/formatbulletsmenu.svg cmd/32/defaultbullet.svg
 cmd/32/formatframemenu.svg cmd/32/insertframe.svg
 cmd/32/formatimagemenu.svg cmd/32/graphicdialog.svg
@@ -528,8 +529,8 @@ cmd/32/spelldialog.svg cmd/32/spelling.svg
 cmd/32/spellingandgrammardialog.svg cmd/32/spelling.svg
 cmd/32/starchartdialog.svg cmd/32/insertobjectdialog.svg
 cmd/32/statisticsmenu.svg cmd/32/drawchart.svg
-cmd/32/styleapply.svg cmd/32/formatarea.svg
-cmd/32/stylewatercanmode.svg cmd/32/formatarea.svg
+cmd/32/styleapply.svg cmd/32/backgroundcolor.svg
+cmd/32/stylewatercanmode.svg cmd/32/backgroundcolor.svg
 cmd/32/sv/bold.svg cmd/32/de/bold.svg
 cmd/32/sv/italic.svg cmd/32/de/italic.svg
 cmd/32/switchcontroldesignmode.svg cmd/32/editdoc.svg
@@ -862,8 +863,8 @@ cmd/lc_exporttoepub.svg cmd/lc_exportdirecttoepub.svg
 cmd/lc_exporttopdf.svg cmd/lc_exportdirecttopdf.svg
 cmd/lc_fieldmenu.svg cmd/lc_addfield.svg
 cmd/lc_fieldnames.svg cmd/lc_addfield.svg
-cmd/lc_fillcolor.svg cmd/lc_formatarea.svg
-cmd/lc_fillstyle.svg cmd/lc_formatarea.svg
+cmd/lc_fillcolor.svg cmd/lc_backgroundcolor.svg
+cmd/lc_fillstyle.svg cmd/lc_backgroundcolor.svg
 cmd/lc_filtercrit.svg cmd/lc_datafilterstandardfilter.svg
 cmd/lc_findbar.svg cmd/lc_recsearch.svg
 cmd/lc_firstslide.svg cmd/lc_firstpage.svg
@@ -890,6 +891,7 @@ cmd/lc_fontworkshapetype.fontwork-triangle-up.svg cmd/lc_basicshapes.isosceles-t
 cmd/lc_fontworkshapetype.svg cmd/lc_fontwork.svg
 cmd/lc_footnotecellstyles.svg cmd/lc_insertfootnote.svg
 cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
+cmd/lc_formatarea.svg cmd/lc_backgroundcolor.svg
 cmd/lc_formatbulletsmenu.svg cmd/lc_defaultbullet.svg
 cmd/lc_formatframemenu.svg cmd/lc_insertframe.svg
 cmd/lc_formatimagemenu.svg cmd/lc_graphicdialog.svg
@@ -1160,8 +1162,8 @@ cmd/lc_spelldialog.svg cmd/lc_spelling.svg
 cmd/lc_spellingandgrammardialog.svg cmd/lc_spelling.svg
 cmd/lc_starchartdialog.svg cmd/lc_insertobjectdialog.svg
 cmd/lc_statisticsmenu.svg cmd/lc_drawchart.svg
-cmd/lc_styleapply.svg cmd/lc_formatarea.svg
-cmd/lc_stylewatercanmode.svg cmd/lc_formatarea.svg
+cmd/lc_styleapply.svg cmd/lc_backgroundcolor.svg
+cmd/lc_stylewatercanmode.svg cmd/lc_backgroundcolor.svg
 cmd/lc_switchcontroldesignmode.svg cmd/lc_editdoc.svg
 cmd/lc_symbolcatalogue.svg cmd/lc_insertsymbol.svg
 cmd/lc_symbolshapes.smiley.svg cmd/lc_symbolshapes.svg
@@ -1379,8 +1381,8 @@ cmd/sc_exporttoepub.svg cmd/sc_exportdirecttoepub.svg
 cmd/sc_exporttopdf.svg cmd/sc_exportdirecttopdf.svg
 cmd/sc_fieldmenu.svg cmd/sc_addfield.svg
 cmd/sc_fieldnames.svg cmd/sc_addfield.svg
-cmd/sc_fillcolor.svg cmd/sc_formatarea.svg
-cmd/sc_fillstyle.svg cmd/sc_formatarea.svg
+cmd/sc_fillcolor.svg cmd/sc_backgroundcolor.svg
+cmd/sc_fillstyle.svg cmd/sc_backgroundcolor.svg
 cmd/sc_filtercrit.svg cmd/sc_datafilterstandardfilter.svg
 cmd/sc_findbar.svg cmd/sc_recsearch.svg
 cmd/sc_firstslide.svg cmd/sc_firstpage.svg
@@ -1407,6 +1409,7 @@ cmd/sc_fontworkshapetype.fontwork-triangle-up.svg cmd/sc_basicshapes.isosceles-t
 cmd/sc_fontworkshapetype.svg cmd/sc_fontwork.svg
 cmd/sc_footnotecellstyles.svg cmd/sc_insertfootnote.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
+cmd/sc_formatarea.svg cmd/sc_backgroundcolor.svg
 cmd/sc_formatbulletsmenu.svg cmd/sc_defaultbullet.svg
 cmd/sc_formatframemenu.svg cmd/sc_insertframe.svg
 cmd/sc_formatimagemenu.svg cmd/sc_graphicdialog.svg
@@ -1680,8 +1683,8 @@ cmd/sc_spelldialog.svg cmd/sc_spelling.svg
 cmd/sc_spellingandgrammardialog.svg cmd/sc_spelling.svg
 cmd/sc_starchartdialog.svg cmd/sc_insertobjectdialog.svg
 cmd/sc_statisticsmenu.svg cmd/sc_drawchart.svg
-cmd/sc_styleapply.svg cmd/sc_formatarea.svg
-cmd/sc_stylewatercanmode.svg cmd/sc_formatarea.svg
+cmd/sc_styleapply.svg cmd/sc_backgroundcolor.svg
+cmd/sc_stylewatercanmode.svg cmd/sc_backgroundcolor.svg
 cmd/sc_switchcontroldesignmode.svg cmd/sc_editdoc.svg
 cmd/sc_symbolcatalogue.svg cmd/sc_insertsymbol.svg
 cmd/sc_symbolshapes.smiley.svg cmd/sc_symbolshapes.svg
