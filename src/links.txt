@@ -2071,6 +2071,7 @@ sfx2/res/doccl.xxx cmd/sc_newdoc.xxx
 sfx2/res/exec_action.xxx cmd/sc_config.xxx
 sfx2/res/favourite.xxx cmd/sc_insertbookmark.xxx
 sfx2/res/favourite_big.xxx cmd/lc_insertbookmark.xxx
+sfx2/res/hlpbookopen.xxx cmd/sc_helpindex.xxx
 sfx2/res/hlpdoc.xxx cmd/sc_helpindex.xxx
 sfx2/res/minus.xxx res/minus.xxx
 sfx2/res/newex.xxx res/plus.xxx
