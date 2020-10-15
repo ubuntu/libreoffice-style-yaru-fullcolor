@@ -194,8 +194,8 @@ cmd/32/fa/romanlowliststyle.xxx cmd/32/ar/romanlowliststyle.xxx
 cmd/32/fa/undo.xxx cmd/32/ar/undo.xxx
 cmd/32/fieldmenu.xxx cmd/32/addfield.xxx
 cmd/32/fieldnames.xxx cmd/32/addfield.xxx
-cmd/32/fillcolor.xxx cmd/32/formatarea.xxx
-cmd/32/fillstyle.xxx cmd/32/formatarea.xxx
+cmd/32/fillcolor.xxx cmd/32/backgroundcolor.xxx
+cmd/32/fillstyle.xxx cmd/32/backgroundcolor.xxx
 cmd/32/filtercrit.xxx cmd/32/datafilterstandardfilter.xxx
 cmd/32/findbar.xxx cmd/32/recsearch.xxx
 cmd/32/firstslide.xxx cmd/32/firstpage.xxx
@@ -221,6 +221,7 @@ cmd/32/fontworkshapetype.fontwork-fade-down.xxx cmd/32/basicshapes.trapezoid.xxx
 cmd/32/fontworkshapetype.fontwork-triangle-up.xxx cmd/32/basicshapes.isosceles-triangle.xxx
 cmd/32/fontworkshapetype.xxx cmd/32/fontwork.xxx
 cmd/32/formatallnotes.xxx cmd/32/editannotation.xxx
+cmd/32/formatarea.xxx cmd/32/backgroundcolor.xxx
 cmd/32/formatbulletsmenu.xxx cmd/32/defaultbullet.xxx
 cmd/32/formatframemenu.xxx cmd/32/insertframe.xxx
 cmd/32/formatimagemenu.xxx cmd/32/graphicdialog.xxx
@@ -528,8 +529,8 @@ cmd/32/spelldialog.xxx cmd/32/spelling.xxx
 cmd/32/spellingandgrammardialog.xxx cmd/32/spelling.xxx
 cmd/32/starchartdialog.xxx cmd/32/insertobjectdialog.xxx
 cmd/32/statisticsmenu.xxx cmd/32/drawchart.xxx
-cmd/32/styleapply.xxx cmd/32/formatarea.xxx
-cmd/32/stylewatercanmode.xxx cmd/32/formatarea.xxx
+cmd/32/styleapply.xxx cmd/32/backgroundcolor.xxx
+cmd/32/stylewatercanmode.xxx cmd/32/backgroundcolor.xxx
 cmd/32/sv/bold.xxx cmd/32/de/bold.xxx
 cmd/32/sv/italic.xxx cmd/32/de/italic.xxx
 cmd/32/switchcontroldesignmode.xxx cmd/32/editdoc.xxx
@@ -862,8 +863,8 @@ cmd/lc_exporttoepub.xxx cmd/lc_exportdirecttoepub.xxx
 cmd/lc_exporttopdf.xxx cmd/lc_exportdirecttopdf.xxx
 cmd/lc_fieldmenu.xxx cmd/lc_addfield.xxx
 cmd/lc_fieldnames.xxx cmd/lc_addfield.xxx
-cmd/lc_fillcolor.xxx cmd/lc_formatarea.xxx
-cmd/lc_fillstyle.xxx cmd/lc_formatarea.xxx
+cmd/lc_fillcolor.xxx cmd/lc_backgroundcolor.xxx
+cmd/lc_fillstyle.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_filtercrit.xxx cmd/lc_datafilterstandardfilter.xxx
 cmd/lc_findbar.xxx cmd/lc_recsearch.xxx
 cmd/lc_firstslide.xxx cmd/lc_firstpage.xxx
@@ -890,6 +891,7 @@ cmd/lc_fontworkshapetype.fontwork-triangle-up.xxx cmd/lc_basicshapes.isosceles-t
 cmd/lc_fontworkshapetype.xxx cmd/lc_fontwork.xxx
 cmd/lc_footnotecellstyles.xxx cmd/lc_insertfootnote.xxx
 cmd/lc_formatallnotes.xxx cmd/lc_editannotation.xxx
+cmd/lc_formatarea.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_formatbulletsmenu.xxx cmd/lc_defaultbullet.xxx
 cmd/lc_formatframemenu.xxx cmd/lc_insertframe.xxx
 cmd/lc_formatimagemenu.xxx cmd/lc_graphicdialog.xxx
@@ -1160,8 +1162,8 @@ cmd/lc_spelldialog.xxx cmd/lc_spelling.xxx
 cmd/lc_spellingandgrammardialog.xxx cmd/lc_spelling.xxx
 cmd/lc_starchartdialog.xxx cmd/lc_insertobjectdialog.xxx
 cmd/lc_statisticsmenu.xxx cmd/lc_drawchart.xxx
-cmd/lc_styleapply.xxx cmd/lc_formatarea.xxx
-cmd/lc_stylewatercanmode.xxx cmd/lc_formatarea.xxx
+cmd/lc_styleapply.xxx cmd/lc_backgroundcolor.xxx
+cmd/lc_stylewatercanmode.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_switchcontroldesignmode.xxx cmd/lc_editdoc.xxx
 cmd/lc_symbolcatalogue.xxx cmd/lc_insertsymbol.xxx
 cmd/lc_symbolshapes.smiley.xxx cmd/lc_symbolshapes.xxx
@@ -1379,8 +1381,8 @@ cmd/sc_exporttoepub.xxx cmd/sc_exportdirecttoepub.xxx
 cmd/sc_exporttopdf.xxx cmd/sc_exportdirecttopdf.xxx
 cmd/sc_fieldmenu.xxx cmd/sc_addfield.xxx
 cmd/sc_fieldnames.xxx cmd/sc_addfield.xxx
-cmd/sc_fillcolor.xxx cmd/sc_formatarea.xxx
-cmd/sc_fillstyle.xxx cmd/sc_formatarea.xxx
+cmd/sc_fillcolor.xxx cmd/sc_backgroundcolor.xxx
+cmd/sc_fillstyle.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_filtercrit.xxx cmd/sc_datafilterstandardfilter.xxx
 cmd/sc_findbar.xxx cmd/sc_recsearch.xxx
 cmd/sc_firstslide.xxx cmd/sc_firstpage.xxx
@@ -1407,6 +1409,7 @@ cmd/sc_fontworkshapetype.fontwork-triangle-up.xxx cmd/sc_basicshapes.isosceles-t
 cmd/sc_fontworkshapetype.xxx cmd/sc_fontwork.xxx
 cmd/sc_footnotecellstyles.xxx cmd/sc_insertfootnote.xxx
 cmd/sc_formatallnotes.xxx cmd/sc_editannotation.xxx
+cmd/sc_formatarea.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_formatbulletsmenu.xxx cmd/sc_defaultbullet.xxx
 cmd/sc_formatframemenu.xxx cmd/sc_insertframe.xxx
 cmd/sc_formatimagemenu.xxx cmd/sc_graphicdialog.xxx
@@ -1680,8 +1683,8 @@ cmd/sc_spelldialog.xxx cmd/sc_spelling.xxx
 cmd/sc_spellingandgrammardialog.xxx cmd/sc_spelling.xxx
 cmd/sc_starchartdialog.xxx cmd/sc_insertobjectdialog.xxx
 cmd/sc_statisticsmenu.xxx cmd/sc_drawchart.xxx
-cmd/sc_styleapply.xxx cmd/sc_formatarea.xxx
-cmd/sc_stylewatercanmode.xxx cmd/sc_formatarea.xxx
+cmd/sc_styleapply.xxx cmd/sc_backgroundcolor.xxx
+cmd/sc_stylewatercanmode.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_switchcontroldesignmode.xxx cmd/sc_editdoc.xxx
 cmd/sc_symbolcatalogue.xxx cmd/sc_insertsymbol.xxx
 cmd/sc_symbolshapes.smiley.xxx cmd/sc_symbolshapes.xxx
