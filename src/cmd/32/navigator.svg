@@ -5,14 +5,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
    sodipodi:docname="navigator.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/navigator.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -28,30 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4195-3"
-       id="linearGradient8588-0-1-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.35695539,0,0,0.35695554,7.1222135,-81.137915)"
-       x1="8.3181877"
-       y1="241.18307"
-       x2="42.85358"
-       y2="301.00009" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4195-3">
-      <stop
-         style="stop-color:#325fd1;stop-opacity:1"
-         offset="0"
-         id="stop4197-6" />
-      <stop
-         style="stop-color:#6e98ff;stop-opacity:1"
-         offset="1"
-         id="stop4199-7" />
-    </linearGradient>
-  </defs>
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -68,29 +44,30 @@
      inkscape:zoom="14.75"
      inkscape:cx="7.5153883"
      inkscape:cy="17.229505"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <circle
-     style="display:inline;opacity:1;fill:url(#linearGradient8588-0-1-5);fill-opacity:1;stroke:none;stroke-width:2.11865759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     id="circle839"
+     cx="16"
+     cy="16"
+     r="12" />
+  <circle
+     style="display:inline;opacity:1;fill:#507ce8;fill-opacity:1;stroke:none;stroke-width:2.11865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      id="path9498-6-5-6-8"
      cx="16"
      cy="16"
-     r="12.5" />
-  <circle
-     style="display:inline;opacity:0.4;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5999999;stroke-opacity:1;enable-background:new"
-     id="path1377"
-     cx="16"
-     cy="16"
-     r="12.5" />
+     r="12" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e93549;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="m 14,14 8,-4 -4,8 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e93549;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 14,14 9,-5 -5,9 z"
      id="path1002"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc"
@@ -100,8 +77,8 @@
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
      id="path1004"
-     d="m 14,14 -4,8 8,-4 z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 14,14 -5,9 9,-5 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dfdfdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      inkscape:transform-center-x="49.43906"
      inkscape:transform-center-y="49.439082" />
   <circle
