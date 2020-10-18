@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
@@ -15,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_formfilternavigator.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -28,30 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4195-3"
-       id="linearGradient8588-0-1-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.32450491,0,0,0.32450504,2.9292843,-77.307202)"
-       x1="15.626007"
-       y1="259.80243"
-       x2="34.115711"
-       y2="284.45538" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4195-3">
-      <stop
-         style="stop-color:#325fd1;stop-opacity:1"
-         offset="0"
-         id="stop4197-6" />
-      <stop
-         style="stop-color:#6e98ff;stop-opacity:1"
-         offset="1"
-         id="stop4199-7" />
-    </linearGradient>
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -69,14 +45,15 @@
      inkscape:cx="0.54237288"
      inkscape:cy="7.7966102"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
   <path
      sodipodi:nodetypes="ccccccccccccc"
      id="path825"
      d="m 3,2.0000309 -1.0000001,1 v 1.3125 L 6,9.9687809 v 0.03125 2 l 3.9999998,2 v -4 -0.03125 L 14,4.3125309 v -1.3125 l -1,-1 z"
-     style="opacity:0.6;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
@@ -90,7 +67,7 @@
      d="m 14,8.0000004 -3,1 c -1.0471974,0 -1.9999994,0.9528 -1.9999994,1.9999996 l -1,3 L 11,13 c 1.047198,0 2,-0.9528 2,-2 z M 11,10 c 0.523599,0 1,0.4764 1,1 0,0.5236 -0.476401,1 -1,1 -0.523599,0 -1.0000004,-0.4764 -1.0000004,-1 0,-0.5236 0.4764014,-1 1.0000004,-1 z"
      id="path4-0" />
   <circle
-     style="display:inline;opacity:1;fill:url(#linearGradient8588-0-1-5);fill-opacity:1;stroke:none;stroke-width:1.92605233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="display:inline;opacity:1;fill:#507ce8;fill-opacity:1;stroke:none;stroke-width:1.92605233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      id="path9498-6-5-6-8"
      cx="11"
      cy="11"
