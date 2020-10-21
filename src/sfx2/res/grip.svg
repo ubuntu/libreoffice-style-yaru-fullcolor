@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
-   viewBox="0 0 1.0583333 4.2333335"
-   width="4"
+   viewBox="0 0 2.6458332 4.2333335"
+   width="10"
    version="1.1"
    id="svg9"
    sodipodi:docname="grip.svg"
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +41,9 @@
      inkscape:window-height="1011"
      id="namedview11"
      showgrid="true"
-     inkscape:zoom="50.5"
-     inkscape:cx="2"
-     inkscape:cy="7.980198"
+     inkscape:zoom="35.708892"
+     inkscape:cx="0.41767885"
+     inkscape:cy="9.2064038"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,11 +69,40 @@
        stop-color="#19b5fe"
        id="stop4" />
   </linearGradient>
-  <rect
-     style="opacity:1;fill:#e95420;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-     id="rect842"
-     width="0.52916664"
-     height="4.2333331"
-     x="0.26458332"
-     y="0" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path938"
+     cx="0.66145831"
+     cy="0.66145831"
+     r="0.39687499" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path944"
+     cx="0.66145831"
+     cy="1.984375"
+     r="0.39687499" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="path946"
+     cx="0.66145831"
+     cy="3.3072915"
+     r="0.39687499" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="circle948"
+     cx="1.984375"
+     cy="0.66145831"
+     r="0.39687499" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="circle950"
+     cx="1.984375"
+     cy="1.984375"
+     r="0.39687499" />
+  <circle
+     style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     id="circle952"
+     cx="1.984375"
+     cy="3.3072915"
+     r="0.39687499" />
 </svg>
