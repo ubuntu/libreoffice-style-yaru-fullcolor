@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_nextrecord.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_nextrecord.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -44,23 +44,33 @@
    inkscape:cx="-15.89479"
    inkscape:cy="3.2527036"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid817" />
 </sodipodi:namedview>
 
 
-/&gt;<path
-   style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="path819"
-   d="M 6.1386225,2 5.4999506,2.71875 9.1854975,6.84375 10.220654,8 9.1854975,9.15625 5.4999506,13.25 6.1386225,14 9.8241694,9.875 11.499951,8 9.8241694,6.125 Z"
-   inkscape:connector-curvature="0" />
+
+
+/&gt;<circle
+   style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path941"
+   cx="8"
+   cy="8"
+   r="6" />
+<circle
+   style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle943"
+   cx="8"
+   cy="8"
+   r="6" />
 <path
-   d="M 6.1386225,2 5.4999506,2.71875 9.1854975,6.84375 10.220654,8 9.1854975,9.15625 5.4999506,13.25 6.1386225,14 9.8241694,9.875 11.499951,8 9.8241694,6.125 Z"
-   id="path2"
-   style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:round;stroke-opacity:1"
-   inkscape:connector-curvature="0" />
+   style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+   d="M 7.5,5.5 10,8 7.5,10.5"
+   id="path947"
+   sodipodi:nodetypes="ccc" />
 </svg>
