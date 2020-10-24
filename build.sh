@@ -68,7 +68,7 @@ then
     find -name "*.svg" -o -name "*.SVG" | while read i;
     do
         echo -e "\n=> 🔨 Render ${i}\n"
-    	inkscape -f "$i" -e "${i%.*}.png"
+    	inkscape -o "${i%.*}.png" "$i"
 
         echo -e "\n=> ✨ Optimize PNG\n"
     	optipng -o7 "${i%.*}.png"
@@ -91,7 +91,7 @@ else
     sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
 
     echo -e "=> 🔨 Render PNG file\n"
-    inkscape -f "./src${1}.svg" -e "./build/png${1}.png"
+    inkscape -o "./build/png${1}.png" "./src${1}.svg"
 
     echo -e "\n=> ✨ Optimize PNG\n"
     optipng -o7 "./build/png${1}.png"
