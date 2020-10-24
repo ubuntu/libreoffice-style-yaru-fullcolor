@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_stylenewbyexample.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_stylenewbyexample.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -43,30 +43,52 @@
    inkscape:zoom="20.85965"
    inkscape:cx="4.9184692"
    inkscape:cy="6.4709981"
-   inkscape:window-x="1920"
-   inkscape:window-y="32"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid829" />
 </sodipodi:namedview>
-/&gt;<path
-   inkscape:connector-curvature="0"
-   id="path829"
-   d="M 2,11.999957 14,3.9999566 v 8.0000004 z"
-   style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   sodipodi:nodetypes="cccc" />
+
+/&gt;<rect
+   style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect831"
+   width="10"
+   height="5"
+   x="-5.0502524"
+   y="5.7781734"
+   ry="1.0000007"
+   rx="1.0000007"
+   transform="rotate(-45)" />
 <path
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M 2,11.999957 14,3.9999566 v 8.0000004 z"
+   style="fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 9,2 9.7071063,1.2928927 c 1.4142137,-1.41421358 2.1213197,-0.7071068 2.8284267,0 l 1.414214,1.4142135 c 0.707107,0.707107 1.414213,1.4142138 0,2.8284274 L 11.12132,8.3639605 c -0.707107,0.7071068 -0.707107,0.7071068 -1e-6,1.4142128 l -0.707107,0.7071077 c -0.7071067,-0.7071074 -1.4142135,-1.4142142 0,-2.8284278 l 2.828427,-2.8284271 c 0.707107,-0.7071068 0.707107,-0.7071068 0,-1.4142136 L 11.828426,1.999999 c -0.707107,-0.7071068 -0.707107,-0.7071068 -1.414213,0 L 9.7071063,2.7071062 9,2"
+   id="path823"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccccccc" />
+<path
+   style="fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 10.414213,10.485281 11.12132,9.7781741 c 0.707106,-0.7071068 0.707106,-0.7071068 2.828427,1.4142129 l 0.707106,0.707107 c 1.414423,1.414005 1.414423,1.414005 0.707317,2.121112 l -0.707317,0.707317 c -0.707107,0.707106 -0.707107,0.707106 -2.12132,-0.707108 L 11.828426,13.313708 C 9.7071062,11.192387 9.7071062,11.192387 10.414213,10.485281 Z"
    id="path827"
    inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cccc" />
+   sodipodi:nodetypes="ccccccccc" />
+<rect
+   ry="1.0000007"
+   y="5.7781734"
+   x="-5.0502524"
+   height="5"
+   width="10"
+   id="rect829"
+   style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   rx="1.0000007"
+   transform="rotate(-45)" />
 <circle
-   style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="path2644"
-   cy="12.5"
+   cy="3.5"
    cx="12.499999"
    r="3.5" />
 <path
@@ -75,6 +97,6 @@
    overflow="visible"
    font-weight="400"
    style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-   d="m 12,10 v 2 H 9.999999 v 1 H 12 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z"
+   d="M 12.000001,1 V 3 H 10 v 1 h 2.000001 v 2 h 1 V 4 h 2 V 3 h -2 V 1 Z"
    sodipodi:nodetypes="ccccccccccccc" />
 </svg>
