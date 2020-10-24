@@ -7,14 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 8 8"
+   viewBox="0 0 11 11"
    version="1.1"
    id="svg4"
    sodipodi:docname="closedoc.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/vcl/res/closedoc.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   width="11"
+   height="11">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,20 +43,29 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="29.5"
-     inkscape:cx="0.22033898"
-     inkscape:cy="4"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="3.476779"
+     inkscape:cy="7.4503997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
+  <circle
+     style="opacity:1;fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7143;stroke-linecap:round;stroke-linejoin:round"
+     id="path837"
+     cx="5.5"
+     cy="5.5"
+     r="5.5" />
   <path
-     id="path817"
-     d="M 1.6171875 1 L 1 1.6171875 L 3.3828125 4 L 1 6.3828125 L 1.6171875 7 L 4 4.6171875 L 6.3828125 7 L 7 6.3828125 L 4.6171875 4 L 7 1.6171875 L 6.3828125 1 L 4 3.3828125 L 1.6171875 1 z "
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
-  <path
-     style="fill:#ffffff"
-     d="M 1.6171875 1 L 1 1.6171875 L 3.3828125 4 L 1 6.3828125 L 1.6171875 7 L 4 4.6171875 L 6.3828125 7 L 7 6.3828125 L 4.6171875 4 L 7 1.6171875 L 6.3828125 1 L 4 3.3828125 L 1.6171875 1 z "
-     id="path2" />
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 7.520751,8.0855024 5.6006074,6.1653584 3.479249,8.2867165 2.772218,7.5796854 4.8935765,5.4583273 2.772218,3.3369688 3.479249,2.6299377 5.6006073,4.7512961 7.7219653,2.6299379 8.4289962,3.3369689 6.3076379,5.4583273 8.227782,7.3784711 Z"
+     id="path835"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>
