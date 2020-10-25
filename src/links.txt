@@ -2108,8 +2108,8 @@ sfx2/res/symphony/sidebar-navigator-large.xxx cmd/lc_navigator.xxx
 sfx2/res/symphony/sidebar-navigator-small.xxx cmd/sc_navigator.xxx
 sfx2/res/symphony/sidebar-property-large.xxx cmd/lc_formproperties.xxx
 sfx2/res/symphony/sidebar-property-small.xxx cmd/sc_formproperties.xxx
-sfx2/res/symphony/sidebar-style-large.xxx cmd/lc_formdesigntools.xxx
-sfx2/res/symphony/sidebar-style-small.xxx cmd/sc_formdesigntools.xxx
+sfx2/res/symphony/sidebar-style-large.xxx cmd/lc_designerdialog.xxx
+sfx2/res/symphony/sidebar-style-small.xxx cmd/sc_designerdialog.xxx
 sfx2/res/symphony/sidebar-template-large.xxx cmd/lc_slidemasterpage.xxx
 sfx2/res/symphony/sidebar-template-small.xxx cmd/sc_slidemasterpage.xxx
 sfx2/res/symphony/sidebar-transition-large.xxx cmd/lc_slidechangewindow.xxx
