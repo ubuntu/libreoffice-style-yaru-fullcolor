@@ -534,6 +534,7 @@ cmd/32/stylewatercanmode.png cmd/32/backgroundcolor.png
 cmd/32/sv/bold.png cmd/32/de/bold.png
 cmd/32/sv/italic.png cmd/32/de/italic.png
 cmd/32/switchcontroldesignmode.png cmd/32/editdoc.png
+cmd/32/switchxformsdesignmode.png cmd/32/formdesigntools.png
 cmd/32/symbolcatalogue.png cmd/32/insertsymbol.png
 cmd/32/symbolshapes.smiley.png cmd/32/symbolshapes.png
 cmd/32/tableautofitmenu.png cmd/32/setoptimalrowheight.png
@@ -1165,6 +1166,7 @@ cmd/lc_statisticsmenu.png cmd/lc_drawchart.png
 cmd/lc_styleapply.png cmd/lc_backgroundcolor.png
 cmd/lc_stylewatercanmode.png cmd/lc_backgroundcolor.png
 cmd/lc_switchcontroldesignmode.png cmd/lc_editdoc.png
+cmd/lc_switchxformsdesignmode.png cmd/lc_formdesigntools.png
 cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/lc_symbolshapes.smiley.png cmd/lc_symbolshapes.png
 cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png
@@ -1686,6 +1688,7 @@ cmd/sc_statisticsmenu.png cmd/sc_drawchart.png
 cmd/sc_styleapply.png cmd/sc_backgroundcolor.png
 cmd/sc_stylewatercanmode.png cmd/sc_backgroundcolor.png
 cmd/sc_switchcontroldesignmode.png cmd/sc_editdoc.png
+cmd/sc_switchxformsdesignmode.png cmd/sc_formdesigntools.png
 cmd/sc_symbolcatalogue.png cmd/sc_insertsymbol.png
 cmd/sc_symbolshapes.smiley.png cmd/sc_symbolshapes.png
 cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png
