@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +43,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="6.0799709"
-     inkscape:cy="9.7512721"
+     inkscape:cx="5.729012"
+     inkscape:cy="9.7929336"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,19 +65,32 @@
     <inkscape:grid
        type="xygrid"
        id="grid822" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid866"
+       dotted="true"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="10" />
   </sodipodi:namedview>
   <path
-     id="path824"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 2,2 V 14 H 4 V 9 H 8 V 7 H 4 V 2 Z m 7,0 v 6 h 2 V 2 Z m 3,4 -4,5 v 2 h 4 v 2 h 2 v -2 h 1 V 11 H 14 V 6 Z m 0,2.5 V 11 h -2 z"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+     id="rect895"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2 2 L 2 14 L 4 14 L 4 9 L 11 9 L 11 6 L 11 5 L 11 2 L 9 2 L 9 5 L 9 7 L 8 7 L 4 7 L 4 2 L 2 2 z M 8 10 L 8 15 L 9 15 L 9 10 L 8 10 z M 10.517578 10 A 0.5 0.5 0 0 0 10.277344 10.052734 A 0.5 0.5 0 0 0 10.052734 10.722656 L 12.052734 14.722656 A 0.50005 0.50005 0 0 0 12.947266 14.722656 L 14.947266 10.722656 A 0.5 0.5 0 0 0 14.722656 10.052734 A 0.5 0.5 0 0 0 14.052734 10.277344 L 12.5 13.382812 L 10.947266 10.277344 A 0.5 0.5 0 0 0 10.517578 10 z " />
   <path
      id="path2"
      style="fill:#ffffff"
-     d="M 2,2 V 14 H 4 V 9 H 8 V 7 H 4 V 2 Z M 9,2 V 8 L 11,6 V 2 Z"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <path
-     id="rect849"
+     d="M 2,2 V 14 H 4 V 9 h 7 V 6 5 2 H 9 V 5 7 H 8 4 V 2 Z"
+     sodipodi:nodetypes="ccccccccccccccc" />
+  <rect
      style="opacity:1;fill:#aee3f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="m 12,6 -4,5 v 2 h 4 v 2 h 2 v -2 h 1 V 11 H 14 V 6 Z m 0,2.5 V 11 h -2 z" />
+     id="rect868"
+     width="1"
+     height="5"
+     x="8"
+     y="10" />
+  <path
+     style="fill:none;stroke:#aee3f8;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 10.5,10.5 2,4 2,-4"
+     id="path870" />
 </svg>
