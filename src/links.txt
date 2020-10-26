@@ -216,6 +216,7 @@ cmd/32/fontcolor.xxx cmd/32/color.xxx
 cmd/32/fontheight.xxx cmd/32/scaletext.xxx
 cmd/32/fontworkalignmentfloater.xxx cmd/32/alignhorizontalcenter.xxx
 cmd/32/fontworkcharacterspacingfloater.xxx cmd/32/spacing.xxx
+cmd/32/fontworkgalleryfloater.xxx cmd/32/fontwork.xxx
 cmd/32/fontworkshapetype.fontwork-circle-pour.xxx cmd/32/basicshapes.ring.xxx
 cmd/32/fontworkshapetype.fontwork-fade-down.xxx cmd/32/basicshapes.trapezoid.xxx
 cmd/32/fontworkshapetype.fontwork-triangle-up.xxx cmd/32/basicshapes.isosceles-triangle.xxx
@@ -885,6 +886,7 @@ cmd/lc_fontcolor.xxx cmd/lc_color.xxx
 cmd/lc_fontheight.xxx cmd/lc_scaletext.xxx
 cmd/lc_fontworkalignmentfloater.xxx cmd/lc_alignhorizontalcenter.xxx
 cmd/lc_fontworkcharacterspacingfloater.xxx cmd/lc_spacing.xxx
+cmd/lc_fontworkgalleryfloater.xxx cmd/lc_fontwork.xxx
 cmd/lc_fontworkshapetype.fontwork-circle-pour.xxx cmd/lc_basicshapes.ring.xxx
 cmd/lc_fontworkshapetype.fontwork-fade-down.xxx cmd/lc_basicshapes.trapezoid.xxx
 cmd/lc_fontworkshapetype.fontwork-triangle-up.xxx cmd/lc_basicshapes.isosceles-triangle.xxx
@@ -1403,6 +1405,7 @@ cmd/sc_fontcolor.xxx cmd/sc_color.xxx
 cmd/sc_fontheight.xxx cmd/sc_scaletext.xxx
 cmd/sc_fontworkalignmentfloater.xxx cmd/sc_alignhorizontalcenter.xxx
 cmd/sc_fontworkcharacterspacingfloater.xxx cmd/sc_spacing.xxx
+cmd/sc_fontworkgalleryfloater.xxx cmd/sc_fontwork.xxx
 cmd/sc_fontworkshapetype.fontwork-circle-pour.xxx cmd/sc_basicshapes.ring.xxx
 cmd/sc_fontworkshapetype.fontwork-fade-down.xxx cmd/sc_basicshapes.trapezoid.xxx
 cmd/sc_fontworkshapetype.fontwork-triangle-up.xxx cmd/sc_basicshapes.isosceles-triangle.xxx

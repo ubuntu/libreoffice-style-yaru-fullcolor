@@ -216,6 +216,7 @@ cmd/32/fontcolor.svg cmd/32/color.svg
 cmd/32/fontheight.svg cmd/32/scaletext.svg
 cmd/32/fontworkalignmentfloater.svg cmd/32/alignhorizontalcenter.svg
 cmd/32/fontworkcharacterspacingfloater.svg cmd/32/spacing.svg
+cmd/32/fontworkgalleryfloater.svg cmd/32/fontwork.svg
 cmd/32/fontworkshapetype.fontwork-circle-pour.svg cmd/32/basicshapes.ring.svg
 cmd/32/fontworkshapetype.fontwork-fade-down.svg cmd/32/basicshapes.trapezoid.svg
 cmd/32/fontworkshapetype.fontwork-triangle-up.svg cmd/32/basicshapes.isosceles-triangle.svg
@@ -885,6 +886,7 @@ cmd/lc_fontcolor.svg cmd/lc_color.svg
 cmd/lc_fontheight.svg cmd/lc_scaletext.svg
 cmd/lc_fontworkalignmentfloater.svg cmd/lc_alignhorizontalcenter.svg
 cmd/lc_fontworkcharacterspacingfloater.svg cmd/lc_spacing.svg
+cmd/lc_fontworkgalleryfloater.svg cmd/lc_fontwork.svg
 cmd/lc_fontworkshapetype.fontwork-circle-pour.svg cmd/lc_basicshapes.ring.svg
 cmd/lc_fontworkshapetype.fontwork-fade-down.svg cmd/lc_basicshapes.trapezoid.svg
 cmd/lc_fontworkshapetype.fontwork-triangle-up.svg cmd/lc_basicshapes.isosceles-triangle.svg
@@ -1403,6 +1405,7 @@ cmd/sc_fontcolor.svg cmd/sc_color.svg
 cmd/sc_fontheight.svg cmd/sc_scaletext.svg
 cmd/sc_fontworkalignmentfloater.svg cmd/sc_alignhorizontalcenter.svg
 cmd/sc_fontworkcharacterspacingfloater.svg cmd/sc_spacing.svg
+cmd/sc_fontworkgalleryfloater.svg cmd/sc_fontwork.svg
 cmd/sc_fontworkshapetype.fontwork-circle-pour.svg cmd/sc_basicshapes.ring.svg
 cmd/sc_fontworkshapetype.fontwork-fade-down.svg cmd/sc_basicshapes.trapezoid.svg
 cmd/sc_fontworkshapetype.fontwork-triangle-up.svg cmd/sc_basicshapes.isosceles-triangle.svg
