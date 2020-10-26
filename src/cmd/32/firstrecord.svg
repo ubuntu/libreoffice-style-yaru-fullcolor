@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="firstrecord.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/firstrecord.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -45,23 +45,41 @@
      inkscape:cx="5.2573901"
      inkscape:cy="11.580119"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid816" />
   </sodipodi:namedview>
+  <circle
+     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle845"
+     cx="-16"
+     cy="-16"
+     transform="scale(-1)"
+     r="12" />
+  <circle
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle943"
+     cx="-16"
+     cy="-16"
+     transform="scale(-1)"
+     r="12" />
   <path
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path817"
-     d="m 9.5,3.5 v 24 h 1 V 3.5 Z M 23.832031,3.5 12.5,15.5 23.832031,27.5 24.5,26.792969 13.835938,15.5 24.5,4.2070312 Z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccc" />
-  <path
-     d="m 9.5,3.5 v 24 h 1 V 3.5 Z M 23.832031,3.5 12.5,15.5 23.832031,27.5 24.5,26.792969 13.835938,15.5 24.5,4.2070312 Z"
-     id="path2"
-     style="opacity:1;fill:#ffffff;stroke:#ffffff;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccc" />
+     style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 20.5,22.5 13.999999,16 20.5,9.5000002"
+     id="path947"
+     sodipodi:nodetypes="ccc" />
+  <rect
+     style="opacity:1;fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect843"
+     width="1"
+     height="14"
+     x="-12.999999"
+     y="9"
+     ry="0.5"
+     rx="0.5"
+     transform="scale(-1,1)" />
 </svg>

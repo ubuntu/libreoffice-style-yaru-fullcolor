@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_firstrecord.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -40,26 +40,47 @@
    inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="29.5"
-   inkscape:cx="-4.0151393"
-   inkscape:cy="6.8992027"
+   inkscape:zoom="41.7193"
+   inkscape:cx="3.5956738"
+   inkscape:cy="7.9273935"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid816" />
 </sodipodi:namedview>
 
-/&gt;<path
-   style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-   id="path817"
-   d="m 3.5000247,1.5 v 12 h 1 V 1.5 Z M 11.861353,1.5 8.1758059,5.625 6.5000247,7.5 8.1758059,9.375 11.861353,13.5 12.500025,12.75 8.8144778,8.65625 7.7793216,7.5 8.8144778,6.34375 12.500025,2.21875 Z"
-   inkscape:connector-curvature="0" />
+
+/&gt;<circle
+   style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path941"
+   cx="-8"
+   cy="8"
+   r="6"
+   transform="scale(-1,1)" />
+<circle
+   style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="circle943"
+   cx="-8"
+   cy="8"
+   r="6"
+   transform="scale(-1,1)" />
 <path
-   d="m 3.5000247,1.5 v 12 h 1 V 1.5 Z M 11.861353,1.5 8.1758059,5.625 6.5000247,7.5 8.1758059,9.375 11.861353,13.5 12.500025,12.75 8.8144778,8.65625 7.7793216,7.5 8.8144778,6.34375 12.500025,2.21875 Z"
-   id="path2"
-   style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+   d="M 10.5,5.4999997 8,8 l 2.5,2.5"
+   id="path947"
+   sodipodi:nodetypes="ccc" />
+<rect
+   style="opacity:1;fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   id="rect842"
+   width="1"
+   height="6"
+   x="-7"
+   y="5"
+   ry="0.5"
+   rx="0.5"
+   transform="scale(-1,1)" />
 </svg>
