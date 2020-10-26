@@ -54,6 +54,10 @@
        id="grid833" />
   </sodipodi:namedview>
   <path
+     id="path842"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11 10 L 11 15 L 12 15 L 12 10 L 11 10 z M 13 10 L 13 15 L 14 15 L 14 10 L 13 10 z " />
+  <path
      style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path822"
      fill="#232629"
@@ -64,11 +68,13 @@
      id="path2"
      style="fill:#ffffff" />
   <path
-     id="path841"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 12,6.0000003 c -0.833333,0 -1.469348,0.3610764 -1.929688,0.6679688 -0.460338,0.3068923 -0.7773429,0.6249999 -0.7773429,0.625 a 1,1 0 0 0 0,1.4140629 1,1 0 0 0 1.4140619,0 c 0,0 0.182994,-0.181893 0.472657,-0.3750005 C 11.469348,8.1389239 11.833333,8.0000003 12,8.0000003 c 0.745356,0 0.837909,0.207139 0.919922,0.6289067 0.08201,0.421767 -0.09411,1.131217 -0.626953,1.664062 l -2.9999999,3 a 1,1 0 0 0 -0.292969,0.71875 V 15 H 9.970703 15 v -2 h -2.585938 l 1.292969,-1.292969 C 14.674186,10.739876 15.116783,9.449327 14.882812,8.2460941 14.648843,7.0428613 13.490712,6.0000003 12,6.0000003 Z" />
+     id="rect868"
+     style="opacity:1;fill:#aee3f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 11,15 h 1 v -5 h -1 z"
+     sodipodi:nodetypes="ccccc" />
   <path
-     id="rect867"
-     style="opacity:1;fill:#aee3f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 12,6.0000003 c -0.833333,0 -1.469348,0.3610764 -1.929688,0.6679688 -0.460338,0.3068923 -0.7773429,0.6249999 -0.7773429,0.625 a 1,1 0 0 0 0,1.4140629 1,1 0 0 0 1.4140619,0 c 0,0 0.182994,-0.181893 0.472657,-0.3750005 C 11.469348,8.1389239 11.833333,8.0000003 12,8.0000003 c 0.745356,0 0.837909,0.207139 0.919922,0.6289067 0.08201,0.421767 -0.09411,1.131217 -0.626953,1.664062 l -2.9999999,3 a 1,1 0 0 0 -0.292969,0.71875 V 15 H 9.970703 15 v -2 h -2.585938 l 1.292969,-1.292969 C 14.674186,10.739876 15.116783,9.449327 14.882812,8.2460941 14.648843,7.0428613 13.490712,6.0000003 12,6.0000003 Z" />
+     id="path872"
+     style="opacity:1;fill:#aee3f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13,15 h 1 v -5 h -1 z"
+     sodipodi:nodetypes="ccccc" />
 </svg>
