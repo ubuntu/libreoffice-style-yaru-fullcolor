@@ -535,6 +535,7 @@ cmd/32/stylewatercanmode.xxx cmd/32/backgroundcolor.xxx
 cmd/32/sv/bold.xxx cmd/32/de/bold.xxx
 cmd/32/sv/italic.xxx cmd/32/de/italic.xxx
 cmd/32/switchcontroldesignmode.xxx cmd/32/editdoc.xxx
+cmd/32/switchxformsdesignmode.xxx cmd/32/formdesigntools.xxx
 cmd/32/symbolcatalogue.xxx cmd/32/insertsymbol.xxx
 cmd/32/symbolshapes.smiley.xxx cmd/32/symbolshapes.xxx
 cmd/32/tableautofitmenu.xxx cmd/32/setoptimalrowheight.xxx
@@ -1167,6 +1168,7 @@ cmd/lc_statisticsmenu.xxx cmd/lc_drawchart.xxx
 cmd/lc_styleapply.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_stylewatercanmode.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_switchcontroldesignmode.xxx cmd/lc_editdoc.xxx
+cmd/lc_switchxformsdesignmode.xxx cmd/lc_formdesigntools.xxx
 cmd/lc_symbolcatalogue.xxx cmd/lc_insertsymbol.xxx
 cmd/lc_symbolshapes.smiley.xxx cmd/lc_symbolshapes.xxx
 cmd/lc_tableautofitmenu.xxx cmd/lc_setoptimalrowheight.xxx
@@ -1689,6 +1691,7 @@ cmd/sc_statisticsmenu.xxx cmd/sc_drawchart.xxx
 cmd/sc_styleapply.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_stylewatercanmode.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_switchcontroldesignmode.xxx cmd/sc_editdoc.xxx
+cmd/sc_switchxformsdesignmode.xxx cmd/sc_formdesigntools.xxx
 cmd/sc_symbolcatalogue.xxx cmd/sc_insertsymbol.xxx
 cmd/sc_symbolshapes.smiley.xxx cmd/sc_symbolshapes.xxx
 cmd/sc_tableautofitmenu.xxx cmd/sc_setoptimalrowheight.xxx
@@ -2109,8 +2112,8 @@ sfx2/res/symphony/sidebar-navigator-large.xxx cmd/lc_navigator.xxx
 sfx2/res/symphony/sidebar-navigator-small.xxx cmd/sc_navigator.xxx
 sfx2/res/symphony/sidebar-property-large.xxx cmd/lc_formproperties.xxx
 sfx2/res/symphony/sidebar-property-small.xxx cmd/sc_formproperties.xxx
-sfx2/res/symphony/sidebar-style-large.xxx cmd/lc_formdesigntools.xxx
-sfx2/res/symphony/sidebar-style-small.xxx cmd/sc_formdesigntools.xxx
+sfx2/res/symphony/sidebar-style-large.xxx cmd/lc_designerdialog.xxx
+sfx2/res/symphony/sidebar-style-small.xxx cmd/sc_designerdialog.xxx
 sfx2/res/symphony/sidebar-template-large.xxx cmd/lc_slidemasterpage.xxx
 sfx2/res/symphony/sidebar-template-small.xxx cmd/sc_slidemasterpage.xxx
 sfx2/res/symphony/sidebar-transition-large.xxx cmd/lc_slidechangewindow.xxx

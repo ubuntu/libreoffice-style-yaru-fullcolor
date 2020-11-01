@@ -535,6 +535,7 @@ cmd/32/stylewatercanmode.svg cmd/32/backgroundcolor.svg
 cmd/32/sv/bold.svg cmd/32/de/bold.svg
 cmd/32/sv/italic.svg cmd/32/de/italic.svg
 cmd/32/switchcontroldesignmode.svg cmd/32/editdoc.svg
+cmd/32/switchxformsdesignmode.svg cmd/32/formdesigntools.svg
 cmd/32/symbolcatalogue.svg cmd/32/insertsymbol.svg
 cmd/32/symbolshapes.smiley.svg cmd/32/symbolshapes.svg
 cmd/32/tableautofitmenu.svg cmd/32/setoptimalrowheight.svg
@@ -1167,6 +1168,7 @@ cmd/lc_statisticsmenu.svg cmd/lc_drawchart.svg
 cmd/lc_styleapply.svg cmd/lc_backgroundcolor.svg
 cmd/lc_stylewatercanmode.svg cmd/lc_backgroundcolor.svg
 cmd/lc_switchcontroldesignmode.svg cmd/lc_editdoc.svg
+cmd/lc_switchxformsdesignmode.svg cmd/lc_formdesigntools.svg
 cmd/lc_symbolcatalogue.svg cmd/lc_insertsymbol.svg
 cmd/lc_symbolshapes.smiley.svg cmd/lc_symbolshapes.svg
 cmd/lc_tableautofitmenu.svg cmd/lc_setoptimalrowheight.svg
@@ -1689,6 +1691,7 @@ cmd/sc_statisticsmenu.svg cmd/sc_drawchart.svg
 cmd/sc_styleapply.svg cmd/sc_backgroundcolor.svg
 cmd/sc_stylewatercanmode.svg cmd/sc_backgroundcolor.svg
 cmd/sc_switchcontroldesignmode.svg cmd/sc_editdoc.svg
+cmd/sc_switchxformsdesignmode.svg cmd/sc_formdesigntools.svg
 cmd/sc_symbolcatalogue.svg cmd/sc_insertsymbol.svg
 cmd/sc_symbolshapes.smiley.svg cmd/sc_symbolshapes.svg
 cmd/sc_tableautofitmenu.svg cmd/sc_setoptimalrowheight.svg
@@ -2109,8 +2112,8 @@ sfx2/res/symphony/sidebar-navigator-large.svg cmd/lc_navigator.svg
 sfx2/res/symphony/sidebar-navigator-small.svg cmd/sc_navigator.svg
 sfx2/res/symphony/sidebar-property-large.svg cmd/lc_formproperties.svg
 sfx2/res/symphony/sidebar-property-small.svg cmd/sc_formproperties.svg
-sfx2/res/symphony/sidebar-style-large.svg cmd/lc_formdesigntools.svg
-sfx2/res/symphony/sidebar-style-small.svg cmd/sc_formdesigntools.svg
+sfx2/res/symphony/sidebar-style-large.svg cmd/lc_designerdialog.svg
+sfx2/res/symphony/sidebar-style-small.svg cmd/sc_designerdialog.svg
 sfx2/res/symphony/sidebar-template-large.svg cmd/lc_slidemasterpage.svg
 sfx2/res/symphony/sidebar-template-small.svg cmd/sc_slidemasterpage.svg
 sfx2/res/symphony/sidebar-transition-large.svg cmd/lc_slidechangewindow.svg
