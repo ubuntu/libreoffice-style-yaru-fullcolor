@@ -13,7 +13,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="newwindow.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/newwindow.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -43,57 +43,49 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="16.702621"
-     inkscape:cy="15.145031"
-     inkscape:window-x="0"
+     inkscape:zoom="10.429825"
+     inkscape:cx="30.303498"
+     inkscape:cy="20.904252"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid837" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     d="m 6.213904,3.5158712 c -1.477,0.002 -2.664,1.189999 -2.666,2.666999 l -0.036,22.3250008 24.976999,-0.013 V 6.1668702 c 0,-1.478 -1.22,-2.676999 -2.697,-2.674999 z"
-     id="path46"
-     style="fill:#ffffff;fill-opacity:1;stroke:#8c8c8c" />
+     id="rect840"
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;opacity:0.7"
+     d="M 6,3 C 4.338,3 3,4.338 3,6 V 29 H 29 V 6 C 29,4.338 27.662,3 26,3 Z"
+     sodipodi:nodetypes="ssccsss" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     id="rect854"
+     width="24"
+     height="17"
+     x="4"
+     y="11" />
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:none;stroke:#ffffff"
-     d="m 27.371903,8.9978702 0.13,-2.828 c 0.035,-0.738 -0.813,-1.553 -1.552,-1.552 l -19.641999,0.012 c -0.74,0 -1.708,0.94 -1.708,2.334 v 2.666"
-     id="path48" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff"
-     d="m 4.037904,10.997871 h 23.999999 l -0.036,16.992 H 4.001904 Z"
-     id="path50" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:none;stroke:#a0a0a0"
-     d="M 4.001904,10.487871 H 28.001903"
-     id="path52" />
+     id="rect847"
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 10 L 28 10 L 28 6 C 28 4.892 27.108 4 26 4 L 6 4 z " />
   <path
      d="m 18.001903,5.9898702 h 2 v 2 h -2 z"
      id="path894"
      inkscape:connector-curvature="0"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke-width:2" />
+     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
   <path
      d="m 21.001903,5.9898702 h 2 v 2 h -2 z"
      id="path892"
      inkscape:connector-curvature="0"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke-width:2" />
+     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
   <path
      d="m 24.001903,5.9898702 h 2 v 2 h -2 z"
      id="path54"
      inkscape:connector-curvature="0"
-     style="fill:#ff0000;fill-opacity:1;stroke-width:2" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.05;fill:none;stroke:#000000"
-     d="M 4.001904,11.502871 H 28.001903"
-     id="path56" />
+     style="fill:#e95420;fill-opacity:1;stroke-width:2" />
   <circle
      style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:4.49999952;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"

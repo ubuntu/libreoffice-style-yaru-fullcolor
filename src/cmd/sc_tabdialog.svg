@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_tabdialog.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_tabdialog.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="-0.69110968"
-     inkscape:cy="4.2154352"
-     inkscape:window-x="0"
+     inkscape:zoom="41.7193"
+     inkscape:cx="6.3030908"
+     inkscape:cy="7.4925378"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -69,12 +70,12 @@
   <path
      inkscape:connector-curvature="0"
      id="path882"
-     d="m 11.499928,7.499989 2,2.000011 H 9.4999291 Z"
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.499928,7 14,10 H 8.9999998 Z"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 4.4999281,8.500021 6.4999291,6.50001 H 2.4999292 Z"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 4.4999279,9 6.9999998,6 h -5 z"
      id="path884"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
@@ -92,4 +93,22 @@
      height="2"
      x="2"
      y="12" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path824-1"
+     cx="11.5"
+     cy="12.499837"
+     r="1.5" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path824"
+     cx="11.5"
+     cy="14.499837"
+     r="1.5" />
+  <path
+     inkscape:connector-curvature="0"
+     style="display:block;fill:#b3b3b3;fill-opacity:1;stroke:#6d6d6d;stroke-width:0.616838;stroke-linejoin:round;stroke-opacity:1"
+     d="m 9.5757188,8.6117185 c -0.1375,0.05 -0.204,0.1925 -0.154,0.33 l 0.2496,0.6864 c -0.2767,0.1878 -0.5042,0.4150005 -0.7114,0.6672005 l -0.6802,-0.3156005 c -0.1317,-0.0642 -0.2813,-0.0098 -0.341,0.1240005 l -0.5250003,1.125 c -0.0642,0.1317 -0.0098,0.2813 0.1240003,0.341 l 0.6788,0.3186 c -0.0602,0.3208 -0.0867,0.6418 -0.0544,0.9738 l -0.6864003,0.2496 c -0.1375,0.05 -0.204,0.1925 -0.154,0.33 l 0.4240003,1.166 c 0.05,0.1375 0.1925,0.204 0.33,0.154 l 0.6864,-0.2496 c 0.1878,0.2767 0.415,0.5042 0.6672,0.7114 l -0.3171,0.6795 c -0.0642,0.1317 -0.0098,0.2813 0.124,0.341 l 1.1250002,0.525 c 0.1317,0.0642 0.2813,0.0098 0.341,-0.124 l 0.3186,-0.6788 c 0.3208,0.0602 0.6418,0.0867 0.9738,0.0544 l 0.25,0.6875 c 0.05,0.1375 0.1925,0.204 0.33,0.154 l 1.166,-0.424 c 0.1375,-0.05 0.204,-0.1925 0.154,-0.33 l -0.2496,-0.6864 c 0.2767,-0.1878 0.5042,-0.415 0.7114,-0.6672 l 0.6795,0.3171 c 0.1317,0.0642 0.2813,0.0098 0.341,-0.124 l 0.525,-1.125 c 0.0642,-0.1317 0.0098,-0.2813 -0.124,-0.341 l -0.6788,-0.3186 c 0.0602,-0.3208 0.0867,-0.6418 0.0544,-0.9738 l 0.6875,-0.25 c 0.1375,-0.05 0.204,-0.1925 0.154,-0.33 l -0.424,-1.166 c -0.05,-0.1375 -0.1925,-0.204 -0.33,-0.154 l -0.6864,0.2496 c -0.1878,-0.2767 -0.415,-0.5042 -0.6672,-0.7114005 l 0.3171,-0.6795 c 0.0642,-0.1317 0.0098,-0.2813 -0.124,-0.341 l -1.125,-0.525 c -0.1317,-0.0642 -0.2813,-0.0098 -0.341,0.124 l -0.3186,0.6788 c -0.3208,-0.0602 -0.6418,-0.0867 -0.9738,-0.0544 l -0.2504,-0.6886 c -0.05,-0.1375 -0.1925,-0.204 -0.33,-0.154 z m 1.6830002,2.8130005 c 0.6072,-0.2208 1.2792,0.0928 1.5,0.7 0.2208,0.6072 -0.0928,1.2792 -0.7,1.5 -0.6072,0.2208 -1.2792,-0.0928 -1.5,-0.7 -0.2208,-0.6072 0.0928,-1.2792 0.7,-1.5 z"
+     display="block"
+     id="path34" />
 </svg>

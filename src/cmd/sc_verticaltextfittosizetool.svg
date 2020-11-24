@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_verticaltextfittosizetool.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_verticaltextfittosizetool.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -46,37 +46,37 @@
    inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid842" />
 </sodipodi:namedview>
-/&gt;<g
-   id="g840"
-   transform="rotate(-90,8.0000053,8.0000052)">
-  <g
-     transform="translate(-2.9152545,1.6271187)"
-     id="g833">
-    <path
-       id="path827"
-       d="M 5.9152646,0.37288119 V 2.3728812 h 4 v 6 h 2.0000004 v -6 h 4 V 0.37288119 h -3.5 -2 z"
-       style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff"
-       d="M 5.9152646,0.37288119 V 2.3728812 h 4 v 6 h 2.0000004 v -6 h 4 V 0.37288119 h -3.5 -2 z"
-       id="path825"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="M 4.4152439,9.8729522 7.415244,6.8729521 v 5.9999999 z"
-       id="path22"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m 17.415265,9.8729522 -3,-3.0000002 v 6 z"
-       id="path24"
-       inkscape:connector-curvature="0" />
-  </g>
+
+/&gt;<path
+   id="path827"
+   d="m 2.0000001,13 h 2 V 9.0000005 H 10 V 7.0000001 H 4.0000001 v -4 h -2 v 3.5 2 z"
+   style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   inkscape:connector-curvature="0" />
+<path
+   style="fill:#ffffff"
+   d="m 2.0000001,13 h 2 V 9.0000005 H 10 V 7.0000001 H 4.0000001 v -4 h -2 v 3.5 2 z"
+   id="path825"
+   inkscape:connector-curvature="0" />
+<g
+   id="g855"
+   transform="rotate(-90,9.5,10.5)">
+  <path
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 19,12.500071 16,10 v 5 z"
+     id="path24"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 5,12.500071 8,10 v 5 z"
+     id="path834"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </g>
 </svg>
