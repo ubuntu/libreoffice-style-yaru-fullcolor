@@ -13,7 +13,7 @@
    version="1.1"
    id="svg74"
    sodipodi:docname="menubar.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/menubar.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -46,10 +46,11 @@
      inkscape:zoom="20.85965"
      inkscape:cx="6.6113679"
      inkscape:cy="19.270646"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg74">
+     inkscape:current-layer="svg74"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid888" />
@@ -179,57 +180,39 @@
        id="stop37" />
   </linearGradient>
   <path
-     d="m6.212 2.526c-1.477.002-2.664 1.19-2.666 2.667l-.036 22.325 24.977-.013v-22.328c0-1.478-1.22-2.677-2.697-2.675z"
-     fill="url(#h)"
-     stroke="#8c8c8c"
-     id="path46"
-     style="fill:#ffffff;fill-opacity:1" />
+     id="rect840"
+     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     d="M 6,3 C 4.338,3 3,4.338 3,6 V 29 H 29 V 6 C 29,4.338 27.662,3 26,3 Z"
+     sodipodi:nodetypes="ssccsss" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     id="rect854"
+     width="24"
+     height="17"
+     x="4"
+     y="11" />
   <path
-     d="m27.37 8.008.13-2.828c.035-.738-.813-1.553-1.552-1.552l-19.642.012c-.74 0-1.708.94-1.708 2.334v2.666"
-     fill="none"
-     opacity=".8"
-     stroke="#fff"
-     id="path48" />
+     id="rect847"
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     d="M 6,4 C 4.892,4 4,4.892 4,6 v 4 H 28 V 6 C 28,4.892 27.108,4 26,4 Z" />
   <path
-     d="m4.036 10.008h24l-.036 16.992h-24z"
-     fill="#fff"
-     id="path50" />
-  <path
-     d="m4 9.498h24"
-     fill="none"
-     stroke="#a0a0a0"
-     id="path52" />
-  <path
-     d="m 18,5 h 2 v 2 h -2 z"
+     d="m 18.001903,5.98987 h 2 v 2 h -2 z"
      id="path894"
      inkscape:connector-curvature="0"
-     style="stroke-width:2;fill:#000000;fill-opacity:1;opacity:0.7" />
+     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
   <path
-     d="m 21,5 h 2 v 2 h -2 z"
+     d="m 21.001903,5.98987 h 2 v 2 h -2 z"
      id="path892"
      inkscape:connector-curvature="0"
-     style="stroke-width:2;fill:#000000;fill-opacity:1;opacity:0.7" />
+     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
   <path
-     d="m 24,5 h 2 v 2 h -2 z"
+     d="m 24.001903,5.98987 h 2 v 2 h -2 z"
      id="path54"
      inkscape:connector-curvature="0"
-     style="stroke-width:2;fill:#ff0000;fill-opacity:1" />
+     style="fill:#e95420;fill-opacity:1;stroke-width:2" />
   <path
-     d="m4 10.513h24"
-     fill="none"
-     opacity=".05"
-     stroke="#000"
-     id="path56" />
-  <path
-     d="m 1,10 v 1 4 1 h 30 v -1 -4 -1 h -1 z m 1,1 h 28 v 4 H 2 Z"
-     id="path66"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccc"
-     style="fill:#d85eca;fill-opacity:1" />
-  <path
-     d="m 2,11 h 28 v 4 H 2 Z"
-     id="path70"
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#ebaee4;fill-opacity:1"
+     id="rect876"
+     style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+     d="m 4,11 h 24 v 4 H 4 Z"
      sodipodi:nodetypes="ccccc" />
 </svg>

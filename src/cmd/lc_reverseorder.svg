@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_reverseorder.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_reverseorder.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -44,10 +44,11 @@
      inkscape:zoom="19.666667"
      inkscape:cx="6.4805268"
      inkscape:cy="13.03461"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
@@ -81,8 +82,8 @@
      id="rect821"
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 6.499951,13.500033 3.49995,9.5000126 h 6 z"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 6.499951,13 3,9 h 7 z"
      id="path22"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
@@ -90,6 +91,6 @@
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
      id="path833"
-     d="M 17.499951,10.499979 14.49995,14.5 h 6 z"
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     d="M 17.499951,11 14,15 h 7 z"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
 </svg>

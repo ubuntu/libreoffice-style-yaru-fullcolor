@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_hidewhitespace.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_hidewhitespace.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -44,10 +44,11 @@
      inkscape:zoom="19.666667"
      inkscape:cx="12.904347"
      inkscape:cy="11.476044"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid830" />
@@ -77,13 +78,15 @@
      id="path834"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 12,7.5000207 -3,-3 h 6 z"
-     id="path22"
-     inkscape:connector-curvature="0" />
-  <path
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.983344,15.027044 15,19 H 9 Z"
+     id="path898"
      inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.983344,8.972956 15,5 H 9 Z"
      id="path842"
-     d="m 12,16.5 -3,3 h 6 z"
-     style="fill:#e95420;fill-opacity:1;stroke:#e95420;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>
