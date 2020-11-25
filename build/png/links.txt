@@ -511,7 +511,6 @@ cmd/32/selectmode.png cmd/32/selectobject.png
 cmd/32/sendfax.png cmd/32/print.png
 cmd/32/setborderstyle.png cmd/32/insertframe.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
-cmd/32/setdocumentproperties.png cmd/32/pagedialog.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
 cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
 cmd/32/shapeslinemenu.png cmd/32/line.png
@@ -563,10 +562,8 @@ cmd/32/tableselectmenu.png cmd/32/selecttable.png
 cmd/32/tablesort.png cmd/32/sortascending.png
 cmd/32/templatemenu.png cmd/32/templatemanager.png
 cmd/32/textalign.png cmd/32/alignblock.png
-cmd/32/textattributes.png cmd/32/fontdialog.png
 cmd/32/textfittosizetool.png cmd/32/text_marquee.png
 cmd/32/texttoolbox.png cmd/32/text.png
-cmd/32/thesaurusdialog.png cmd/32/thesaurus.png
 cmd/32/toggleaxisdescr.png cmd/32/helplinesvisible.png
 cmd/32/toolprotectiondocument.png cmd/32/protect.png
 cmd/32/tr/bold.png cmd/32/sl/bold.png
@@ -1165,7 +1162,6 @@ cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_sendfax.png cmd/lc_print.png
 cmd/lc_setborderstyle.png cmd/lc_insertframe.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
-cmd/lc_setdocumentproperties.png cmd/lc_pagedialog.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
@@ -1213,10 +1209,8 @@ cmd/lc_tableselectmenu.png cmd/lc_selecttable.png
 cmd/lc_tablesort.png cmd/lc_sortascending.png
 cmd/lc_templatemenu.png cmd/lc_templatemanager.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
-cmd/lc_textattributes.png cmd/lc_fontdialog.png
 cmd/lc_textfittosizetool.png cmd/lc_text_marquee.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
-cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_toggleaxisdescr.png cmd/lc_helplinesvisible.png
 cmd/lc_toolprotectiondocument.png cmd/lc_protect.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
@@ -1702,7 +1696,6 @@ cmd/sc_sendfax.png cmd/sc_print.png
 cmd/sc_sendfeedback.png cmd/sc_sendmail.png
 cmd/sc_setborderstyle.png cmd/sc_insertframe.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
-cmd/sc_setdocumentproperties.png cmd/sc_pagedialog.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
 cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
@@ -1750,10 +1743,8 @@ cmd/sc_tableselectmenu.png cmd/sc_selecttable.png
 cmd/sc_tablesort.png cmd/sc_sortascending.png
 cmd/sc_templatemenu.png cmd/sc_templatemanager.png
 cmd/sc_textalign.png cmd/sc_alignblock.png
-cmd/sc_textattributes.png cmd/sc_fontdialog.png
 cmd/sc_textfittosizetool.png cmd/sc_text_marquee.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
-cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_toggleaxisdescr.png cmd/sc_helplinesvisible.png
 cmd/sc_toolprotectiondocument.png cmd/sc_protect.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
@@ -2011,6 +2002,7 @@ res/sx03160.png res/sx03125.png
 res/sx03162.png res/odt_16_8.png
 res/sx03163.png res/odt_16_8.png
 res/sx03164.png cmd/sc_open.png
+res/sx03165.png cmd/sc_save.png
 res/sx03167.png cmd/sc_openremote.png
 res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png cmd/sc_open.png
