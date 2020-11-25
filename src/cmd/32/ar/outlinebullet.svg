@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="outlinebullet.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/ar/outlinebullet.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.52230264"
-     inkscape:cy="17.276788"
-     inkscape:window-x="0"
+     inkscape:zoom="29.5"
+     inkscape:cx="5.3272215"
+     inkscape:cy="23.451794"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
@@ -118,26 +119,14 @@
      width="18"
      id="rect841-0"
      style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:3.23076987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     inkscape:export-ydpi="96"
-     inkscape:export-xdpi="96"
-     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-     y="25"
-     x="3"
-     height="2"
-     width="9"
+  <path
      id="rect843-4"
-     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.28449917;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.28449917;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.2845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 11.958984 25 C 12.055135 25.586258 11.762038 26.141896 11.275391 26.505859 C 11.460071 26.64337 11.602902 26.815658 11.722656 27 L 12 27 L 12 25 L 11.958984 25 z " />
+  <path
      id="rect845-4"
-     width="9"
-     height="2"
-     x="3"
-     y="22"
-     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.2845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 9.5917969 22 C 9.6017437 22.139221 9.6086675 22.279671 9.5878906 22.421875 C 10.298292 22.32023 11.008464 22.593939 11.298828 23.294922 L 11.589844 24 L 12 24 L 12 22 L 9.5917969 22 z " />
   <rect
      inkscape:export-ydpi="96"
      inkscape:export-xdpi="96"
@@ -192,16 +181,35 @@
      id="rect842"
      style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15384626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      transform="scale(-1,1)" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path816"
-     cx="-9.0000019"
-     cy="22.999996"
-     r="2"
-     transform="scale(-1,1)" />
-  <path
-     d="m 10,14.5 c 0.554,0 1,0.446 1,1 v 1.886719 a 5.9661016,5.9661016 0 0 1 0.556641,0.228515 l 1.332031,-1.332031 c 0.391737,-0.391737 1.022325,-0.391737 1.414062,0 l 1.414063,1.414063 c 0.391737,0.391737 0.391737,1.022325 0,1.414062 l -1.333985,1.333984 A 5.9661016,5.9661016 0 0 1 14.613281,21 H 16.5 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 h -1.886719 a 5.9661016,5.9661016 0 0 1 -0.228515,0.556641 l 1.332031,1.332031 c 0.391737,0.391737 0.391737,1.022325 0,1.414062 l -1.414063,1.414063 c -0.391737,0.391737 -1.022325,0.391737 -1.414062,0 L 11.554688,28.382812 A 5.9661016,5.9661016 0 0 1 11,28.613281 V 30.5 c 0,0.554 -0.446,1 -1,1 H 8 c -0.554,0 -1,-0.446 -1,-1 V 28.613281 A 5.9661016,5.9661016 0 0 1 6.443359,28.384766 l -1.332031,1.332031 c -0.391737,0.391737 -1.022325,0.391737 -1.414062,0 L 2.283203,28.302734 c -0.391737,-0.391737 -0.391737,-1.022325 0,-1.414062 L 3.617188,25.554688 A 5.9661016,5.9661016 0 0 1 3.386719,25 H 1.5 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 H 3.386719 A 5.9661016,5.9661016 0 0 1 3.615234,20.443359 L 2.283203,19.111328 c -0.391737,-0.391737 -0.391737,-1.022325 0,-1.414062 l 1.414063,-1.414063 c 0.391737,-0.391737 1.022325,-0.391737 1.414062,0 l 1.333984,1.333985 A 5.9661016,5.9661016 0 0 1 7,17.386719 V 15.5 c 0,-0.554 0.446,-1 1,-1 z M 9,21.003906 A 1.9954157,1.9954157 0 0 0 7.003906,23 1.9954157,1.9954157 0 0 0 9,24.996094 1.9954157,1.9954157 0 0 0 10.996094,23 1.9954157,1.9954157 0 0 0 9,21.003906 Z"
-     id="path49"
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#6d6d6d;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1" />
+  <g
+     id="g915"
+     transform="matrix(1.2387196,0,0,1.2387196,-18.658293,2.3417)"
+     style="stroke-width:0.807285">
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.61457;stroke-linecap:round;stroke-linejoin:round"
+       id="path909"
+       cx="19.5"
+       cy="19.5"
+       r="1.5" />
+    <g
+       id="g1425"
+       transform="translate(8.0000004,8)"
+       style="stroke-width:0.807285">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.61457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1328"
+         cx="11.5"
+         cy="11.5"
+         r="1.5" />
+      <path
+         d="m 9.3111344,7.791575 c -0.13058,0.05409 -0.188804,0.19465 -0.134715,0.325232 l 0.272166,0.657066 c -0.260199,0.195351 -0.471578,0.424352 -0.66202,0.678364 L 8.1128724,9.173184 c -0.130581,-0.05409 -0.274445,0.0055 -0.328533,0.136083 l -0.461881,1.115078 c -0.05409,0.130582 0.0055,0.274445 0.136083,0.328534 l 0.673693,0.279053 c -0.04495,0.314275 -0.05741,0.62567 -0.01156,0.947793 l -0.657066,0.272166 c -0.130581,0.05409 -0.188804,0.19465 -0.134715,0.325232 l 0.462682,1.117013 c 0.05409,0.130581 0.19465,0.188803 0.325231,0.134715 l 0.657067,-0.272166 c 0.195351,0.260198 0.424352,0.471578 0.678363,0.66202 l -0.279053,0.673693 c -0.05409,0.130583 0.0055,0.274445 0.136083,0.328533 l 1.1150786,0.461881 c 0.130582,0.05409 0.274445,-0.0055 0.328533,-0.136083 l 0.279053,-0.673693 c 0.314276,0.04495 0.625672,0.05741 0.947794,0.01156 l 0.272166,0.657067 c 0.05409,0.130582 0.19465,0.188803 0.325231,0.134715 l 1.117013,-0.462682 c 0.130582,-0.05409 0.188804,-0.19465 0.134716,-0.325231 l -0.272166,-0.657067 c 0.260198,-0.19535 0.471577,-0.424351 0.662019,-0.678363 l 0.673694,0.279053 c 0.130583,0.05409 0.274445,-0.0055 0.328533,-0.136083 l 0.461881,-1.115079 c 0.05409,-0.130583 -0.0055,-0.274445 -0.136083,-0.328533 L 14.873035,11.97334 c 0.04495,-0.314276 0.05741,-0.625672 0.01156,-0.947794 l 0.657066,-0.272166 c 0.130582,-0.05409 0.188804,-0.194649 0.134716,-0.325231 L 15.213692,9.311132 C 15.159602,9.18055 15.019042,9.122328 14.88846,9.176417 L 14.231394,9.448582 C 14.036043,9.188383 13.807042,8.977005 13.553031,8.786563 l 0.279053,-0.673694 c 0.05409,-0.130582 -0.0055,-0.274445 -0.136083,-0.328533 L 12.580922,7.322455 c -0.130583,-0.05409 -0.274445,0.0055 -0.328534,0.136083 L 11.973335,8.132232 C 11.65906,8.087282 11.347664,8.074822 11.025542,8.120672 L 10.753376,7.463606 C 10.699286,7.333024 10.558726,7.274802 10.428144,7.32889 Z m 1.7560366,2.659752 c 0.580321,-0.240377 1.246395,0.03552 1.486772,0.615841 0.240377,0.580322 -0.03552,1.246395 -0.615841,1.486772 -0.580321,0.240377 -1.246395,-0.03552 -1.486772,-0.615841 -0.240377,-0.580321 0.03552,-1.246395 0.615841,-1.486772 z"
+         display="block"
+         fill="url(#d)"
+         stroke="url(#e)"
+         stroke-linejoin="round"
+         stroke-width="0.484372"
+         id="path42"
+         style="fill:#d3d3d3;fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1" />
+    </g>
+  </g>
 </svg>
