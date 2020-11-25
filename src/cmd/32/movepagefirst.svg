@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/movepagefirst.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -40,22 +40,49 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="1.1525424"
-     inkscape:cy="15.322034"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-3.3214737"
+     inkscape:cy="14.112476"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <path
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     id="path817"
-     fill="#232629"
-     d="m4 8v1h24v-1zm12 3-12 11.332031c-.003.014.7070312.667969.7070312.667969l11.2929688-10.664062 11.292969 10.664062.707031-.667969z" />
-  <path
-     d="m4 8v1h24v-1zm12 3-12 11.332031c-.003.014.7070312.667969.7070312.667969l11.2929688-10.664062 11.292969 10.664062.707031-.667969z"
-     fill="#232629"
-     id="path2"
-     style="fill:#ffffff" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <g
+     id="g847"
+     transform="rotate(-90,11.733389,20.757779)">
+    <circle
+       style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle845"
+       cx="16.491169"
+       cy="-25.024389"
+       transform="scale(1,-1)"
+       r="12" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle943"
+       cx="16.491169"
+       cy="-25.024389"
+       transform="scale(1,-1)"
+       r="12" />
+    <path
+       style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 11.991169,31.524389 6.500001,-6.5 -6.500001,-6.5"
+       id="path947"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="opacity:1;fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect843"
+       width="1"
+       height="14"
+       x="19.491169"
+       y="18.024389"
+       ry="0.5"
+       rx="0.5" />
+  </g>
 </svg>
