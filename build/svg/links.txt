@@ -511,6 +511,7 @@ cmd/32/selectmode.svg cmd/32/selectobject.svg
 cmd/32/sendfax.svg cmd/32/print.svg
 cmd/32/setborderstyle.svg cmd/32/insertframe.svg
 cmd/32/setdefault.svg cmd/32/resetattributes.svg
+cmd/32/setdocumentproperties.svg cmd/32/pagedialog.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
 cmd/32/settabbgcolor.svg cmd/32/backgroundcolor.svg
 cmd/32/shapeslinemenu.svg cmd/32/line.svg
@@ -562,8 +563,10 @@ cmd/32/tableselectmenu.svg cmd/32/selecttable.svg
 cmd/32/tablesort.svg cmd/32/sortascending.svg
 cmd/32/templatemenu.svg cmd/32/templatemanager.svg
 cmd/32/textalign.svg cmd/32/alignblock.svg
+cmd/32/textattributes.svg cmd/32/fontdialog.svg
 cmd/32/textfittosizetool.svg cmd/32/text_marquee.svg
 cmd/32/texttoolbox.svg cmd/32/text.svg
+cmd/32/thesaurusdialog.svg cmd/32/thesaurus.svg
 cmd/32/toggleaxisdescr.svg cmd/32/helplinesvisible.svg
 cmd/32/toolprotectiondocument.svg cmd/32/protect.svg
 cmd/32/tr/bold.svg cmd/32/sl/bold.svg
@@ -1162,6 +1165,7 @@ cmd/lc_selectmode.svg cmd/lc_selectobject.svg
 cmd/lc_sendfax.svg cmd/lc_print.svg
 cmd/lc_setborderstyle.svg cmd/lc_insertframe.svg
 cmd/lc_setdefault.svg cmd/lc_resetattributes.svg
+cmd/lc_setdocumentproperties.svg cmd/lc_pagedialog.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
 cmd/lc_settabbgcolor.svg cmd/lc_backgroundcolor.svg
 cmd/lc_shapeslinemenu.svg cmd/lc_line.svg
@@ -1209,8 +1213,10 @@ cmd/lc_tableselectmenu.svg cmd/lc_selecttable.svg
 cmd/lc_tablesort.svg cmd/lc_sortascending.svg
 cmd/lc_templatemenu.svg cmd/lc_templatemanager.svg
 cmd/lc_textalign.svg cmd/lc_alignblock.svg
+cmd/lc_textattributes.svg cmd/lc_fontdialog.svg
 cmd/lc_textfittosizetool.svg cmd/lc_text_marquee.svg
 cmd/lc_texttoolbox.svg cmd/lc_text.svg
+cmd/lc_thesaurusdialog.svg cmd/lc_thesaurus.svg
 cmd/lc_toggleaxisdescr.svg cmd/lc_helplinesvisible.svg
 cmd/lc_toolprotectiondocument.svg cmd/lc_protect.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
@@ -1696,6 +1702,7 @@ cmd/sc_sendfax.svg cmd/sc_print.svg
 cmd/sc_sendfeedback.svg cmd/sc_sendmail.svg
 cmd/sc_setborderstyle.svg cmd/sc_insertframe.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
+cmd/sc_setdocumentproperties.svg cmd/sc_pagedialog.svg
 cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
 cmd/sc_settabbgcolor.svg cmd/sc_backgroundcolor.svg
 cmd/sc_shapeslinemenu.svg cmd/sc_line.svg
@@ -1743,8 +1750,10 @@ cmd/sc_tableselectmenu.svg cmd/sc_selecttable.svg
 cmd/sc_tablesort.svg cmd/sc_sortascending.svg
 cmd/sc_templatemenu.svg cmd/sc_templatemanager.svg
 cmd/sc_textalign.svg cmd/sc_alignblock.svg
+cmd/sc_textattributes.svg cmd/sc_fontdialog.svg
 cmd/sc_textfittosizetool.svg cmd/sc_text_marquee.svg
 cmd/sc_texttoolbox.svg cmd/sc_text.svg
+cmd/sc_thesaurusdialog.svg cmd/sc_thesaurus.svg
 cmd/sc_toggleaxisdescr.svg cmd/sc_helplinesvisible.svg
 cmd/sc_toolprotectiondocument.svg cmd/sc_protect.svg
 cmd/sc_tracechangemode.svg cmd/sc_trackchanges.svg

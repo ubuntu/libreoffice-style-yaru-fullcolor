@@ -511,6 +511,7 @@ cmd/32/selectmode.xxx cmd/32/selectobject.xxx
 cmd/32/sendfax.xxx cmd/32/print.xxx
 cmd/32/setborderstyle.xxx cmd/32/insertframe.xxx
 cmd/32/setdefault.xxx cmd/32/resetattributes.xxx
+cmd/32/setdocumentproperties.xxx cmd/32/pagedialog.xxx
 cmd/32/setoptimalcolumnwidthdirect.xxx cmd/32/setoptimalcolumnwidth.xxx
 cmd/32/settabbgcolor.xxx cmd/32/backgroundcolor.xxx
 cmd/32/shapeslinemenu.xxx cmd/32/line.xxx
@@ -562,8 +563,10 @@ cmd/32/tableselectmenu.xxx cmd/32/selecttable.xxx
 cmd/32/tablesort.xxx cmd/32/sortascending.xxx
 cmd/32/templatemenu.xxx cmd/32/templatemanager.xxx
 cmd/32/textalign.xxx cmd/32/alignblock.xxx
+cmd/32/textattributes.xxx cmd/32/fontdialog.xxx
 cmd/32/textfittosizetool.xxx cmd/32/text_marquee.xxx
 cmd/32/texttoolbox.xxx cmd/32/text.xxx
+cmd/32/thesaurusdialog.xxx cmd/32/thesaurus.xxx
 cmd/32/toggleaxisdescr.xxx cmd/32/helplinesvisible.xxx
 cmd/32/toolprotectiondocument.xxx cmd/32/protect.xxx
 cmd/32/tr/bold.xxx cmd/32/sl/bold.xxx
@@ -1162,6 +1165,7 @@ cmd/lc_selectmode.xxx cmd/lc_selectobject.xxx
 cmd/lc_sendfax.xxx cmd/lc_print.xxx
 cmd/lc_setborderstyle.xxx cmd/lc_insertframe.xxx
 cmd/lc_setdefault.xxx cmd/lc_resetattributes.xxx
+cmd/lc_setdocumentproperties.xxx cmd/lc_pagedialog.xxx
 cmd/lc_setoptimalcolumnwidthdirect.xxx cmd/lc_setoptimalcolumnwidth.xxx
 cmd/lc_settabbgcolor.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_shapeslinemenu.xxx cmd/lc_line.xxx
@@ -1209,8 +1213,10 @@ cmd/lc_tableselectmenu.xxx cmd/lc_selecttable.xxx
 cmd/lc_tablesort.xxx cmd/lc_sortascending.xxx
 cmd/lc_templatemenu.xxx cmd/lc_templatemanager.xxx
 cmd/lc_textalign.xxx cmd/lc_alignblock.xxx
+cmd/lc_textattributes.xxx cmd/lc_fontdialog.xxx
 cmd/lc_textfittosizetool.xxx cmd/lc_text_marquee.xxx
 cmd/lc_texttoolbox.xxx cmd/lc_text.xxx
+cmd/lc_thesaurusdialog.xxx cmd/lc_thesaurus.xxx
 cmd/lc_toggleaxisdescr.xxx cmd/lc_helplinesvisible.xxx
 cmd/lc_toolprotectiondocument.xxx cmd/lc_protect.xxx
 cmd/lc_tracechangemode.xxx cmd/lc_trackchanges.xxx
@@ -1696,6 +1702,7 @@ cmd/sc_sendfax.xxx cmd/sc_print.xxx
 cmd/sc_sendfeedback.xxx cmd/sc_sendmail.xxx
 cmd/sc_setborderstyle.xxx cmd/sc_insertframe.xxx
 cmd/sc_setdefault.xxx cmd/sc_resetattributes.xxx
+cmd/sc_setdocumentproperties.xxx cmd/sc_pagedialog.xxx
 cmd/sc_setoptimalcolumnwidthdirect.xxx cmd/sc_setoptimalcolumnwidth.xxx
 cmd/sc_settabbgcolor.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_shapeslinemenu.xxx cmd/sc_line.xxx
@@ -1743,8 +1750,10 @@ cmd/sc_tableselectmenu.xxx cmd/sc_selecttable.xxx
 cmd/sc_tablesort.xxx cmd/sc_sortascending.xxx
 cmd/sc_templatemenu.xxx cmd/sc_templatemanager.xxx
 cmd/sc_textalign.xxx cmd/sc_alignblock.xxx
+cmd/sc_textattributes.xxx cmd/sc_fontdialog.xxx
 cmd/sc_textfittosizetool.xxx cmd/sc_text_marquee.xxx
 cmd/sc_texttoolbox.xxx cmd/sc_text.xxx
+cmd/sc_thesaurusdialog.xxx cmd/sc_thesaurus.xxx
 cmd/sc_toggleaxisdescr.xxx cmd/sc_helplinesvisible.xxx
 cmd/sc_toolprotectiondocument.xxx cmd/sc_protect.xxx
 cmd/sc_tracechangemode.xxx cmd/sc_trackchanges.xxx
