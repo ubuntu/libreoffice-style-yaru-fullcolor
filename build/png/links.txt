@@ -163,6 +163,7 @@ cmd/32/entirecell.png cmd/32/selectcell.png
 cmd/32/entirecolumn.png cmd/32/selectcolumn.png
 cmd/32/entirerow.png cmd/32/selectrow.png
 cmd/32/errorcellstyle.png cmd/32/showerrors.png
+cmd/sc_errorcellstyles.png cmd/sc_showerrors.png
 cmd/32/es/bold.png cmd/32/ca/bold.png
 cmd/32/es/italic.png cmd/32/de/italic.png
 cmd/32/es/numberformatdecdecimals.png cmd/32/de/numberformatdecdecimals.png
@@ -886,6 +887,7 @@ cmd/lc_entirecell.png cmd/lc_selectcell.png
 cmd/lc_entirecolumn.png cmd/lc_selectcolumn.png
 cmd/lc_entirerow.png cmd/lc_selectrow.png
 cmd/lc_errorcellstyle.png cmd/lc_showerrors.png
+cmd/sc_errorcellstyles.png cmd/sc_showerrors.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
 cmd/lc_exportasgraphic.png cmd/lc_gallery.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
@@ -1419,6 +1421,7 @@ cmd/sc_entirecell.png cmd/sc_selectcell.png
 cmd/sc_entirecolumn.png cmd/sc_selectcolumn.png
 cmd/sc_entirerow.png cmd/sc_selectrow.png
 cmd/sc_errorcellstyle.png cmd/sc_showerrors.png
+cmd/sc_errorcellstyles.png cmd/sc_showerrors.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_exportasgraphic.png cmd/sc_insertgraphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png

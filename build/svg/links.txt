@@ -163,6 +163,7 @@ cmd/32/entirecell.svg cmd/32/selectcell.svg
 cmd/32/entirecolumn.svg cmd/32/selectcolumn.svg
 cmd/32/entirerow.svg cmd/32/selectrow.svg
 cmd/32/errorcellstyle.svg cmd/32/showerrors.svg
+cmd/sc_errorcellstyles.svg cmd/sc_showerrors.svg
 cmd/32/es/bold.svg cmd/32/ca/bold.svg
 cmd/32/es/italic.svg cmd/32/de/italic.svg
 cmd/32/es/numberformatdecdecimals.svg cmd/32/de/numberformatdecdecimals.svg
@@ -886,6 +887,7 @@ cmd/lc_entirecell.svg cmd/lc_selectcell.svg
 cmd/lc_entirecolumn.svg cmd/lc_selectcolumn.svg
 cmd/lc_entirerow.svg cmd/lc_selectrow.svg
 cmd/lc_errorcellstyle.svg cmd/lc_showerrors.svg
+cmd/sc_errorcellstyles.svg cmd/sc_showerrors.svg
 cmd/lc_exitsearch.svg cmd/lc_closedoc.svg
 cmd/lc_exportasgraphic.svg cmd/lc_gallery.svg
 cmd/lc_exportasmenu.svg cmd/lc_exportto.svg
@@ -1419,6 +1421,7 @@ cmd/sc_entirecell.svg cmd/sc_selectcell.svg
 cmd/sc_entirecolumn.svg cmd/sc_selectcolumn.svg
 cmd/sc_entirerow.svg cmd/sc_selectrow.svg
 cmd/sc_errorcellstyle.svg cmd/sc_showerrors.svg
+cmd/sc_errorcellstyles.svg cmd/sc_showerrors.svg
 cmd/sc_exitsearch.svg cmd/sc_closedoc.svg
 cmd/sc_exportasgraphic.svg cmd/sc_insertgraphic.svg
 cmd/sc_exportasmenu.svg cmd/sc_exportto.svg

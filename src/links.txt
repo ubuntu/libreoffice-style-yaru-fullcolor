@@ -163,6 +163,7 @@ cmd/32/entirecell.xxx cmd/32/selectcell.xxx
 cmd/32/entirecolumn.xxx cmd/32/selectcolumn.xxx
 cmd/32/entirerow.xxx cmd/32/selectrow.xxx
 cmd/32/errorcellstyle.xxx cmd/32/showerrors.xxx
+cmd/sc_errorcellstyles.xxx cmd/sc_showerrors.xxx
 cmd/32/es/bold.xxx cmd/32/ca/bold.xxx
 cmd/32/es/italic.xxx cmd/32/de/italic.xxx
 cmd/32/es/numberformatdecdecimals.xxx cmd/32/de/numberformatdecdecimals.xxx
@@ -886,6 +887,7 @@ cmd/lc_entirecell.xxx cmd/lc_selectcell.xxx
 cmd/lc_entirecolumn.xxx cmd/lc_selectcolumn.xxx
 cmd/lc_entirerow.xxx cmd/lc_selectrow.xxx
 cmd/lc_errorcellstyle.xxx cmd/lc_showerrors.xxx
+cmd/sc_errorcellstyles.xxx cmd/sc_showerrors.xxx
 cmd/lc_exitsearch.xxx cmd/lc_closedoc.xxx
 cmd/lc_exportasgraphic.xxx cmd/lc_gallery.xxx
 cmd/lc_exportasmenu.xxx cmd/lc_exportto.xxx
@@ -1419,6 +1421,7 @@ cmd/sc_entirecell.xxx cmd/sc_selectcell.xxx
 cmd/sc_entirecolumn.xxx cmd/sc_selectcolumn.xxx
 cmd/sc_entirerow.xxx cmd/sc_selectrow.xxx
 cmd/sc_errorcellstyle.xxx cmd/sc_showerrors.xxx
+cmd/sc_errorcellstyles.xxx cmd/sc_showerrors.xxx
 cmd/sc_exitsearch.xxx cmd/sc_closedoc.xxx
 cmd/sc_exportasgraphic.xxx cmd/sc_insertgraphic.xxx
 cmd/sc_exportasmenu.xxx cmd/sc_exportto.xxx
