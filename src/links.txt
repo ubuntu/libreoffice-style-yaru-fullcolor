@@ -334,6 +334,8 @@ cmd/32/insertobjectchart.xxx cmd/32/drawchart.xxx
 cmd/32/insertobjectchartfromfile.xxx cmd/32/open.xxx
 cmd/32/insertobjectfloatingframe.xxx cmd/32/insertframe.xxx
 cmd/32/insertobjectstarmath.xxx cmd/32/insertmath.xxx
+cmd/32/insertpagefooter.png cmd/32/insertfooter.png
+cmd/32/insertpageheader.png cmd/32/insertheader.png
 cmd/32/insertpagesfield.xxx cmd/32/insertpagenumberfield.xxx
 cmd/32/insertpagetitlefield.xxx cmd/32/inserttitlefield.xxx
 cmd/32/insertpatternfield.xxx cmd/32/patternfield.xxx
@@ -1009,6 +1011,8 @@ cmd/lc_insertobjectchart.xxx cmd/lc_drawchart.xxx
 cmd/lc_insertobjectchartfromfile.xxx cmd/lc_open.xxx
 cmd/lc_insertobjectfloatingframe.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertobjectstarmath.xxx cmd/lc_insertmath.xxx
+cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
+cmd/lc_insertpageheader.png cmd/lc_insertheader.png
 cmd/lc_inserttopicfield.xxx cmd/lc_drawcaption.xxx
 cmd/lc_insertpagesfield.xxx cmd/lc_insertpagenumberfield.xxx
 cmd/lc_insertpagetitlefield.xxx cmd/lc_inserttitlefield.xxx
@@ -1540,6 +1544,8 @@ cmd/sc_insertobjectchart.xxx cmd/sc_drawchart.xxx
 cmd/sc_insertobjectchartfromfile.xxx cmd/sc_open.xxx
 cmd/sc_insertobjectfloatingframe.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertobjectstarmath.xxx cmd/sc_insertmath.xxx
+cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
+cmd/sc_insertpageheader.png cmd/sc_insertheader.png
 cmd/sc_inserttopicfield.xxx cmd/sc_drawcaption.xxx
 cmd/sc_insertpagesfield.xxx cmd/sc_insertpagenumberfield.xxx
 cmd/sc_insertpagetitlefield.xxx cmd/sc_inserttitlefield.xxx
@@ -2339,6 +2345,8 @@ sw/res/sc20172.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20173.xxx cmd/sc_nextrecord.xxx
 sw/res/sc20174.xxx cmd/sc_upsearch.xxx
 sw/res/sc20175.xxx cmd/sc_nextrecord.xxx
+sw/res/sc20177.png cmd/sc_insertfooter.png
+sw/res/sc20179.png cmd/sc_insertheader.png
 sw/res/sc20182.xxx cmd/sc_toggleanchortype.xxx
 sw/res/sc20186.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20233.xxx cmd/sc_ok.xxx
