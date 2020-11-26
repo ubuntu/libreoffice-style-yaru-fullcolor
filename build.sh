@@ -159,13 +159,17 @@ then
 
     while true; do
         filename=$(inotifywait -r -q --event close_write --format %w%f src/)
-        if [[ $filename == *.svg ]]; then
+        if [[ $filename == *.svg ]];
+        then
             filename=${filename#"src"}
             filename=${filename%".svg"}
 
             render_icon $filename
 
             echo
+        elif [[ $filename == *links.txt ]];
+        then
+            ./generate-links.sh
         fi
     done
 else
