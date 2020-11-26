@@ -247,8 +247,8 @@ cmd/32/functiondialog.xxx cmd/32/dbviewfunctions.xxx
 cmd/32/goodcellstyles.xxx cmd/32/goodcellstyle.xxx
 cmd/32/gotoend.xxx cmd/32/lastrecord.xxx
 cmd/32/gotoendofdoc.xxx cmd/32/lastrecord.xxx
-cmd/32/gotostartofdoc.xxx cmd/32/firstrecord.xxx
-cmd/32/gotostartoftable.xxx cmd/32/firstrecord.xxx
+cmd/32/gotostartofdoc.xxx cmd/32/firstpage.xxx
+cmd/32/gotostartoftable.xxx cmd/32/firstpage.xxx
 cmd/32/grafinvert.xxx cmd/32/graphicfilterinvert.xxx
 cmd/32/grafmode.xxx cmd/32/graphicdialog.xxx
 cmd/32/graphicfilterposter.xxx cmd/32/graphicdialog.xxx
@@ -336,8 +336,8 @@ cmd/32/insertobjectchart.xxx cmd/32/drawchart.xxx
 cmd/32/insertobjectchartfromfile.xxx cmd/32/open.xxx
 cmd/32/insertobjectfloatingframe.xxx cmd/32/insertframe.xxx
 cmd/32/insertobjectstarmath.xxx cmd/32/insertmath.xxx
-cmd/32/insertpagefooter.png cmd/32/insertfooter.png
-cmd/32/insertpageheader.png cmd/32/insertheader.png
+cmd/32/insertpagefooter.xxx cmd/32/insertfooter.xxx
+cmd/32/insertpageheader.xxx cmd/32/insertheader.xxx
 cmd/32/insertpagesfield.xxx cmd/32/insertpagenumberfield.xxx
 cmd/32/insertpagetitlefield.xxx cmd/32/inserttitlefield.xxx
 cmd/32/insertpatternfield.xxx cmd/32/patternfield.xxx
@@ -381,7 +381,7 @@ cmd/32/loadstyles.xxx cmd/32/open.xxx
 cmd/32/macrodialog.xxx cmd/32/scriptorganizer.xxx
 cmd/32/macroorganizer%3ftabid%3ashort=1.xxx cmd/32/open.xxx
 cmd/32/macrosmenu.xxx cmd/32/insertscript.xxx
-cmd/32/mailmergefirstentry.xxx cmd/32/firstrecord.xxx
+cmd/32/mailmergefirstentry.xxx cmd/32/firstpage.xxx
 cmd/32/mailmergelastentry.xxx cmd/32/lastrecord.xxx
 cmd/32/mailmergenextentry.xxx cmd/32/nextrecord.xxx
 cmd/32/mailmergepreventry.xxx cmd/32/prevrecord.xxx
@@ -943,8 +943,8 @@ cmd/lc_functiondialog.xxx cmd/lc_dbviewfunctions.xxx
 cmd/lc_goodcellstyles.xxx cmd/lc_goodcellstyle.xxx
 cmd/lc_gotoend.xxx cmd/lc_lastrecord.xxx
 cmd/lc_gotoendofdoc.xxx cmd/lc_lastrecord.xxx
-cmd/lc_gotostartofdoc.xxx cmd/lc_firstrecord.xxx
-cmd/lc_gotostartoftable.xxx cmd/lc_firstrecord.xxx
+cmd/lc_gotostartofdoc.xxx cmd/lc_firstpage.xxx
+cmd/lc_gotostartoftable.xxx cmd/lc_firstpage.xxx
 cmd/lc_grafinvert.xxx cmd/lc_graphicfilterinvert.xxx
 cmd/lc_grafmode.xxx cmd/lc_graphicdialog.xxx
 cmd/lc_graphicfilterposter.xxx cmd/lc_graphicdialog.xxx
@@ -1015,8 +1015,8 @@ cmd/lc_insertobjectchart.xxx cmd/lc_drawchart.xxx
 cmd/lc_insertobjectchartfromfile.xxx cmd/lc_open.xxx
 cmd/lc_insertobjectfloatingframe.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertobjectstarmath.xxx cmd/lc_insertmath.xxx
-cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
-cmd/lc_insertpageheader.png cmd/lc_insertheader.png
+cmd/lc_insertpagefooter.xxx cmd/lc_insertfooter.xxx
+cmd/lc_insertpageheader.xxx cmd/lc_insertheader.xxx
 cmd/lc_inserttopicfield.xxx cmd/lc_drawcaption.xxx
 cmd/lc_insertpagesfield.xxx cmd/lc_insertpagenumberfield.xxx
 cmd/lc_insertpagetitlefield.xxx cmd/lc_inserttitlefield.xxx
@@ -1054,7 +1054,7 @@ cmd/lc_loadstyles.xxx cmd/lc_open.xxx
 cmd/lc_macrodialog.xxx cmd/lc_scriptorganizer.xxx
 cmd/lc_macroorganizer%3ftabid%3ashort=1.xxx cmd/lc_open.xxx
 cmd/lc_macrosmenu.xxx cmd/lc_insertscript.xxx
-cmd/lc_mailmergefirstentry.xxx cmd/lc_firstrecord.xxx
+cmd/lc_mailmergefirstentry.xxx cmd/lc_firstpage.xxx
 cmd/lc_mailmergelastentry.xxx cmd/lc_lastrecord.xxx
 cmd/lc_mailmergenextentry.xxx cmd/lc_nextrecord.xxx
 cmd/lc_mailmergepreventry.xxx cmd/lc_prevrecord.xxx
@@ -1478,8 +1478,8 @@ cmd/sc_functiondialog.xxx cmd/sc_dbviewfunctions.xxx
 cmd/sc_goodcellstyles.xxx cmd/sc_goodcellstyle.xxx
 cmd/sc_gotoend.xxx cmd/sc_lastrecord.xxx
 cmd/sc_gotoendofdoc.xxx cmd/sc_lastrecord.xxx
-cmd/sc_gotostartofdoc.xxx cmd/sc_firstrecord.xxx
-cmd/sc_gotostartoftable.xxx cmd/sc_firstrecord.xxx
+cmd/sc_gotostartofdoc.xxx cmd/sc_firstpage.xxx
+cmd/sc_gotostartoftable.xxx cmd/sc_firstpage.xxx
 cmd/sc_grafinvert.xxx cmd/sc_graphicfilterinvert.xxx
 cmd/sc_grafmode.xxx cmd/sc_graphicdialog.xxx
 cmd/sc_graphicfilterposter.xxx cmd/sc_graphicdialog.xxx
@@ -1550,8 +1550,8 @@ cmd/sc_insertobjectchart.xxx cmd/sc_drawchart.xxx
 cmd/sc_insertobjectchartfromfile.xxx cmd/sc_open.xxx
 cmd/sc_insertobjectfloatingframe.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertobjectstarmath.xxx cmd/sc_insertmath.xxx
-cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
-cmd/sc_insertpageheader.png cmd/sc_insertheader.png
+cmd/sc_insertpagefooter.xxx cmd/sc_insertfooter.xxx
+cmd/sc_insertpageheader.xxx cmd/sc_insertheader.xxx
 cmd/sc_inserttopicfield.xxx cmd/sc_drawcaption.xxx
 cmd/sc_insertpagesfield.xxx cmd/sc_insertpagenumberfield.xxx
 cmd/sc_insertpagetitlefield.xxx cmd/sc_inserttitlefield.xxx
@@ -1590,7 +1590,7 @@ cmd/sc_loadstyles.xxx cmd/sc_open.xxx
 cmd/sc_macrodialog.xxx cmd/sc_scriptorganizer.xxx
 cmd/sc_macroorganizer%3ftabid%3ashort=1.xxx cmd/sc_open.xxx
 cmd/sc_macrosmenu.xxx cmd/sc_insertscript.xxx
-cmd/sc_mailmergefirstentry.xxx cmd/sc_firstrecord.xxx
+cmd/sc_mailmergefirstentry.xxx cmd/sc_firstpage.xxx
 cmd/sc_mailmergelastentry.xxx cmd/sc_lastrecord.xxx
 cmd/sc_mailmergenextentry.xxx cmd/sc_nextrecord.xxx
 cmd/sc_mailmergepreventry.xxx cmd/sc_prevrecord.xxx
@@ -1838,7 +1838,7 @@ cmd/ur/sc_removebullets.xxx cmd/ar/sc_removebullets.xxx
 cmd/ur/sc_romanliststyle.xxx cmd/ar/sc_romanliststyle.xxx
 cmd/ur/sc_romanlowliststyle.xxx cmd/ar/sc_romanlowliststyle.xxx
 cmd/ur/sc_undo.xxx cmd/ar/sc_undo.xxx
-dbaccess/res/all_left.xxx cmd/sc_firstrecord.xxx
+dbaccess/res/all_left.xxx cmd/sc_firstpage.xxx
 dbaccess/res/all_right.xxx cmd/sc_lastrecord.xxx
 dbaccess/res/db.xxx cmd/sc_viewdatasourcebrowser.xxx
 dbaccess/res/exerror.xxx cmd/sc_cancel.xxx
@@ -1981,7 +1981,7 @@ res/sc05711.xxx cmd/sc_copy.xxx
 res/sc05961.xxx cmd/sc_recsearch.xxx
 res/sc06300.xxx cmd/sc_nextrecord.xxx
 res/sc06301.xxx cmd/sc_prevrecord.xxx
-res/sc06303.xxx cmd/sc_firstrecord.xxx
+res/sc06303.xxx cmd/sc_firstpage.xxx
 res/sc10350.xxx cmd/sc_bmpmask.xxx
 res/sc10711.xxx cmd/sc_removefiltersort.xxx
 res/sc10712.xxx cmd/sc_sortascending.xxx
@@ -2103,7 +2103,7 @@ sd/res/getallob.xxx cmd/sc_selectall.xxx
 sd/res/group.xxx cmd/sc_group.xxx
 sd/res/nv010.xxx cmd/sc_inserthyperlink.xxx
 sd/res/nv02.xxx cmd/sc_freeline_unfilled.xxx
-sd/res/nv03.xxx cmd/sc_firstrecord.xxx
+sd/res/nv03.xxx cmd/sc_firstpage.xxx
 sd/res/nv04.xxx cmd/sc_prevrecord.xxx
 sd/res/nv05.xxx cmd/sc_nextrecord.xxx
 sd/res/nv06.xxx cmd/sc_lastrecord.xxx
@@ -2322,7 +2322,7 @@ svx/res/symphony/spacing_very_loose_s.xxx svx/res/symphony/spacing_very_loose.xx
 svx/res/symphony/spacing_very_tight_s.xxx svx/res/symphony/spacing_very_tight.xxx
 svx/res/time.xxx cmd/sc_timefield.xxx
 svx/res/zoom_page_statusbar.xxx cmd/sc_zoompanning.xxx
-sw/res/all_left.xxx cmd/sc_firstrecord.xxx
+sw/res/all_left.xxx cmd/sc_firstpage.xxx
 sw/res/all_right.xxx cmd/sc_lastrecord.xxx
 sw/res/lc20556.xxx cmd/lc_dbviewfunctions.xxx
 sw/res/lc20557.xxx cmd/lc_cancel.xxx
@@ -2351,8 +2351,8 @@ sw/res/sc20172.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20173.xxx cmd/sc_nextrecord.xxx
 sw/res/sc20174.xxx cmd/sc_upsearch.xxx
 sw/res/sc20175.xxx cmd/sc_nextrecord.xxx
-sw/res/sc20177.png cmd/sc_insertfooter.png
-sw/res/sc20179.png cmd/sc_insertheader.png
+sw/res/sc20177.xxx cmd/sc_insertfooter.xxx
+sw/res/sc20179.xxx cmd/sc_insertheader.xxx
 sw/res/sc20182.xxx cmd/sc_toggleanchortype.xxx
 sw/res/sc20186.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20233.xxx cmd/sc_ok.xxx

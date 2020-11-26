@@ -247,8 +247,8 @@ cmd/32/functiondialog.svg cmd/32/dbviewfunctions.svg
 cmd/32/goodcellstyles.svg cmd/32/goodcellstyle.svg
 cmd/32/gotoend.svg cmd/32/lastrecord.svg
 cmd/32/gotoendofdoc.svg cmd/32/lastrecord.svg
-cmd/32/gotostartofdoc.svg cmd/32/firstrecord.svg
-cmd/32/gotostartoftable.svg cmd/32/firstrecord.svg
+cmd/32/gotostartofdoc.svg cmd/32/firstpage.svg
+cmd/32/gotostartoftable.svg cmd/32/firstpage.svg
 cmd/32/grafinvert.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafmode.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfilterposter.svg cmd/32/graphicdialog.svg
@@ -336,8 +336,8 @@ cmd/32/insertobjectchart.svg cmd/32/drawchart.svg
 cmd/32/insertobjectchartfromfile.svg cmd/32/open.svg
 cmd/32/insertobjectfloatingframe.svg cmd/32/insertframe.svg
 cmd/32/insertobjectstarmath.svg cmd/32/insertmath.svg
-cmd/32/insertpagefooter.png cmd/32/insertfooter.png
-cmd/32/insertpageheader.png cmd/32/insertheader.png
+cmd/32/insertpagefooter.svg cmd/32/insertfooter.svg
+cmd/32/insertpageheader.svg cmd/32/insertheader.svg
 cmd/32/insertpagesfield.svg cmd/32/insertpagenumberfield.svg
 cmd/32/insertpagetitlefield.svg cmd/32/inserttitlefield.svg
 cmd/32/insertpatternfield.svg cmd/32/patternfield.svg
@@ -381,7 +381,7 @@ cmd/32/loadstyles.svg cmd/32/open.svg
 cmd/32/macrodialog.svg cmd/32/scriptorganizer.svg
 cmd/32/macroorganizer%3ftabid%3ashort=1.svg cmd/32/open.svg
 cmd/32/macrosmenu.svg cmd/32/insertscript.svg
-cmd/32/mailmergefirstentry.svg cmd/32/firstrecord.svg
+cmd/32/mailmergefirstentry.svg cmd/32/firstpage.svg
 cmd/32/mailmergelastentry.svg cmd/32/lastrecord.svg
 cmd/32/mailmergenextentry.svg cmd/32/nextrecord.svg
 cmd/32/mailmergepreventry.svg cmd/32/prevrecord.svg
@@ -943,8 +943,8 @@ cmd/lc_functiondialog.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_goodcellstyles.svg cmd/lc_goodcellstyle.svg
 cmd/lc_gotoend.svg cmd/lc_lastrecord.svg
 cmd/lc_gotoendofdoc.svg cmd/lc_lastrecord.svg
-cmd/lc_gotostartofdoc.svg cmd/lc_firstrecord.svg
-cmd/lc_gotostartoftable.svg cmd/lc_firstrecord.svg
+cmd/lc_gotostartofdoc.svg cmd/lc_firstpage.svg
+cmd/lc_gotostartoftable.svg cmd/lc_firstpage.svg
 cmd/lc_grafinvert.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfilterposter.svg cmd/lc_graphicdialog.svg
@@ -1015,8 +1015,8 @@ cmd/lc_insertobjectchart.svg cmd/lc_drawchart.svg
 cmd/lc_insertobjectchartfromfile.svg cmd/lc_open.svg
 cmd/lc_insertobjectfloatingframe.svg cmd/lc_insertframe.svg
 cmd/lc_insertobjectstarmath.svg cmd/lc_insertmath.svg
-cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
-cmd/lc_insertpageheader.png cmd/lc_insertheader.png
+cmd/lc_insertpagefooter.svg cmd/lc_insertfooter.svg
+cmd/lc_insertpageheader.svg cmd/lc_insertheader.svg
 cmd/lc_inserttopicfield.svg cmd/lc_drawcaption.svg
 cmd/lc_insertpagesfield.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_insertpagetitlefield.svg cmd/lc_inserttitlefield.svg
@@ -1054,7 +1054,7 @@ cmd/lc_loadstyles.svg cmd/lc_open.svg
 cmd/lc_macrodialog.svg cmd/lc_scriptorganizer.svg
 cmd/lc_macroorganizer%3ftabid%3ashort=1.svg cmd/lc_open.svg
 cmd/lc_macrosmenu.svg cmd/lc_insertscript.svg
-cmd/lc_mailmergefirstentry.svg cmd/lc_firstrecord.svg
+cmd/lc_mailmergefirstentry.svg cmd/lc_firstpage.svg
 cmd/lc_mailmergelastentry.svg cmd/lc_lastrecord.svg
 cmd/lc_mailmergenextentry.svg cmd/lc_nextrecord.svg
 cmd/lc_mailmergepreventry.svg cmd/lc_prevrecord.svg
@@ -1478,8 +1478,8 @@ cmd/sc_functiondialog.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_goodcellstyles.svg cmd/sc_goodcellstyle.svg
 cmd/sc_gotoend.svg cmd/sc_lastrecord.svg
 cmd/sc_gotoendofdoc.svg cmd/sc_lastrecord.svg
-cmd/sc_gotostartofdoc.svg cmd/sc_firstrecord.svg
-cmd/sc_gotostartoftable.svg cmd/sc_firstrecord.svg
+cmd/sc_gotostartofdoc.svg cmd/sc_firstpage.svg
+cmd/sc_gotostartoftable.svg cmd/sc_firstpage.svg
 cmd/sc_grafinvert.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
@@ -1550,8 +1550,8 @@ cmd/sc_insertobjectchart.svg cmd/sc_drawchart.svg
 cmd/sc_insertobjectchartfromfile.svg cmd/sc_open.svg
 cmd/sc_insertobjectfloatingframe.svg cmd/sc_insertframe.svg
 cmd/sc_insertobjectstarmath.svg cmd/sc_insertmath.svg
-cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
-cmd/sc_insertpageheader.png cmd/sc_insertheader.png
+cmd/sc_insertpagefooter.svg cmd/sc_insertfooter.svg
+cmd/sc_insertpageheader.svg cmd/sc_insertheader.svg
 cmd/sc_inserttopicfield.svg cmd/sc_drawcaption.svg
 cmd/sc_insertpagesfield.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertpagetitlefield.svg cmd/sc_inserttitlefield.svg
@@ -1590,7 +1590,7 @@ cmd/sc_loadstyles.svg cmd/sc_open.svg
 cmd/sc_macrodialog.svg cmd/sc_scriptorganizer.svg
 cmd/sc_macroorganizer%3ftabid%3ashort=1.svg cmd/sc_open.svg
 cmd/sc_macrosmenu.svg cmd/sc_insertscript.svg
-cmd/sc_mailmergefirstentry.svg cmd/sc_firstrecord.svg
+cmd/sc_mailmergefirstentry.svg cmd/sc_firstpage.svg
 cmd/sc_mailmergelastentry.svg cmd/sc_lastrecord.svg
 cmd/sc_mailmergenextentry.svg cmd/sc_nextrecord.svg
 cmd/sc_mailmergepreventry.svg cmd/sc_prevrecord.svg
@@ -1838,7 +1838,7 @@ cmd/ur/sc_removebullets.svg cmd/ar/sc_removebullets.svg
 cmd/ur/sc_romanliststyle.svg cmd/ar/sc_romanliststyle.svg
 cmd/ur/sc_romanlowliststyle.svg cmd/ar/sc_romanlowliststyle.svg
 cmd/ur/sc_undo.svg cmd/ar/sc_undo.svg
-dbaccess/res/all_left.svg cmd/sc_firstrecord.svg
+dbaccess/res/all_left.svg cmd/sc_firstpage.svg
 dbaccess/res/all_right.svg cmd/sc_lastrecord.svg
 dbaccess/res/db.svg cmd/sc_viewdatasourcebrowser.svg
 dbaccess/res/exerror.svg cmd/sc_cancel.svg
@@ -1981,7 +1981,7 @@ res/sc05711.svg cmd/sc_copy.svg
 res/sc05961.svg cmd/sc_recsearch.svg
 res/sc06300.svg cmd/sc_nextrecord.svg
 res/sc06301.svg cmd/sc_prevrecord.svg
-res/sc06303.svg cmd/sc_firstrecord.svg
+res/sc06303.svg cmd/sc_firstpage.svg
 res/sc10350.svg cmd/sc_bmpmask.svg
 res/sc10711.svg cmd/sc_removefiltersort.svg
 res/sc10712.svg cmd/sc_sortascending.svg
@@ -2103,7 +2103,7 @@ sd/res/getallob.svg cmd/sc_selectall.svg
 sd/res/group.svg cmd/sc_group.svg
 sd/res/nv010.svg cmd/sc_inserthyperlink.svg
 sd/res/nv02.svg cmd/sc_freeline_unfilled.svg
-sd/res/nv03.svg cmd/sc_firstrecord.svg
+sd/res/nv03.svg cmd/sc_firstpage.svg
 sd/res/nv04.svg cmd/sc_prevrecord.svg
 sd/res/nv05.svg cmd/sc_nextrecord.svg
 sd/res/nv06.svg cmd/sc_lastrecord.svg
@@ -2322,7 +2322,7 @@ svx/res/symphony/spacing_very_loose_s.svg svx/res/symphony/spacing_very_loose.sv
 svx/res/symphony/spacing_very_tight_s.svg svx/res/symphony/spacing_very_tight.svg
 svx/res/time.svg cmd/sc_timefield.svg
 svx/res/zoom_page_statusbar.svg cmd/sc_zoompanning.svg
-sw/res/all_left.svg cmd/sc_firstrecord.svg
+sw/res/all_left.svg cmd/sc_firstpage.svg
 sw/res/all_right.svg cmd/sc_lastrecord.svg
 sw/res/lc20556.svg cmd/lc_dbviewfunctions.svg
 sw/res/lc20557.svg cmd/lc_cancel.svg
@@ -2351,8 +2351,8 @@ sw/res/sc20172.svg cmd/sc_prevrecord.svg
 sw/res/sc20173.svg cmd/sc_nextrecord.svg
 sw/res/sc20174.svg cmd/sc_upsearch.svg
 sw/res/sc20175.svg cmd/sc_nextrecord.svg
-sw/res/sc20177.png cmd/sc_insertfooter.png
-sw/res/sc20179.png cmd/sc_insertheader.png
+sw/res/sc20177.svg cmd/sc_insertfooter.svg
+sw/res/sc20179.svg cmd/sc_insertheader.svg
 sw/res/sc20182.svg cmd/sc_toggleanchortype.svg
 sw/res/sc20186.svg cmd/sc_prevrecord.svg
 sw/res/sc20233.svg cmd/sc_ok.svg
