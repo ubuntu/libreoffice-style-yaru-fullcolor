@@ -201,6 +201,7 @@ cmd/32/fillcolor.xxx cmd/32/backgroundcolor.xxx
 cmd/32/fillstyle.xxx cmd/32/backgroundcolor.xxx
 cmd/32/filtercrit.xxx cmd/32/datafilterstandardfilter.xxx
 cmd/32/findbar.xxx cmd/32/recsearch.xxx
+cmd/32/firstrecord.xxx cmd/32/firstpage.xxx
 cmd/32/firstslide.xxx cmd/32/firstpage.xxx
 cmd/32/fliphorizontal.xxx cmd/32/mirror.xxx
 cmd/32/flipmenu.xxx cmd/32/mirror.xxx
@@ -899,6 +900,7 @@ cmd/lc_fillcolor.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_fillstyle.xxx cmd/lc_backgroundcolor.xxx
 cmd/lc_filtercrit.xxx cmd/lc_datafilterstandardfilter.xxx
 cmd/lc_findbar.xxx cmd/lc_recsearch.xxx
+cmd/lc_firstrecord.xxx cmd/lc_firstpage.xxx
 cmd/lc_firstslide.xxx cmd/lc_firstpage.xxx
 cmd/lc_fliphorizontal.xxx cmd/lc_mirror.xxx
 cmd/lc_flipmenu.xxx cmd/lc_mirror.xxx
@@ -1433,6 +1435,7 @@ cmd/sc_fillcolor.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_fillstyle.xxx cmd/sc_backgroundcolor.xxx
 cmd/sc_filtercrit.xxx cmd/sc_datafilterstandardfilter.xxx
 cmd/sc_findbar.xxx cmd/sc_recsearch.xxx
+cmd/sc_firstrecord.xxx cmd/sc_firstpage.xxx
 cmd/sc_firstslide.xxx cmd/sc_firstpage.xxx
 cmd/sc_fliphorizontal.xxx cmd/sc_mirror.xxx
 cmd/sc_flipmenu.xxx cmd/sc_mirror.xxx
