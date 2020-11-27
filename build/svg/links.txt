@@ -248,6 +248,7 @@ cmd/32/gotoendofdoc.svg cmd/32/lastrecord.svg
 cmd/32/gotostartofdoc.svg cmd/32/firstrecord.svg
 cmd/32/gotostartoftable.svg cmd/32/firstrecord.svg
 cmd/32/grafinvert.svg cmd/32/graphicfilterinvert.svg
+cmd/32/grafattrcrop.svg cmd/32/crop.svg
 cmd/32/grafmode.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfilterposter.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfiltertoolbox.svg cmd/32/autoformat.svg
@@ -940,6 +941,7 @@ cmd/lc_gotoendofdoc.svg cmd/lc_lastrecord.svg
 cmd/lc_gotostartofdoc.svg cmd/lc_firstrecord.svg
 cmd/lc_gotostartoftable.svg cmd/lc_firstrecord.svg
 cmd/lc_grafinvert.svg cmd/lc_graphicfilterinvert.svg
+cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
 cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfilterposter.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfiltertoolbox.svg cmd/lc_autoformat.svg
@@ -1471,6 +1473,7 @@ cmd/sc_gotoendofdoc.svg cmd/sc_lastrecord.svg
 cmd/sc_gotostartofdoc.svg cmd/sc_firstrecord.svg
 cmd/sc_gotostartoftable.svg cmd/sc_firstrecord.svg
 cmd/sc_grafinvert.svg cmd/sc_graphicfilterinvert.svg
+cmd/sc_grafattrcrop.svg cmd/sc_crop.svg
 cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
 cmd/sc_graphicfiltertoolbox.svg cmd/sc_autoformat.svg

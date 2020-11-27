@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_toggleobjectrotatemode.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_toggleobjectrotatemode.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -41,13 +41,14 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="8.7762528"
-     inkscape:cy="10.064909"
-     inkscape:window-x="0"
+     inkscape:zoom="27.812867"
+     inkscape:cx="6.1312835"
+     inkscape:cy="9.4700397"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid829" />
@@ -56,30 +57,29 @@
      sodipodi:nodetypes="ccccc"
      style="fill:#1a7fd4;fill-opacity:1"
      id="path2-1"
-     d="M 3.0000001,21 H 15 V 15 L 3.0000001,19 Z"
+     d="M 2,22 H 15 V 15 L 2,20 Z"
      inkscape:connector-curvature="0" />
   <path
      sodipodi:nodetypes="ccccc"
      style="opacity:1;fill:#1a7fd4;fill-opacity:1"
      id="path4"
-     d="m 15,3 v 12 h 6 L 17,3 Z"
+     d="m 15,2 v 13 h 7 L 17,2 Z"
      inkscape:connector-curvature="0" />
   <path
      style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 5,16 2.0000002,12 7.977903,11.98311 Z"
-     id="path833"
+     d="M 5.5,15 3,12 7.977903,11.98311 Z"
+     id="path833-9"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 3.999997,12 V 9 c 0,-2 1,-3 3,-3 L 10.98474,5.98309 11,8 H 8 C 6,8 6,8 6,10 v 2 z"
-     id="path835"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
+     style="fill:none;stroke:#e95420;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 5.5,11.5 v -2 c 0,-1.5 0.5,-2 2,-2 h 3"
+     id="path836"
+     sodipodi:nodetypes="cccc" />
   <path
-     sodipodi:nodetypes="cccc"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 13.01689,7.477904 -3,2.5 L 10,5 Z"
+     id="path843"
      inkscape:connector-curvature="0"
-     id="path831"
-     d="M 14,7 9.9999996,9.9999998 9.9831096,4.022097 Z"
-     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     sodipodi:nodetypes="cccc" />
 </svg>
