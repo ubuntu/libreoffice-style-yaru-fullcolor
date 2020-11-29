@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="togglesheetgrid.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/togglesheetgrid.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="18.173152"
-     inkscape:cy="8.9614923"
+     inkscape:cx="17.462382"
+     inkscape:cy="13.72141"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -66,9 +67,7 @@
      style="fill:#000000;opacity:0.7"
      sodipodi:nodetypes="ccccccccccc" />
   <path
-     d="M 4,5.9999999 V 25.9836 C 4,28 5,28 7,28 V 27 C 6,27 5,27 5,26 v -2 h 7 1 v -4 -1 -3 h 6 1 v -1 -3 h 7 1 V 6 C 28,4 27,4 25,4 H 7 C 5,4 4,4 4,5.9999999 Z M 7,5 h 5 V 7 H 5 V 5.9999999 C 5,5 6,5 7,5 Z m 6,0 h 6 v 2 h -6 z m 7,0 h 5 c 1,0 2,0 2,0.9999999 V 7 H 20 Z M 5,8 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m 7,0 h 7 v 3 H 20 Z M 5,12 h 7 v 3 H 5 Z m 8,0 h 6 v 3 h -6 z m -8,4 h 7 v 3 H 5 Z m 0,4 h 7 v 3 H 5 Z"
      id="path2"
-     inkscape:connector-curvature="0"
      style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 7 4 C 5 4 4 4.0000001 4 6 L 4 25.984375 C 4 28.000775 5 28 7 28 L 7 27 C 6 27 5 27 5 26 L 5 25 L 5 24 L 5 23 L 5 20 L 12 20 L 13 20 L 13 19 L 13 16 L 19 16 L 20 16 L 20 15 L 20 12 L 27 12 L 28 12 L 28 6 C 28 4 27 4 25 4 L 7 4 z M 7 5 L 12 5 L 12 7 L 5 7 L 5 6 C 5 5.0000001 6 5 7 5 z M 13 5 L 19 5 L 19 7 L 13 7 L 13 5 z M 20 5 L 25 5 C 26 5 27 5.0000001 27 6 L 27 7 L 20 7 L 20 5 z M 5 8 L 12 8 L 12 11 L 5 11 L 5 8 z M 13 8 L 19 8 L 19 11 L 13 11 L 13 8 z M 20 8 L 27 8 L 27 11 L 20 11 L 20 8 z M 5 12 L 12 12 L 12 15 L 5 15 L 5 12 z M 13 12 L 19 12 L 19 15 L 13 15 L 13 12 z M 5 16 L 12 16 L 12 19 L 5 19 L 5 16 z " />
 </svg>
