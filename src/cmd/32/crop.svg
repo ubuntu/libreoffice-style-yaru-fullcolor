@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/crop.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -44,18 +44,17 @@
      inkscape:zoom="20.85965"
      inkscape:cx="11.130113"
      inkscape:cy="17.955597"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid812" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7,3 V 7 H 3 v 2 h 4 v 16 h 16 v 4 h 2 v -4 h 4 V 23 H 25 V 7 H 9 V 3 Z M 9,9 H 23 V 23 H 9 Z"
      id="rect814"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccc" />
+     style="opacity:1;fill:#1a7fd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7 3 L 7 6 L 7 7 L 7 9 L 7 10 L 7 25 L 22 25 L 22 23 L 9 23 L 9 10 L 9 9 L 9 7 L 9 6 L 9 3 L 7 3 z M 3 7 L 3 9 L 6 9 L 6 7 L 3 7 z M 10 7 L 10 9 L 23 9 L 23 22 L 23 23 L 23 25 L 23 26 L 23 29 L 25 29 L 25 26 L 25 25 L 25 23 L 25 22 L 25 7 L 10 7 z M 26 23 L 26 25 L 29 25 L 29 23 L 26 23 z " />
 </svg>

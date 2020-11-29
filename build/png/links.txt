@@ -250,6 +250,7 @@ cmd/32/gotoendofdoc.png cmd/32/lastrecord.png
 cmd/32/gotostartofdoc.png cmd/32/firstpage.png
 cmd/32/gotostartoftable.png cmd/32/firstpage.png
 cmd/32/grafinvert.png cmd/32/graphicfilterinvert.png
+cmd/32/grafattrcrop.png cmd/32/crop.png
 cmd/32/grafmode.png cmd/32/graphicdialog.png
 cmd/32/graphicfilterposter.png cmd/32/graphicdialog.png
 cmd/32/graphicfiltertoolbox.png cmd/32/autoformat.png
@@ -946,6 +947,7 @@ cmd/lc_gotoendofdoc.png cmd/lc_lastrecord.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_gotostartoftable.png cmd/lc_firstpage.png
 cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
+cmd/lc_grafattrcrop.png cmd/lc_crop.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfiltertoolbox.png cmd/lc_autoformat.png
@@ -1481,6 +1483,7 @@ cmd/sc_gotoendofdoc.png cmd/sc_lastrecord.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_gotostartoftable.png cmd/sc_firstpage.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
+cmd/sc_grafattrcrop.png cmd/sc_crop.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_graphicfiltertoolbox.png cmd/sc_autoformat.png
