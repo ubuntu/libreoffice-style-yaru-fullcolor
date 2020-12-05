@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_insertpagebreak.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_insertpagebreak.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -42,12 +42,13 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="0.30132675"
-     inkscape:cy="4.6247157"
+     inkscape:cx="14.170535"
+     inkscape:cy="5.1738133"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
@@ -56,23 +57,23 @@
      sodipodi:nodetypes="sssccss"
      inkscape:connector-curvature="0"
      id="path843"
-     d="m 4,5 h 8 c 0.554,0 1,-0.446 1,-1 V 2 H 3 v 2 c 0,0.554 0.446,1 1,1 z"
+     d="M 3.9999999,5 H 12 c 0.554,0 1,-0.446 1,-1 V 0 H 2.9999999 v 4 c 0,0.554 0.446,1 1,1 z"
      style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 2,7 V 8 H 5 V 7 Z m 4,0 v 1 h 4 V 7 Z m 5,0 v 1 h 3 V 7 Z"
+     d="m 1.9999999,7 v 1 h 3 V 7 Z m 4,0 V 8 H 10 V 7 Z M 11,7 v 1 h 3 V 7 Z"
      id="path4"
      inkscape:connector-curvature="0"
      style="fill:#e97cc8;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccccc" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 4,5 h 8 c 0.554,0 1,-0.446 1,-1 V 2 H 3 v 2 c 0,0.554 0.446,1 1,1 z"
+     d="M 3.9999999,5 H 12 c 0.554,0 1,-0.446 1,-1 V 0 H 2.9999999 v 4 c 0,0.554 0.446,1 1,1 z"
      id="rect836"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssccss" />
   <path
      style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 4,10 h 8 c 0.554,0 1,0.446 1,1 v 3 H 3 v -3 c 0,-0.554 0.446,-1 1,-1 z"
+     d="M 3.9999999,10 H 12 c 0.554,0 1,0.446 1,1 v 5 H 2.9999999 v -5 c 0,-0.554 0.446,-1 1,-1 z"
      id="path845"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssccss" />
@@ -80,6 +81,6 @@
      sodipodi:nodetypes="sssccss"
      inkscape:connector-curvature="0"
      id="path847"
-     d="m 4,10 h 8 c 0.554,0 1,0.446 1,1 v 3 H 3 v -3 c 0,-0.554 0.446,-1 1,-1 z"
+     d="M 3.9999999,10 H 12 c 0.554,0 1,0.446 1,1 v 5 H 2.9999999 v -5 c 0,-0.554 0.446,-1 1,-1 z"
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
