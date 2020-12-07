@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_pasteonlytext.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_pasteonlytext.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -42,41 +42,42 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.627417"
-     inkscape:cx="4.3205636"
-     inkscape:cy="0.52967393"
-     inkscape:window-x="1920"
+     inkscape:cx="2.5958417"
+     inkscape:cy="6.8564405"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 6.9999998,2 c -0.554,0 -1,0.446 -1,1 h -1 c -1.108,0 -1.9999996,0.892 -1.9999996,2 v 7 c 0,1.108 0.8919996,2 1.9999996,2 h 2 H 11 c 1.106228,0 2,-0.889291 2,-2 V 7 5 C 13,3.892 12.108,3 11,3 H 9.9999999 C 9.9999999,2.446 9.554,2 9,2 Z"
+     d="m 7.0000001,0.99999995 c -0.554,0 -1,0.44599995 -1,0.99999995 h -2 c -1.108,0 -2,0.8920005 -2,2.0000005 V 13 c 0,1.108 0.892,2 2,2 h 3 H 12 c 1.106228,0 2,-0.889291 2,-2 v -7.0000006 -2 C 14,2.8920004 13.108,1.9999999 12,1.9999999 H 9.9999999 c 0,-0.5540001 -0.446,-1.00000005 -1,-1.00000005 z"
      id="rect9566"
      sodipodi:nodetypes="scssssccccsscss" />
   <rect
      style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect873-1"
-     width="8"
-     height="9"
-     x="3.9999995"
-     y="3.9999993"
+     width="10"
+     height="11"
+     x="3.0000002"
+     y="2.9999995"
      ry="1"
      rx="1" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect9574"
-     width="2"
-     height="2"
-     x="7"
-     y="2.9999993" />
   <rect
      style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect9578"
      width="2"
      height="1"
      x="7"
-     y="2.9999993" />
+     y="1.9999995" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="4"
+     height="1"
+     x="6.0000005"
+     y="2.9999995" />
   <path
      d="M 7.5,5 5,12 h 1 l 0.8007812,-2 h 2.5 L 10,12 h 1 L 8.5039062,5 Z M 7.9980469,5.9316406 9,9 H 7 Z"
      id="path2"
