@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_pasteonlyvalue.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -41,41 +41,42 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="4.3315638"
-     inkscape:cy="5.6171399"
-     inkscape:window-x="1920"
+     inkscape:zoom="29.5"
+     inkscape:cx="7.40143"
+     inkscape:cy="10.504529"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 7,2.0000001 c -0.554,0 -1,0.446 -1,1 H 5 c -1.108,0 -2,0.892 -2,2 V 12 c 0,1.108 0.892,2 2,2 h 2 4 c 1.106228,0 2,-0.889291 2,-2 V 7 5 C 13,3.8920001 12.108,3.0000001 11,3.0000001 H 10 C 10,2.446 9.5540002,2 9.0000002,2 Z"
+     d="m 6.9999998,1.0000003 c -0.554,0 -1,0.446 -1,1 h -2 c -1.108,0 -2,0.8920005 -2,2.0000005 V 13 c 0,1.108 0.892,2 2,2 h 3 H 12 c 1.106228,0 2,-0.889291 2,-2 v -7.0000002 -2 C 14,2.8920008 13.108,2.0000003 12,2.0000003 H 10 C 10,1.4460002 9.5540001,1.0000002 9.0000001,1.0000002 Z"
      id="rect9566"
      sodipodi:nodetypes="scssssccccsscss" />
   <rect
      style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect873-1"
-     width="8"
-     height="9"
-     x="4"
-     y="4"
+     width="10"
+     height="11"
+     x="3"
+     y="3"
      ry="1"
      rx="1" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect9574"
-     width="2"
-     height="2"
-     x="7"
-     y="3" />
   <rect
      style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect9578"
      width="2"
      height="1"
      x="7"
+     y="1.9999999" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect839"
+     width="4"
+     height="1"
+     x="6"
      y="3" />
   <path
      d="M 8.2929688,5 6.3535156,6.9394531 6,7.2929688 6.7070312,8 7.0605469,7.6464844 8,6.7070312 V 12 H 9 V 5.7070312 5 H 8.6523438 Z"
