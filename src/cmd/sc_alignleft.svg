@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_alignleft.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_alignleft.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -23,13 +23,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -44,10 +45,11 @@
      inkscape:zoom="32"
      inkscape:cx="3.4073544"
      inkscape:cy="7.9541813"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g12">
+     inkscape:current-layer="g12"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid855" />
@@ -57,28 +59,60 @@
      transform="translate(-171,-400)"
      id="g12">
     <rect
-       height="2"
-       style="overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
+       style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect833"
        width="12"
+       height="1"
        x="173"
-       y="403"
-       overflow="visible"
-       id="rect2" />
+       y="403" />
     <rect
-       height="2"
-       style="overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect835"
+       width="12"
+       height="1"
+       x="173"
+       y="404" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect837"
        width="8"
+       height="1"
        x="173"
-       y="407"
-       overflow="visible"
-       id="rect4" />
+       y="407" />
     <rect
-       height="2"
-       style="overflow:visible;fill:#1a7fd4;fill-opacity:1;stroke-width:1.41421354;marker:none"
-       width="12"
+       style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect839"
+       width="8"
+       height="1"
        x="173"
-       y="411"
-       overflow="visible"
-       id="rect8" />
+       y="406" />
+    <rect
+       style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect841"
+       width="6"
+       height="1"
+       x="173"
+       y="409" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect843"
+       width="6"
+       height="1"
+       x="173"
+       y="410" />
+    <rect
+       style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect845"
+       width="10"
+       height="1"
+       x="173"
+       y="412" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect847"
+       width="10"
+       height="1"
+       x="173"
+       y="413" />
   </g>
 </svg>
