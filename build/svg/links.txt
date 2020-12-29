@@ -39,6 +39,7 @@ cmd/32/alignvcenter.svg cmd/32/alignverticalcenter.svg
 cmd/32/anchormenu.svg cmd/32/toggleanchortype.svg
 cmd/32/apply.svg cmd/32/ok.svg
 cmd/32/ar/bulletliststyle.svg cmd/32/ar/defaultbullet.svg
+cmd/32/ar/bulletsandnumberingdialog.svg cmd/32/ar/outlinebullet.svg
 cmd/32/ar/linenumberdialog.svg cmd/32/ar/linenumberingdialog.svg
 cmd/32/ar/defaultnumbering.svg cmd/32/ar/numberliststyle.svg
 cmd/32/arrangeframemenu.svg cmd/32/bringtofront.svg
@@ -66,6 +67,7 @@ cmd/32/browsebackward cmd/lc_prevrecord.svg
 cmd/32/browsebackward.svg cmd/32/prevrecord.svg
 cmd/32/browseforward.svg cmd/32/nextrecord.svg
 cmd/32/bulletliststyle.svg cmd/32/defaultbullet.svg
+cmd/32/bulletsandnumberingdialog.svg cmd/32/outlinebullet.svg
 cmd/32/ca/underlinesimple.svg cmd/32/ca/underline.svg
 cmd/32/ca/underlinesingle.svg cmd/32/ca/underline.svg
 cmd/32/calloutshapes.round-rectangular-callout.svg cmd/32/calloutshapes.svg
@@ -185,7 +187,7 @@ cmd/32/exporttopdf.svg cmd/32/exportdirecttopdf.svg
 cmd/32/fa/alphaliststyle.svg cmd/32/ar/alphaliststyle.svg
 cmd/32/fa/alphalowliststyle.svg cmd/32/ar/alphalowliststyle.svg
 cmd/32/fa/bulletliststyle.svg cmd/32/ar/defaultbullet.svg
-cmd/32/fa/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
+cmd/32/fa/bulletsandnumberingdialog.svg cmd/32/ar/outlinebullet.svg
 cmd/32/fa/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/fa/defaultnumbering.svg cmd/32/ar/numberliststyle.svg
 cmd/32/fa/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
@@ -266,7 +268,7 @@ cmd/32/groupoutlinemenu.svg cmd/32/autooutline.svg
 cmd/32/he/alphaliststyle.svg cmd/32/ar/alphaliststyle.svg
 cmd/32/he/alphalowliststyle.svg cmd/32/ar/alphalowliststyle.svg
 cmd/32/he/bulletliststyle.svg cmd/32/ar/defaultbullet.svg
-cmd/32/he/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
+cmd/32/he/bulletsandnumberingdialog.svg cmd/32/ar/outlinebullet.svg
 cmd/32/he/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/he/defaultnumbering.svg cmd/32/ar/numberliststyle.svg
 cmd/32/he/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
@@ -596,7 +598,7 @@ cmd/32/updatemenu.svg cmd/32/reload.svg
 cmd/32/ur/alphaliststyle.svg cmd/32/ar/alphaliststyle.svg
 cmd/32/ur/alphalowliststyle.svg cmd/32/ar/alphalowliststyle.svg
 cmd/32/ur/bulletliststyle.svg cmd/32/ar/defaultbullet.svg
-cmd/32/ur/bulletsandnumberingdialog.svg cmd/32/ar/bulletsandnumberingdialog.svg
+cmd/32/ur/bulletsandnumberingdialog.svg cmd/32/ar/outlinebullet.svg
 cmd/32/ur/defaultbullet.svg cmd/32/ar/defaultbullet.svg
 cmd/32/ur/defaultnumbering.svg cmd/32/ar/numberliststyle.svg
 cmd/32/ur/insertneutralparagraph.svg cmd/32/ar/insertneutralparagraph.svg
@@ -625,11 +627,13 @@ cmd/32/zoommode.svg cmd/32/zoomoptimal.svg
 cmd/32/zoomplus.svg cmd/32/zoomin.svg
 cmd/32/zoomtoolbox.svg cmd/32/zoomoptimal.svg
 cmd/ar/lc_bulletliststyle.svg cmd/ar/lc_defaultbullet.svg
+cmd/ar/lc_bulletsandnumberingdialog.svg cmd/ar/lc_outlinebullet.svg
 cmd/ar/lc_linenumberdialog.svg cmd/ar/lc_linenumberingdialog.svg
 cmd/ar/lc_defaultnumbering.svg cmd/ar/lc_numberliststyle.svg
 cmd/ca/lc_underlinesimple.svg cmd/ca/lc_underline.svg
 cmd/ca/lc_underlinesingle.svg cmd/ca/lc_underline.svg
 cmd/ar/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
+cmd/ar/sc_bulletsandnumberingdialog.svg cmd/ar/sc_outlinebullet.svg
 cmd/ar/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
 cmd/ar/sc_defaultnumbering.svg cmd/ar/sc_numberliststyle.svg
 cmd/ca/sc_underlinesimple.svg cmd/ca/sc_underline.svg
@@ -657,7 +661,7 @@ cmd/es/sc_underlinesingle.svg cmd/ca/sc_underline.svg
 cmd/fa/lc_alphaliststyle.svg cmd/ar/lc_alphaliststyle.svg
 cmd/fa/lc_alphalowliststyle.svg cmd/ar/lc_alphalowliststyle.svg
 cmd/fa/lc_bulletliststyle.svg cmd/ar/lc_defaultbullet.svg
-cmd/fa/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
+cmd/fa/lc_bulletsandnumberingdialog.svg cmd/ar/lc_outlinebullet.svg
 cmd/fa/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/fa/lc_defaultnumbering.svg cmd/ar/lc_numberliststyle.svg
 cmd/fa/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
@@ -673,7 +677,7 @@ cmd/fa/lc_undo.svg cmd/ar/lc_undo.svg
 cmd/fa/sc_alphaliststyle.svg cmd/ar/sc_alphaliststyle.svg
 cmd/fa/sc_alphalowliststyle.svg cmd/ar/sc_alphalowliststyle.svg
 cmd/fa/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
-cmd/fa/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
+cmd/fa/sc_bulletsandnumberingdialog.svg cmd/ar/sc_outlinebullet.svg
 cmd/fa/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/fa/sc_defaultnumbering.svg cmd/ar/sc_numberliststyle.svg
 cmd/fa/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg
@@ -700,7 +704,7 @@ cmd/fr/sc_underlinesingle.svg cmd/ca/sc_underline.svg
 cmd/he/lc_alphaliststyle.svg cmd/ar/lc_alphaliststyle.svg
 cmd/he/lc_alphalowliststyle.svg cmd/ar/lc_alphalowliststyle.svg
 cmd/he/lc_bulletliststyle.svg cmd/ar/lc_defaultbullet.svg
-cmd/he/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
+cmd/he/lc_bulletsandnumberingdialog.svg cmd/ar/lc_outlinebullet.svg
 cmd/he/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/he/lc_defaultnumbering.svg cmd/ar/lc_numberliststyle.svg
 cmd/he/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
@@ -716,7 +720,7 @@ cmd/he/lc_undo.svg cmd/ar/lc_undo.svg
 cmd/he/sc_alphaliststyle.svg cmd/ar/sc_alphaliststyle.svg
 cmd/he/sc_alphalowliststyle.svg cmd/ar/sc_alphalowliststyle.svg
 cmd/he/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
-cmd/he/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
+cmd/he/sc_bulletsandnumberingdialog.svg cmd/ar/sc_outlinebullet.svg
 cmd/he/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/he/sc_defaultnumbering.svg cmd/ar/sc_numberliststyle.svg
 cmd/he/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg
@@ -796,6 +800,7 @@ cmd/lc_browsebackward cmd/lc_prevrecord.svg
 cmd/lc_browsebackward.svg cmd/lc_prevrecord.svg
 cmd/lc_browseforward.svg cmd/lc_nextrecord.svg
 cmd/lc_bulletliststyle.svg cmd/lc_defaultbullet.svg
+cmd/lc_bulletsandnumberingdialog.svg cmd/lc_outlinebullet.svg
 cmd/lc_calloutshapes.round-rectangular-callout.svg cmd/lc_calloutshapes.svg
 cmd/lc_cellprotection.svg cmd/lc_protect.svg
 cmd/lc_cellvertbottom.svg cmd/lc_alignbottom.svg
@@ -1338,6 +1343,7 @@ cmd/sc_browsebackward cmd/lc_prevrecord.svg
 cmd/sc_browsebackward.svg cmd/sc_prevrecord.svg
 cmd/sc_browseforward.svg cmd/sc_nextrecord.svg
 cmd/sc_bulletliststyle.svg cmd/sc_defaultbullet.svg
+cmd/sc_bulletsandnumberingdialog.svg cmd/sc_outlinebullet.svg
 cmd/sc_calloutshapes.round-rectangular-callout.svg cmd/sc_calloutshapes.svg
 cmd/sc_cellcontentsmenu.svg cmd/sc_calculate.svg
 cmd/sc_cellprotection.svg cmd/sc_protect.svg
@@ -1832,7 +1838,7 @@ cmd/tr/sc_underlinesingle.svg cmd/hu/sc_underline.svg
 cmd/ur/lc_alphaliststyle.svg cmd/ar/lc_alphaliststyle.svg
 cmd/ur/lc_alphalowliststyle.svg cmd/ar/lc_alphalowliststyle.svg
 cmd/ur/lc_bulletliststyle.svg cmd/ar/lc_defaultbullet.svg
-cmd/ur/lc_bulletsandnumberingdialog.svg cmd/ar/lc_bulletsandnumberingdialog.svg
+cmd/ur/lc_bulletsandnumberingdialog.svg cmd/ar/lc_outlinebullet.svg
 cmd/ur/lc_defaultbullet.svg cmd/ar/lc_defaultbullet.svg
 cmd/ur/lc_defaultnumbering.svg cmd/ar/lc_numberliststyle.svg
 cmd/ur/lc_insertneutralparagraph.svg cmd/ar/lc_insertneutralparagraph.svg
@@ -1848,7 +1854,7 @@ cmd/ur/lc_undo.svg cmd/ar/lc_undo.svg
 cmd/ur/sc_alphaliststyle.svg cmd/ar/sc_alphaliststyle.svg
 cmd/ur/sc_alphalowliststyle.svg cmd/ar/sc_alphalowliststyle.svg
 cmd/ur/sc_bulletliststyle.svg cmd/ar/sc_defaultbullet.svg
-cmd/ur/sc_bulletsandnumberingdialog.svg cmd/ar/sc_bulletsandnumberingdialog.svg
+cmd/ur/sc_bulletsandnumberingdialog.svg cmd/ar/sc_outlinebullet.svg
 cmd/ur/sc_defaultbullet.svg cmd/ar/sc_defaultbullet.svg
 cmd/ur/sc_defaultnumbering.svg cmd/ar/sc_numberliststyle.svg
 cmd/ur/sc_insertneutralparagraph.svg cmd/ar/sc_insertneutralparagraph.svg

@@ -39,6 +39,7 @@ cmd/32/alignvcenter.xxx cmd/32/alignverticalcenter.xxx
 cmd/32/anchormenu.xxx cmd/32/toggleanchortype.xxx
 cmd/32/apply.xxx cmd/32/ok.xxx
 cmd/32/ar/bulletliststyle.xxx cmd/32/ar/defaultbullet.xxx
+cmd/32/ar/bulletsandnumberingdialog.xxx cmd/32/ar/outlinebullet.xxx
 cmd/32/ar/linenumberdialog.xxx cmd/32/ar/linenumberingdialog.xxx
 cmd/32/ar/defaultnumbering.xxx cmd/32/ar/numberliststyle.xxx
 cmd/32/arrangeframemenu.xxx cmd/32/bringtofront.xxx
@@ -66,6 +67,7 @@ cmd/32/browsebackward cmd/lc_prevrecord.xxx
 cmd/32/browsebackward.xxx cmd/32/prevrecord.xxx
 cmd/32/browseforward.xxx cmd/32/nextrecord.xxx
 cmd/32/bulletliststyle.xxx cmd/32/defaultbullet.xxx
+cmd/32/bulletsandnumberingdialog.xxx cmd/32/outlinebullet.xxx
 cmd/32/ca/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/ca/underlinesingle.xxx cmd/32/ca/underline.xxx
 cmd/32/calloutshapes.round-rectangular-callout.xxx cmd/32/calloutshapes.xxx
@@ -185,7 +187,7 @@ cmd/32/exporttopdf.xxx cmd/32/exportdirecttopdf.xxx
 cmd/32/fa/alphaliststyle.xxx cmd/32/ar/alphaliststyle.xxx
 cmd/32/fa/alphalowliststyle.xxx cmd/32/ar/alphalowliststyle.xxx
 cmd/32/fa/bulletliststyle.xxx cmd/32/ar/defaultbullet.xxx
-cmd/32/fa/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
+cmd/32/fa/bulletsandnumberingdialog.xxx cmd/32/ar/outlinebullet.xxx
 cmd/32/fa/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/fa/defaultnumbering.xxx cmd/32/ar/numberliststyle.xxx
 cmd/32/fa/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
@@ -266,7 +268,7 @@ cmd/32/groupoutlinemenu.xxx cmd/32/autooutline.xxx
 cmd/32/he/alphaliststyle.xxx cmd/32/ar/alphaliststyle.xxx
 cmd/32/he/alphalowliststyle.xxx cmd/32/ar/alphalowliststyle.xxx
 cmd/32/he/bulletliststyle.xxx cmd/32/ar/defaultbullet.xxx
-cmd/32/he/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
+cmd/32/he/bulletsandnumberingdialog.xxx cmd/32/ar/outlinebullet.xxx
 cmd/32/he/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/he/defaultnumbering.xxx cmd/32/ar/numberliststyle.xxx
 cmd/32/he/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
@@ -596,7 +598,7 @@ cmd/32/updatemenu.xxx cmd/32/reload.xxx
 cmd/32/ur/alphaliststyle.xxx cmd/32/ar/alphaliststyle.xxx
 cmd/32/ur/alphalowliststyle.xxx cmd/32/ar/alphalowliststyle.xxx
 cmd/32/ur/bulletliststyle.xxx cmd/32/ar/defaultbullet.xxx
-cmd/32/ur/bulletsandnumberingdialog.xxx cmd/32/ar/bulletsandnumberingdialog.xxx
+cmd/32/ur/bulletsandnumberingdialog.xxx cmd/32/ar/outlinebullet.xxx
 cmd/32/ur/defaultbullet.xxx cmd/32/ar/defaultbullet.xxx
 cmd/32/ur/defaultnumbering.xxx cmd/32/ar/numberliststyle.xxx
 cmd/32/ur/insertneutralparagraph.xxx cmd/32/ar/insertneutralparagraph.xxx
@@ -625,11 +627,13 @@ cmd/32/zoommode.xxx cmd/32/zoomoptimal.xxx
 cmd/32/zoomplus.xxx cmd/32/zoomin.xxx
 cmd/32/zoomtoolbox.xxx cmd/32/zoomoptimal.xxx
 cmd/ar/lc_bulletliststyle.xxx cmd/ar/lc_defaultbullet.xxx
+cmd/ar/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_outlinebullet.xxx
 cmd/ar/lc_linenumberdialog.xxx cmd/ar/lc_linenumberingdialog.xxx
 cmd/ar/lc_defaultnumbering.xxx cmd/ar/lc_numberliststyle.xxx
 cmd/ca/lc_underlinesimple.xxx cmd/ca/lc_underline.xxx
 cmd/ca/lc_underlinesingle.xxx cmd/ca/lc_underline.xxx
 cmd/ar/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
+cmd/ar/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_outlinebullet.xxx
 cmd/ar/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
 cmd/ar/sc_defaultnumbering.xxx cmd/ar/sc_numberliststyle.xxx
 cmd/ca/sc_underlinesimple.xxx cmd/ca/sc_underline.xxx
@@ -657,7 +661,7 @@ cmd/es/sc_underlinesingle.xxx cmd/ca/sc_underline.xxx
 cmd/fa/lc_alphaliststyle.xxx cmd/ar/lc_alphaliststyle.xxx
 cmd/fa/lc_alphalowliststyle.xxx cmd/ar/lc_alphalowliststyle.xxx
 cmd/fa/lc_bulletliststyle.xxx cmd/ar/lc_defaultbullet.xxx
-cmd/fa/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
+cmd/fa/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_outlinebullet.xxx
 cmd/fa/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/fa/lc_defaultnumbering.xxx cmd/ar/lc_numberliststyle.xxx
 cmd/fa/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
@@ -673,7 +677,7 @@ cmd/fa/lc_undo.xxx cmd/ar/lc_undo.xxx
 cmd/fa/sc_alphaliststyle.xxx cmd/ar/sc_alphaliststyle.xxx
 cmd/fa/sc_alphalowliststyle.xxx cmd/ar/sc_alphalowliststyle.xxx
 cmd/fa/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
-cmd/fa/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
+cmd/fa/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_outlinebullet.xxx
 cmd/fa/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/fa/sc_defaultnumbering.xxx cmd/ar/sc_numberliststyle.xxx
 cmd/fa/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
@@ -700,7 +704,7 @@ cmd/fr/sc_underlinesingle.xxx cmd/ca/sc_underline.xxx
 cmd/he/lc_alphaliststyle.xxx cmd/ar/lc_alphaliststyle.xxx
 cmd/he/lc_alphalowliststyle.xxx cmd/ar/lc_alphalowliststyle.xxx
 cmd/he/lc_bulletliststyle.xxx cmd/ar/lc_defaultbullet.xxx
-cmd/he/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
+cmd/he/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_outlinebullet.xxx
 cmd/he/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/he/lc_defaultnumbering.xxx cmd/ar/lc_numberliststyle.xxx
 cmd/he/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
@@ -716,7 +720,7 @@ cmd/he/lc_undo.xxx cmd/ar/lc_undo.xxx
 cmd/he/sc_alphaliststyle.xxx cmd/ar/sc_alphaliststyle.xxx
 cmd/he/sc_alphalowliststyle.xxx cmd/ar/sc_alphalowliststyle.xxx
 cmd/he/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
-cmd/he/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
+cmd/he/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_outlinebullet.xxx
 cmd/he/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/he/sc_defaultnumbering.xxx cmd/ar/sc_numberliststyle.xxx
 cmd/he/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
@@ -796,6 +800,7 @@ cmd/lc_browsebackward cmd/lc_prevrecord.xxx
 cmd/lc_browsebackward.xxx cmd/lc_prevrecord.xxx
 cmd/lc_browseforward.xxx cmd/lc_nextrecord.xxx
 cmd/lc_bulletliststyle.xxx cmd/lc_defaultbullet.xxx
+cmd/lc_bulletsandnumberingdialog.xxx cmd/lc_outlinebullet.xxx
 cmd/lc_calloutshapes.round-rectangular-callout.xxx cmd/lc_calloutshapes.xxx
 cmd/lc_cellprotection.xxx cmd/lc_protect.xxx
 cmd/lc_cellvertbottom.xxx cmd/lc_alignbottom.xxx
@@ -1338,6 +1343,7 @@ cmd/sc_browsebackward cmd/lc_prevrecord.xxx
 cmd/sc_browsebackward.xxx cmd/sc_prevrecord.xxx
 cmd/sc_browseforward.xxx cmd/sc_nextrecord.xxx
 cmd/sc_bulletliststyle.xxx cmd/sc_defaultbullet.xxx
+cmd/sc_bulletsandnumberingdialog.xxx cmd/sc_outlinebullet.xxx
 cmd/sc_calloutshapes.round-rectangular-callout.xxx cmd/sc_calloutshapes.xxx
 cmd/sc_cellcontentsmenu.xxx cmd/sc_calculate.xxx
 cmd/sc_cellprotection.xxx cmd/sc_protect.xxx
@@ -1832,7 +1838,7 @@ cmd/tr/sc_underlinesingle.xxx cmd/hu/sc_underline.xxx
 cmd/ur/lc_alphaliststyle.xxx cmd/ar/lc_alphaliststyle.xxx
 cmd/ur/lc_alphalowliststyle.xxx cmd/ar/lc_alphalowliststyle.xxx
 cmd/ur/lc_bulletliststyle.xxx cmd/ar/lc_defaultbullet.xxx
-cmd/ur/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_bulletsandnumberingdialog.xxx
+cmd/ur/lc_bulletsandnumberingdialog.xxx cmd/ar/lc_outlinebullet.xxx
 cmd/ur/lc_defaultbullet.xxx cmd/ar/lc_defaultbullet.xxx
 cmd/ur/lc_defaultnumbering.xxx cmd/ar/lc_numberliststyle.xxx
 cmd/ur/lc_insertneutralparagraph.xxx cmd/ar/lc_insertneutralparagraph.xxx
@@ -1848,7 +1854,7 @@ cmd/ur/lc_undo.xxx cmd/ar/lc_undo.xxx
 cmd/ur/sc_alphaliststyle.xxx cmd/ar/sc_alphaliststyle.xxx
 cmd/ur/sc_alphalowliststyle.xxx cmd/ar/sc_alphalowliststyle.xxx
 cmd/ur/sc_bulletliststyle.xxx cmd/ar/sc_defaultbullet.xxx
-cmd/ur/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_bulletsandnumberingdialog.xxx
+cmd/ur/sc_bulletsandnumberingdialog.xxx cmd/ar/sc_outlinebullet.xxx
 cmd/ur/sc_defaultbullet.xxx cmd/ar/sc_defaultbullet.xxx
 cmd/ur/sc_defaultnumbering.xxx cmd/ar/sc_numberliststyle.xxx
 cmd/ur/sc_insertneutralparagraph.xxx cmd/ar/sc_insertneutralparagraph.xxx
