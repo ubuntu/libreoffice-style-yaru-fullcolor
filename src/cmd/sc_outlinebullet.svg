@@ -22,13 +22,14 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
 <defs
    id="defs8" />
 <sodipodi:namedview
-   pagecolor="#ffffff"
+   pagecolor="#808080"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -41,8 +42,8 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="41.7193"
-   inkscape:cx="6.6131799"
-   inkscape:cy="8.6185536"
+   inkscape:cx="6.6160818"
+   inkscape:cy="8.6127669"
    inkscape:window-x="1920"
    inkscape:window-y="32"
    inkscape:window-maximized="1"
@@ -54,76 +55,109 @@
 </sodipodi:namedview>
 
 
+
 /&gt;<rect
-   style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.2845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect7299"
-   width="9"
-   height="2"
-   x="6"
-   y="0.99999976"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96" />
-<rect
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   y="0"
-   x="1"
-   height="4"
-   width="3.999999"
-   id="rect830"
-   style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   ry="1"
-   rx="1" />
-<rect
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   y="0.99999976"
-   x="2"
-   height="2"
-   width="2"
-   id="rect832"
-   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-<rect
-   style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect834"
-   width="4.999999"
-   height="4"
-   x="1"
-   y="6"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   ry="1"
-   rx="1" />
-<rect
-   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   id="rect836"
-   width="1"
-   height="2"
-   x="4"
-   y="7"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96" />
+   style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect905"
+   width="3"
+   height="3"
+   x="2.3841858e-07"
+   y="8"
+   ry="1.5"
+   rx="1.5" />
 <path
-   id="rect827"
-   style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-   d="M 7 7 L 7 8.3046875 C 7.2711464 8.0993455 7.609685 7.9908366 7.96875 7.9785156 C 7.9807568 7.6130383 8.0919194 7.2719664 8.3066406 7 L 7 7 z M 14.703125 7 C 14.860671 7.2035909 14.957533 7.4450801 15 7.7089844 L 15 7 L 14.703125 7 z " />
+   id="rect860"
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 12 L 5 13 L 6.109375 13 C 5.9853203 12.644814 6.028973 12.306014 6.1738281 12 L 5 12 z " />
+<path
+   id="rect862"
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 13 L 5 14 L 6.5097656 14 L 6.1269531 13.074219 C 6.1165217 13.049035 6.118125 13.025052 6.109375 13 L 5 13 z " />
+<path
+   id="rect864"
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 11 L 5 12 L 6.1738281 12 C 6.175066 11.997385 6.1764868 11.994799 6.1777344 11.992188 C 6.2153805 11.913766 6.2547297 11.837059 6.3046875 11.763672 C 6.3631526 11.671883 6.4289842 11.583828 6.5058594 11.501953 C 6.430803 11.421892 6.3680116 11.335549 6.3105469 11.246094 C 6.2568319 11.168065 6.2137528 11.087543 6.1738281 11.003906 C 6.1732068 11.002601 6.172494 11.001306 6.171875 11 L 5 11 z " />
+<path
+   id="rect866"
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 10 L 5 11 L 6.171875 11 C 6.0261495 10.692595 5.9806599 10.352969 6.1035156 10 L 5 10 z " />
+<path
+   id="rect868"
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 9 L 5 10 L 6.1035156 10 C 6.1122298 9.9749637 6.1106806 9.9509204 6.1210938 9.9257812 L 6.1210938 9.9238281 L 6.5058594 9 L 5 9 z " />
+<path
+   id="rect870-2"
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 8 L 5 9 L 6.5058594 9 L 6.5839844 8.8125 C 6.7941357 8.3051382 7.243046 8.0697603 7.7402344 8 L 5 8 z " />
 <rect
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-   y="7"
-   x="2"
-   height="2"
+   style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke-width:3.00001;stroke-linecap:round;stroke-linejoin:round"
+   id="rect870"
    width="1"
-   id="rect831"
-   style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+   height="3"
+   x="2"
+   y="1"
+   ry="0"
+   rx="0" />
+<rect
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect837"
+   width="7"
+   height="1"
+   x="5"
+   y="-6"
+   transform="scale(1,-1)" />
+<path
+   id="rect839"
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   d="M 5 6 L 5 7 L 8.2988281 7 C 8.4287655 6.8320541 8.5888127 6.6833105 8.8144531 6.5898438 L 9.9296875 6.1269531 C 10.520976 5.8820374 11.075637 6.1053083 11.501953 6.5058594 C 11.637396 6.378884 11.72015 6.1851127 11.888672 6.1152344 C 11.92449 6.1003824 11.963137 6.0941108 12 6.0820312 L 12 6 L 5 6 z " />
+<rect
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect843-2"
+   width="5"
+   height="1"
+   x="5"
+   y="-5"
+   transform="scale(1,-1)" />
+<rect
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect861"
+   width="5"
+   height="1"
+   x="5"
+   y="-4"
+   transform="scale(1,-1)" />
+<rect
+   style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect867"
+   width="9"
+   height="1"
+   x="5"
+   y="-3"
+   transform="scale(1,-1)" />
+<rect
+   style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect869"
+   width="9"
+   height="1"
+   x="5"
+   y="-2"
+   transform="scale(1,-1)" />
+<rect
+   style="fill:#e95420;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect873"
+   width="3"
+   height="1"
+   x="1"
+   y="1" />
+<rect
+   style="fill:#e95420;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+   id="rect875"
+   width="3"
+   height="1"
+   x="1"
+   y="4" />
 <g
-   id="g1425">
+   id="g886">
   <circle
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path1328"

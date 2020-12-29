@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,9 +42,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="8.5308677"
-     inkscape:cy="6.1886566"
+     inkscape:zoom="41.7193"
+     inkscape:cx="11.866654"
+     inkscape:cy="10.410719"
      inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -57,13 +57,14 @@
   <path
      id="path814"
      style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 13.5 2 L 11.5 6 L 13 6 L 14 6 L 15.5 6 L 13.5 2 z M 11.5 10 L 13.5 14 L 15.5 10 L 14 10 L 13 10 L 11.5 10 z " />
+     d="M 13.5,2 11,6 h 5 z m -2.5,8 2.5,4 2.5,-4 z"
+     sodipodi:nodetypes="cccccccc" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      id="rect843-2"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-2"
      transform="scale(-1)" />
   <rect
@@ -71,7 +72,7 @@
      id="rect861"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-1"
      transform="scale(-1)" />
   <rect
@@ -79,7 +80,7 @@
      id="rect844"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-4"
      transform="scale(-1)" />
   <rect
@@ -87,7 +88,7 @@
      id="rect846"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-3"
      transform="scale(-1)" />
   <rect
@@ -95,7 +96,7 @@
      id="rect848"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-6"
      transform="scale(-1)" />
   <rect
@@ -103,7 +104,7 @@
      id="rect850"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-5"
      transform="scale(-1)" />
   <rect
@@ -111,7 +112,7 @@
      id="rect852"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-12"
      transform="scale(-1)" />
   <rect
@@ -119,7 +120,7 @@
      id="rect854"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-11"
      transform="scale(-1)" />
   <rect
@@ -127,7 +128,7 @@
      id="rect856"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-14"
      transform="scale(-1)" />
   <rect
@@ -135,7 +136,7 @@
      id="rect858"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-13"
      transform="scale(-1)" />
   <rect
@@ -143,7 +144,7 @@
      id="rect860"
      width="9.000001"
      height="1"
-     x="-10"
+     x="-9"
      y="-16"
      transform="scale(-1)" />
   <rect
@@ -151,7 +152,7 @@
      id="rect862"
      width="9"
      height="1"
-     x="-10"
+     x="-9"
      y="-15"
      transform="scale(-1)" />
 </svg>

@@ -43,9 +43,9 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="5.8428123"
-     inkscape:cy="7.5506743"
-     inkscape:window-x="0"
+     inkscape:cx="7.8216895"
+     inkscape:cy="8.5839925"
+     inkscape:window-x="1920"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
@@ -56,7 +56,7 @@
   </sodipodi:namedview>
   <path
      style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 13.500001,2 -2,4 h 1.5 v 4 h -1.5 l 2,4 2,-4 h -1.5 V 6 h 1.5 z"
+     d="M 13.500001,2 11,6 h 2.000001 v 4 H 11 L 13.500001,14 16,10 H 14.000001 V 6 H 16 Z"
      id="path814"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />
@@ -65,7 +65,7 @@
      id="rect843-2"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-3"
      transform="scale(-1)" />
   <rect
@@ -73,7 +73,7 @@
      id="rect861"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-2"
      transform="scale(-1)" />
   <rect
@@ -81,7 +81,7 @@
      id="rect844"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-5"
      transform="scale(-1)" />
   <rect
@@ -89,7 +89,7 @@
      id="rect846"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-4"
      transform="scale(-1)" />
   <rect
@@ -97,7 +97,7 @@
      id="rect848"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-7"
      transform="scale(-1)" />
   <rect
@@ -105,7 +105,7 @@
      id="rect850"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-6"
      transform="scale(-1)" />
   <rect
@@ -113,7 +113,7 @@
      id="rect852"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-11"
      transform="scale(-1)" />
   <rect
@@ -121,7 +121,7 @@
      id="rect854"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-10"
      transform="scale(-1)" />
   <rect
@@ -129,7 +129,7 @@
      id="rect856"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-13"
      transform="scale(-1)" />
   <rect
@@ -137,7 +137,7 @@
      id="rect858"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-12"
      transform="scale(-1)" />
   <rect
@@ -145,7 +145,7 @@
      id="rect860"
      width="9.000001"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-15"
      transform="scale(-1)" />
   <rect
@@ -153,7 +153,7 @@
      id="rect862"
      width="9"
      height="1"
-     x="-10.000001"
+     x="-9"
      y="-14"
      transform="scale(-1)" />
 </svg>
