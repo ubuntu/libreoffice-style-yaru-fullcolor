@@ -60,28 +60,32 @@
      width="12"
      height="1"
      x="2"
-     y="2" />
+     y="-2"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect842"
      width="12"
      height="1"
      x="2"
-     y="3" />
+     y="-1"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect844"
      width="6"
      height="1"
      x="2"
-     y="4" />
+     y="-6"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect846"
      width="6"
      height="1"
      x="2"
-     y="5" />
+     y="-5"
+     transform="scale(1,-1)" />
   <path
      style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 12.515257,10.981137 2.5,-3.0000001 L 10,7.9980469 Z"
@@ -98,40 +102,46 @@
      width="12"
      height="1"
      x="2"
-     y="12" />
+     y="-16"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect874"
      width="12"
      height="1"
      x="2"
-     y="13" />
+     y="-15"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect876"
      width="12"
      height="1"
      x="2"
-     y="0" />
+     y="-4"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect878"
      width="12"
      height="1"
      x="2"
-     y="1" />
+     y="-3"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect841"
      width="12"
      height="1"
      x="2"
-     y="14" />
+     y="-14"
+     transform="scale(1,-1)" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect843"
      width="12"
      height="1"
      x="2"
-     y="15" />
+     y="-13"
+     transform="scale(1,-1)" />
 </svg>
