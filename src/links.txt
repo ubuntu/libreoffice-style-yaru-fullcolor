@@ -617,6 +617,7 @@ cmd/32/viewsidebarstyles.xxx cmd/32/designerdialog.xxx
 cmd/32/viewtrackchanges.xxx cmd/32/addwatch.xxx
 cmd/32/vscrollbar.xxx cmd/32/scrollbar.xxx
 cmd/32/webhtml.xxx cmd/32/browseview.xxx
+cmd/32/wrapmenu.xxx cmd/32/wrapon.xxx
 cmd/32/xlinestyle.xxx cmd/32/borderdialog.xxx
 cmd/32/yes.xxx cmd/32/ok.xxx
 cmd/32/zoom.xxx cmd/32/zoomoptimal.xxx
@@ -1257,6 +1258,7 @@ cmd/lc_viewsidebarstyles.xxx cmd/lc_designerdialog.xxx
 cmd/lc_viewtrackchanges.xxx cmd/lc_addwatch.xxx
 cmd/lc_vscrollbar.xxx cmd/lc_scrollbar.xxx
 cmd/lc_webhtml.xxx cmd/lc_browseview.xxx
+cmd/lc_wrapmenu.xxx cmd/lc_wrapon.xxx
 cmd/lc_xlinestyle.xxx cmd/lc_borderdialog.xxx
 cmd/lc_yes.xxx cmd/lc_ok.xxx
 cmd/lc_zoom.xxx cmd/lc_zoomoptimal.xxx
@@ -1804,6 +1806,7 @@ cmd/sc_viewsidebarstyles.xxx cmd/sc_designerdialog.xxx
 cmd/sc_viewtrackchanges.xxx cmd/sc_addwatch.xxx
 cmd/sc_vscrollbar.xxx cmd/sc_scrollbar.xxx
 cmd/sc_webhtml.xxx cmd/sc_browseview.xxx
+cmd/sc_wrapmenu.xxx cmd/sc_wrapon.xxx
 cmd/sc_xlinestyle.xxx cmd/sc_borderdialog.xxx
 cmd/sc_yes.xxx cmd/sc_ok.xxx
 cmd/sc_zoom.xxx cmd/sc_zoomoptimal.xxx
