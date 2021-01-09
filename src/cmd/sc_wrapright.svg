@@ -73,7 +73,7 @@
   <path
      id="rect864"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="m 16,3.9999999 v 1 h -3 -3 v -1 h 3 z" />
+     d="M 15,4 V 5 H 12 9 V 4 h 3 z" />
   <path
      id="rect866"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -81,7 +81,7 @@
   <path
      id="rect868"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="m 16,10 v 1 h -3 -3 v -1 h 3 z" />
+     d="m 15,10 v 1 H 12 9 v -1 h 3 z" />
   <path
      id="rect894"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -89,7 +89,7 @@
   <path
      id="rect896"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="m 16,5.9999999 v 1 h -3 -3 v -1 h 3 z" />
+     d="M 15,6 V 7 H 12 9 V 6 h 3 z" />
   <path
      id="rect898"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -97,7 +97,7 @@
   <path
      id="rect900"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 16,8 V 9 H 13 10 V 8 h 3 z" />
+     d="m 15,8.0000001 v 1 H 12 9 v -1 h 3 z" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect912"
@@ -109,9 +109,9 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect914"
-     width="16"
+     width="14"
      height="1"
-     x="-16"
+     x="-15"
      y="-13"
      transform="scale(-1)" />
   <rect
@@ -125,9 +125,9 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect836-7"
-     width="16"
+     width="14"
      height="1"
-     x="-16"
+     x="-15"
      y="2"
      transform="scale(-1,1)" />
   <path

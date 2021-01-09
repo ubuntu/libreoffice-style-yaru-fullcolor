@@ -73,7 +73,7 @@
   <path
      id="rect864"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 4 L 0 5 L 3 5 L 6 5 L 6 4 L 3 4 L 0 4 z " />
+     d="M 1,4 V 5 H 4 7 V 4 H 4 Z" />
   <path
      id="rect866"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -81,7 +81,7 @@
   <path
      id="rect868"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 10 L 0 11 L 3 11 L 6 11 L 6 10 L 3 10 L 0 10 z " />
+     d="m 1,10 v 1 H 4 7 V 10 H 4 Z" />
   <path
      id="rect894"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -89,7 +89,7 @@
   <path
      id="rect896"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 6 L 0 7 L 3 7 L 6 7 L 6 6 L 3 6 L 0 6 z " />
+     d="M 1,6 V 7 H 4 7 V 6 H 4 Z" />
   <path
      id="rect898"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -97,7 +97,7 @@
   <path
      id="rect900"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 8 L 0 9 L 3 9 L 6 9 L 6 8 L 3 8 L 0 8 z " />
+     d="M 1,8 V 9 H 4 7 V 8 H 4 Z" />
   <rect
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect912"
@@ -109,9 +109,9 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect914"
-     width="16"
+     width="14"
      height="1"
-     x="0"
+     x="1"
      y="-13"
      transform="scale(1,-1)" />
   <rect
@@ -124,10 +124,10 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect836-7"
-     width="16"
+     width="14"
      height="1"
-     x="0"
-     y="2.0000002" />
+     x="1"
+     y="2" />
   <path
      id="rect920"
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
