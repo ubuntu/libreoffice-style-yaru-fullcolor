@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      inkscape:zoom="41.7193"
      inkscape:cx="8.2107272"
      inkscape:cy="7.1825422"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
@@ -68,7 +68,7 @@
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect862"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 3 L 0 4 L 3 4 L 6 4 L 6 3 L 3 3 L 0 3 z " />
   <path
      id="rect864"
@@ -76,7 +76,7 @@
      d="M 0 4 L 0 5 L 3 5 L 6 5 L 6 4 L 3 4 L 0 4 z " />
   <path
      id="rect866"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 11 L 0 12 L 3 12 L 6 12 L 6 11 L 3 11 L 0 11 z " />
   <path
      id="rect868"
@@ -84,7 +84,7 @@
      d="M 0 10 L 0 11 L 3 11 L 6 11 L 6 10 L 3 10 L 0 10 z " />
   <path
      id="rect894"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 5 L 0 6 L 3 6 L 6 6 L 6 5 L 3 5 L 0 5 z " />
   <path
      id="rect896"
@@ -92,14 +92,14 @@
      d="M 0 6 L 0 7 L 3 7 L 6 7 L 6 6 L 3 6 L 0 6 z " />
   <path
      id="rect898"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 9 L 0 10 L 3 10 L 6 10 L 6 9 L 3 9 L 0 9 z " />
   <path
      id="rect900"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 8 L 0 9 L 3 9 L 6 9 L 6 8 L 3 8 L 0 8 z " />
   <rect
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect912"
      width="16"
      height="1"
@@ -115,7 +115,7 @@
      y="-13"
      transform="scale(1,-1)" />
   <rect
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect834-2"
      width="16"
      height="1"
@@ -130,6 +130,6 @@
      y="2.0000002" />
   <path
      id="rect920"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 0 7 L 0 8 L 3 8 L 6 8 L 6 7 L 3 7 L 0 7 z " />
 </svg>
