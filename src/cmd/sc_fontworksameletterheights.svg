@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_fontworksameletterheights.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -22,13 +22,14 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
 <defs
    id="defs8" />
 <sodipodi:namedview
-   pagecolor="#ffffff"
+   pagecolor="#808080"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -37,20 +38,22 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1016"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="20.85965"
-   inkscape:cx="1.1257502"
-   inkscape:cy="9.310573"
+   inkscape:zoom="59"
+   inkscape:cx="7.3958496"
+   inkscape:cy="5.549028"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid833" />
 </sodipodi:namedview>
+
 /&gt;<path
    inkscape:connector-curvature="0"
    id="path870"
@@ -74,10 +77,17 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccccccccccccccccc" />
 <rect
-   y="1"
-   x="1"
-   height="2"
+   style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+   id="rect835"
    width="14"
-   id="rect869"
-   style="opacity:1;fill:#1463a5;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+   height="1"
+   x="1"
+   y="2" />
+<rect
+   style="fill:#232629;fill-rule:evenodd;stroke:none;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+   id="rect837"
+   width="14"
+   height="1"
+   x="1"
+   y="1" />
 </svg>
