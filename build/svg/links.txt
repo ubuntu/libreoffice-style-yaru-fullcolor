@@ -2334,6 +2334,9 @@ svx/res/symphony/AdjustColorRed_16x16.svg cmd/sc_grafred.svg
 svx/res/symphony/decrease_font.svg cmd/sc_shrink.svg
 svx/res/symphony/enlarge_font.svg cmd/sc_grow.svg
 svx/res/symphony/fill_color.svg cmd/sc_backgroundcolor.svg
+svx/res/symphony/Indent2.svg cmd/sc_decrementlevel.svg
+svx/res/symphony/Indent3.svg cmd/sc_incrementsublevels.svg
+svx/res/symphony/Indent4.svg cmd/sc_decrementsublevels.svg
 svx/res/symphony/last_custom_common_grey.svg svx/res/symphony/last_custom_common.svg
 svx/res/symphony/lpselected-spacing-1.svg cmd/lc_spacepara1.svg
 svx/res/symphony/lpselected-spacing-1_15.svg cmd/lc_spacepara1.svg
