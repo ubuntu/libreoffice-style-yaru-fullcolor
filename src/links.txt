@@ -1440,7 +1440,6 @@ cmd/sc_duplicateslide.xxx cmd/sc_duplicatepage.xxx
 cmd/sc_edithyperlink.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_editlinksmenu.xxx cmd/sc_insertreferencefield.xxx
 cmd/sc_editpastespecialmenu.xxx cmd/sc_pastespecial.xxx
-cmd/sc_editprintarea.xxx cmd/sc_editdoc.xxx
 cmd/sc_editselectmenu.xxx cmd/sc_selecttables.xxx
 cmd/sc_editshapehyperlink.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_editstyled.xxx cmd/sc_editstyle.xxx
