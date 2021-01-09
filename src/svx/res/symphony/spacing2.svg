@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="41.7193"
      inkscape:cx="6.960079"
      inkscape:cy="7.664161"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0">
@@ -55,7 +55,7 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="M 11,8.0000003 8,11 5,8.0000003 Z"
+     d="M 11,7.0000003 8,10 5,7.0000003 Z"
      id="path4"
      inkscape:connector-curvature="0"
      style="fill:#e95420;fill-opacity:1"
@@ -66,7 +66,7 @@
      width="12"
      height="1"
      x="-14"
-     y="13"
+     y="12"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -74,7 +74,7 @@
      width="12"
      height="1"
      x="-14"
-     y="14"
+     y="13"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -82,7 +82,7 @@
      width="12"
      height="1"
      x="-14"
-     y="13"
+     y="12"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -90,7 +90,7 @@
      width="12"
      height="1"
      x="-14"
-     y="14"
+     y="13"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -98,7 +98,7 @@
      width="12"
      height="1"
      x="-14"
-     y="5.0000005"
+     y="4.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -106,7 +106,7 @@
      width="12"
      height="1"
      x="-14"
-     y="6.0000005"
+     y="5.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -114,7 +114,7 @@
      width="12"
      height="1"
      x="-14"
-     y="5.0000005"
+     y="4.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -122,7 +122,7 @@
      width="12"
      height="1"
      x="-14"
-     y="6.0000005"
+     y="5.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -130,7 +130,7 @@
      width="12"
      height="1"
      x="-14"
-     y="3.0000005"
+     y="2.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -138,7 +138,7 @@
      width="12"
      height="1"
      x="-14"
-     y="4.0000005"
+     y="3.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -146,7 +146,7 @@
      width="12"
      height="1"
      x="-14"
-     y="3.0000005"
+     y="2.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -154,7 +154,7 @@
      width="12"
      height="1"
      x="-14"
-     y="4.0000005"
+     y="3.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -162,7 +162,7 @@
      width="12"
      height="1"
      x="-14"
-     y="1.0000004"
+     y="3.5762787e-07"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -170,7 +170,7 @@
      width="12"
      height="1"
      x="-14"
-     y="2.0000005"
+     y="1.0000005"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -178,7 +178,7 @@
      width="12"
      height="1"
      x="-14"
-     y="1.0000004"
+     y="3.5762787e-07"
      transform="scale(-1,1)" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -186,6 +186,38 @@
      width="12"
      height="1"
      x="-14"
-     y="2.0000005"
+     y="1.0000005"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect848"
+     width="12"
+     height="1"
+     x="-14"
+     y="14"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect850"
+     width="12"
+     height="1"
+     x="-14"
+     y="15"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect852"
+     width="12"
+     height="1"
+     x="-14"
+     y="14"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect854"
+     width="12"
+     height="1"
+     x="-14"
+     y="15"
      transform="scale(-1,1)" />
 </svg>
