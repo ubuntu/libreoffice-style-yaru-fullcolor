@@ -32,6 +32,8 @@ Open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl
 
 ### From script
 
+⚠ Installing from script do not work when using a confined version of Libreoffice (like snap packages), in that case you must use the extension.
+
 Because it is faster, install from script will be useful if you want to modify the icons and reinstall the pack many times for testing:
 
 ```bash
@@ -44,7 +46,7 @@ cd libreoffice-style-yaru-fullcolor
 
 ---
 
-In both case, you need to enable the theme: open the options __Tools__ → __Options__ (or __Alt__ + __F12__) then go to __LibreOffice__ → __View__ → __Icon style__ and select __Yaru__.
+In any case, you need to enable the theme: open the options __Tools__ → __Options__ (or __Alt__ + __F12__) then go to __LibreOffice__ → __View__ → __Icon style__ and select __Yaru__.
 
 ## Remove
 
