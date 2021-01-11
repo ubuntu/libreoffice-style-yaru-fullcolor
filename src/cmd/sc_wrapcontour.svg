@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,8 +43,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="-1.55436"
-     inkscape:cy="6.9989608"
+     inkscape:cx="11.804792"
+     inkscape:cy="4.9455902"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -76,9 +76,9 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect836-7"
-     width="14"
+     width="12"
      height="1"
-     x="1"
+     x="2"
      y="2" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
@@ -92,7 +92,7 @@
      id="rect893"
      width="7"
      height="1"
-     x="1"
+     x="2"
      y="4" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
@@ -106,7 +106,7 @@
      id="rect897"
      width="5"
      height="1"
-     x="1"
+     x="2"
      y="6" />
   <rect
      style="fill:#232629;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
@@ -126,9 +126,9 @@
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect905"
-     width="14"
+     width="12"
      height="1"
-     x="1"
+     x="2"
      y="-13"
      transform="scale(1,-1)" />
   <rect
@@ -144,7 +144,7 @@
      id="rect909"
      width="7"
      height="1"
-     x="1"
+     x="2"
      y="-11"
      transform="scale(1,-1)" />
   <rect
@@ -160,6 +160,6 @@
      id="rect913"
      width="5"
      height="1"
-     x="1"
+     x="2"
      y="8" />
 </svg>
