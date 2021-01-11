@@ -45,7 +45,7 @@
      inkscape:zoom="32"
      inkscape:cx="8.9991204"
      inkscape:cy="7.0244904"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
@@ -55,17 +55,13 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 2,0 h 12 v 9 c 0,1.108 -0.892,2 -2,2 H 4 C 2.892,11 2,10.108 2,9 Z"
      id="rect820"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccsscc" />
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4 1 C 2.892 1 2 1.892 2 3 L 2 5 L 2 7 L 2 9 C 2 10.108 2.892 11 4 11 L 12 11 C 13.108 11 14 10.108 14 9 L 14 7 L 14 5 L 14 3 C 14 1.892 13.108 1 12 1 L 4 1 z " />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 2,-1 H 14 V 9 c 0,1.108 -0.892,2 -2,2 H 4 C 2.892,11 2,10.108 2,9 Z"
      id="rect818"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccsscc" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4 1 C 2.892 1 2 1.892 2 3 L 2 5 L 2 7 L 2 9 C 2 10.108 2.892 11 4 11 L 12 11 C 13.108 11 14 10.108 14 9 L 14 7 L 14 5 L 14 3 C 14 1.892 13.108 1 12 1 L 4 1 z " />
   <rect
      id="rect2"
      overflow="visible"
