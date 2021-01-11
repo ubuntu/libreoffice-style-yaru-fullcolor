@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_numberliststyle.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_numberliststyle.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -23,13 +23,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,59 +39,126 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="3.656769"
-     inkscape:cy="11.783068"
+     inkscape:cx="8.5123539"
+     inkscape:cy="13.8125"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     id="path863"
-     d="M 7,4 5.5859375,5.4140625 6.2929688,6.1210938 7,5.4140625 V 8 H 8 V 4 Z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path865"
-     d="M 6.3964844,13.976563 C 5.9080536,13.96875 5.3966306,14.125 5,14.5 L 6,15 c 0.5146131,-0.370825 2.4674096,0 -1,2 v 1 H 8 V 17 H 6.5 C 9.125,15.5 7.8617766,14 6.3964844,13.976563 Z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0" />
-  <rect
-     inkscape:export-ydpi="96"
-     inkscape:export-xdpi="96"
-     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-     y="5"
-     x="11"
-     height="2"
-     width="11"
-     id="rect827"
-     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7,4 5.5859375,5.4140625 6.2929688,6.1210938 7,5.4140625 V 8 H 8 V 4 Z"
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4,4 2.5859375,5.4140625 3.2929688,6.1210938 4,5.4140625 V 8 H 5 V 4 Z"
      id="rect838"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 6.3964844,13.976563 C 5.9080536,13.96875 5.3966306,14.125 5,14.5 L 6,15 c 0.5146131,-0.370825 2.4674096,0 -1,2 v 1 H 8 V 17 H 6.5 C 9.125,15.5 7.8617766,14 6.3964844,13.976563 Z"
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 3.3964844,9.976563 C 2.9080536,9.96875 2.3966306,10.125 2,10.5 L 3,11 c 0.5146131,-0.370825 2.4674096,0 -1,1.999999 v 1 h 3 v -1 H 3.5 C 6.125,11.5 4.8617766,10 3.3964844,9.976563 Z"
      id="rect843"
      inkscape:connector-curvature="0" />
   <rect
-     style="opacity:1;vector-effect:none;fill:#924d8b;fill-opacity:1;stroke:none;stroke-width:2.52560878;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect871"
-     width="11"
-     height="2"
-     x="11"
-     y="15"
-     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96" />
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect843-2"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-8"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect861"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-7"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect867"
+     width="14"
+     height="1"
+     x="7"
+     y="-6"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect869"
+     width="14"
+     height="1"
+     x="7"
+     y="-5"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect864"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-14.000001"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect866"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-13.000001"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect868"
+     width="14"
+     height="1"
+     x="7"
+     y="-12.000001"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect870"
+     width="14"
+     height="1"
+     x="7"
+     y="-11"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect877"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-20"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect879"
+     width="10"
+     height="1"
+     x="6.999999"
+     y="-19"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect881"
+     width="14"
+     height="1"
+     x="7"
+     y="-18"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="rect883"
+     width="14"
+     height="1"
+     x="7"
+     y="-17"
+     transform="scale(1,-1)" />
 </svg>

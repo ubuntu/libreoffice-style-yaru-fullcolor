@@ -866,7 +866,7 @@ cmd/lc_dbreportdelete.xxx cmd/lc_delete.xxx
 cmd/lc_dbreportopen.xxx cmd/lc_open.xxx
 cmd/lc_dbtabledelete.xxx cmd/lc_delete.xxx
 cmd/lc_dbtableopen.xxx cmd/lc_open.xxx
-cmd/lc_defaultnumbering.xxx cmd/lc_numberliststyle.xxx
+cmd/lc_defaultnumbering.xxx cmd/lc_romanliststyle.xxx
 cmd/lc_defaultcellstyles.xxx cmd/lc_defaultcharstyle.xxx
 cmd/lc_defaultparastyle.xxx cmd/lc_controlcodes.xxx
 cmd/lc_definename.xxx cmd/lc_label.xxx
