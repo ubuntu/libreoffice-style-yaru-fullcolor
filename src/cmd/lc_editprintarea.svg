@@ -10,7 +10,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="lc_defineprintarea.svg"
+   sodipodi:docname="lc_editprintarea.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_defineprintarea.png"
    inkscape:export-xdpi="96"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,4 +117,27 @@
      id="path861"
      style="opacity:1;fill:#762572;fill-opacity:1"
      d="M 4 1 C 2 1 1 1 1 3 L 1 12 L 2 12 L 7 12 L 8 12 L 12 12 L 13 12 L 13 11 L 13 9 L 13 8 L 13 6 L 13 5 L 13 2 L 13 1 L 4 1 z M 4 2 L 7 2 L 7 3 L 7 5 L 6 5 L 2 5 L 2 3 C 2 2 3 2 4 2 z M 8 2 L 12 2 L 12 3 L 12 5 L 8 5 L 8 3 L 8 2 z M 2 6 L 6 6 L 7 6 L 7 8 L 2 8 L 2 6 z M 8 6 L 12 6 L 12 8 L 8 8 L 8 6 z M 2 9 L 7 9 L 7 11 L 2 11 L 2 9 z M 8 9 L 12 9 L 12 11 L 8 11 L 8 9 z " />
+  <g
+     style="display:inline;stroke-width:27.2;enable-background:new"
+     transform="matrix(-0.03808017,0.02198561,0.02384508,0.04130087,26.162846,-6.9632891)"
+     id="g1151">
+    <path
+       style="fill:#fec589;fill-opacity:1;stroke:none;stroke-width:27.2"
+       d="M 701.48433,292.8316 656.00003,400.49346 610.51572,292.8316 v -11.06422 h 90.96861 z"
+       id="path1145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:28.009;marker:none;enable-background:accumulate"
+       d="m 645.19752,374.67695 10.80251,25.81651 10.80253,-25.81651 c 0.0107,0.17481 -21.60504,0 -21.60504,0 z"
+       id="path1147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#2f5fdd;fill-opacity:1;stroke:none;stroke-width:27.2"
+       d="m 610.51572,292.83159 c 0,0 91.98903,1.58617 90.96861,0 V 23.057025 h -90.96861 z"
+       id="path1149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
 </svg>

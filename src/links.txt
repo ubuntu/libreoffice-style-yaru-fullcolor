@@ -895,7 +895,6 @@ cmd/lc_duplicateslide.xxx cmd/lc_duplicatepage.xxx
 cmd/lc_edithyperlink.xxx cmd/lc_inserthyperlink.xxx
 cmd/lc_editlinksmenu.xxx cmd/lc_insertreferencefield.xxx
 cmd/lc_editpastespecialmenu.xxx cmd/lc_pastespecial.xxx
-cmd/lc_editprintarea.xxx cmd/lc_editdoc.xxx
 cmd/lc_editselectmenu.xxx cmd/lc_selecttables.xxx
 cmd/lc_editshapehyperlink.xxx cmd/lc_inserthyperlink.xxx
 cmd/lc_editstyled.xxx cmd/lc_editstyle.xxx
