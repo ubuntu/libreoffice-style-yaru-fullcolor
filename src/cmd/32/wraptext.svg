@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="wraptext.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/wraptext.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -23,13 +23,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,75 +39,115 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-11.032434"
-     inkscape:cy="20.834223"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:cx="13.567341"
+     inkscape:cy="19.143298"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid822" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="cccccccccccc"
-     id="path872"
-     d="m 20,20 -6,4.5 6,4.5 v -3 h 7 c 2,0 3,0 3,-2 v -6 h -3 v 3.96875 C 27,23 26,23 25,23 h -5 z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 24.000003,22 4,-5 h -8 z"
+     id="path833"
      inkscape:connector-curvature="0"
-     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/hyphenate.png"
-     inkscape:export-xdpi="95"
-     inkscape:export-ydpi="95" />
+     sodipodi:nodetypes="cccc" />
   <path
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 25.000003,17 -0.01526,-1.98309 c 0,-2 -1,-3 -3,-3 L 17,12 16.98474,14.01691 h 4 c 2,0 2,0 2,2 L 23,17 Z"
+     id="path835"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 20,20 -6,4.5 6,4.5 v -3 h 7 c 2,0 3,0 3,-2 v -6 h -3 v 3.96875 C 27,23 26,23 25,23 h -5 z"
-     id="path841"
-     sodipodi:nodetypes="cccccccccccc" />
+     sodipodi:nodetypes="ccccccccc" />
   <rect
-     y="4"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect854"
+     width="24"
+     height="1"
      x="4"
-     height="2.0000002"
-     width="24"
-     id="rect839"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     y="5" />
   <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect840"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect856"
      width="24"
-     height="2.0000002"
+     height="1"
+     x="4"
+     y="6" />
+  <rect
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect858"
+     width="24"
+     height="1"
+     x="4"
+     y="9" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect860"
+     width="24"
+     height="1"
+     x="4"
+     y="10" />
+  <rect
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect862"
+     width="11"
+     height="1"
+     x="4"
+     y="11" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect864"
+     width="11"
+     height="1"
+     x="4"
+     y="12" />
+  <rect
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect866"
+     width="24"
+     height="1"
+     x="4"
+     y="7" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect868"
+     width="24"
+     height="1"
      x="4"
      y="8" />
   <rect
-     y="12"
-     x="4"
-     height="2.0000002"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect870"
      width="24"
-     id="rect830"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.64235741;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.34691265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect832"
-     width="7"
-     height="2.0000002"
+     height="1"
      x="4"
-     y="18" />
+     y="24" />
   <rect
-     y="22"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect872"
+     width="24"
+     height="1"
      x="4"
-     height="2.0000002"
-     width="7"
-     id="rect834"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.34691265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     y="25" />
   <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.34691265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect836"
-     width="7"
-     height="2.0000002"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect874"
+     width="24"
+     height="1"
      x="4"
      y="26" />
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect876"
+     width="24"
+     height="1"
+     x="4"
+     y="27" />
 </svg>
