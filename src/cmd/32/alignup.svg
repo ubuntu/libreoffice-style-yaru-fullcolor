@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/alignup.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,53 +38,72 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="1.1525424"
-     inkscape:cy="15.389831"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.8605424"
+     inkscape:cy="12.833972"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid852" />
+  </sodipodi:namedview>
   <rect
-     style="opacity:1;vector-effect:none;fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:2.82004642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect7299-0"
-     width="24"
-     height="2"
-     x="4"
+     y="6"
+     x="15.000001"
+     height="9"
+     width="4"
+     id="rect847"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect835-1"
+     width="6"
+     height="20"
+     x="6"
+     y="6" />
+  <rect
+     y="6"
+     x="6"
+     height="20"
+     width="6"
+     id="rect831-2"
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="6"
+     x="22"
+     height="14"
+     width="4"
+     id="rect837-7"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:2.12132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect833-0"
+     width="4"
+     height="14"
+     x="22"
+     y="6" />
+  <rect
+     style="opacity:1;vector-effect:none;fill:#f22c42;fill-opacity:1;stroke:none;stroke-width:1.99407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect7299-0-9"
+     width="32"
+     height="1"
+     x="0"
      y="-6"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"
      transform="scale(1,-1)" />
   <rect
-     y="9"
-     x="19"
-     height="18"
-     width="8"
-     id="rect835"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect831"
-     width="8"
-     height="18"
-     x="19"
-     y="9" />
-  <rect
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect837"
-     width="8"
-     height="8"
-     x="5"
-     y="9" />
-  <rect
-     y="9"
-     x="5"
-     height="8"
-     width="8"
-     id="rect833"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.12132025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:2.12132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect849"
+     width="4"
+     height="9"
+     x="15.000001"
+     y="6" />
 </svg>
