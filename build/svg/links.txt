@@ -292,6 +292,7 @@ cmd/32/id/numberformatdecimal.svg cmd/32/de/numberformatdecimal.svg
 cmd/32/id/numberformatincdecimals.svg cmd/32/de/numberformatincdecimals.svg
 cmd/32/id/numberformatthousands.svg cmd/32/de/numberformatthousands.svg
 cmd/32/importfromfile.svg cmd/32/dataimport.svg
+cmd/32/importslidefromfile.svg cmd/32/dataimport.svg
 cmd/32/incrementindent.svg cmd/32/decrementlevel.svg
 cmd/32/incrementlevel.svg cmd/32/decrementindent.svg
 cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
@@ -979,6 +980,7 @@ cmd/lc_hscrollbar.svg cmd/lc_insertformhscroll.svg
 cmd/lc_hyperlinkdialog.svg cmd/lc_inserthyperlink.svg
 cmd/lc_hyphenation.svg cmd/lc_hyphenate.svg
 cmd/lc_importfromfile.svg cmd/lc_dataimport.svg
+cmd/lc_importslidefromfile.svg cmd/lc_dataimport.svg
 cmd/lc_incrementindent.svg cmd/lc_decrementlevel.svg
 cmd/lc_incrementlevel.svg cmd/lc_decrementindent.svg
 cmd/lc_indexesmenu.svg cmd/lc_insertindexesentry.svg
@@ -1523,6 +1525,7 @@ cmd/sc_hscrollbar.svg cmd/sc_insertformhscroll.svg
 cmd/sc_hyperlinkdialog.svg cmd/sc_inserthyperlink.svg
 cmd/sc_hyphenation.svg cmd/sc_hyphenate.svg
 cmd/sc_importfromfile.svg cmd/sc_dataimport.svg
+cmd/sc_importslidefromfile.svg cmd/sc_dataimport.svg
 cmd/sc_incrementindent.svg cmd/sc_decrementlevel.svg
 cmd/sc_incrementlevel.svg cmd/sc_decrementindent.svg
 cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
