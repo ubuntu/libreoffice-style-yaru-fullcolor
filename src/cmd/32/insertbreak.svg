@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="4.3302191"
-     inkscape:cy="15.741971"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:zoom="45.254836"
+     inkscape:cx="14.702265"
+     inkscape:cy="14.887964"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0">
@@ -78,7 +78,7 @@
      y="15"
      x="24"
      height="1"
-     width="4"
+     width="3"
      id="rect869"
      style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.3094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
@@ -104,9 +104,9 @@
      y="15" />
   <rect
      y="15"
-     x="4"
+     x="5"
      height="1"
-     width="4"
+     width="3"
      id="rect887"
      style="opacity:1;fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:2.3094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
@@ -140,4 +140,9 @@
          style="fill:#d3d3d3;fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1" />
     </g>
   </g>
+  <path
+     style="fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     d="M 0,13 4,15.5 0,18 Z"
+     id="path844"
+     sodipodi:nodetypes="cccc" />
 </svg>

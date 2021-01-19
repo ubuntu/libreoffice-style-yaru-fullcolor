@@ -291,6 +291,7 @@ cmd/32/id/numberformatdecimal.png cmd/32/de/numberformatdecimal.png
 cmd/32/id/numberformatincdecimals.png cmd/32/de/numberformatincdecimals.png
 cmd/32/id/numberformatthousands.png cmd/32/de/numberformatthousands.png
 cmd/32/importfromfile.png cmd/32/dataimport.png
+cmd/32/importslidefromfile.png cmd/32/dataimport.png
 cmd/32/incrementindent.png cmd/32/decrementlevel.png
 cmd/32/incrementlevel.png cmd/32/decrementindent.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
@@ -978,6 +979,7 @@ cmd/lc_hscrollbar.png cmd/lc_insertformhscroll.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_hyphenation.png cmd/lc_hyphenate.png
 cmd/lc_importfromfile.png cmd/lc_dataimport.png
+cmd/lc_importslidefromfile.png cmd/lc_dataimport.png
 cmd/lc_incrementindent.png cmd/lc_decrementlevel.png
 cmd/lc_incrementlevel.png cmd/lc_decrementindent.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
@@ -1522,6 +1524,7 @@ cmd/sc_hscrollbar.png cmd/sc_insertformhscroll.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_hyphenation.png cmd/sc_hyphenate.png
 cmd/sc_importfromfile.png cmd/sc_dataimport.png
+cmd/sc_importslidefromfile.png cmd/sc_dataimport.png
 cmd/sc_incrementindent.png cmd/sc_decrementlevel.png
 cmd/sc_incrementlevel.png cmd/sc_decrementindent.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
