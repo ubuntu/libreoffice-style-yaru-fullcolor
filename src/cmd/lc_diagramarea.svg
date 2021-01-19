@@ -10,7 +10,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="lc_diagramwall.svg"
+   sodipodi:docname="lc_diagramarea.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_diagramwall.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,18 +98,4 @@
      style="opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 19.5,2 A 2.5,2 0 0 0 17,4 v 4.085937 c 0.323654,-0.110501 0.677178,-0.109401 1,0.0039 V 4 A 1.5,1 0 0 1 19.5,3 1.5,1 0 0 1 21,4 v 2.634765 l 1,1.001954 V 4 A 2.5,2 0 0 0 19.5,2 Z"
      id="rect846" />
-  <rect
-     style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect869"
-     width="1"
-     height="12"
-     x="6"
-     y="6" />
-  <rect
-     style="fill:#e95420;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect871"
-     width="14"
-     height="1"
-     x="5"
-     y="16" />
 </svg>

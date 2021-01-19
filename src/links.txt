@@ -141,7 +141,6 @@ cmd/32/deleterecord.xxx cmd/32/delete.xxx
 cmd/32/deleteshapehyperlink.xxx cmd/32/removehyperlink.xxx
 cmd/32/deleteslide.xxx cmd/32/deletepage.xxx
 cmd/32/diaauto.xxx cmd/32/dia.xxx
-cmd/32/diagramarea.xxx cmd/32/insertframe.xxx
 cmd/32/diagramaxisall.xxx cmd/32/diagramaxisxyz.xxx
 cmd/32/diagramaxismenu.xxx cmd/32/diagramaxis.xxx
 cmd/32/diagramgridmenu.xxx cmd/32/togglegridhorizontal.xxx
