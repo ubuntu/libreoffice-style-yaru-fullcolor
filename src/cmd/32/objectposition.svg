@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="objectposition.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/objectposition.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -38,50 +38,59 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-3.951163"
-     inkscape:cy="19.682227"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:zoom="20.85965"
+     inkscape:cx="8.5298568"
+     inkscape:cy="20.091132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid824" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect833"
-     width="24"
-     height="2"
-     x="4"
-     y="-27"
-     transform="scale(1,-1)" />
+     style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect846"
+     width="15"
+     height="15"
+     x="16"
+     y="1" />
   <rect
-     y="-20"
-     x="4"
-     height="2.0000002"
-     width="24"
-     id="rect835"
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="scale(1,-1)" />
+     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect848"
+     width="15"
+     height="15"
+     x="16"
+     y="1" />
   <rect
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.64235735;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect837"
-     width="24"
-     height="2.0000002"
-     x="4"
-     y="-6"
-     transform="scale(1,-1)" />
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:0.7"
+     id="rect842"
+     width="15"
+     height="15"
+     x="1"
+     y="16" />
   <rect
-     y="-13"
-     x="4"
-     height="2"
-     width="24"
-     id="rect839"
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.55629784;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="scale(1,-1)" />
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;opacity:1"
+     id="rect844"
+     width="15"
+     height="15"
+     x="1"
+     y="16" />
+  <circle
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle866"
+     cx="16"
+     cy="16"
+     r="10" />
+  <circle
+     style="opacity:1;fill:#fee581;fill-opacity:1;stroke:none;stroke-width:3.33334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path824"
+     cx="16"
+     cy="16"
+     r="10" />
 </svg>
