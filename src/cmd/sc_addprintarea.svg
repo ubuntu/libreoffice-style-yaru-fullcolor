@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_addprintarea.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_addprintarea.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"><metadata
@@ -38,98 +38,52 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1016"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="32"
-   inkscape:cx="0.7264648"
-   inkscape:cy="11.228246"
-   inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:cx="9.5371129"
+   inkscape:cy="12.461304"
+   inkscape:window-x="1920"
+   inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid825" />
 </sodipodi:namedview>
 
-/&gt;<g
-   id="g907"
-   style="fill:#1a7fd4;fill-opacity:1"
-   transform="translate(-4,-4)">
-  <path
-     style="fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 7,9 V 7 H 9 V 6 H 6 v 3 z"
-     id="path842"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     style="fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 7,13 v 2 h 2 v 1 H 6 v -3 z"
-     id="path846"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
-  <rect
-     y="10"
-     x="6"
-     height="2"
-     width="1"
-     id="rect850"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.81649661;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <g
-     transform="matrix(0,1,1,0,0,0)"
-     id="g874"
-     style="fill:#1a7fd4;fill-opacity:1">
-    <rect
-       y="10"
-       x="6"
-       height="2"
-       width="1"
-       id="rect870"
-       style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.81649661;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  </g>
-  <g
-     id="g880"
-     transform="matrix(0,1,1,0,0,15)"
-     style="fill:#1a7fd4;fill-opacity:1">
-    <rect
-       style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.81649661;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect878"
-       width="1"
-       height="2"
-       x="0"
-       y="10" />
-  </g>
-  <g
-     transform="matrix(-1,0,0,1,16,0)"
-     id="g866"
-     style="fill:#1a7fd4;fill-opacity:1">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path858"
-       d="M 1,9 V 7 H 3 V 6 H 0 v 3 z"
-       style="fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path860"
-       d="m 1,13 v 2 h 2 v 1 H 0 v -3 z"
-       style="fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.81649661;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect864"
-       width="1"
-       height="2"
-       x="0"
-       y="10" />
-  </g>
-</g>
+
+/&gt;<rect
+   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect820"
+   width="12"
+   height="12"
+   x="1.0000002"
+   y="1" />
+<rect
+   style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   id="rect879"
+   width="8"
+   height="8"
+   x="1"
+   y="1" />
+<path
+   d="m -2e-7,2 v 10 c 0,2 1,2 3.0000002,2 H 9.0000001 9.9999998 11 c 2,0 3,0 3,-2 V 2 C 14,0 13,0 11,0 H 3 C 0.9999998,0 -2e-7,0 -2e-7,2 Z M 3,1 H 4 V 4 H 1 V 2 C 1,1 2.0000001,1 3,1 Z M 5,1 H 9 V 4 H 5 Z M 9.9999998,1 H 11 c 1,0 2,0 2,1 V 4 H 12 11 9.9999998 Z m -9,4 H 4 V 9 H 1 Z M 5,5 H 9 V 9 H 5 Z M 9.9999998,5 H 11 12 13 V 9 H 12 11 9.9999998 Z M 0.9999999,10 H 4 v 3 H 3 C 1.9999999,13 0.9999999,13 0.9999999,12 Z M 5,10 h 4 v 3 H 5 Z m 4.9999998,0 H 11 h 1 1 v 2 c 0,1 -1,1 -2,1 H 9.9999998 Z"
+   id="path2"
+   inkscape:connector-curvature="0"
+   style="fill:#6d6d6d;fill-opacity:1"
+   sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+<path
+   id="path868"
+   style="fill:#762572;fill-opacity:1"
+   d="M 3,0 C 0.9999998,0 0,0 0,2 v 8 H 1 4 5 9 9.9999998 V 9 5 4 1 0 Z M 3,1 H 4 V 4 H 1 V 2 C 1,1 2.0000001,1 3,1 Z M 5,1 H 9 V 4 H 5 Z M 1,5 H 4 V 9 H 1 Z M 5,5 H 9 V 9 H 5 Z" />
 <circle
-   style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:1;vector-effect:none;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="path2644"
-   cy="11.5"
-   cx="11.499998"
+   cy="12.5"
+   cx="12.499998"
    r="3.5" />
 <path
    inkscape:connector-curvature="0"
@@ -137,5 +91,5 @@
    overflow="visible"
    font-weight="400"
    style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-   d="m 11,9 v 2 H 8.9999991 v 1 H 11 v 2 h 1 v -2 h 2 V 11 H 12 V 9 Z" />
+   d="m 12,10 v 2 H 9.9999991 v 1 H 12 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
 </svg>

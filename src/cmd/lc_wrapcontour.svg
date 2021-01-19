@@ -23,13 +23,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="27.812867"
-     inkscape:cx="12.205021"
-     inkscape:cy="11.333675"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="32"
+     inkscape:cx="14.587726"
+     inkscape:cy="15.797412"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0">
@@ -56,48 +57,128 @@
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path860"
-     d="M 18.050294,7.0502527 13.100547,12 18.050294,16.949747 23.000041,12 Z"
+     id="path860-7"
+     d="M 16,6 9.5,12.5 16,19 22.45,12.5 Z"
      sodipodi:nodetypes="ccccc" />
   <path
-     d="M 18.050294,7.0502527 13.100547,12 18.050294,16.949747 23.000041,12 Z"
-     id="path4"
-     style="fill:#d85eca;fill-opacity:1;stroke-width:0.79999995"
+     d="M 16,6 9.5,12.5 16,19 22.45,12.5 Z"
+     id="path4-5"
+     style="fill:#d85eca;fill-opacity:1;stroke-width:0.8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <rect
-     y="2.9999995"
-     x="3"
-     height="2.0000002"
-     width="17"
-     id="rect839"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.540624;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect834-2"
+     width="11"
+     height="1"
+     x="2"
+     y="5" />
   <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.405468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect838"
-     width="9.562501"
-     height="2.0000002"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect836-7"
+     width="10"
+     height="1"
      x="3"
-     y="6.9999986" />
+     y="6" />
   <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.540624;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect848"
-     width="17"
-     height="2.0000002"
-     x="3"
-     y="19" />
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect848-9"
+     width="11"
+     height="1"
+     x="2"
+     y="-20"
+     transform="scale(1,-1)" />
   <rect
-     y="14.999998"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect850-2"
+     width="10"
+     height="1"
      x="3"
-     height="2.0000002"
-     width="9.562501"
-     id="rect850"
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.405468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     y="-19"
+     transform="scale(1,-1)" />
+  <path
+     id="rect852-2"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2,7 V 8 H 6.5 11 V 7 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect854"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2,9 v 1 H 6.5 9 V 9 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect856"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2,11 v 1 H 6.5 8 V 11 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect858"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2,13 v 1 H 6.5 8 V 13 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect860"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2,15 v 1 H 6.5 9 V 15 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect862"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2,17 v 1 H 6.5 11 V 17 H 6.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect864"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3,8 V 9 H 7.5 11 V 8 H 7.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect866"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,10 v 1 H 7.5 9 V 10 H 7.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect868"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,12 v 1 H 7.5 8 V 12 H 7.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect870"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,14 v 1 H 7.5 9 V 14 H 7.5 Z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect872"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3,16 v 1 H 7.5 11 V 16 H 7.5 Z"
+     sodipodi:nodetypes="ccccccc" />
   <rect
-     style="opacity:1;fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:0.357589;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect852"
-     width="7.4375005"
-     height="2.0000002"
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect896"
+     width="20"
+     height="1"
+     x="2"
+     y="3" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect898"
+     width="18"
+     height="1"
      x="3"
-     y="10.999998" />
+     y="4" />
+  <rect
+     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect900"
+     width="20"
+     height="1"
+     x="2"
+     y="-22"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect902"
+     width="18"
+     height="1"
+     x="3"
+     y="-21"
+     transform="scale(1,-1)" />
 </svg>
