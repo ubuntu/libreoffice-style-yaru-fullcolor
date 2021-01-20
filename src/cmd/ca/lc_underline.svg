@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
@@ -23,14 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient844">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop840" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient854"
+       gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="3"
+       x2="12"
+       y2="22" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -39,13 +62,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
      inkscape:cx="8.4718356"
      inkscape:cy="10.471204"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
@@ -54,40 +77,31 @@
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
-  <text
-     transform="scale(1.0174755,0.98282464)"
-     id="text832"
-     y="19.004026"
-     x="5.4937377"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       y="19.004026"
-       x="5.4937377"
-       id="tspan830"
-       sodipodi:role="line">S</tspan></text>
   <path
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 4,20.999803 v 1 h 16 v -1 z"
      id="path825"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.994762"
-     x="5.4937377"
+     transform="scale(1.0174755,0.98282464)"
+     id="text832"
      y="19.004026"
-     id="text818"
-     transform="scale(1.0174755,0.98282464)"><tspan
-       sodipodi:role="line"
-       id="tspan816"
-       x="5.4937377"
+     x="5.4937377"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
        y="19.004026"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.994762">S</tspan></text>
+       x="5.4937377"
+       id="tspan830"
+       sodipodi:role="line">S</tspan></text>
+  <g
+     aria-label="S"
+     transform="scale(1.0174755,0.98282464)"
+     id="text818"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.994762" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 4,20.999803 h 16 v 1 H 4 Z"
-     id="rect828"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     id="path852"
+     style="opacity:1;fill:url(#linearGradient854);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.28125 3 C 10.588984 3 9.2555845 3.4038293 8.28125 4.2128906 C 7.324009 5.0219518 6.8457031 6.1455348 6.8457031 7.5820312 C 6.8457031 8.3085353 6.982362 8.9187189 7.2558594 9.4140625 C 7.5293568 9.8928949 7.8710039 10.298678 8.28125 10.628906 C 8.7085897 10.959136 9.1785988 11.230665 9.6914062 11.445312 C 10.204214 11.659963 10.701068 11.850511 11.179688 12.015625 C 11.538652 12.147717 11.896894 12.295822 12.255859 12.460938 C 12.614825 12.60954 12.939877 12.782331 13.230469 12.980469 C 13.521059 13.162095 13.761189 13.377328 13.949219 13.625 C 14.137248 13.872672 14.230469 14.15308 14.230469 14.466797 C 14.230469 14.714469 14.18703 14.963265 14.101562 15.210938 C 14.033193 15.442096 13.896529 15.655378 13.691406 15.853516 C 13.486283 16.035142 13.204668 16.185201 12.845703 16.300781 C 12.503831 16.399851 12.068965 16.449219 11.539062 16.449219 C 10.61601 16.449219 9.829244 16.332725 9.1796875 16.101562 C 8.5472247 15.870403 8.0005894 15.623558 7.5390625 15.359375 L 6.6152344 17.835938 C 7.0083869 18.067097 7.5984605 18.322821 8.3847656 18.603516 C 9.1710707 18.867699 10.222856 19 11.539062 19 C 13.504827 19 14.964634 18.611975 15.921875 17.835938 C 16.89621 17.043388 17.384766 15.928683 17.384766 14.492188 C 17.384766 13.650104 17.23981 12.956987 16.949219 12.412109 C 16.658628 11.85072 16.281841 11.388643 15.820312 11.025391 C 15.375882 10.645627 14.88098 10.347463 14.333984 10.132812 C 13.804083 9.901653 13.290636 9.6952979 12.794922 9.5136719 C 12.470144 9.3980917 12.136794 9.2746697 11.794922 9.1425781 C 11.470144 9.0104865 11.169982 8.8623802 10.896484 8.6972656 C 10.64008 8.5156396 10.426795 8.3162114 10.255859 8.1015625 C 10.084924 7.8704021 10 7.6057999 10 7.3085938 C 10 6.1362803 10.836547 5.5507812 12.511719 5.5507812 C 13.195462 5.5507814 13.793833 5.6337132 14.306641 5.7988281 C 14.836542 5.9639427 15.316801 6.1614177 15.744141 6.3925781 L 16.666016 4.0410156 C 16.170302 3.7768323 15.555338 3.5369146 14.820312 3.3222656 C 14.102381 3.1076168 13.255584 3 12.28125 3 z M 4 21 L 4 22 L 20 22 L 20 21 L 4 21 z " />
 </svg>
