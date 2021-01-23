@@ -70,6 +70,7 @@ cmd/32/bulletliststyle.svg cmd/32/defaultbullet.svg
 cmd/32/bulletsandnumberingdialog.svg cmd/32/outlinebullet.svg
 cmd/32/ca/underlinesimple.svg cmd/32/ca/underline.svg
 cmd/32/ca/underlinesingle.svg cmd/32/ca/underline.svg
+cmd/32/chainframes.svg cmd/32/inserthyperlink.svg
 cmd/32/calloutshapes.round-rectangular-callout.svg cmd/32/calloutshapes.svg
 cmd/32/cellprotection.svg cmd/32/protect.svg
 cmd/32/cellvertbottom.svg cmd/32/alignbottom.svg
@@ -131,6 +132,7 @@ cmd/32/dbreportdelete.svg cmd/32/delete.svg
 cmd/32/dbreportopen.svg cmd/32/open.svg
 cmd/32/dbtabledelete.svg cmd/32/delete.svg
 cmd/32/dbtableopen.svg cmd/32/open.svg
+cmd/32/dbviewfunctions.svg cmd/32/toggleformula.svg
 cmd/32/defaultnumbering.svg cmd/32/numberliststyle.svg
 cmd/32/defaultparastyle.svg cmd/32/controlcodes.svg
 cmd/32/definename.svg cmd/32/label.svg
@@ -398,6 +400,7 @@ cmd/32/togglemergecells.svg cmd/32/mergecells.svg
 cmd/32/managelanguage.svg cmd/32/showallnotes.svg
 cmd/32/mirrorhorz.svg cmd/32/mirror.svg
 cmd/32/mirrormenu.svg cmd/32/rotateleft.svg
+cmd/32/modifyframe.svg cmd/32/inserthyperlinkcontrol.svg
 cmd/32/modifypage.svg cmd/32/pagedialog.svg
 cmd/32/movepagedown.svg cmd/32/downsearch.svg
 cmd/32/movepageup.svg cmd/32/upsearch.svg
@@ -585,6 +588,7 @@ cmd/32/tr/underlinedouble.svg cmd/32/hu/underlinedouble.svg
 cmd/32/tr/underlinesimple.svg cmd/32/hu/underline.svg
 cmd/32/tr/underlinesingle.svg cmd/32/hu/underline.svg
 cmd/32/tracechangemode.svg cmd/32/trackchanges.svg
+cmd/32/unhainframes.svg cmd/32/removehyperlink.svg
 cmd/32/underlinesimple.svg cmd/32/underline.svg
 cmd/32/underlinesingle.svg cmd/32/underline.svg
 cmd/32/updateall.svg cmd/32/reload.svg
@@ -638,6 +642,7 @@ cmd/ar/sc_linenumberdialog.svg cmd/ar/sc_linenumberingdialog.svg
 cmd/ar/sc_defaultnumbering.svg cmd/ar/sc_numberliststyle.svg
 cmd/ca/sc_underlinesimple.svg cmd/ca/sc_underline.svg
 cmd/ca/sc_underlinesingle.svg cmd/ca/sc_underline.svg
+cmd/lc_chainframes.svg cmd/lc_inserthyperlink.svg
 cmd/es/lc_bold.svg cmd/ca/lc_bold.svg
 cmd/es/lc_italic.svg cmd/de/lc_italic.svg
 cmd/es/lc_numberformatdecdecimals.svg cmd/de/lc_numberformatdecdecimals.svg
@@ -865,6 +870,7 @@ cmd/lc_dbreportdelete.svg cmd/lc_delete.svg
 cmd/lc_dbreportopen.svg cmd/lc_open.svg
 cmd/lc_dbtabledelete.svg cmd/lc_delete.svg
 cmd/lc_dbtableopen.svg cmd/lc_open.svg
+cmd/lc_dbviewfunctions.svg cmd/lc_toggleformula.svg
 cmd/lc_defaultnumbering.svg cmd/lc_romanliststyle.svg
 cmd/lc_defaultcellstyles.svg cmd/lc_defaultcharstyle.svg
 cmd/lc_defaultparastyle.svg cmd/lc_controlcodes.svg
@@ -1083,6 +1089,7 @@ cmd/lc_togglemergecells.svg cmd/lc_mergecells.svg
 cmd/lc_mergedocument.svg cmd/lc_mergedocuments.svg
 cmd/lc_mirrorhorz.svg cmd/lc_mirror.svg
 cmd/lc_mirrormenu.svg cmd/lc_rotateleft.svg
+cmd/lc_modifyframe.svg cmd/lc_inserthyperlinkcontrol.svg
 cmd/lc_modifypage.svg cmd/lc_pagedialog.svg
 cmd/lc_movepagedown.svg cmd/lc_downsearch.svg
 cmd/lc_movepageup.svg cmd/lc_upsearch.svg
@@ -1242,6 +1249,7 @@ cmd/lc_thesaurusdialog.svg cmd/lc_thesaurus.svg
 cmd/lc_toggleaxisdescr.svg cmd/lc_helplinesvisible.svg
 cmd/lc_toolprotectiondocument.svg cmd/lc_protect.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
+cmd/lc_unhainframes.svg cmd/lc_removehyperlink.svg
 cmd/lc_underlinesimple.svg cmd/lc_underline.svg
 cmd/lc_underlinesingle.svg cmd/lc_underline.svg
 cmd/lc_updateall.svg cmd/lc_reload.svg
@@ -1352,6 +1360,7 @@ cmd/sc_cellvertbottom.svg cmd/sc_alignbottom.svg
 cmd/sc_cellvertcenter.svg cmd/sc_alignverticalcenter.svg
 cmd/sc_cellverttop.svg cmd/sc_aligntop.svg
 cmd/sc_centerpara.svg cmd/sc_alignhorizontalcenter.svg
+cmd/sc_chainframes.svg cmd/sc_inserthyperlink.svg
 cmd/sc_changesmenu.svg cmd/sc_trackchangesbar.svg
 cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_charactermenu.svg cmd/sc_fontdialog.svg
@@ -1410,6 +1419,7 @@ cmd/sc_dbreportdelete.svg cmd/sc_delete.svg
 cmd/sc_dbreportopen.svg cmd/sc_open.svg
 cmd/sc_dbtabledelete.svg cmd/sc_delete.svg
 cmd/sc_dbtableopen.svg cmd/sc_open.svg
+cmd/sc_dbviewfunctions.svg cmd/sc_toggleformula.svg
 cmd/sc_defaultnumbering.svg cmd/sc_romanliststyle.svg
 cmd/sc_defaultcellstyles.svg cmd/sc_defaultcharstyle.svg
 cmd/sc_defaultparastyle.svg cmd/sc_controlcodes.svg
@@ -1629,6 +1639,7 @@ cmd/sc_togglemergecells.svg cmd/sc_mergecells.svg
 cmd/sc_mergedocument.svg cmd/sc_mergedocuments.svg
 cmd/sc_mirrorhorz.svg cmd/sc_mirror.svg
 cmd/sc_mirrormenu.svg cmd/sc_rotateleft.svg
+cmd/sc_modifyframe.svg cmd/sc_inserthyperlinkcontrol.svg
 cmd/sc_modifypage.svg cmd/sc_pagedialog.svg
 cmd/sc_movepagedown.svg cmd/sc_downsearch.svg
 cmd/sc_movepageup.svg cmd/sc_upsearch.svg
@@ -1790,6 +1801,7 @@ cmd/sc_thesaurusdialog.svg cmd/sc_thesaurus.svg
 cmd/sc_toggleaxisdescr.svg cmd/sc_helplinesvisible.svg
 cmd/sc_toolprotectiondocument.svg cmd/sc_protect.svg
 cmd/sc_tracechangemode.svg cmd/sc_trackchanges.svg
+cmd/sc_unhainframes.svg cmd/sc_removehyperlink.svg
 cmd/sc_underlinesimple.svg cmd/sc_underline.svg
 cmd/sc_underlinesingle.svg cmd/sc_underline.svg
 cmd/sc_updateall.svg cmd/sc_reload.svg
@@ -2068,6 +2080,7 @@ res/sx10600.svg cmd/lc_listbox.svg
 res/sx10601.svg cmd/sc_combobox.svg
 res/sx10603.svg cmd/sc_inserttable.svg
 res/sx10605.svg cmd/sc_open.svg
+res/sx10607.svg cmd/sc_lastrecord.svg
 res/sx10704.svg cmd/sc_datefield.svg
 res/sx10705.svg cmd/sc_timefield.svg
 res/sx10706.svg cmd/sc_text.svg

@@ -11,11 +11,11 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
-   sodipodi:docname="sc_toggleformula.svg"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_toggleformula.png"
+   sodipodi:docname="sc_dbviewfunctions.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dbviewfunctions.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   inkscape:export-ydpi="95"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -31,6 +31,16 @@
    id="defs8">
   <linearGradient
      inkscape:collect="always"
+     xlink:href="#linearGradient839"
+     id="linearGradient841"
+     x1="5"
+     y1="2"
+     x2="5"
+     y2="14"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="translate(1)" />
+  <linearGradient
+     inkscape:collect="always"
      id="linearGradient839">
     <stop
        style="stop-color:#151515;stop-opacity:1"
@@ -41,16 +51,6 @@
        offset="1"
        id="stop837" />
   </linearGradient>
-  <linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient839"
-     id="linearGradient841"
-     x1="5"
-     y1="2"
-     x2="5"
-     y2="14"
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="translate(1)" />
 </defs>
 <sodipodi:namedview
    pagecolor="#808080"
@@ -62,40 +62,38 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="41.7193"
-   inkscape:cx="3.0970114"
-   inkscape:cy="6.8399406"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:zoom="16"
+   inkscape:cx="0.9425542"
+   inkscape:cy="6.8400448"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
-     id="grid815" />
+     id="grid817" />
 </sodipodi:namedview>
 
 
-
-
-/&amp;gt;<path
+/&gt;<path
    style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
    id="path817"
-   d="m 10.46499,9.7578541 -0.7070314,0.7070309 1.4140624,1.414062 -1.4140624,1.414063 0.7070314,0.707031 1.414062,-1.414062 1.414063,1.414062 0.707031,-0.707031 -1.414062,-1.414063 1.414062,-1.414062 -0.707031,-0.7070309 -1.414063,1.4140619 z"
+   d="m 10.46499,9.757854 -0.7070314,0.707031 1.4140624,1.414062 -1.4140624,1.414063 0.7070314,0.707031 1.414062,-1.414062 1.414063,1.414062 0.707031,-0.707031 -1.414062,-1.414063 1.414062,-1.414062 -0.707031,-0.707031 -1.414063,1.414062 z"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccccccccccccc" />
 <path
    sodipodi:nodetypes="csccccccccccscccc"
    inkscape:connector-curvature="0"
    id="path839"
-   d="M 8,2.0000005 C 5,2.0000005 4,3 4,6 V 7 H 3 v 2 h 1 v 5 H 6 V 9 l 2,4e-7 v -2 L 6,7 V 6 C 6,4.501324 6.503906,4 8,4 H 9 V 2.0000005 Z"
+   d="M 8,2 C 5,2 4,2.9999995 4,6 V 7 H 3 v 2 h 1 v 5 H 6 V 9 H 8 V 7 H 6 V 6 C 6,4.5013235 6.503906,3.9999995 8,3.9999995 H 9 V 2 Z"
    style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 <path
    id="rect826"
    style="opacity:1;fill:url(#linearGradient841);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 8,2.0000004 c -3,0 -4,1 -4,4 v 1 H 3 v 2 H 4 V 14 H 6 V 9.0000004 l 2,4e-7 v -2 l -2,-4e-7 v -1 c 0,-1.498676 0.503906,-2 2,-2 h 1 v -2 z M 10.464844,9.7578129 9.7578125,10.464844 11.171875,11.878906 9.7578125,13.292969 10.464844,14 11.878906,12.585938 13.292969,14 14,13.292969 12.585938,11.878906 14,10.464844 13.292969,9.7578129 11.878906,11.171875 Z"
+   d="m 8,1.9999999 c -3,0 -4,1 -4,4.0000001 V 7 H 3 v 2 h 1 v 5 H 6 V 9 H 8 V 7 H 6 V 6 C 6,4.5013239 6.503906,3.9999999 8,3.9999999 h 1 v -2 z M 10.464844,9.757812 9.7578125,10.464844 11.171875,11.878906 9.7578125,13.292969 10.464844,14 11.878906,12.585938 13.292969,14 14,13.292969 12.585938,11.878906 14,10.464844 13.292969,9.757812 11.878906,11.171875 Z"
    sodipodi:nodetypes="ssccccccccccssccsccccccccccccc" />
 </svg>
