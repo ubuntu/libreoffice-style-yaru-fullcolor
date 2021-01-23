@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
@@ -14,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_sbanativesql.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,13 +24,37 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient842">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop838" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop840" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient842"
+       id="linearGradient844"
+       x1="7"
+       y1="10"
+       x2="7"
+       y2="21"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1)" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,16 +63,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="3.1949006"
-     inkscape:cy="8.2536026"
+     inkscape:cx="1.9138948"
+     inkscape:cy="9.5215288"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid825" />
@@ -67,26 +93,17 @@
      sodipodi:nodetypes="ccccccccc"
      inkscape:connector-curvature="0"
      id="path834"
-     d="M 3.75736,10.249548 2.343146,11.663761 5.1715736,14.492188 2.343146,17.320615 3.75736,18.734828 7.2928939,15.199294 8.0000007,14.492188 7.2928939,13.78508 Z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+     d="M 2.75736,10.249548 1.343146,11.663761 4.1715736,14.492188 1.343146,17.320615 2.75736,18.734828 6.2928939,15.199294 7.0000007,14.492188 6.2928939,13.78508 Z"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   <rect
      y="19"
-     x="7.0000005"
+     x="6.0000005"
      height="2"
      width="7"
      id="rect836"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 3.75736,10.249548 2.343146,11.663761 5.1715736,14.492188 2.343146,17.320615 3.75736,18.734828 7.2928939,15.199294 8.0000007,14.492188 7.2928939,13.78508 Z"
      id="rect827"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="rect832"
-     width="7"
-     height="2"
-     x="7.0000005"
-     y="19" />
+     style="opacity:1;fill:url(#linearGradient844);fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 2.7578125,10.25 1.34375,11.664062 4.171875,14.492188 1.34375,17.320312 2.7578125,18.734375 6.2929688,15.199219 7,14.492188 6.2929688,13.785156 Z M 6,19 v 2 h 7 v -2 z" />
 </svg>

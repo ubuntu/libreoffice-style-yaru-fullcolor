@@ -5,12 +5,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
-   sodipodi:docname="lc_badcellstyle.svg"
+   sodipodi:docname="badcellstyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_badcellstyle.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -30,9 +31,31 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient838">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop834" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop836" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient838"
+       id="linearGradient840"
+       x1="20.551813"
+       y1="5.0226583"
+       x2="20.5"
+       y2="27"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,13 +64,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.28689637"
-     inkscape:cy="14.715205"
-     inkscape:window-x="0"
+     inkscape:zoom="20.85965"
+     inkscape:cx="18.272225"
+     inkscape:cy="21.554193"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
@@ -78,7 +101,7 @@
   </sodipodi:namedview>
   <path
      id="path846"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linejoin:round"
+     style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linejoin:round"
      d="M 20 5 C 18.069542 5 16.229962 5.4630523 14.896484 6.7460938 C 13.563007 8.0291351 13 9.9156164 13 12 A 2 2 0 0 0 15 14 A 2 2 0 0 0 17 12 C 17 10.584384 17.314521 9.970865 17.669922 9.6289062 C 18.025323 9.2869477 18.685972 9 20 9 C 20.896428 9 21.886933 9.529924 22.226562 10.310547 C 22.566192 11.09117 22.635894 12.582754 20.457031 15.228516 L 13.457031 23.728516 A 2 2 0 0 0 13.001953 24.935547 L 13 24.9375 L 13 27 L 27 27 L 27 23 L 19.236328 23 L 23.542969 17.771484 C 26.278646 14.44959 26.972415 11.192307 25.894531 8.7148438 C 24.816648 6.2373804 22.348058 5 20 5 z " />
   <path
      d="m 2,15 h 8 v 2 H 2 Z"
@@ -88,6 +111,6 @@
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect834"
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2"
+     style="opacity:1;fill:url(#linearGradient840);fill-rule:evenodd;stroke:none;stroke-width:2;fill-opacity:1"
      d="M 20 5 C 18.069542 5 16.229962 5.4630523 14.896484 6.7460938 C 13.563007 8.0291351 13 9.9156164 13 12 A 2 2 0 0 0 15 14 A 2 2 0 0 0 17 12 C 17 10.584384 17.314521 9.970865 17.669922 9.6289062 C 18.025323 9.2869477 18.685972 9 20 9 C 20.896428 9 21.886933 9.529924 22.226562 10.310547 C 22.566192 11.09117 22.635894 12.582754 20.457031 15.228516 L 13.457031 23.728516 A 2 2 0 0 0 13.001953 24.935547 L 13 24.9375 L 13 27 L 27 27 L 27 23 L 19.236328 23 L 23.542969 17.771484 C 26.278646 14.44959 26.972415 11.192307 25.894531 8.7148438 C 24.816648 6.2373804 22.348058 5 20 5 z " />
 </svg>

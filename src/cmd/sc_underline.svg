@@ -5,13 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_underline.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_underline.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><metadata
@@ -22,13 +23,36 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
 <defs
-   id="defs8" />
+   id="defs8">
+  <linearGradient
+     inkscape:collect="always"
+     id="linearGradient840">
+    <stop
+       style="stop-color:#151515;stop-opacity:1"
+       offset="0"
+       id="stop836" />
+    <stop
+       style="stop-color:#4d4d4d;stop-opacity:1"
+       offset="1"
+       id="stop838" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient840"
+     id="linearGradient842"
+     x1="8"
+     y1="2"
+     x2="8"
+     y2="15"
+     gradientUnits="userSpaceOnUse" />
+</defs>
 <sodipodi:namedview
-   pagecolor="#ffffff"
+   pagecolor="#808080"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -37,40 +61,30 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="32"
-   inkscape:cx="13.488092"
-   inkscape:cy="5.0231558"
+   inkscape:cx="11.310503"
+   inkscape:cy="6.5926272"
    inkscape:window-x="1920"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4">
+   inkscape:current-layer="svg4"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid819" />
 </sodipodi:namedview>
 
 
+
 /&gt;<path
    id="path827"
-   d="m 2,14 v 1 H 14 V 14 H 11 8 Z"
-   style="fill:#000000;fill-opacity:1;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+   style="fill:#000000;fill-opacity:1;stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+   d="M 4 2 L 4 5 L 4 6 L 4 10 C 4 11.65685 5.567 13 7.5 13 L 8.5 13 C 10.433 13 12 11.65685 12 10 L 12 6 L 12 5 L 12 2 L 10 2 L 10 5 L 10 6 L 10 7.3125 L 10 9 C 10 10.10457 9.10457 11 8 11 C 6.89543 11 6 10.10457 6 9 L 6 7.3125 L 6 6 L 6 5 L 6 2 L 4 2 z M 2 14 L 2 15 L 14 15 L 14 14 L 11 14 L 8 14 L 2 14 z " />
 <path
-   sodipodi:nodetypes="cccsccscccccccsssccccc"
-   inkscape:connector-curvature="0"
-   id="path825"
-   d="m 4,2 v 3 1 4 c 0,1.65685 1.567,3 3.5,3 h 1 C 10.433,13 12,11.65685 12,10 V 6 5 2 H 10 V 5 6 7.3125 9 C 10,10.10457 9.10457,11 8,11 6.89543,11 6,10.10457 6,9 V 7.3125 6 5 2 Z"
-   style="fill:#000000;fill-opacity:1;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
-<path
-   style="fill:#ffffff;fill-opacity:1"
-   d="m 4,2 v 3 1 4 c 0,1.65685 1.567,3 3.5,3 h 1 C 10.433,13 12,11.65685 12,10 V 6 5 2 H 10 V 5 6 7.3125 9 C 10,10.10457 9.10457,11 8,11 6.89543,11 6,10.10457 6,9 V 7.3125 6 5 2 Z"
    id="path820"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cccsccscccccccsssccccc" />
-<path
-   style="fill:#ffffff;fill-opacity:1"
-   d="m 2,14 v 1 H 14 V 14 H 11 8 Z"
-   id="path2" />
+   style="fill:url(#linearGradient842);fill-opacity:1"
+   d="M 4 2 L 4 5 L 4 6 L 4 10 C 4 11.65685 5.567 13 7.5 13 L 8.5 13 C 10.433 13 12 11.65685 12 10 L 12 6 L 12 5 L 12 2 L 10 2 L 10 5 L 10 6 L 10 7.3125 L 10 9 C 10 10.10457 9.10457 11 8 11 C 6.89543 11 6 10.10457 6 9 L 6 7.3125 L 6 6 L 6 5 L 6 2 L 4 2 z M 2 14 L 2 15 L 14 15 L 14 14 L 11 14 L 8 14 L 2 14 z " />
 </svg>

@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 12 12"
@@ -14,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/extensions/res/scanner/plus.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,12 +24,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient836">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop832" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop834" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient838"
+       x1="6"
+       y1="1"
+       x2="6"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,30 +62,31 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="22.627417"
      inkscape:cx="5.762636"
      inkscape:cy="4.4755051"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <path
      sodipodi:nodetypes="ccccccccccccc"
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0"
      id="path821"
-     d="M 5,2 V 5 H 2 v 2 h 3 v 3 H 7 V 7 h 3 V 5 H 7 V 2 Z" />
+     d="M 5,1 V 5 H 1 v 2 h 4 v 4 H 7 V 7 h 4 V 5 H 7 V 1 Z" />
   <path
-     d="M 5,2 V 5 H 2 v 2 h 3 v 3 H 7 V 7 h 3 V 5 H 7 V 2 Z"
+     d="M 5,1 V 5 H 1 v 2 h 4 v 4 H 7 V 7 h 4 V 5 H 7 V 1 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff"
+     style="fill:url(#linearGradient838);fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccc" />
 </svg>

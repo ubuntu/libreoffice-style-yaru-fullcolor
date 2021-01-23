@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
@@ -23,13 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient840">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop836" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop838" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient842"
+       x1="12"
+       y1="2"
+       x2="12"
+       y2="22"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,13 +62,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="1.0076943"
-     inkscape:cy="12.667371"
-     inkscape:window-x="0"
+     inkscape:cx="7.6668802"
+     inkscape:cy="10.377715"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
@@ -62,24 +86,17 @@
   </sodipodi:namedview>
   <path
      id="path848"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 12,22 C 8.676,22 6,19.324 6,16 v -5 c 0,-3.324 2.676,-6 6,-6 3.324,0 6,2.676 6,6 v 5 c 0,3.324 -2.676,6 -6,6 z m 0,-3 c 1.662,0 3,-1.731989 3,-3.882813 V 11.882812 C 15,9.731988 13.662,8 12,8 10.338,8 9,9.731989 9,11.882812 v 3.234375 C 9,17.268011 10.338,19 12,19 Z"
      sodipodi:nodetypes="ssssssssssssss" />
   <path
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 5,3 V 2 h 14 v 1 z"
      id="path825"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 5,3 H 19 V 2 H 5 Z"
      id="rect828"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="rect836"
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 12,22 C 8.676,22 6,19.324 6,16 v -5 c 0,-3.324 2.676,-6 6,-6 3.324,0 6,2.676 6,6 v 5 c 0,3.324 -2.676,6 -6,6 z m 0,-3 c 1.662,0 3,-1.731989 3,-3.882813 V 11.882812 C 15,9.731988 13.662,8 12,8 10.338,8 9,9.731989 9,11.882812 v 3.234375 C 9,17.268011 10.338,19 12,19 Z"
-     sodipodi:nodetypes="ssssssssssssss" />
+     style="opacity:1;fill:url(#linearGradient842);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5 2 L 5 3 L 19 3 L 19 2 L 5 2 z M 12 5 C 8.676 5 6 7.676 6 11 L 6 16 C 6 19.324 8.676 22 12 22 C 15.324 22 18 19.324 18 16 L 18 11 C 18 7.676 15.324 5 12 5 z M 12 8 C 13.662 8 15 9.7319885 15 11.882812 L 15 15.117188 C 15 17.268012 13.662 19 12 19 C 10.338 19 9 17.268012 9 15.117188 L 9 11.882812 C 9 9.7319895 10.338 8 12 8 z " />
 </svg>

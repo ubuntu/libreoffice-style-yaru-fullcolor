@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
@@ -14,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/ru/lc_underline.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,13 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient839">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop835" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient839"
+       id="linearGradient841"
+       x1="12"
+       y1="3"
+       x2="12"
+       y2="22"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,16 +62,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="6.3513005"
-     inkscape:cy="11.61968"
+     inkscape:cx="6.0871848"
+     inkscape:cy="10.006847"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid821" />
@@ -55,21 +80,15 @@
   <path
      id="path823"
      d="M 6,3 V 8.2851562 C 6,9.495789 6.2380226,10.551976 6.7148438,11.25 7.1916649,11.948023 7.8434318,12.439084 8.6699219,12.722656 9.507008,12.995275 10.481167,13.08725 11.59375,13 12.716929,12.912747 13.717881,12.593154 15,12.244141 V 19 h 3 V 3 h -3 v 7.230469 c -1.049007,0.261758 -1.772826,0.431465 -2.578125,0.507812 -0.794701,0.06544 -1.260384,0.01711 -1.800781,-0.146484 C 10.091293,10.417291 9.6895592,10.112045 9.4140625,9.675781 9.1385658,9.22861 9,8.6228378 9,7.859375 V 3 Z"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path825"
      d="m 5,21 v 1 h 14 v -1 z"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
-     d="M 6,3 V 8.2851562 C 6,9.495789 6.2380226,10.551976 6.7148438,11.25 7.1916649,11.948023 7.8434318,12.439084 8.6699219,12.722656 9.507008,12.995275 10.481167,13.08725 11.59375,13 12.716929,12.912747 13.717881,12.593154 15,12.244141 V 19 h 3 V 3 h -3 v 7.230469 c -1.049007,0.261758 -1.772826,0.431465 -2.578125,0.507812 -0.794701,0.06544 -1.260384,0.01711 -1.800781,-0.146484 C 10.091293,10.417291 9.6895592,10.112045 9.4140625,9.675781 9.1385658,9.22861 9,8.6228378 9,7.859375 V 3 Z"
      id="path819"
-     style="fill:#ffffff"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 5,21 v 1 h 14 v -1 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+     style="fill:url(#linearGradient841);fill-opacity:1"
+     d="M 6 3 L 6 8.2851562 C 6 9.4957891 6.2380226 10.551976 6.7148438 11.25 C 7.1916649 11.948023 7.8434318 12.439084 8.6699219 12.722656 C 9.507008 12.995275 10.481167 13.08725 11.59375 13 C 12.716929 12.912747 13.717881 12.593154 15 12.244141 L 15 19 L 18 19 L 18 3 L 15 3 L 15 10.230469 C 13.950993 10.492227 13.227174 10.661934 12.421875 10.738281 C 11.627174 10.803721 11.161491 10.755391 10.621094 10.591797 C 10.091293 10.417291 9.6895592 10.112045 9.4140625 9.6757812 C 9.1385658 9.2286102 9 8.6228378 9 7.859375 L 9 3 L 6 3 z M 5 21 L 5 22 L 19 22 L 19 21 L 5 21 z " />
 </svg>

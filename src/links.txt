@@ -70,6 +70,7 @@ cmd/32/bulletliststyle.xxx cmd/32/defaultbullet.xxx
 cmd/32/bulletsandnumberingdialog.xxx cmd/32/outlinebullet.xxx
 cmd/32/ca/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/ca/underlinesingle.xxx cmd/32/ca/underline.xxx
+cmd/32/chainframes.xxx cmd/32/inserthyperlink.xxx
 cmd/32/calloutshapes.round-rectangular-callout.xxx cmd/32/calloutshapes.xxx
 cmd/32/cellprotection.xxx cmd/32/protect.xxx
 cmd/32/cellvertbottom.xxx cmd/32/alignbottom.xxx
@@ -131,6 +132,7 @@ cmd/32/dbreportdelete.xxx cmd/32/delete.xxx
 cmd/32/dbreportopen.xxx cmd/32/open.xxx
 cmd/32/dbtabledelete.xxx cmd/32/delete.xxx
 cmd/32/dbtableopen.xxx cmd/32/open.xxx
+cmd/32/dbviewfunctions.xxx cmd/32/toggleformula.xxx
 cmd/32/defaultnumbering.xxx cmd/32/numberliststyle.xxx
 cmd/32/defaultparastyle.xxx cmd/32/controlcodes.xxx
 cmd/32/definename.xxx cmd/32/label.xxx
@@ -246,8 +248,8 @@ cmd/32/fr/underlinesimple.xxx cmd/32/ca/underline.xxx
 cmd/32/fr/underlinesingle.xxx cmd/32/ca/underline.xxx
 cmd/32/framedialog.xxx cmd/32/insertframe.xxx
 cmd/32/formproperties.xxx cmd/32/config.xxx
-cmd/32/functionbox.xxx cmd/32/dbviewfunctions.xxx
-cmd/32/functiondialog.xxx cmd/32/dbviewfunctions.xxx
+cmd/32/functionbox.xxx cmd/32/toggleformula.xxx
+cmd/32/functiondialog.xxx cmd/32/toggleformula.xxx
 cmd/32/goodcellstyles.xxx cmd/32/goodcellstyle.xxx
 cmd/32/gotoend.xxx cmd/32/lastrecord.xxx
 cmd/32/gotoendofdoc.xxx cmd/32/lastrecord.xxx
@@ -295,7 +297,7 @@ cmd/32/importslidefromfile.xxx cmd/32/dataimport.xxx
 cmd/32/incrementindent.xxx cmd/32/decrementlevel.xxx
 cmd/32/incrementlevel.xxx cmd/32/decrementindent.xxx
 cmd/32/indexesmenu.xxx cmd/32/insertindexesentry.xxx
-cmd/32/inputlinevisible.xxx cmd/32/dbviewfunctions.xxx
+cmd/32/inputlinevisible.xxx cmd/32/toggleformula.xxx
 cmd/32/inscellsctrl.xxx cmd/32/inserttable.xxx
 cmd/32/insert.xxx cmd/32/inserttable.xxx
 cmd/32/insertauthorfield.xxx cmd/32/dbviewaliases.xxx
@@ -323,14 +325,13 @@ cmd/32/insertformlist.xxx cmd/32/listbox.xxx
 cmd/32/insertformmenu.xxx cmd/32/config.xxx
 cmd/32/insertformradio.xxx cmd/32/radiobutton.xxx
 cmd/32/insertformspin.xxx cmd/32/spinbutton.xxx
-cmd/32/insertformula.xxx cmd/32/dbviewfunctions.xxx
+cmd/32/insertformula.xxx cmd/32/toggleformula.xxx
 cmd/32/insertformvscroll.xxx cmd/32/scrollbar.xxx
 cmd/32/insertframeinteract.xxx cmd/32/insertframe.xxx
 cmd/32/insertframeinteractnocolumns.xxx cmd/32/insertframe.xxx
 cmd/32/insertframemenu.xxx cmd/32/insertframe.xxx
 cmd/32/insertgridcontrol.xxx cmd/32/gridvisible.xxx
 cmd/32/insertheaderfootermenu.xxx cmd/32/editheaderandfooter.xxx
-cmd/32/inserthyperlinkcontrol.xxx cmd/32/inserthyperlink.xxx
 cmd/32/insertimagecontrol.xxx cmd/32/drawchart.xxx
 cmd/32/insertlistbox.xxx cmd/32/listbox.xxx
 cmd/32/insertmenuaxes.xxx cmd/32/diagramaxis.xxx
@@ -398,6 +399,7 @@ cmd/32/togglemergecells.xxx cmd/32/mergecells.xxx
 cmd/32/managelanguage.xxx cmd/32/showallnotes.xxx
 cmd/32/mirrorhorz.xxx cmd/32/mirror.xxx
 cmd/32/mirrormenu.xxx cmd/32/rotateleft.xxx
+cmd/32/modifyframe.xxx cmd/32/inserthyperlinkcontrol.xxx
 cmd/32/modifypage.xxx cmd/32/pagedialog.xxx
 cmd/32/movepagedown.xxx cmd/32/downsearch.xxx
 cmd/32/movepageup.xxx cmd/32/upsearch.xxx
@@ -585,6 +587,7 @@ cmd/32/tr/underlinedouble.xxx cmd/32/hu/underlinedouble.xxx
 cmd/32/tr/underlinesimple.xxx cmd/32/hu/underline.xxx
 cmd/32/tr/underlinesingle.xxx cmd/32/hu/underline.xxx
 cmd/32/tracechangemode.xxx cmd/32/trackchanges.xxx
+cmd/32/unhainframes.xxx cmd/32/removehyperlink.xxx
 cmd/32/underlinesimple.xxx cmd/32/underline.xxx
 cmd/32/underlinesingle.xxx cmd/32/underline.xxx
 cmd/32/updateall.xxx cmd/32/reload.xxx
@@ -638,6 +641,7 @@ cmd/ar/sc_linenumberdialog.xxx cmd/ar/sc_linenumberingdialog.xxx
 cmd/ar/sc_defaultnumbering.xxx cmd/ar/sc_numberliststyle.xxx
 cmd/ca/sc_underlinesimple.xxx cmd/ca/sc_underline.xxx
 cmd/ca/sc_underlinesingle.xxx cmd/ca/sc_underline.xxx
+cmd/lc_chainframes.xxx cmd/lc_inserthyperlink.xxx
 cmd/es/lc_bold.xxx cmd/ca/lc_bold.xxx
 cmd/es/lc_italic.xxx cmd/de/lc_italic.xxx
 cmd/es/lc_numberformatdecdecimals.xxx cmd/de/lc_numberformatdecdecimals.xxx
@@ -865,6 +869,7 @@ cmd/lc_dbreportdelete.xxx cmd/lc_delete.xxx
 cmd/lc_dbreportopen.xxx cmd/lc_open.xxx
 cmd/lc_dbtabledelete.xxx cmd/lc_delete.xxx
 cmd/lc_dbtableopen.xxx cmd/lc_open.xxx
+cmd/lc_dbviewfunctions.xxx cmd/lc_toggleformula.xxx
 cmd/lc_defaultnumbering.xxx cmd/lc_romanliststyle.xxx
 cmd/lc_defaultcellstyles.xxx cmd/lc_defaultcharstyle.xxx
 cmd/lc_defaultparastyle.xxx cmd/lc_controlcodes.xxx
@@ -953,8 +958,8 @@ cmd/lc_formfilter.xxx cmd/lc_datafilterspecialfilter.xxx
 cmd/lc_formfilterexecute.xxx cmd/lc_datafilterstandardfilter.xxx
 cmd/lc_framedialog.xxx cmd/lc_insertframe.xxx
 cmd/lc_formproperties.xxx cmd/lc_config.xxx
-cmd/lc_functionbox.xxx cmd/lc_dbviewfunctions.xxx
-cmd/lc_functiondialog.xxx cmd/lc_dbviewfunctions.xxx
+cmd/lc_functionbox.xxx cmd/lc_toggleformula.xxx
+cmd/lc_functiondialog.xxx cmd/lc_toggleformula.xxx
 cmd/lc_goodcellstyles.xxx cmd/lc_goodcellstyle.xxx
 cmd/lc_gotoend.xxx cmd/lc_lastrecord.xxx
 cmd/lc_gotoendofdoc.xxx cmd/lc_lastrecord.xxx
@@ -983,7 +988,7 @@ cmd/lc_importslidefromfile.xxx cmd/lc_dataimport.xxx
 cmd/lc_incrementindent.xxx cmd/lc_decrementlevel.xxx
 cmd/lc_incrementlevel.xxx cmd/lc_decrementindent.xxx
 cmd/lc_indexesmenu.xxx cmd/lc_insertindexesentry.xxx
-cmd/lc_inputlinevisible.xxx cmd/lc_dbviewfunctions.xxx
+cmd/lc_inputlinevisible.xxx cmd/lc_toggleformula.xxx
 cmd/lc_inscellsctrl.xxx cmd/lc_inserttable.xxx
 cmd/lc_insert.xxx cmd/lc_inserttable.xxx
 cmd/lc_insertauthorfield.xxx cmd/lc_dbviewaliases.xxx
@@ -1012,14 +1017,13 @@ cmd/lc_insertformlist.xxx cmd/lc_listbox.xxx
 cmd/lc_insertformmenu.xxx cmd/lc_config.xxx
 cmd/lc_insertformradio.xxx cmd/lc_radiobutton.xxx
 cmd/lc_insertformspin.xxx cmd/lc_spinbutton.xxx
-cmd/lc_insertformula.xxx cmd/lc_dbviewfunctions.xxx
+cmd/lc_insertformula.xxx cmd/lc_toggleformula.xxx
 cmd/lc_insertformvscroll.xxx cmd/lc_scrollbar.xxx
 cmd/lc_insertframeinteract.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertframeinteractnocolumns.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertframemenu.xxx cmd/lc_insertframe.xxx
 cmd/lc_insertgridcontrol.xxx cmd/lc_gridvisible.xxx
 cmd/lc_insertheaderfootermenu.xxx cmd/lc_editheaderandfooter.xxx
-cmd/lc_inserthyperlinkcontrol.xxx cmd/lc_inserthyperlink.xxx
 cmd/lc_insertimagecontrol.xxx cmd/lc_drawchart.xxx
 cmd/lc_insertlinebreak.xxx cmd/lc_wraptext.xxx
 cmd/lc_insertlistbox.xxx cmd/lc_listbox.xxx
@@ -1083,6 +1087,7 @@ cmd/lc_togglemergecells.xxx cmd/lc_mergecells.xxx
 cmd/lc_mergedocument.xxx cmd/lc_mergedocuments.xxx
 cmd/lc_mirrorhorz.xxx cmd/lc_mirror.xxx
 cmd/lc_mirrormenu.xxx cmd/lc_rotateleft.xxx
+cmd/lc_modifyframe.xxx cmd/lc_inserthyperlinkcontrol.xxx
 cmd/lc_modifypage.xxx cmd/lc_pagedialog.xxx
 cmd/lc_movepagedown.xxx cmd/lc_downsearch.xxx
 cmd/lc_movepageup.xxx cmd/lc_upsearch.xxx
@@ -1242,6 +1247,7 @@ cmd/lc_thesaurusdialog.xxx cmd/lc_thesaurus.xxx
 cmd/lc_toggleaxisdescr.xxx cmd/lc_helplinesvisible.xxx
 cmd/lc_toolprotectiondocument.xxx cmd/lc_protect.xxx
 cmd/lc_tracechangemode.xxx cmd/lc_trackchanges.xxx
+cmd/lc_unhainframes.xxx cmd/lc_removehyperlink.xxx
 cmd/lc_underlinesimple.xxx cmd/lc_underline.xxx
 cmd/lc_underlinesingle.xxx cmd/lc_underline.xxx
 cmd/lc_updateall.xxx cmd/lc_reload.xxx
@@ -1352,6 +1358,7 @@ cmd/sc_cellvertbottom.xxx cmd/sc_alignbottom.xxx
 cmd/sc_cellvertcenter.xxx cmd/sc_alignverticalcenter.xxx
 cmd/sc_cellverttop.xxx cmd/sc_aligntop.xxx
 cmd/sc_centerpara.xxx cmd/sc_alignhorizontalcenter.xxx
+cmd/sc_chainframes.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_changesmenu.xxx cmd/sc_trackchangesbar.xxx
 cmd/sc_characterbackgroundpattern.xxx cmd/sc_backcolor.xxx
 cmd/sc_charactermenu.xxx cmd/sc_fontdialog.xxx
@@ -1410,6 +1417,7 @@ cmd/sc_dbreportdelete.xxx cmd/sc_delete.xxx
 cmd/sc_dbreportopen.xxx cmd/sc_open.xxx
 cmd/sc_dbtabledelete.xxx cmd/sc_delete.xxx
 cmd/sc_dbtableopen.xxx cmd/sc_open.xxx
+cmd/sc_dbviewfunctions.xxx cmd/sc_toggleformula.xxx
 cmd/sc_defaultnumbering.xxx cmd/sc_romanliststyle.xxx
 cmd/sc_defaultcellstyles.xxx cmd/sc_defaultcharstyle.xxx
 cmd/sc_defaultparastyle.xxx cmd/sc_controlcodes.xxx
@@ -1498,8 +1506,8 @@ cmd/sc_formfilter.xxx cmd/sc_datafilterspecialfilter.xxx
 cmd/sc_formfilterexecute.xxx cmd/sc_datafilterstandardfilter.xxx
 cmd/sc_framedialog.xxx cmd/sc_insertframe.xxx
 cmd/sc_formproperties.xxx cmd/sc_config.xxx
-cmd/sc_functionbox.xxx cmd/sc_dbviewfunctions.xxx
-cmd/sc_functiondialog.xxx cmd/sc_dbviewfunctions.xxx
+cmd/sc_functionbox.xxx cmd/sc_toggleformula.xxx
+cmd/sc_functiondialog.xxx cmd/sc_toggleformula.xxx
 cmd/sc_goodcellstyles.xxx cmd/sc_goodcellstyle.xxx
 cmd/sc_gotoend.xxx cmd/sc_lastrecord.xxx
 cmd/sc_gotoendofdoc.xxx cmd/sc_lastrecord.xxx
@@ -1528,7 +1536,7 @@ cmd/sc_importslidefromfile.xxx cmd/sc_dataimport.xxx
 cmd/sc_incrementindent.xxx cmd/sc_decrementlevel.xxx
 cmd/sc_incrementlevel.xxx cmd/sc_decrementindent.xxx
 cmd/sc_indexesmenu.xxx cmd/sc_insertindexesentry.xxx
-cmd/sc_inputlinevisible.xxx cmd/sc_dbviewfunctions.xxx
+cmd/sc_inputlinevisible.xxx cmd/sc_toggleformula.xxx
 cmd/sc_inscellsctrl.xxx cmd/sc_inserttable.xxx
 cmd/sc_insert.xxx cmd/sc_inserttable.xxx
 cmd/sc_insertauthorfield.xxx cmd/sc_dbviewaliases.xxx
@@ -1557,14 +1565,13 @@ cmd/sc_insertformlist.xxx cmd/sc_listbox.xxx
 cmd/sc_insertformmenu.xxx cmd/sc_config.xxx
 cmd/sc_insertformradio.xxx cmd/sc_radiobutton.xxx
 cmd/sc_insertformspin.xxx cmd/sc_spinbutton.xxx
-cmd/sc_insertformula.xxx cmd/sc_dbviewfunctions.xxx
+cmd/sc_insertformula.xxx cmd/sc_toggleformula.xxx
 cmd/sc_insertformvscroll.xxx cmd/sc_scrollbar.xxx
 cmd/sc_insertframeinteract.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertframeinteractnocolumns.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertframemenu.xxx cmd/sc_insertframe.xxx
 cmd/sc_insertgridcontrol.xxx cmd/sc_gridvisible.xxx
 cmd/sc_insertheaderfootermenu.xxx cmd/sc_editheaderandfooter.xxx
-cmd/sc_inserthyperlinkcontrol.xxx cmd/sc_inserthyperlink.xxx
 cmd/sc_insertimagecontrol.xxx cmd/sc_drawchart.xxx
 cmd/sc_insertlinebreak.xxx cmd/sc_wraptext.xxx
 cmd/sc_insertlistbox.xxx cmd/sc_listbox.xxx
@@ -1629,6 +1636,7 @@ cmd/sc_togglemergecells.xxx cmd/sc_mergecells.xxx
 cmd/sc_mergedocument.xxx cmd/sc_mergedocuments.xxx
 cmd/sc_mirrorhorz.xxx cmd/sc_mirror.xxx
 cmd/sc_mirrormenu.xxx cmd/sc_rotateleft.xxx
+cmd/sc_modifyframe.xxx cmd/sc_inserthyperlinkcontrol.xxx
 cmd/sc_modifypage.xxx cmd/sc_pagedialog.xxx
 cmd/sc_movepagedown.xxx cmd/sc_downsearch.xxx
 cmd/sc_movepageup.xxx cmd/sc_upsearch.xxx
@@ -1790,6 +1798,7 @@ cmd/sc_thesaurusdialog.xxx cmd/sc_thesaurus.xxx
 cmd/sc_toggleaxisdescr.xxx cmd/sc_helplinesvisible.xxx
 cmd/sc_toolprotectiondocument.xxx cmd/sc_protect.xxx
 cmd/sc_tracechangemode.xxx cmd/sc_trackchanges.xxx
+cmd/sc_unhainframes.xxx cmd/sc_removehyperlink.xxx
 cmd/sc_underlinesimple.xxx cmd/sc_underline.xxx
 cmd/sc_underlinesingle.xxx cmd/sc_underline.xxx
 cmd/sc_updateall.xxx cmd/sc_reload.xxx
@@ -1913,7 +1922,7 @@ formula/res/fapclose.xxx cmd/sc_open.xxx
 formula/res/faperror.xxx cmd/sc_cancel.xxx
 formula/res/fapok.xxx cmd/sc_ok.xxx
 formula/res/fapopen.xxx cmd/sc_open.xxx
-formula/res/fx.xxx cmd/sc_dbviewfunctions.xxx
+formula/res/fx.xxx cmd/sc_toggleformula.xxx
 fpicker/res/fp011.xxx cmd/sc_firstpage.xxx
 fpicker/res/fp014.xxx cmd/sc_open.xxx
 fpicker/res/fp015.xxx cmd/sc_starshapes.xxx
@@ -1934,7 +1943,7 @@ reportdesign/res/sx12452.xxx cmd/sc_config.xxx
 reportdesign/res/sx12453.xxx cmd/sc_config.xxx
 reportdesign/res/sx12454.xxx cmd/sc_alignright.xxx
 reportdesign/res/sx12464.xxx cmd/sc_dbviewreports.xxx
-reportdesign/res/sx12594.xxx cmd/sc_dbviewfunctions.xxx
+reportdesign/res/sx12594.xxx cmd/sc_toggleformula.xxx
 res/adrbook.xxx cmd/sc_viewdatasourcebrowser.xxx
 res/basbrk.xxx cmd/sc_addwatch.xxx
 res/baswatr.xxx cmd/lc_addwatch.xxx
@@ -2068,6 +2077,7 @@ res/sx10600.xxx cmd/lc_listbox.xxx
 res/sx10601.xxx cmd/sc_combobox.xxx
 res/sx10603.xxx cmd/sc_inserttable.xxx
 res/sx10605.xxx cmd/sc_open.xxx
+res/sx10607.xxx cmd/sc_lastrecord.xxx
 res/sx10704.xxx cmd/sc_datefield.xxx
 res/sx10705.xxx cmd/sc_timefield.xxx
 res/sx10706.xxx cmd/sc_text.xxx
@@ -2087,8 +2097,8 @@ sc/res/dropcopy.xxx cmd/sc_copy.xxx
 sc/res/droplink.xxx cmd/sc_insertbookmark.xxx
 sc/res/dropurl.xxx cmd/sc_inserthyperlink.xxx
 sc/res/file.xxx cmd/sc_open.xxx
-sc/res/fx.xxx cmd/sc_dbviewfunctions.xxx
-sc/res/lc26047.xxx cmd/lc_dbviewfunctions.xxx
+sc/res/fx.xxx cmd/sc_toggleformula.xxx
+sc/res/lc26047.xxx cmd/lc_toggleformula.xxx
 sc/res/lc26048.xxx cmd/lc_autosum.xxx
 sc/res/lc26050.xxx cmd/lc_cancel.xxx
 sc/res/lc26051.xxx cmd/lc_ok.xxx
@@ -2112,7 +2122,7 @@ sc/res/pages.xxx cmd/sc_insertpagecountfield.xxx
 sc/res/paste_transpose.xxx cmd/lc_datadatapilotrun.xxx
 sc/res/paste_values_formats.xxx cmd/lc_formatpaintbrush.xxx
 sc/res/paste_values_only.xxx cmd/lc_numberformatstandard.xxx
-sc/res/sc26047.xxx cmd/sc_dbviewfunctions.xxx
+sc/res/sc26047.xxx cmd/sc_toggleformula.xxx
 sc/res/sc26048.xxx cmd/sc_autosum.xxx
 sc/res/sc26050.xxx cmd/sc_cancel.xxx
 sc/res/sc26051.xxx cmd/sc_ok.xxx
@@ -2188,8 +2198,8 @@ sfx2/res/symphony/sidebar-colors-large.xxx cmd/lc_bmpmask.xxx
 sfx2/res/symphony/sidebar-colors-small.xxx cmd/sc_bmpmask.xxx
 sfx2/res/symphony/sidebar-eyedropper-large.xxx cmd/lc_bmpmask.xxx
 sfx2/res/symphony/sidebar-eyedropper-small.xxx cmd/sc_bmpmask.xxx
-sfx2/res/symphony/sidebar-functions-large.xxx cmd/lc_dbviewfunctions.xxx
-sfx2/res/symphony/sidebar-functions-small.xxx cmd/sc_dbviewfunctions.xxx
+sfx2/res/symphony/sidebar-functions-large.xxx cmd/lc_toggleformula.xxx
+sfx2/res/symphony/sidebar-functions-small.xxx cmd/sc_toggleformula.xxx
 sfx2/res/symphony/sidebar-gallery-large.xxx cmd/lc_gallery.xxx
 sfx2/res/symphony/sidebar-gallery-small.xxx cmd/sc_gallery.xxx
 sfx2/res/symphony/sidebar-imganim-large.xxx cmd/lc_animationmode.xxx
@@ -2359,7 +2369,7 @@ svx/res/time.xxx cmd/sc_timefield.xxx
 svx/res/zoom_page_statusbar.xxx cmd/sc_zoompanning.xxx
 sw/res/all_left.xxx cmd/sc_firstpage.xxx
 sw/res/all_right.xxx cmd/sc_lastrecord.xxx
-sw/res/lc20556.xxx cmd/lc_dbviewfunctions.xxx
+sw/res/lc20556.xxx cmd/lc_toggleformula.xxx
 sw/res/lc20557.xxx cmd/lc_cancel.xxx
 sw/res/lc20558.xxx cmd/lc_ok.xxx
 sw/res/nc20000.xxx cmd/sc_inserttitlefield.xxx
@@ -2400,7 +2410,7 @@ sw/res/sc20246.xxx cmd/sc_insertbookmark.xxx
 sw/res/sc20247.xxx cmd/sc_dataimport.xxx
 sw/res/sc20248.xxx cmd/sc_save.xxx
 sw/res/sc20249.xxx cmd/sc_navigator.xxx
-sw/res/sc20556.xxx cmd/sc_dbviewfunctions.xxx
+sw/res/sc20556.xxx cmd/sc_toggleformula.xxx
 sw/res/sc20557.xxx cmd/sc_cancel.xxx
 sw/res/sc20558.xxx cmd/sc_ok.xxx
 sw/res/sc_datainrows.xxx cmd/sc_datainrows.xxx

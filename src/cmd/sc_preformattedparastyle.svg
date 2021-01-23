@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
@@ -14,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_preformattedparastyle.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,13 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient839">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop835" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient839"
+       id="linearGradient841"
+       x1="7"
+       y1="2"
+       x2="7"
+       y2="14"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,23 +62,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="4.183754"
-     inkscape:cy="6.3717123"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="8.819952"
+     inkscape:cy="9.1270422"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path824"
      fill="#762572"
-     d="m13 8a2 2 0 0 0 -2 2 2 2 0 0 0 2 2v2h1v-6z" />
+     d="m 13,8 c -1.104569,0 -2,0.8954305 -2,2 0,1.104569 0.895431,2 2,2 v 3 h 1 V 8 Z"
+     sodipodi:nodetypes="ssccccs" />
   <path
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     style="fill:#000000;stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-opacity:1"
      id="path822"
      fill="#232629"
      d="m9.0898438 2-3.1464844 11.740234.9667968.259766 3.1464848-11.7402344zm-3.8046876 2-2.9609374 3.1445312-.3242188.3476563.3242188.3476563 2.9433593 3.1621092.7148438-.695312-2.6210938-2.8144535 2.6386719-2.796875z" />
@@ -62,10 +92,11 @@
      d="m9.0898438 2-3.1464844 11.740234.9667968.259766 3.1464848-11.7402344zm-3.8046876 2-2.9609374 3.1445312-.3242188.3476563.3242188.3476563 2.9433593 3.1621092.7148438-.695312-2.6210938-2.8144535 2.6386719-2.796875z"
      fill="#232629"
      id="path2"
-     style="fill:#ffffff" />
+     style="fill:url(#linearGradient841);fill-opacity:1" />
   <path
-     d="m13 8a2 2 0 0 0 -2 2 2 2 0 0 0 2 2v2h1v-6z"
+     d="m 13,8 c -1.104569,0 -2,0.8954305 -2,2 0,1.104569 0.895431,2 2,2 v 3 h 1 V 8 Z"
      fill="#762572"
      id="path4"
-     style="fill:#aee3f8;fill-opacity:1" />
+     style="fill:#aee3f8;fill-opacity:1"
+     sodipodi:nodetypes="ssccccs" />
 </svg>
