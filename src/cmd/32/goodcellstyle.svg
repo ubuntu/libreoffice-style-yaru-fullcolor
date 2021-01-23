@@ -5,12 +5,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
-   sodipodi:docname="lc_goodcellstyle.svg"
+   sodipodi:docname="goodcellstyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_goodcellstyle.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -30,9 +31,31 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient837">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop833" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop835" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient837"
+       id="linearGradient839"
+       x1="25"
+       y1="5"
+       x2="25"
+       y2="27"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,13 +64,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.40874299"
-     inkscape:cy="18.193179"
-     inkscape:window-x="0"
+     inkscape:zoom="29.5"
+     inkscape:cx="16.507837"
+     inkscape:cy="18.361801"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
@@ -58,8 +81,9 @@
   </sodipodi:namedview>
   <path
      id="path840"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linejoin:round"
-     d="M 23 5 L 13.806641 14.193359 L 16.636719 17.021484 L 23 10.65625 L 23 26.666016 L 27 26.666016 L 27 5 L 23 5 z " />
+     style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linejoin:round"
+     d="m 23,5 -9.193359,9.193359 2.830078,2.828125 L 23,10.65625 V 27 h 4 V 5 Z"
+     sodipodi:nodetypes="cccccccc" />
   <path
      d="m 5,12 v 3 H 2 v 2 h 3 v 3 h 2 v -3 h 3 V 15 H 7 v -3 z"
      id="path4-1"
@@ -68,6 +92,7 @@
      sodipodi:nodetypes="ccccccccccccc" />
   <path
      id="rect833"
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2"
-     d="M 23 5 L 13.806641 14.193359 L 16.636719 17.021484 L 23 10.65625 L 23 26.666016 L 27 26.666016 L 27 5 L 23 5 z " />
+     style="opacity:1;fill:url(#linearGradient839);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2"
+     d="m 23,5 -9.193359,9.193359 2.830078,2.828125 L 23,10.65625 V 27 h 4 V 5 Z"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

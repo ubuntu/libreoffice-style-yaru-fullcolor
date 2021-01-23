@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 11"
@@ -14,7 +15,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/sc/res/xml_element.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,13 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient841">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop837" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient841"
+       id="linearGradient843"
+       x1="7"
+       y1="1"
+       x2="7"
+       y2="10"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,40 +62,45 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview10"
-     showgrid="false"
-     inkscape:zoom="21.454545"
-     inkscape:cx="2.8029661"
-     inkscape:cy="5.5"
+     showgrid="true"
+     inkscape:zoom="60.682617"
+     inkscape:cx="6.8544475"
+     inkscape:cy="5.7533966"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+  </sodipodi:namedview>
   <g
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+     style="fill:#000000;stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
      id="g825"
      fill="#f27935">
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
        id="path821"
        d="m8.6875 1-2.34375 8.75.96875.25 2.34375-8.75z" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
        id="path823"
        d="m8.6875 1-2.34375 8.75.96875.25 2.34375-8.75zm-4.40625 1-2.96875 3.15625-.3125.34375.3125.34375 2.96875 3.15625.6875-.6875-2.59375-2.8125 2.625-2.8125zm7.4375 0-.71875.6875 2.625 2.8125-2.59375 2.8125.6875.6875 2.96875-3.15625.3125-.34375-.3125-.34375z" />
   </g>
   <g
      fill="#f27935"
      id="g6"
-     style="fill:#ffffff">
+     style="fill:url(#linearGradient843);fill-opacity:1">
     <path
        d="m8.6875 1-2.34375 8.75.96875.25 2.34375-8.75z"
        id="path2"
-       style="fill:#ffffff" />
+       style="fill:url(#linearGradient843);fill-opacity:1" />
     <path
        d="m8.6875 1-2.34375 8.75.96875.25 2.34375-8.75zm-4.40625 1-2.96875 3.15625-.3125.34375.3125.34375 2.96875 3.15625.6875-.6875-2.59375-2.8125 2.625-2.8125zm7.4375 0-.71875.6875 2.625 2.8125-2.59375 2.8125.6875.6875 2.96875-3.15625.3125-.34375-.3125-.34375z"
        id="path4"
-       style="fill:#ffffff" />
+       style="fill:url(#linearGradient843);fill-opacity:1" />
   </g>
 </svg>

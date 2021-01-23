@@ -5,13 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_underlinedouble.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_underlinedouble.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -23,13 +24,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient840">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop836" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop838" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient842"
+       x1="12"
+       y1="2"
+       x2="12"
+       y2="23"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,44 +62,33 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="8.4468778"
-     inkscape:cy="10.416608"
+     inkscape:cx="4.8138667"
+     inkscape:cy="10.428376"
      inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid829" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 5 20 L 5 21 L 19 21 L 19 20 L 5 20 z M 5 22 L 5 23 L 19 23 L 19 22 L 5 22 z "
      id="path820" />
   <path
      inkscape:connector-curvature="0"
      id="path818"
      d="m 6.9999998,2 v 4 7 c 0,2.77 2.2300001,5 5.0000002,5 2.77,0 5,-2.23 5,-5 V 6 2 h -3 v 4 7 c 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 V 6 2 Z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      sodipodi:nodetypes="ccsssccccsssccc" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1"
-     d="m 6.9999998,2 v 4 7 c 0,2.77 2.2300001,5 5.0000002,5 2.77,0 5,-2.23 5,-5 V 6 2 h -3 v 4 7 c 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 V 6 2 Z"
      id="path816"
-     sodipodi:nodetypes="ccsssccccsssccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1"
-     d="m 4.9999998,22 v 1 H 19 v -1 z"
-     id="path2" />
-  <path
-     id="path833"
-     d="m 4.9999998,20 v 1 H 19 v -1 z"
-     style="fill:#ffffff;fill-opacity:1"
-     inkscape:connector-curvature="0" />
+     style="fill:url(#linearGradient842);fill-opacity:1"
+     d="M 7 2 L 7 6 L 7 13 C 7 15.77 9.2299999 18 12 18 C 14.77 18 17 15.77 17 13 L 17 6 L 17 2 L 14 2 L 14 6 L 14 13 C 14 14.108 13.108 15 12 15 C 10.892 15 10 14.108 10 13 L 10 6 L 10 2 L 7 2 z M 5 20 L 5 21 L 19 21 L 19 20 L 5 20 z M 5 22 L 5 23 L 19 23 L 19 22 L 5 22 z " />
 </svg>

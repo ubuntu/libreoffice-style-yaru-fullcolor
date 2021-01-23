@@ -5,9 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_bold.png"
@@ -17,13 +18,13 @@
    viewBox="0 0 24 24">
   <path
      id="path2007"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 5,4 V 8.4550781 11 11.662109 16.294922 20 H 9.2871094 13.642578 C 16.61043,20 19,17.933295 19,15.367188 19,13.324533 17.4759,11.619043 15.361328,11 16.265745,10.289569 16.857422,9.1728895 16.857422,7.8984375 16.857422,5.738826 15.184922,4 13.107422,4 H 9.2871094 Z m 3,3 h 3 c 1.108,0 2,0.669 2,1.5 0,0.831 -0.892,1.5 -2,1.5 H 8 Z m 0,6 h 4 c 1.662,0 3,0.892 3,2 0,1.108 -1.338,2 -3,2 H 8 Z"
+     style="opacity:1;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 4,4 V 8.4550781 11 11.662109 16.294922 20 H 9.2871094 13.642578 C 16.61043,20 19,17.933295 19,15.367188 19,13.324533 17.4759,11.619043 15.361328,11 16.265745,10.289569 16.857422,9.1728895 16.857422,7.8984375 16.857422,5.738826 15.184922,4 13.107422,4 H 9.2871094 Z m 4,3 h 3 c 1.108,0 2,0.669 2,1.5 0,0.831 -0.892,1.5 -2,1.5 H 8 Z m 0,6 h 4 c 1.662,0 3,0.892 3,2 0,1.108 -1.338,2 -3,2 H 8 Z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccsscsscccssscccssscc" />
   <path
-     d="M 5,4 V 8.4550781 11 11.662109 16.294922 20 H 9.2871094 13.642578 C 16.61043,20 19,17.933295 19,15.367188 19,13.324533 17.4759,11.619043 15.361328,11 16.265745,10.289569 16.857422,9.1728895 16.857422,7.8984375 16.857422,5.738826 15.184922,4 13.107422,4 H 9.2871094 Z m 3,3 h 3 c 1.108,0 2,0.669 2,1.5 0,0.831 -0.892,1.5 -2,1.5 H 8 Z m 0,6 h 4 c 1.662,0 3,0.892 3,2 0,1.108 -1.338,2 -3,2 H 8 Z"
-     style="fill:#ffffff;stroke-width:1.09239995"
+     d="M 4,4 V 8.4550781 11 11.662109 16.294922 20 H 9.2871094 13.642578 C 16.61043,20 19,17.933295 19,15.367188 19,13.324533 17.4759,11.619043 15.361328,11 16.265745,10.289569 16.857422,9.1728895 16.857422,7.8984375 16.857422,5.738826 15.184922,4 13.107422,4 H 9.2871094 Z m 4,3 h 3 c 1.108,0 2,0.669 2,1.5 0,0.831 -0.892,1.5 -2,1.5 H 8 Z m 0,6 h 4 c 1.662,0 3,0.892 3,2 0,1.108 -1.338,2 -3,2 H 8 Z"
+     style="fill:url(#linearGradient838);fill-opacity:1;stroke-width:1.0924"
      id="path1988"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccsscsscccssscccssscc" />
@@ -35,23 +36,46 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient836">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop832" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop834" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient838"
+       x1="7"
+       y1="4"
+       x2="7"
+       y2="20"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:current-layer="svg4"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
-     inkscape:window-x="0"
-     inkscape:cy="8.5318563"
-     inkscape:cx="-11.508663"
-     inkscape:zoom="13.906434"
+     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:cy="15.536987"
+     inkscape:cx="10.868649"
+     inkscape:zoom="27.812868"
      showgrid="true"
      id="namedview6"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -60,7 +84,7 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff">
+     pagecolor="#808080">
     <inkscape:grid
        id="grid817"
        type="xygrid" />

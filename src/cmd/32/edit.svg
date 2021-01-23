@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
@@ -27,7 +28,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient837"
+       id="linearGradient839"
+       x1="16"
+       y1="6"
+       x2="16"
+       y2="26"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient837">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop833" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop835" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,13 +61,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="10.429825"
      inkscape:cx="6.6256303"
      inkscape:cy="16.794129"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
@@ -55,14 +78,14 @@
   </sodipodi:namedview>
   <path
      inkscape:connector-curvature="0"
-     id="path833-3"
-     d="M 14,6.0000001 5.0000009,26 H 8.000001 l 2.908202,-6 h 10.183593 l 2.908203,6 h 3 l -9,-20 h -2 z M 15.999999,8.4023441 19.849608,17 h -3.849609 -3.849608 z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+     id="path833"
+     d="M 14.000001,6 5.0000002,26 H 8.0000003 L 10.908204,20 H 21.091797 L 24,26 h 3 L 18,6 H 16 Z M 16,8.402344 19.849609,17 H 16 12.150392 Z"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1"
-     d="M 14,6.0000001 5.0000009,26 H 8.000001 l 2.908202,-6 h 10.183593 l 2.908203,6 h 3 l -9,-20 h -2 z M 15.999999,8.4023441 19.849608,17 h -3.849609 -3.849608 z"
-     id="path2-3-6" />
+     style="fill:url(#linearGradient839);fill-opacity:1"
+     d="M 14.000001,6 5.0000002,26 H 8.0000003 L 10.908204,20 H 21.091797 L 24,26 h 3 L 18,6 H 16 Z M 16,8.402344 19.849609,17 H 16 12.150392 Z"
+     id="path2-3" />
   <g
      id="g12435"
      style="display:inline"

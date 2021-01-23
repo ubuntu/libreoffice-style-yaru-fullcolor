@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,9 +47,9 @@
        xlink:href="#linearGradient844"
        id="linearGradient854"
        gradientUnits="userSpaceOnUse"
-       x1="12"
+       x1="11"
        y1="3"
-       x2="12"
+       x2="11"
        y2="22" />
   </defs>
   <sodipodi:namedview
@@ -62,14 +62,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
      inkscape:cx="8.4718356"
      inkscape:cy="10.471204"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0">

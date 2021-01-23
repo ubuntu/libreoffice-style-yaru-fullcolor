@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
@@ -19,13 +20,36 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
 <defs
-   id="defs8" />
+   id="defs8">
+  <linearGradient
+     inkscape:collect="always"
+     id="linearGradient838">
+    <stop
+       style="stop-color:#151515;stop-opacity:1"
+       offset="0"
+       id="stop834" />
+    <stop
+       style="stop-color:#4d4d4d;stop-opacity:1"
+       offset="1"
+       id="stop836" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient838"
+     id="linearGradient840"
+     x1="8"
+     y1="2"
+     x2="8"
+     y2="11"
+     gradientUnits="userSpaceOnUse" />
+</defs>
 <sodipodi:namedview
-   pagecolor="#ffffff"
+   pagecolor="#808080"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -34,14 +58,14 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="41.7193"
    inkscape:cx="7.1387913"
    inkscape:cy="9.1928818"
    inkscape:window-x="1920"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:document-rotation="0">
@@ -50,16 +74,19 @@
      id="grid817" />
 </sodipodi:namedview>
 
+
 /&gt;<path
    id="path827"
-   d="m 3,1.9999997 v 2 h 4 v 6 h 2 v -6 h 4 v -2 h -3.5 -2 z"
-   style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-   inkscape:connector-curvature="0" />
+   d="m 3,1.9999997 v 2 H 7 V 11 H 9 V 3.9999997 h 4 v -2 h -3.5 -2 z"
+   style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccc" />
 <path
-   style="fill:#ffffff"
-   d="m 3,1.9999997 v 2 h 4 v 6 h 2 v -6 h 4 v -2 h -3.5 -2 z"
+   style="fill:url(#linearGradient840);fill-opacity:1"
+   d="m 3,1.9999997 v 2 H 7 V 11 H 9 V 3.9999997 h 4 v -2 h -3.5 -2 z"
    id="path825"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccc" />
 <path
    style="fill:#e95420;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
    d="M 15,11.500071 12,9 v 5 z"

@@ -5,13 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_shadowed.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_shadowed.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -23,13 +24,37 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient842"
+       x1="11"
+       y1="4"
+       x2="11"
+       y2="18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.0000419)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient840">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop836" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop838" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,33 +63,34 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="6.8461415"
-     inkscape:cy="14.991683"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:cx="5.4016469"
+     inkscape:cy="11.838867"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid830" />
   </sodipodi:namedview>
   <path
      id="path832"
-     d="M 11,5 6,19 h 3 l 1.455078,-4 h 5.089844 L 17,19 h 3 L 15,5 Z m 2,3 1.818359,5 h -3.636718 z"
-     style="fill:#6d6d6d;fill-opacity:1;stroke:#6d6d6d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 11,6 6,20 h 3.0000001 l 1.4550779,-4 h 5.089844 L 17,20 h 3 L 15,6 Z m 2,3 1.818359,5 h -3.636718 z"
+     style="fill:#6d6d6d;fill-opacity:1;stroke:#6d6d6d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     id="path828"
-     d="M 8,3 3,17 h 3 l 1.455078,-4 h 5.089844 L 14,17 h 3 L 12,3 Z m 2,3 1.818359,5 H 8.181641 Z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="path837"
+     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 7.9999582,4 2.9999581,18 h 3 L 7.4550362,14 H 12.54488 l 1.455078,4 h 3 l -5,-14 z m 1.9999999,3 1.8183589,5 H 8.1815991 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 8,3 3,17 h 3 l 1.455078,-4 h 5.089844 L 14,17 h 3 L 12,3 Z m 2,3 1.818359,5 H 8.181641 Z"
-     id="path820" />
+     id="path2"
+     style="fill:url(#linearGradient842);fill-opacity:1"
+     d="M 7.9999582,4 2.9999581,18 h 3 L 7.4550362,14 H 12.54488 l 1.455078,4 h 3 l -5,-14 z m 1.9999999,3 1.8183589,5 H 8.1815991 Z"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>

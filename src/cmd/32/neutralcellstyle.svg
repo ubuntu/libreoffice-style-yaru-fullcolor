@@ -5,12 +5,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   sodipodi:docname="lc_neutralcellstyle.svg"
+   sodipodi:docname="neutralcellstyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_neutralcellstyle.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -19,11 +20,11 @@
    height="32">
   <path
      id="path867"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2"
      d="M 19.931641 5 A 7 7.5 0 0 0 13 12.5 A 7 7.5 0 0 0 13 12.572266 L 13 19.5 A 7 7.5 0 0 0 20 27 A 7 7.5 0 0 0 27 19.5 A 7 7.5 0 0 0 27 19.427734 L 27 12.5 A 7 7.5 0 0 0 20 5 A 7 7.5 0 0 0 19.931641 5 z M 20 9 A 3 3.5 0 0 1 23 12.5 L 23 19.5 A 3 3.5 0 0 1 20 23 A 3 3.5 0 0 1 17 19.5 L 17 12.5 A 3 3.5 0 0 1 20 9 z " />
   <path
      id="path846"
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2"
+     style="opacity:1;fill:url(#linearGradient840);fill-rule:evenodd;stroke:none;stroke-width:2;fill-opacity:1"
      d="M 19.931641 5 A 7 7.5 0 0 0 13 12.5 A 7 7.5 0 0 0 13 12.572266 L 13 19.5 A 7 7.5 0 0 0 20 27 A 7 7.5 0 0 0 27 19.5 A 7 7.5 0 0 0 27 19.427734 L 27 12.5 A 7 7.5 0 0 0 20 5 A 7 7.5 0 0 0 19.931641 5 z M 20 9 A 3 3.5 0 0 1 23 12.5 L 23 19.5 A 3 3.5 0 0 1 20 23 A 3 3.5 0 0 1 17 19.5 L 17 12.5 A 3 3.5 0 0 1 20 9 z " />
   <metadata
      id="metadata14">
@@ -38,9 +39,31 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient838">
+      <stop
+         style="stop-color:#151515;stop-opacity:1"
+         offset="0"
+         id="stop834" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop836" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient838"
+       id="linearGradient840"
+       x1="20"
+       y1="5"
+       x2="20"
+       y2="27"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,13 +72,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="16"
      inkscape:cx="3.7079238"
      inkscape:cy="11.317358"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
