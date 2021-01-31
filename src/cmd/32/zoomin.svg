@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="8.3649804"
      inkscape:cy="14.614131"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
@@ -70,17 +70,10 @@
      inkscape:transform-center-x="-1.1837244" />
   <path
      id="circle848"
-     style="opacity:1;fill:#c8c4b7;fill-opacity:1;fill-rule:evenodd;stroke-width:4.70588;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:4.70588;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-x="-1.1837244"
      inkscape:transform-center-y="1.1837315"
-     d="M 7.908895,7.9364581 A 10,10 0 0 0 7.922705,22.064783 10,10 0 0 0 21.703,22.41005 l 4.951129,4.951128 0.707107,-0.707107 -4.952509,-4.952509 a 10,10 0 0 0 -0.343886,-13.7789144 10,10 0 0 0 -14.142136,0 10,10 0 0 0 -0.01381,0.01381 z"
-     inkscape:transform-center-x="-1.1837244" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:4.23529;stroke-linecap:round;stroke-linejoin:round"
-     id="path844"
-     cx="4.0981711e-05"
-     cy="21.204357"
-     r="9"
-     transform="rotate(-45)" />
+     d="M 14.871094 4.9941406 A 10 10 0 0 0 7.921875 7.921875 A 10 10 0 0 0 7.9082031 7.9355469 A 10 10 0 0 0 7.921875 22.064453 A 10 10 0 0 0 21.703125 22.410156 L 26.654297 27.361328 L 27.361328 26.654297 L 22.408203 21.701172 A 10 10 0 0 0 22.064453 7.921875 A 10 10 0 0 0 14.871094 4.9941406 z " />
   <path
      style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 14,10 v 4 h -4 v 2 h 4 v 4 h 2 v -4 h 4 v -2 h -4 v -4 z"

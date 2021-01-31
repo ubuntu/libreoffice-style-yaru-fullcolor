@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="zoomobjects.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/zoomobjects.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="12.26545"
      inkscape:cy="12.015712"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid843" />
@@ -94,17 +95,9 @@
      d="m 10.433244,10.433243 a 11,11 0 0 0 0,15.556349 11,11 0 0 0 15.18484,0.335599 l 4.967702,4.967702 0.707107,-0.707107 -4.962177,-4.962177 a 11,11 0 0 0 -0.341124,-15.190366 11,11 0 0 0 -15.556348,0 z"
      style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
-     style="opacity:1;fill:#c8c4b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18786657;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 10.433244,10.433243 a 11,11 0 0 0 0,15.556349 11,11 0 0 0 15.18484,0.335599 l 4.967702,4.967702 0.707107,-0.707107 -4.962177,-4.962177 a 11,11 0 0 0 -0.341124,-15.190366 11,11 0 0 0 -15.556348,0 z"
      id="circle843"
-     inkscape:connector-curvature="0" />
-  <circle
-     style="opacity:1;fill:#fffffe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07987869;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path826"
-     cx="-8.9525054e-07"
-     cy="25.754833"
-     r="10"
-     transform="rotate(-45)" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18786657;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 18.205078 7.2109375 A 11 11 0 0 0 10.433594 10.433594 A 11 11 0 0 0 10.433594 25.990234 A 11 11 0 0 0 25.617188 26.324219 L 30.585938 31.292969 L 31.292969 30.585938 L 26.330078 25.623047 A 11 11 0 0 0 25.990234 10.433594 A 11 11 0 0 0 18.205078 7.2109375 z " />
   <path
      inkscape:connector-curvature="0"
      style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
