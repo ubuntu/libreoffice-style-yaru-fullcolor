@@ -23,8 +23,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <dc:title></dc:title>
+        <dc:title />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="24.395184"
-     inkscape:cx="3.4319708"
-     inkscape:cy="13.106369"
+     inkscape:zoom="34.5"
+     inkscape:cx="14.37921"
+     inkscape:cy="14.21711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
@@ -72,11 +72,10 @@
      sodipodi:nodetypes="ccccccccc" />
   <path
      id="path2037-0"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#c8c4b7;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05404"
-     inkscape:transform-center-y="1.1966053"
-     d="m 6.1643517,6.216655 c -2.9042381,2.9331205 -2.8925109,7.661681 0.02624,10.580361 2.7917827,2.791118 7.2692803,2.940267 10.2406183,0.341124 l 4.261178,4.261355 0.707107,-0.707107 -4.259798,-4.259975 C 19.739336,13.46051 19.58957,8.9820034 16.797194,6.1904151 c -2.928933,-2.9289323 -7.67767,-2.9289328 -10.6066024,-3e-7 -0.00877,0.00873 -0.017515,0.017472 -0.02624,0.02624 z"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05404"
      inkscape:transform-center-x="-1.1966615"
-     sodipodi:nodetypes="ccccccccc" />
+     inkscape:transform-center-y="1.1966053"
+     d="M 11.494141 3.9941406 C 11.432865 3.9941406 11.371808 4.0004606 11.310547 4.0019531 A 7.5 7.5 0 0 0 10.974609 4.0175781 A 7.5 7.5 0 0 0 10.873047 4.0273438 A 7.5 7.5 0 0 0 10.550781 4.0605469 A 7.5 7.5 0 0 0 10.314453 4.09375 C 10.308526 4.0946892 10.302799 4.0967012 10.296875 4.0976562 A 7.5 7.5 0 0 0 9.8652344 4.1796875 A 7.5 7.5 0 0 0 9.640625 4.234375 A 7.5 7.5 0 0 0 8.9804688 4.4355469 A 7.5 7.5 0 0 0 8.3417969 4.6972656 A 7.5 7.5 0 0 0 7.9296875 4.9042969 A 7.5 7.5 0 0 0 7.7324219 5.0136719 C 7.7450822 5.0063303 7.7587903 5.0014018 7.7714844 4.9941406 A 7.5 7.5 0 0 0 7.6816406 5.0449219 A 7.5 7.5 0 0 0 7.3378906 5.2597656 A 7.5 7.5 0 0 0 7.1484375 5.390625 A 7.5 7.5 0 0 0 6.9628906 5.5273438 A 7.5 7.5 0 0 0 6.4335938 5.9707031 C 6.3530996 6.0445333 6.2693891 6.1114704 6.1914062 6.1894531 C 6.1826362 6.1981831 6.1727874 6.2080287 6.1640625 6.2167969 C 6.1069449 6.2744825 6.0576495 6.336777 6.0039062 6.3964844 C 5.9992707 6.4016343 5.9949496 6.4070065 5.9902344 6.4121094 A 7.5 7.5 0 0 0 5.7929688 6.6328125 A 7.5 7.5 0 0 0 5.5058594 6.9921875 A 7.5 7.5 0 0 0 5.3710938 7.1777344 A 7.5 7.5 0 0 0 4.9980469 7.7597656 A 7.5 7.5 0 0 0 4.984375 7.7871094 A 7.5 7.5 0 0 0 4.8867188 7.9609375 A 7.5 7.5 0 0 0 4.8867188 7.9628906 A 7.5 7.5 0 0 0 4.78125 8.1660156 A 7.5 7.5 0 0 0 4.78125 8.1679688 A 7.5 7.5 0 0 0 4.6816406 8.375 A 7.5 7.5 0 0 0 4.4238281 9.015625 A 7.5 7.5 0 0 0 4.3515625 9.2285156 A 7.5 7.5 0 0 0 4.3515625 9.2324219 A 7.5 7.5 0 0 0 4.2851562 9.4492188 A 7.5 7.5 0 0 0 4.2851562 9.453125 A 7.5 7.5 0 0 0 4.2265625 9.671875 A 7.5 7.5 0 0 0 4.171875 9.9003906 A 7.5 7.5 0 0 0 4.1308594 10.107422 A 7.5 7.5 0 0 0 4.1269531 10.126953 A 7.5 7.5 0 0 0 4.0917969 10.333984 A 7.5 7.5 0 0 0 4.0566406 10.582031 A 7.5 7.5 0 0 0 4.0351562 10.777344 A 7.5 7.5 0 0 0 4.0214844 10.935547 A 7.5 7.5 0 0 0 4.015625 11.005859 A 7.5 7.5 0 0 0 4.0039062 11.298828 A 7.5 7.5 0 0 0 4 11.5 A 7.5 7.5 0 0 0 4.0019531 11.599609 A 7.5 7.5 0 0 0 4.0019531 11.658203 C 4.0021117 11.66602 4.0017575 11.673822 4.0019531 11.681641 A 7.5 7.5 0 0 0 4.0253906 12.103516 A 7.5 7.5 0 0 0 4.0332031 12.195312 A 7.5 7.5 0 0 0 4.0429688 12.291016 A 7.5 7.5 0 0 0 4.0527344 12.392578 A 7.5 7.5 0 0 0 4.2675781 13.482422 C 4.2686665 13.486392 4.2703907 13.490173 4.2714844 13.494141 A 7.5 7.5 0 0 0 4.2871094 13.554688 A 7.5 7.5 0 0 0 4.2949219 13.582031 A 7.5 7.5 0 0 0 4.3515625 13.767578 A 7.5 7.5 0 0 0 4.515625 14.234375 C 4.5423628 14.302552 4.5707997 14.369973 4.5996094 14.4375 A 7.5 7.5 0 0 0 11.5 19 A 7.5 7.5 0 0 0 16.4375 17.144531 A 7.5 7.5 0 0 0 16.554688 17.039062 A 7.5 7.5 0 0 1 16.4375 17.144531 L 20.693359 21.400391 L 21.400391 20.693359 L 17.146484 16.4375 A 7.5 7.5 0 0 0 19 11.5 A 7.5 7.5 0 0 0 16.265625 5.7089844 A 7.5 7.5 0 0 0 16.25 5.6972656 C 16.231667 5.6823975 16.213672 5.6671522 16.195312 5.6523438 A 7.5 7.5 0 0 0 13.068359 4.1660156 A 7.5 7.5 0 0 0 12.960938 4.1445312 A 7.5 7.5 0 0 0 12.734375 4.1035156 A 7.5 7.5 0 0 0 12.404297 4.0546875 C 12.379546 4.0516754 12.354817 4.0495675 12.330078 4.046875 A 7.5 7.5 0 0 0 12.255859 4.0390625 A 7.5 7.5 0 0 0 12.027344 4.0195312 A 7.5 7.5 0 0 0 11.691406 4.0039062 C 11.684871 4.0037351 11.678405 4.0022347 11.671875 4.0019531 C 11.612613 3.999398 11.553463 3.9941406 11.494141 3.9941406 z M 16.708984 16.894531 A 7.5 7.5 0 0 1 16.582031 17.013672 A 7.5 7.5 0 0 0 16.708984 16.894531 z " />
   <circle
      style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
      id="path860"
