@@ -11,7 +11,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="beziercutline.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,16 +35,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="12.839897"
-     inkscape:cy="14.598283"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="41.7193"
+     inkscape:cx="13.906101"
+     inkscape:cy="21.035647"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid832" />
@@ -57,23 +58,18 @@
      x="4"
      y="7" />
   <path
-     style="fill:#000000;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     id="path834"
-     fill="#762572"
-     d="m12 15 4 4 4-4z" />
-  <path
-     d="m12 15 4 4 4-4z"
+     d="m 12,14 4,5 4,-5 z"
      fill="#762572"
      id="path4"
-     style="fill:#ffffff" />
+     style="fill:#e95420;fill-opacity:1"
+     sodipodi:nodetypes="cccc" />
   <rect
-     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.44948983;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.44949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4550"
      width="6"
      height="2"
-     x="-14"
-     y="23"
-     transform="scale(-1,1)" />
+     x="3.9999981"
+     y="23" />
   <rect
      transform="matrix(0,1,1,0,0,0)"
      style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -91,42 +87,43 @@
      x="6.999999"
      y="14.999998" />
   <rect
-     y="-7.9999981"
+     y="10"
      x="22"
      height="4"
      width="4"
      id="rect850"
      style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="rotate(90)" />
+     transform="matrix(0,1,1,0,0,0)" />
   <rect
-     y="-7"
+     y="10.999998"
      x="23"
      height="2"
      width="2"
      id="rect852"
      style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     transform="rotate(90)" />
+     transform="matrix(0,1,1,0,0,0)" />
   <rect
      y="23"
-     x="18"
+     x="-28.000002"
      height="2"
      width="6"
      id="rect874"
-     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.44948983;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#1463a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.44949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(-1,1)" />
   <rect
-     transform="matrix(0,1,1,0,0,0)"
+     transform="rotate(90)"
      style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect876"
      width="4"
      height="4"
      x="22"
-     y="24.000002" />
+     y="-22" />
   <rect
-     transform="matrix(0,1,1,0,0,0)"
+     transform="rotate(90)"
      style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect878"
      width="2"
      height="2"
      x="23"
-     y="25" />
+     y="-21.000002" />
 </svg>
