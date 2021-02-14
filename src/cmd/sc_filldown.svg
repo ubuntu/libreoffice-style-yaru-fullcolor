@@ -38,14 +38,14 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1016"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="41.7193"
    inkscape:cx="6.5086326"
    inkscape:cy="8.8536874"
    inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-y="27"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:document-rotation="0">
@@ -55,17 +55,19 @@
 </sodipodi:namedview>
 
 
+
 /&amp;gt;<rect
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="rect820"
-   width="10"
-   height="10"
-   x="3"
-   y="3" />
+   width="12"
+   height="12"
+   x="-14"
+   y="1.9999998"
+   transform="scale(-1,1)" />
 <path
    id="path2"
    style="fill:#6d6d6d;fill-opacity:1"
-   d="M 5,2 C 3,2 2,2 2,4 v 8 c 0,2 1,2 3,2 h 6 c 2,0 3,0 3,-2 V 4 C 14,2 13,2 11,2 Z M 3,6 h 2 6 2 v 6 c 0,1 -1,1 -2,1 H 5 C 4,13 3,13 3,12 Z"
+   d="m 12,0.99999977 c 2,0 3,0 3,2.00000003 V 13 c 0,2 -1,2 -3,2 H 3.9999998 c -2,0 -3.00000005,0 -3.00000005,-2 V 2.9999998 c 0,-2.00000003 1.00000005,-2.00000003 3.00000005,-2.00000003 z m 2,3.99999993 h -2 -8.0000002 -2 V 13 c 0,1 1,1 2,1 H 12 c 1,0 2,0 2,-1 z"
    sodipodi:nodetypes="sssssssssccccccccc" />
 <path
    sodipodi:nodetypes="cccccccc"
