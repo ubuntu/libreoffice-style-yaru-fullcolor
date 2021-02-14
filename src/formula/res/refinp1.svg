@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="6.6652212"
      inkscape:cy="6.3027466"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0">
@@ -56,13 +56,11 @@
   <path
      id="rect847"
      style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
-     d="m 3.0000525,1 c -1.108,0 -2.01131117,0.8920577 -2,2 l -5.3e-5,7 H 15 l 5.3e-5,-7 c 8e-6,-1.108 -0.892,-2 -2,-2 z"
-     sodipodi:nodetypes="ssccsss" />
+     d="M 3 1 C 1.892 1 0.98868883 1.8920577 1 3 L 1 10 L 10.072266 10 L 11.652344 7.4707031 C 11.835597 7.1769902 12.157715 6.99894 12.503906 7 C 12.847317 7.0016308 13.165875 7.1793446 13.347656 7.4707031 L 14.927734 10 L 15 10 L 15 3 C 15.000008 1.892 14.108 1 13 1 L 3 1 z " />
   <path
      id="rect864"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-     d="M 2.0000525,6 H 14.000053 L 14,9 H 1.9999995 Z"
-     sodipodi:nodetypes="ccccc" />
+     d="M 2 6 L 2 9 L 10.697266 9 L 11.652344 7.4707031 C 11.835597 7.1769902 12.157715 6.99894 12.503906 7 C 12.847317 7.0016308 13.165875 7.1793446 13.347656 7.4707031 L 14 8.5136719 L 14 6 L 2 6 z " />
   <path
      id="rect866"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
@@ -81,14 +79,9 @@
      style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
      d="m 8.0000525,3 h 1 v 1 h -1 z" />
   <path
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 15.0001,11.999999 h -2 V 15 h -2 V 11.999999 H 9.0001002 L 12.0001,7.9999992 Z"
-     id="path856"
-     inkscape:connector-curvature="0" />
-  <path
      inkscape:connector-curvature="0"
-     style="fill:#e97cc8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 12.0001,7.9998992 9.0001002,11.999899 H 11.0001 l 10e-5,3.000001 h 2 l -10e-5,-3.000001 h 2 z"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 12.5,8.0000002 10,12 h 2 v 4.0001 h 1 V 12 h 2 z"
      id="path834-1"
      sodipodi:nodetypes="cccccccc" />
 </svg>
