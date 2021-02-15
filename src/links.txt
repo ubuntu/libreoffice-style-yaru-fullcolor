@@ -2022,6 +2022,8 @@ res/sc05961.xxx cmd/sc_recsearch.xxx
 res/sc06300.xxx cmd/sc_nextrecord.xxx
 res/sc06301.xxx cmd/sc_prevrecord.xxx
 res/sc06303.xxx cmd/sc_firstpage.xxx
+res/sc10223.xxx cmd/sc_position.xxx
+res/sc10224.xxx cmd/sc_size.xxx
 res/sc10350.xxx cmd/sc_bmpmask.xxx
 res/sc10711.xxx cmd/sc_removefiltersort.xxx
 res/sc10712.xxx cmd/sc_sortascending.xxx

@@ -14,7 +14,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_repeat.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="9.7903496"
-     inkscape:cy="7.2342798"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:zoom="45.254834"
+     inkscape:cx="14.260149"
+     inkscape:cy="15.877053"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid851" />
@@ -88,33 +89,16 @@
      height="1"
      x="9"
      y="3.9999998" />
-  <rect
-     style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect899-1-4"
-     width="11"
-     height="12"
-     x="9"
-     y="9"
-     ry="2"
-     rx="2" />
-  <rect
-     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+  <path
      id="rect899-5"
-     width="11"
-     height="12"
-     x="9"
-     y="9"
-     ry="2"
-     rx="2" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 11,9 C 9.892,9 9,9.892 9,11 v 8 c 0,1.108 0.892,2 2,2 l 1.896484,1.56e-4 L 18.974609,17 l 0.01172,2.982422 c 0.22734,-9e-4 0.460152,-0.0023 0.667969,-0.0039 0.0412,-3.17e-4 0.04153,-0.0015 0.08203,-0.002 C 19.899378,19.686721 20,19.357539 20,19 V 11 C 20,9.892 19.108,9 18,9 Z"
+     sodipodi:nodetypes="sssscccscssss" />
+  <path
      id="rect873-0"
-     width="9"
-     height="10"
-     x="10"
-     y="10"
-     ry="1"
-     rx="1" />
+     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 11,10 c -0.554,0 -1,0.446 -1,1 v 8 c 0,0.554 0.446,1 1,1 h 3.486328 l 4.488281,-2.820312 c 0,0 0.02539,-5.305716 0.02539,-6.179688 0,-0.554 -0.446,-1 -1,-1 z"
+     sodipodi:nodetypes="sssscccss" />
   <rect
      style="opacity:1;vector-effect:none;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect912-3"
@@ -137,13 +121,7 @@
      x="11"
      y="15" />
   <path
-     inkscape:connector-curvature="0"
-     id="path846"
-     d="M 23.005859,14.01563 20.988282,14 v 3 c 0,2 0,2 -2,2 H 17 L 17.0059,17.021484 12.988321,20 l 4.000001,3 0.0059,-2 h 2.994141 c 2,0 2.999999,-1 2.999999,-3 z"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 23.005859,14.01563 20.988282,14 v 3 c 0,2 0,2 -2,2 H 17 L 17.0059,17.021484 12.988321,20 l 4.000001,3 0.0059,-2 h 2.994141 c 2,0 2.999999,-1 2.999999,-3 z"
-     id="path833" />
+     id="path833-7"
+     style="fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 22 18 L 22 18.5 C 22.005356 19.249981 21.996419 19.802016 21.943359 20.160156 C 21.890301 20.518297 21.821219 20.633109 21.699219 20.724609 C 21.577219 20.816109 21.29733 20.911258 20.771484 20.955078 C 20.457458 20.981235 19.051872 20.982198 17.990234 20.986328 L 17.982422 18.984375 L 13.980469 21.5 L 18 24 L 17.992188 21.994141 C 19.066349 21.99035 20.48663 21.981748 20.853516 21.951172 C 21.45267 21.901242 21.922781 21.808891 22.300781 21.525391 C 22.678781 21.241891 22.859701 20.794203 22.931641 20.308594 C 23.003601 19.822985 23 19.25 23 18.5 L 23 18 L 22 18 z " />
 </svg>

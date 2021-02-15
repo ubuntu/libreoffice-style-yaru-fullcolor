@@ -13,7 +13,7 @@
    version="1.1"
    id="svg86"
    sodipodi:docname="beziermove.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/beziermove.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -40,16 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview88"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="13.23569"
-     inkscape:cy="15.683548"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="29.5"
+     inkscape:cx="16.23903"
+     inkscape:cy="20.471712"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg86">
+     inkscape:current-layer="svg86"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid916" />
@@ -237,24 +238,16 @@
      id="path62"
      d="m 27,5 c 0,7.000969 -3.469031,10.622733 -10.622733,10.622733" />
   <path
-     sodipodi:nodetypes="cccccccc"
-     inkscape:connector-curvature="0"
-     style="display:block;opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:7;stroke-dasharray:none;stroke-linejoin:round"
-     id="path926"
-     stroke-miterlimit="7"
-     display="block"
-     d="m 23,28 6,-4 -6,-4 v 3 h -8 l 2e-4,2 H 23 Z" />
-  <path
      inkscape:connector-curvature="0"
      style="fill:none;stroke:#1463a5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path56"
      d="m 5.0001,26.985758 c 0,-7.000969 3.4690313,-10.622733 10.622733,-10.622733" />
   <path
-     d="m 23,28 6,-4 -6,-4 v 3 h -8 l 2e-4,2 H 23 Z"
+     d="m 23.9998,28 5,-3 -5,-3 v 2 h -7 L 17,26 h 6.9998 z"
      display="block"
      stroke-miterlimit="7"
      id="path78"
-     style="display:block;opacity:1;fill:#ffffff;stroke:none;stroke-width:0.99997503;stroke-miterlimit:7"
+     style="display:block;opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:0.999975;stroke-miterlimit:7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
   <rect

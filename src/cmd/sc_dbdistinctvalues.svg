@@ -5,13 +5,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_dbdistinctvalues.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dbdistinctvalues.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><metadata
@@ -26,7 +27,29 @@
   </rdf:RDF>
 </metadata>
 <defs
-   id="defs10" />
+   id="defs10">
+  <linearGradient
+     inkscape:collect="always"
+     id="linearGradient884">
+    <stop
+       style="stop-color:#151515;stop-opacity:1"
+       offset="0"
+       id="stop880" />
+    <stop
+       style="stop-color:#4d4d4d;stop-opacity:1"
+       offset="1"
+       id="stop882" />
+  </linearGradient>
+  <linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient884"
+     id="linearGradient886"
+     x1="13.152344"
+     y1="6.4707031"
+     x2="9.8476562"
+     y2="15.529297"
+     gradientUnits="userSpaceOnUse" />
+</defs>
 <sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -37,20 +60,22 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1011"
+   inkscape:window-height="1043"
    id="namedview8"
    showgrid="true"
-   inkscape:zoom="20.85965"
-   inkscape:cx="6.8247573"
-   inkscape:cy="6.5504268"
-   inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:zoom="41.7193"
+   inkscape:cx="10.782284"
+   inkscape:cy="10.253826"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg6">
+   inkscape:current-layer="svg6"
+   inkscape:document-rotation="0">
   <inkscape:grid
      type="xygrid"
      id="grid832" />
 </sodipodi:namedview>
+
 /&amp;gt;<path
    sodipodi:nodetypes="ccccccccccccc"
    id="path825"
@@ -64,13 +89,11 @@
    id="path2"
    sodipodi:nodetypes="ccccccccccccc" />
 <path
-   style="fill:#000000;fill-opacity:1;stroke:#000000;opacity:0.7;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-   id="path830"
-   fill="#762572"
-   d="m12.5625 8.71875-.78125 1.28125h-2.78125v1h2.1875l-.59375 1h-1.59375v1h1l-.4375.71875.875.53125.75-1.25h2.8125v-1h-2.21875l.59375-1h1.625v-1h-1l.4375-.75z" />
+   id="path878"
+   style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linejoin:round"
+   d="M 13.152344 6.4707031 L 12.197266 8 L 7 8 L 7 10 L 10.947266 10 L 9.6972656 12 L 7 12 L 7 14 L 8.4472656 14 L 8.1523438 14.470703 L 9.8476562 15.529297 L 10.802734 14 L 16 14 L 16 12 L 12.052734 12 L 13.302734 10 L 16 10 L 16 8 L 14.552734 8 L 14.847656 7.5292969 L 13.152344 6.4707031 z " />
 <path
-   d="m12.5625 8.71875-.78125 1.28125h-2.78125v1h2.1875l-.59375 1h-1.59375v1h1l-.4375.71875.875.53125.75-1.25h2.8125v-1h-2.21875l.59375-1h1.625v-1h-1l.4375-.75z"
-   fill="#762572"
-   id="path4"
-   style="fill:#aee3f8;fill-opacity:1" />
+   id="rect862"
+   style="opacity:1;fill:url(#linearGradient886);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
+   d="M 13.152344 6.4707031 L 12.197266 8 L 7 8 L 7 10 L 10.947266 10 L 9.6972656 12 L 7 12 L 7 14 L 8.4472656 14 L 8.1523438 14.470703 L 9.8476562 15.529297 L 10.802734 14 L 16 14 L 16 12 L 12.052734 12 L 13.302734 10 L 16 10 L 16 8 L 14.552734 8 L 14.847656 7.5292969 L 13.152344 6.4707031 z " />
 </svg>

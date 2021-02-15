@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="greatestheight.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/greatestheight.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -38,16 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="15.522197"
      inkscape:cy="13.699007"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
@@ -59,18 +60,6 @@
      width="11"
      id="rect829"
      style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path829"
-     d="m 24,4 -3,5.0000001 h 2 V 23 h -2 l 3,5 3,-5 H 25 V 9.0000001 h 2 z"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
-     style="fill:#aee3f8;fill-opacity:1"
-     d="m 24,4 -3,5.0000001 h 2 V 23 h -2 l 3,5 3,-5 H 25 V 9.0000001 h 2 z"
-     id="path837"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect827"
@@ -78,4 +67,16 @@
      height="24"
      x="4"
      y="4" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     inkscape:connector-curvature="0"
+     id="path837"
+     d="m 24,18.999812 v 4 h -2 l 3,4.999999 3,-4.999999 h -2 v -4 z"
+     style="fill:#e95420;fill-opacity:1" />
+  <path
+     style="fill:#e95420;fill-opacity:1"
+     d="M 24,13 V 9.000001 h -2 l 3,-5 3,5 H 26 V 13 Z"
+     id="path840"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
 </svg>
