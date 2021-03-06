@@ -22,4 +22,7 @@ sed -i 's/.xxx/.png/g' "./build/png/links.txt"
 cp -f "./src/links.txt" "./build/svg/links.txt"
 sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
 
+cp -f "./build/png/links.txt" "./build/mate/png/links.txt"
+cp -f "./build/svg/links.txt" "./build/mate/svg/links.txt"
+
 echo -e "\n=> 🎉 Finish\n"
