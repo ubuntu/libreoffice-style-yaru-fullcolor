@@ -98,6 +98,11 @@ function render_icon() {
     cp -f "./src/links.txt" "./build/svg/links.txt"
     sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
 
+    cp -f "./build/png/links.txt" "./build/mate/png/links.txt"
+    cp -f "./build/svg/links.txt" "./build/mate/svg/links.txt"
+
+    # Build Normal icon
+
     echo -e "=> 🔨 Render PNG file\n"
     inkscape -o "./build/png${1}.png" "./src${1}.svg"
 
@@ -107,6 +112,24 @@ function render_icon() {
     echo -e "\n=> ✨ Minimify SVG"
 
     svgo -i "./src${1}.svg" -o "./build/svg${1}.svg"
+
+    # Build MATE icon
+
+    echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green\n"
+    cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
+    sed -i 's/e95420/88a05d/' "./build/mate/svg${1}.svg"
+    cp -f "./build/mate/svg${1}.svg" "./build/mate/png${1}.svg"
+
+    echo -e "=> 🔨 Render MATE PNG file\n"
+    inkscape -o "./build/mate/png${1}.png" "./build/mate/png${1}.svg"
+    rm "./build/mate/png${1}.svg"
+
+    echo -e "\n=> ✨ Optimize MATE PNG\n"
+    optipng -o7 "./build/mate/png${1}.png"
+
+    echo -e "\n=> ✨ Minimify MATE SVG"
+
+    svgo -i "./build/mate/svg${1}.svg" -o "./build/mate/svg${1}.svg"
 }
 
 if [[ $_all = 1 ]];
@@ -124,12 +147,18 @@ then
 
     rm -Rf "build"
     mkdir -p -v "build"
+    mkdir -p -v "build/mate"
 
     cp -Rf "src" \
     "./build/svg"
 
     cp -Rf "src" \
     "./build/png"
+
+    cp -Rf "src" \
+    "./build/mate/svg"
+
+    # Build Normal icons
 
     cd "./build/png"
 
@@ -152,6 +181,43 @@ then
 
     echo -e "\n=> ✨ Minimify all SVG ...\n"
     svgo -r -f svg
+
+    # Build MATE icons
+
+    cd "./mate/svg"
+
+    echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green ..."
+    find -name "*.svg" -o -name "*.SVG" | while read i;
+    do
+        sed -i 's/e95420/88a05d/' $i
+    done
+
+    cd ..
+
+    cp -Rf "./svg" \
+    "./png"
+
+    cd "./png"
+
+    sed -i 's/.xxx/.png/g' links.txt
+
+    echo -e "\n=> 👷 Export all MATE SVG to PNG ..."
+    find -name "*.svg" -o -name "*.SVG" | while read i;
+    do
+        echo -e "\n=> 🔨 Render ${i}\n"
+    	inkscape -o "${i%.*}.png" "$i"
+
+        echo -e "\n=> ✨ Optimize PNG\n"
+    	optipng -o7 "${i%.*}.png"
+    	rm "$i"
+    done
+
+    cd "../../"
+
+    sed -i 's/.xxx/.svg/g' ./mate/svg/links.txt
+
+    echo -e "\n=> ✨ Minimify all MATE SVG ...\n"
+    svgo -r -f mate/svg
 
 elif [[ $_watch = 1 ]];
 then
