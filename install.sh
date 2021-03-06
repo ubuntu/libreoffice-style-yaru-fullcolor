@@ -36,8 +36,8 @@ echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
 sudo mkdir -p -v "/usr/share/libreoffice/share/config"
 sudo cp -v "images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru.zip"
 sudo cp -v "images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_svg.zip"
-sudo cp -v "images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru_mate.zip"
-sudo cp -v "images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip"
+sudo cp -v "images_yaru_mate.zip" "/usr/share/libreoffice/share/config/images_yaru_mate.zip"
+sudo cp -v "images_yaru_mate_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip"
 
 for dir in \
     /usr/lib64/libreoffice/share/config \
