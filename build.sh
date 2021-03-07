@@ -115,9 +115,15 @@ function render_icon() {
 
     # Build MATE icon
 
-    echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green\n"
-    cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
-    sed -i 's/e95420/88a05d/' "./build/mate/svg${1}.svg"
+    if test -f "./src-mate${1}.svg"; then # Check if MATE specific file exist
+        echo -e "\n=> 🌠 Copy MATE icon\n"
+        cp -f "./src-mate${1}.svg" "./build/mate/svg${1}.svg"
+    else
+        echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green\n"
+        cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
+        sed -i 's/e95420/88a05d/' "./build/mate/svg${1}.svg"
+    fi
+
     cp -f "./build/mate/svg${1}.svg" "./build/mate/png${1}.svg"
 
     echo -e "=> 🔨 Render MATE PNG file\n"
@@ -149,14 +155,9 @@ then
     mkdir -p -v "build"
     mkdir -p -v "build/mate"
 
-    cp -Rf "src" \
-    "./build/svg"
-
-    cp -Rf "src" \
-    "./build/png"
-
-    cp -Rf "src" \
-    "./build/mate/svg"
+    cp -Rf "src" "./build/svg"
+    cp -Rf "src" "./build/png"
+    cp -Rf "src" "./build/mate/svg"
 
     # Build Normal icons
 
@@ -192,10 +193,13 @@ then
         sed -i 's/e95420/88a05d/' $i
     done
 
-    cd ..
+    cd "../../.."
 
-    cp -Rf "./svg" \
-    "./png"
+    cp -RT "src-mate/" "./build/mate/svg/"
+
+    cd "./build/mate"
+
+    cp -Rf "svg" "./png"
 
     cd "./png"
 
@@ -224,18 +228,33 @@ then
     echo -e "=> 🔍 Lets watch the files ...\n"
 
     while true; do
-        filename=$(inotifywait -r -q --event close_write --format %w%f src/)
-        if [[ $filename == *.svg ]];
-        then
-            filename=${filename#"src"}
-            filename=${filename%".svg"}
+        filename=$(inotifywait -r -qq --event close_write --format %w%f ./)
 
-            render_icon $filename
+        echo $filename
 
-            echo
-        elif [[ $filename == *links.txt ]];
-        then
-            ./generate-links.sh
+        if [[ $filename = ./src/* ]]; then
+            if [[ $filename == *.svg ]];
+            then
+                filename=${filename#"./src"}
+                filename=${filename%".svg"}
+
+                render_icon $filename
+
+                echo
+            elif [[ $filename == *links.txt ]];
+            then
+                ./generate-links.sh
+            fi
+        elif [[ $filename = ./src-mate/* ]]; then
+            if [[ $filename == *.svg ]];
+            then
+                filename=${filename#"./src-mate"}
+                filename=${filename%".svg"}
+
+                render_icon $filename
+
+                echo
+            fi
         fi
     done
 else
