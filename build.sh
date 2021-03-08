@@ -90,17 +90,6 @@ done
 # CLInt GENERATED_CODE: end
 
 function render_icon() {
-    echo -e "=> 🌠 Copy links.txt\n"
-
-    cp -f "./src/links.txt" "./build/png/links.txt"
-    sed -i 's/.xxx/.png/g' "./build/png/links.txt"
-
-    cp -f "./src/links.txt" "./build/svg/links.txt"
-    sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
-
-    cp -f "./build/png/links.txt" "./build/mate/png/links.txt"
-    cp -f "./build/svg/links.txt" "./build/mate/svg/links.txt"
-
     # Build Normal icon
 
     echo -e "=> 🔨 Render PNG file\n"
@@ -119,12 +108,16 @@ function render_icon() {
         echo -e "\n=> 🌠 Copy MATE icon\n"
         cp -f "./src-mate${1}.svg" "./build/mate/svg${1}.svg"
     else
-        echo -e "\n=> 🍊🍇 -> 🍏 Replace Ubuntu Colors by MATE Green\n"
         cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
-        sed -i 's/e95420/88a05d/g' "./build/mate/svg${1}.svg"
-        sed -i 's/E95420/88a05d/g' "./build/mate/svg${1}.svg"
-        sed -i 's/77216f/88a05d/g' "./build/mate/svg${1}.svg"
-        sed -i 's/77216F/88a05d/g' "./build/mate/svg${1}.svg"
+
+        if ! fgrep -q -m 1 "${1}.svg" "./src-mate/exclude.txt"; then
+            echo -e "\n=> 🍊 🍇 -> 🍏 Replace Ubuntu Colors by MATE Green\n"
+
+            sed -i 's/e95420/88a05d/g' "./build/mate/svg${1}.svg"
+            sed -i 's/E95420/88a05d/g' "./build/mate/svg${1}.svg"
+            sed -i 's/77216f/88a05d/g' "./build/mate/svg${1}.svg"
+            sed -i 's/77216F/88a05d/g' "./build/mate/svg${1}.svg"
+        fi
     fi
 
     cp -f "./build/mate/svg${1}.svg" "./build/mate/png${1}.svg"
@@ -188,20 +181,29 @@ then
 
     # Build MATE icons
 
-    cd "./mate/svg"
+    cd "../"
 
-    echo -e "\n=> 🍊🍇 -> 🍏 Replace Ubuntu Colors by MATE Green ..."
+    cp "./src-mate/exclude.txt" "build/mate/svg/"
+
+    cd "./build/mate/svg/"
+
+    echo -e "\n=> 🍊 🍇 -> 🍏 Replace Ubuntu Colors by MATE Green ..."
     find -name "*.svg" -o -name "*.SVG" | while read i;
     do
-        sed -i 's/e95420/88a05d/g' $i
-        sed -i 's/E95420/88a05d/g' $i
-        sed -i 's/77216f/88a05d/g' $i
-        sed -i 's/77216F/88a05d/g' $i
+        i=${i#"./"}
+
+        if ! fgrep -q -m 1 "/${i}" "exclude.txt"; then
+            sed -i 's/e95420/88a05d/g' $i
+            sed -i 's/E95420/88a05d/g' $i
+            sed -i 's/77216f/88a05d/g' $i
+            sed -i 's/77216F/88a05d/g' $i
+        fi
     done
 
     cd "../../.."
 
     cp -RT "src-mate/" "./build/mate/svg/"
+    rm "./build/mate/svg/exclude.txt"
 
     cd "./build/mate"
 
@@ -235,8 +237,6 @@ then
 
     while true; do
         filename=$(inotifywait -r -q --event close_write --format %w%f ./)
-
-        echo $filename
 
         if [[ $filename = ./src/* ]]; then
             if [[ $filename == *.svg ]];
