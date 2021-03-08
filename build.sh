@@ -119,9 +119,12 @@ function render_icon() {
         echo -e "\n=> 🌠 Copy MATE icon\n"
         cp -f "./src-mate${1}.svg" "./build/mate/svg${1}.svg"
     else
-        echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green\n"
+        echo -e "\n=> 🍊🍇 -> 🍏 Replace Ubuntu Colors by MATE Green\n"
         cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
-        sed -i 's/e95420/88a05d/' "./build/mate/svg${1}.svg"
+        sed -i 's/e95420/88a05d/g' "./build/mate/svg${1}.svg"
+        sed -i 's/E95420/88a05d/g' "./build/mate/svg${1}.svg"
+        sed -i 's/77216f/88a05d/g' "./build/mate/svg${1}.svg"
+        sed -i 's/77216F/88a05d/g' "./build/mate/svg${1}.svg"
     fi
 
     cp -f "./build/mate/svg${1}.svg" "./build/mate/png${1}.svg"
@@ -187,10 +190,13 @@ then
 
     cd "./mate/svg"
 
-    echo -e "\n=> 🍊 -> 🍏 Replace Ubuntu Orange by MATE Green ..."
+    echo -e "\n=> 🍊🍇 -> 🍏 Replace Ubuntu Colors by MATE Green ..."
     find -name "*.svg" -o -name "*.SVG" | while read i;
     do
-        sed -i 's/e95420/88a05d/' $i
+        sed -i 's/e95420/88a05d/g' $i
+        sed -i 's/E95420/88a05d/g' $i
+        sed -i 's/77216f/88a05d/g' $i
+        sed -i 's/77216F/88a05d/g' $i
     done
 
     cd "../../.."
