@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="52"
+   viewBox="0 0 60 52"
+   width="60"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="pieexploded_52x60.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="16.923077"
+     inkscape:cx="30"
+     inkscape:cy="26"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20"
+     inkscape:document-rotation="0" />
+  <radialGradient
+     id="a"
+     cx="30"
+     cy="1026.3622"
+     gradientUnits="userSpaceOnUse"
+     r="23"
+     gradientTransform="translate(0,-1000.3622)">
+    <stop
+       offset="0"
+       stop-color="#77216F"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#a25f9e"
+       id="stop4" />
+  </radialGradient>
+  <radialGradient
+     id="b"
+     cx="30"
+     cy="21.246092"
+     gradientTransform="matrix(-1.4150445,0,0,-1.4150444,72.45133,56.0642)"
+     gradientUnits="userSpaceOnUse"
+     r="16.253906">
+    <stop
+       offset="0"
+       stop-color="#e95420"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#fe865c"
+       id="stop9" />
+  </radialGradient>
+  <path
+     d="m 0,0 h 60 v 52 h -60 z"
+     fill="#ffffff"
+     id="path12" />
+  <path
+     d="m 30,3 c -12.70255,0 -23,10.2975 -23,23 0.0123,5.7492 2.17724,11.2853 6.06836,15.5176 l 16.22461,-16.2246 0.70703,-0.685 0.70703,0.685 16.21875,16.2187 c 3.89188,-4.2299 6.05888,-9.7638 6.07422,-15.5117 0,-12.7025 -10.29745,-23 -23,-23 z"
+     fill="url(#a)"
+     id="path14"
+     style="fill:#607142;fill-opacity:1" />
+  <path
+     d="m 30,27.4141 -15.51172,15.5117 a 23,23 0 0 0 15.51172,6.0742 23,23 0 0 0 15.51758,-6.0683 z"
+     fill="url(#b)"
+     fill-rule="evenodd"
+     id="path16"
+     style="fill:#95a96f;fill-opacity:1" />
+</svg>
