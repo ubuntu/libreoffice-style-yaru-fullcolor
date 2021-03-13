@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_freezepanes.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_freezepanes.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
@@ -38,31 +38,44 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="39.333333"
-     inkscape:cx="10.662952"
-     inkscape:cy="10.822297"
+     inkscape:zoom="6.9532166"
+     inkscape:cx="-52.42464"
+     inkscape:cy="7.083595"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect816"
-     width="14"
-     height="14"
-     x="5"
-     y="5" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect827"
+     width="16"
+     height="16"
+     x="3.9999998"
+     y="4"
+     inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect827.png"
+     inkscape:export-xdpi="95"
+     inkscape:export-ydpi="95" />
   <path
-     d="m 4,6 v 5 1 2 4 c 0,2 1,2 3,2 h 10 c 2,0 3,0 3,-2 V 15 14 12 11 6 C 20,4 19,4 17,4 H 7 C 5,4 4,4 4,6 Z m 4,2 h 1 1 1 v 3 H 10 9 8 Z m 4,0 h 3 v 3 h -3 z m 4,0 h 3 v 3 h -3 z m -8,4 h 1 1 1 v 3 H 8 v -1 z m 4,0 h 3 v 3 h -3 z m 4,0 h 3 v 3 h -3 z m -8,4 h 3 v 3 H 10 9 8 Z m 4,0 h 3 v 3 h -3 z m 4,0 h 3 v 2 c 0,1 -1,1 -2,1 h -1 z"
-     id="path2"
+     d="m 5.9999999,3 c -2,0 -2.9999999,0 -2.9999999,2 v 14 c 0,2 0.9999999,2 2.9999999,2 h 12.0000001 c 2,0 3,0 3,-2 v -14 c 0,-2 -1,-2 -3,-2 z m -2,2 c 0,-1 1,-1 2,-1 h 3 v 1 2 h -1 -4 z m 6,-1 h 4.0000001 v 1 2 h -4.0000001 v -2 z m 5.0000001,0 h 3 c 1,0 2,0 2,1 v 2 h -4 -1 v -2 z m -11.0000001,4 h 3.9999999 1.0000001 v 2 h -5 z m 6,0 h 4.0000001 v 2 h -4.0000001 z m 5.0000001,0 h 5 v 2 h -5 z m -11.0000001,3 h 5 v 2 h -5 z m 6,0 h 4.0000001 v 2 h -4.0000001 z m 5.0000001,0 h 5 v 2 h -5 z m -11.0000001,3 h 5 v 2 h -1.0000001 -3.9999999 z m 6,0 h 4.0000001 v 2 h -4.0000001 z m 5.0000001,0 h 5 v 2 h -5 z m -11.0000001,3 h 3.9999999 1.0000001 v 2.099609 0.900391 h -3.0000001 c -1,0 -1.9999999,0 -1.9999999,-1 z m 6,0 h 4.0000001 v 3 h -4.0000001 z m 5.0000001,0 h 5 v 2 c 0,1 -1,1 -2,1 h -3 z"
+     id="path2-1"
      inkscape:connector-curvature="0"
-     style="fill:#6d6d6d;fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke-width:0.999999"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     id="rect846"
+     style="opacity:0.299;fill:#2f5fdd;fill-opacity:1;fill-rule:evenodd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     d="m 4,4 h 5 11 v 3 h -11 v 13 h -5 z"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     id="path844"
+     style="opacity:1;fill:#2f5fdd;fill-opacity:1;stroke-width:0.999999"
+     d="M 6 3 C 4 3 3 3 3 5 L 3 19 C 3 21 4 21 6 21 L 10 21 L 10 20 L 10 17 L 10 16 L 10 14 L 10 13 L 10 11 L 10 10 L 10 9.5 L 10 8 L 11.5 8 L 14 8 L 15 8 L 20 8 L 21 8 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 6 4 L 9 4 L 9 5 L 9 7 L 8 7 L 4 7 L 4 5 C 4 4 5 4 6 4 z M 10 4 L 14 4 L 14 5 L 14 7 L 10 7 L 10 5 L 10 4 z M 15 4 L 18 4 C 19 4 20 4 20 5 L 20 7 L 16 7 L 15 7 L 15 5 L 15 4 z M 4 8 L 8 8 L 9 8 L 9 10 L 4 10 L 4 8 z M 4 11 L 9 11 L 9 13 L 4 13 L 4 11 z M 4 14 L 9 14 L 9 16 L 8 16 L 4 16 L 4 14 z M 4 17 L 8 17 L 9 17 L 9 19.099609 L 9 20 L 6 20 C 5 20 4 20 4 19 L 4 17 z " />
 </svg>
