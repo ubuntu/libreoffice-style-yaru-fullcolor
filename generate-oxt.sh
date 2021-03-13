@@ -20,22 +20,36 @@ echo "=> 📦 Zip icons"
 
 cd "./build/svg"
 
-zip -r -q "images_yaru_svg.zip" *
+zip -r "images_yaru_svg.zip" *
 
 cd "../png"
 
-zip -r -q "images_yaru.zip" *
+zip -r "images_yaru.zip" *
 
-cd "../../"
+cd "../mate/svg"
+
+zip -r "images_yaru_mate_svg.zip" *
+
+cd "../png"
+
+zip -r "images_yaru_mate.zip" *
+
+cd "../../../"
 
 mv "./build/png/images_yaru.zip" "images_yaru.zip"
 mv "./build/svg/images_yaru_svg.zip" "images_yaru_svg.zip"
+mv "./build/mate/png/images_yaru_mate.zip" "images_yaru_mate.zip"
+mv "./build/mate/svg/images_yaru_mate_svg.zip" "images_yaru_mate_svg.zip"
 
 mkdir -p -v "oxt/iconsets"
 cp "images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
 cp "images_yaru_svg.zip" \
 "oxt/iconsets/images_yaru_svg.zip"
+cp "images_yaru_mate.zip" \
+"oxt/iconsets/images_yaru_mate.zip"
+cp "images_yaru_mate_svg.zip" \
+"oxt/iconsets/images_yaru_mate_svg.zip"
 
 cd "oxt"
 

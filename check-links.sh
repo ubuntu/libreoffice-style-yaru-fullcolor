@@ -93,6 +93,14 @@ else
 
     check-links 'build/png'
 
+    echo -e "=> ⏳ Checking build/mate/svg/links.txt - please wait\n"
+
+    check-links 'build/mate/svg'
+
+    echo -e "\n=> ⏳ Checking build/mate/png/links.txt - please wait\n"
+
+    check-links 'build/mate/png'
+
     if [[ ${errors} > 0 ]]; then
         echo -e "\n=> Errors found into /build links files - please run ${bold}./generate-links.sh${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
         exit 1
