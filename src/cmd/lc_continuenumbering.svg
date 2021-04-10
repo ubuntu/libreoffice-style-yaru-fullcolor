@@ -56,10 +56,6 @@
   </sodipodi:namedview>
   <path
      style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 4.000001,4 v 1 h 1 v 2 h -1 v 1 h 3 v -1 h -1 v -2 h 1 v -1 z"
-     id="rect846" />
-  <path
-     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 2.000001,16 v 1 h 1 v 2 h -1 v 1 h 5 v -1 h -1 v -2 h 1 v -1 z m 2,1 h 1 v 2 h -1 z"
      id="rect852" />
   <rect
@@ -158,4 +154,12 @@
      x="9.000001"
      y="-17"
      transform="scale(1,-1)" />
+  <path
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0,16 v 1 h 1 v 2 h -1 v 1 h 3 v -1 h -1 v -2 h 1 v -1 z"
+     id="path844" />
+  <path
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2,4 v 1 h 1 v 2 h -1 v 1 h 5 v -1 h -1 v -2 h 1 v -1 z m 2,1 h 1 v 2 h -1 z"
+     id="path846" />
 </svg>
