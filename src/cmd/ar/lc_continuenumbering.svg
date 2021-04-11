@@ -56,11 +56,7 @@
   </sodipodi:namedview>
   <path
      style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 20,4 v 1 h -1 v 2 h 1 v 1 h -3 v -1 h 1 v -2 h -1 v -1 z"
-     id="rect846" />
-  <path
-     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 22,16 v 1 h -1 v 2 h 1 v 1 h -5 v -1 h 1 v -2 h -1 v -1 z m -2,1 h -1 v 2 h 1 z"
+     d="m 21.999999,16 v 1 h -1 v 2 h 1 v 1 h -5 v -1 h 1 v -2 h -1 v -1 z m -2,1 h -1 v 2 h 1 z"
      id="rect852" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -83,7 +79,7 @@
      id="rect867"
      width="14"
      height="1"
-     x="-15"
+     x="-14.999999"
      y="-6"
      transform="scale(-1)" />
   <rect
@@ -91,7 +87,7 @@
      id="rect869"
      width="14"
      height="1"
-     x="-15"
+     x="-14.999999"
      y="-5"
      transform="scale(-1)" />
   <rect
@@ -99,7 +95,7 @@
      id="rect864"
      width="17"
      height="1"
-     x="-22"
+     x="-21.999998"
      y="-14"
      transform="scale(-1)" />
   <rect
@@ -107,7 +103,7 @@
      id="rect866"
      width="17"
      height="1"
-     x="-22"
+     x="-21.999998"
      y="-13"
      transform="scale(-1)" />
   <rect
@@ -115,7 +111,7 @@
      id="rect868"
      width="21"
      height="1"
-     x="-22"
+     x="-21.999998"
      y="-12"
      transform="scale(-1)" />
   <rect
@@ -123,7 +119,7 @@
      id="rect870"
      width="21"
      height="1"
-     x="-22"
+     x="-21.999998"
      y="-11"
      transform="scale(-1)" />
   <rect
@@ -147,7 +143,7 @@
      id="rect881"
      width="14"
      height="1"
-     x="-15"
+     x="-14.999999"
      y="-18"
      transform="scale(-1)" />
   <rect
@@ -155,7 +151,15 @@
      id="rect883"
      width="14"
      height="1"
-     x="-15"
+     x="-14.999999"
      y="-17"
      transform="scale(-1)" />
+  <path
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24,16 v 1 h -1 v 2 h 1 v 1 h -3 v -1 h 1 v -2 h -1 v -1 z"
+     id="path844" />
+  <path
+     style="opacity:1;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 22,4 v 1 h -1 v 2 h 1 v 1 h -5 v -1 h 1 v -2 h -1 v -1 z m -2,1 h -1 v 2 h 1 z"
+     id="path846" />
 </svg>

@@ -58,8 +58,8 @@
      inkscape:export-ydpi="96"
      inkscape:export-xdpi="96"
      inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/rect7303.png"
-     y="5"
-     x="-24"
+     y="23"
+     x="-28"
      height="3"
      width="1"
      id="rect832"
@@ -74,8 +74,8 @@
      id="rect848"
      width="3"
      height="1"
-     x="-25"
-     y="4"
+     x="-29"
+     y="22"
      ry="0"
      transform="scale(-1,1)" />
   <rect
@@ -83,8 +83,8 @@
      id="rect850"
      width="3"
      height="1"
-     x="-25"
-     y="8"
+     x="-29"
+     y="26"
      transform="scale(-1,1)" />
   <rect
      style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -230,4 +230,8 @@
      x="-19"
      y="-27"
      transform="scale(-1)" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 27,4 v 1 h -1 v 3 h 1 v 1 h -5 v -1 h 1 v -3 h -1 v -1 z m -2,1 h -1 v 3 h 1 z"
+     id="path852" />
 </svg>
