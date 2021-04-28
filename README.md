@@ -50,11 +50,11 @@ In any case, you need to enable the theme: open the options __Tools__ → __Opti
 
 ## Remove
 
-### Extension
+### From extension
 
 To remove the extension, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then select the theme in the list and click on __Remove__. That's it.
 
-### Script
+### From script
 
 If you want to remove an installation made with the script just execute the remove script at the root of the project:
 
