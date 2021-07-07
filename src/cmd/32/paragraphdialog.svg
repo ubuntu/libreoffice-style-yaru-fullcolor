@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
    sodipodi:docname="paragraphdialog.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/paragraphdialog.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -110,28 +110,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="17.73318"
-     inkscape:cy="16.462971"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:cx="13.542893"
+     inkscape:cy="16.275441"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid827" />
   </sodipodi:namedview>
   <path
-     id="path868"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:0.7"
-     d="M 17 3 C 12.075059 3 8 6.7813949 8 11.5 C 8 15.879999 11.55711 19.318429 16 19.808594 L 16 28 A 1.0001 1.0001 0 0 0 17 29 L 18 29 A 1.0001 1.0001 0 0 0 18.40625 28.912109 L 18.167969 28.335938 C 17.878097 27.636124 18.184996 26.938894 18.759766 26.507812 C 18.182221 26.076498 17.871659 25.370308 18.160156 24.673828 L 18.730469 23.292969 C 19.019849 22.594326 19.739458 22.315649 20.453125 22.419922 C 20.351754 21.709777 20.630133 20.998113 21.328125 20.708984 L 22 20.429688 L 22 4 A 1.0001 1.0001 0 0 0 21 3 L 20 3 L 18 3 L 17 3 z M 17 5 L 17 18 C 13.088385 18 10 15.065666 10 11.5 C 10 7.9343338 13.088385 5 17 5 z " />
-  <path
      id="path2"
-     style="fill:#aee3f8;fill-opacity:1"
+     style="fill:#e95420;fill-opacity:1"
      d="M 17 4 A 8 7.5 0 0 0 9 11.5 A 8 7.5 0 0 0 17 19 L 17 28 L 18 28 L 18 5 L 20 5 L 20 22.414062 C 20.149007 22.400908 20.300381 22.397605 20.453125 22.419922 C 20.369779 21.836053 20.548166 21.254432 21 20.904297 L 21 4 L 20 4 L 18 4 L 17 4 z " />
   <g
      id="g915"
