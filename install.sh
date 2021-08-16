@@ -16,21 +16,6 @@
 
 ./generate-oxt.sh
 
-echo -e "\n=> 🔥 Deleting old install\n"
-
-for dir in \
-  /usr/share/libreoffice/share/config \
-  /usr/lib/libreoffice/share/config \
-  /usr/lib64/libreoffice/share/config \
-  /usr/local/lib/libreoffice/share/config \
-  /opt/libreoffice*/share/config; do
-  [ -d "$dir" ] || continue
-  sudo rm -f -v "$dir/images_yaru.zip"
-  sudo rm -f -v "$dir/images_yaru_svg.zip"
-  sudo rm -f -v "$dir/images_yaru_mate.zip"
-  sudo rm -f -v "$dir/images_yaru_mate_svg.zip"
-done
-
 echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
 
 sudo mkdir -p -v "/usr/share/libreoffice/share/config"
