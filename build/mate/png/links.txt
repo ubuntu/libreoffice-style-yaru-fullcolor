@@ -2453,6 +2453,9 @@ sw/res/wr05.png cmd/32/wrapthrough.png
 sw/res/wr06.png cmd/32/wrapideal.png
 sw/res/zetlhor2.png svx/res/zetlhor2.png
 sw/res/zetlver2.png svx/res/zetlver2.png
+sw/res/sidebar/pageproppanel/columncopy_24x24.png sw/res/sidebar/pageproppanel/formatcopy_24x24.png
+sw/res/sidebar/pageproppanel/column_L_copy_24x24.png sw/res/sidebar/pageproppanel/format_L_copy_24x24.png
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.png cmd/lc_pagemode.png
 vcl/res/index.png cmd/sc_insertmultiindex.png
 vcl/res/querybox.png vcl/res/infobox.png
 vcl/res/warningbox.png vcl/res/errorbox.png
