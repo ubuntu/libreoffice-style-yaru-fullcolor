@@ -2453,6 +2453,9 @@ sw/res/wr05.xxx cmd/32/wrapthrough.xxx
 sw/res/wr06.xxx cmd/32/wrapideal.xxx
 sw/res/zetlhor2.xxx svx/res/zetlhor2.xxx
 sw/res/zetlver2.xxx svx/res/zetlver2.xxx
+sw/res/sidebar/pageproppanel/columncopy_24x24.xxx sw/res/sidebar/pageproppanel/formatcopy_24x24.xxx
+sw/res/sidebar/pageproppanel/column_L_copy_24x24.xxx sw/res/sidebar/pageproppanel/format_L_copy_24x24.xxx
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.xxx cmd/lc_pagemode.xxx
 vcl/res/index.xxx cmd/sc_insertmultiindex.xxx
 vcl/res/querybox.xxx vcl/res/infobox.xxx
 vcl/res/warningbox.xxx vcl/res/errorbox.xxx
