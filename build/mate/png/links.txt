@@ -488,6 +488,7 @@ cmd/32/recalcpivottable.png cmd/32/dataarearefresh.png
 cmd/32/recsave.png cmd/32/save.png
 cmd/32/rectangletoolbox.png cmd/32/rect.png
 cmd/32/recundo.png cmd/32/undo.png
+cmd/32/redactionpreviewexport.png cmd/32/exportdirecttopdf.png
 cmd/32/refresh.png cmd/32/reload.png
 cmd/32/refreshformcontrol.png cmd/32/reload.png
 cmd/32/rehearsetimings.png cmd/32/timefield.png
@@ -551,6 +552,7 @@ cmd/32/solverdialog.png cmd/32/helpindex.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/sourceview.png cmd/32/symbolshapes.brace-pair.png
+cmd/32/spacepara115.png cmd/32/spacepara1.png
 cmd/32/spelldialog.png cmd/32/spelling.png
 cmd/32/spellingandgrammardialog.png cmd/32/spelling.png
 cmd/32/starchartdialog.png cmd/32/insertobjectdialog.png
@@ -1160,6 +1162,7 @@ cmd/lc_recalcpivottable.png cmd/lc_dataarearefresh.png
 cmd/lc_recsave.png cmd/lc_save.png
 cmd/lc_rectangletoolbox.png cmd/lc_rect.png
 cmd/lc_recundo.png cmd/lc_undo.png
+cmd/lc_redactionpreviewexport.png cmd/lc_exportdirecttopdf.png
 cmd/lc_refresh.png cmd/lc_reload.png
 cmd/lc_refreshformcontrol.png cmd/lc_reload.png
 cmd/lc_rehearsetimings.png cmd/lc_timefield.png
@@ -1218,6 +1221,7 @@ cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_sourcecharstyle.png cmd/lc_insertscript.png
 cmd/lc_sourceview.png cmd/lc_symbolshapes.brace-pair.png
+cmd/lc_spacepara115.png cmd/lc_spacepara1.png
 cmd/lc_spelldialog.png cmd/lc_spelling.png
 cmd/lc_spellingandgrammardialog.png cmd/lc_spelling.png
 cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
@@ -1710,6 +1714,7 @@ cmd/sc_recalcpivottable.png cmd/sc_dataarearefresh.png
 cmd/sc_recsave.png cmd/sc_save.png
 cmd/sc_rectangletoolbox.png cmd/sc_rect.png
 cmd/sc_recundo.png cmd/sc_undo.png
+cmd/sc_redactionpreviewexport.png cmd/sc_exportdirecttopdf.png
 cmd/sc_refresh.png cmd/sc_reload.png
 cmd/sc_refreshformcontrol.png cmd/sc_reload.png
 cmd/sc_rehearsetimings.png cmd/sc_timefield.png
@@ -1769,6 +1774,7 @@ cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_sourcecharstyle.png cmd/sc_insertscript.png
 cmd/sc_sourceview.png cmd/sc_symbolshapes.brace-pair.png
+cmd/sc_spacepara115.png cmd/sc_spacepara1.png
 cmd/sc_spelldialog.png cmd/sc_spelling.png
 cmd/sc_spellingandgrammardialog.png cmd/sc_spelling.png
 cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
