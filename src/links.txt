@@ -488,6 +488,7 @@ cmd/32/recalcpivottable.xxx cmd/32/dataarearefresh.xxx
 cmd/32/recsave.xxx cmd/32/save.xxx
 cmd/32/rectangletoolbox.xxx cmd/32/rect.xxx
 cmd/32/recundo.xxx cmd/32/undo.xxx
+cmd/32/redactionpreviewexport.xxx cmd/32/exportdirecttopdf.xxx
 cmd/32/refresh.xxx cmd/32/reload.xxx
 cmd/32/refreshformcontrol.xxx cmd/32/reload.xxx
 cmd/32/rehearsetimings.xxx cmd/32/timefield.xxx
@@ -551,6 +552,7 @@ cmd/32/solverdialog.xxx cmd/32/helpindex.xxx
 cmd/32/sortdown.xxx cmd/32/sortdescending.xxx
 cmd/32/sortup.xxx cmd/32/sortascending.xxx
 cmd/32/sourceview.xxx cmd/32/symbolshapes.brace-pair.xxx
+cmd/32/spacepara115.xxx cmd/32/spacepara1.xxx
 cmd/32/spelldialog.xxx cmd/32/spelling.xxx
 cmd/32/spellingandgrammardialog.xxx cmd/32/spelling.xxx
 cmd/32/starchartdialog.xxx cmd/32/insertobjectdialog.xxx
@@ -1160,6 +1162,7 @@ cmd/lc_recalcpivottable.xxx cmd/lc_dataarearefresh.xxx
 cmd/lc_recsave.xxx cmd/lc_save.xxx
 cmd/lc_rectangletoolbox.xxx cmd/lc_rect.xxx
 cmd/lc_recundo.xxx cmd/lc_undo.xxx
+cmd/lc_redactionpreviewexport.xxx cmd/lc_exportdirecttopdf.xxx
 cmd/lc_refresh.xxx cmd/lc_reload.xxx
 cmd/lc_refreshformcontrol.xxx cmd/lc_reload.xxx
 cmd/lc_rehearsetimings.xxx cmd/lc_timefield.xxx
@@ -1218,6 +1221,7 @@ cmd/lc_sortdown.xxx cmd/lc_sortdescending.xxx
 cmd/lc_sortup.xxx cmd/lc_sortascending.xxx
 cmd/lc_sourcecharstyle.xxx cmd/lc_insertscript.xxx
 cmd/lc_sourceview.xxx cmd/lc_symbolshapes.brace-pair.xxx
+cmd/lc_spacepara115.xxx cmd/lc_spacepara1.xxx
 cmd/lc_spelldialog.xxx cmd/lc_spelling.xxx
 cmd/lc_spellingandgrammardialog.xxx cmd/lc_spelling.xxx
 cmd/lc_starchartdialog.xxx cmd/lc_insertobjectdialog.xxx
@@ -1710,6 +1714,7 @@ cmd/sc_recalcpivottable.xxx cmd/sc_dataarearefresh.xxx
 cmd/sc_recsave.xxx cmd/sc_save.xxx
 cmd/sc_rectangletoolbox.xxx cmd/sc_rect.xxx
 cmd/sc_recundo.xxx cmd/sc_undo.xxx
+cmd/sc_redactionpreviewexport.xxx cmd/sc_exportdirecttopdf.xxx
 cmd/sc_refresh.xxx cmd/sc_reload.xxx
 cmd/sc_refreshformcontrol.xxx cmd/sc_reload.xxx
 cmd/sc_rehearsetimings.xxx cmd/sc_timefield.xxx
@@ -1769,6 +1774,7 @@ cmd/sc_sortdown.xxx cmd/sc_sortdescending.xxx
 cmd/sc_sortup.xxx cmd/sc_sortascending.xxx
 cmd/sc_sourcecharstyle.xxx cmd/sc_insertscript.xxx
 cmd/sc_sourceview.xxx cmd/sc_symbolshapes.brace-pair.xxx
+cmd/sc_spacepara115.xxx cmd/sc_spacepara1.xxx
 cmd/sc_spelldialog.xxx cmd/sc_spelling.xxx
 cmd/sc_spellingandgrammardialog.xxx cmd/sc_spelling.xxx
 cmd/sc_starchartdialog.xxx cmd/sc_insertobjectdialog.xxx

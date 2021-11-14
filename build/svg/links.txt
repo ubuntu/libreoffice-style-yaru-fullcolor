@@ -488,6 +488,7 @@ cmd/32/recalcpivottable.svg cmd/32/dataarearefresh.svg
 cmd/32/recsave.svg cmd/32/save.svg
 cmd/32/rectangletoolbox.svg cmd/32/rect.svg
 cmd/32/recundo.svg cmd/32/undo.svg
+cmd/32/redactionpreviewexport.svg cmd/32/exportdirecttopdf.svg
 cmd/32/refresh.svg cmd/32/reload.svg
 cmd/32/refreshformcontrol.svg cmd/32/reload.svg
 cmd/32/rehearsetimings.svg cmd/32/timefield.svg
@@ -551,6 +552,7 @@ cmd/32/solverdialog.svg cmd/32/helpindex.svg
 cmd/32/sortdown.svg cmd/32/sortdescending.svg
 cmd/32/sortup.svg cmd/32/sortascending.svg
 cmd/32/sourceview.svg cmd/32/symbolshapes.brace-pair.svg
+cmd/32/spacepara115.svg cmd/32/spacepara1.svg
 cmd/32/spelldialog.svg cmd/32/spelling.svg
 cmd/32/spellingandgrammardialog.svg cmd/32/spelling.svg
 cmd/32/starchartdialog.svg cmd/32/insertobjectdialog.svg
@@ -1160,6 +1162,7 @@ cmd/lc_recalcpivottable.svg cmd/lc_dataarearefresh.svg
 cmd/lc_recsave.svg cmd/lc_save.svg
 cmd/lc_rectangletoolbox.svg cmd/lc_rect.svg
 cmd/lc_recundo.svg cmd/lc_undo.svg
+cmd/lc_redactionpreviewexport.svg cmd/lc_exportdirecttopdf.svg
 cmd/lc_refresh.svg cmd/lc_reload.svg
 cmd/lc_refreshformcontrol.svg cmd/lc_reload.svg
 cmd/lc_rehearsetimings.svg cmd/lc_timefield.svg
@@ -1218,6 +1221,7 @@ cmd/lc_sortdown.svg cmd/lc_sortdescending.svg
 cmd/lc_sortup.svg cmd/lc_sortascending.svg
 cmd/lc_sourcecharstyle.svg cmd/lc_insertscript.svg
 cmd/lc_sourceview.svg cmd/lc_symbolshapes.brace-pair.svg
+cmd/lc_spacepara115.svg cmd/lc_spacepara1.svg
 cmd/lc_spelldialog.svg cmd/lc_spelling.svg
 cmd/lc_spellingandgrammardialog.svg cmd/lc_spelling.svg
 cmd/lc_starchartdialog.svg cmd/lc_insertobjectdialog.svg
@@ -1710,6 +1714,7 @@ cmd/sc_recalcpivottable.svg cmd/sc_dataarearefresh.svg
 cmd/sc_recsave.svg cmd/sc_save.svg
 cmd/sc_rectangletoolbox.svg cmd/sc_rect.svg
 cmd/sc_recundo.svg cmd/sc_undo.svg
+cmd/sc_redactionpreviewexport.svg cmd/sc_exportdirecttopdf.svg
 cmd/sc_refresh.svg cmd/sc_reload.svg
 cmd/sc_refreshformcontrol.svg cmd/sc_reload.svg
 cmd/sc_rehearsetimings.svg cmd/sc_timefield.svg
@@ -1769,6 +1774,7 @@ cmd/sc_sortdown.svg cmd/sc_sortdescending.svg
 cmd/sc_sortup.svg cmd/sc_sortascending.svg
 cmd/sc_sourcecharstyle.svg cmd/sc_insertscript.svg
 cmd/sc_sourceview.svg cmd/sc_symbolshapes.brace-pair.svg
+cmd/sc_spacepara115.svg cmd/sc_spacepara1.svg
 cmd/sc_spelldialog.svg cmd/sc_spelling.svg
 cmd/sc_spellingandgrammardialog.svg cmd/sc_spelling.svg
 cmd/sc_starchartdialog.svg cmd/sc_insertobjectdialog.svg
