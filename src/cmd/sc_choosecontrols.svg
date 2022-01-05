@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    viewBox="0 0 4.2333333 4.2333335"
    width="16"
    version="1.1"
    id="svg66"
    sodipodi:docname="sc_choosecontrols.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_choosecontrols.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata72">
     <rdf:RDF>
@@ -41,16 +41,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      id="namedview68"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="3.0426488"
-     inkscape:cy="-0.97584728"
+     inkscape:cx="3.0169492"
+     inkscape:cy="-0.98305085"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg66">
+     inkscape:current-layer="svg66"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid890" />
@@ -183,7 +184,7 @@
      d="m 2.6458334,2.6458334 0.5291667,1.0583333 c 0,0 0.5291666,-1.0583333 0.5291666,-1.0583333 H 2.6458334"
      style="fill:#77216F;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <ellipse
-     style="opacity:1;fill:#77216F;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#f85731;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      id="path904"
      cx="1.0583332"
      cy="1.0583334"
@@ -201,7 +202,7 @@
      height="2.1166668"
      width="2.1166666"
      id="rect927"
-     style="opacity:1;fill:#77216F;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#f85731;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      ry="0.26458332" />
   <path
      sodipodi:nodetypes="ccccccc"
