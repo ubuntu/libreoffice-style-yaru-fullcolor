@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dbindexdesign.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.1.1 (50ffc5b540, 2022-01-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,26 +40,22 @@
    inkscape:window-height="1016"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="41.7193"
-   inkscape:cx="-0.59924304"
-   inkscape:cy="9.9594193"
+   inkscape:zoom="20.85965"
+   inkscape:cx="12.248528"
+   inkscape:cy="10.666526"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:pagecheckerboard="0">
+   inkscape:pagecheckerboard="0"
+   inkscape:snap-global="false">
   <inkscape:grid
      type="xygrid"
      id="grid817" />
 </sodipodi:namedview>
 
+
 /&gt;<path
-   d="M 10,2 V 4 H 3.5 C 3.2238576,4 3,4.2238576 3,4.5 3,4.7761424 3.2238576,5 3.5,5 H 4 V 6 H 5 V 5 H 6 V 6 H 7 V 5 h 3 v 2 h 3 V 2 Z m 1,1 h 1 v 3 h -1 z"
-   id="path2"
-   inkscape:connector-curvature="0"
-   style="fill:#e95420;fill-opacity:1"
-   sodipodi:nodetypes="ccssscccccccccccccccccc" />
-<path
    inkscape:connector-curvature="0"
    id="path829"
    d="M 14.000162,14 2.0001616,7.9999996 V 14 Z"
@@ -71,4 +67,9 @@
    id="path827"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="cccc" />
+<path
+   id="path2-3"
+   style="fill:#e95420;fill-opacity:1"
+   d="m 13.001953,3.978516 c 2.61e-4,-0.483845 -0.01713,-0.864123 -0.162109,-1.226563 -0.09665,-0.241627 -0.292432,-0.474341 -0.539063,-0.597656 -0.246631,-0.123316 -0.509115,-0.154297 -0.800781,-0.154297 -0.291666,0 -0.55415,0.03098 -0.800781,0.154297 -0.246631,0.123315 -0.442412,0.356029 -0.539063,0.597656 -0.146967,0.367418 -0.16285,0.754656 -0.162109,1.248047 h -6.498047 c -0.2761,0 -0.5,0.223858 -0.5,0.5 0,0.276142 0.2239,0.5 0.5,0.5 h 0.5 v 1 h 1 v -1 h 0.5 0.5 v 1 h 1 v -1 h 2.998047 c -7.41e-4,0.493391 0.01514,0.880629 0.162109,1.248047 0.09665,0.241627 0.292432,0.474341 0.539063,0.597656 0.246631,0.123316 0.509115,0.154297 0.800781,0.154297 0.30584,0 0.5886,-0.04943 0.833984,-0.195313 0.245385,-0.145878 0.418504,-0.387181 0.509766,-0.630859 0.182525,-0.487356 0.15625,-1.008868 0.15625,-1.673828 0,-0.1875 0.0019,-0.360203 0.002,-0.521484 z m -1.001953,0.521484 c 0,0.66496 -0.02628,1.144056 -0.09375,1.324219 -0.03374,0.09008 -0.04812,0.09977 -0.08398,0.121093 -0.03586,0.02132 -0.128106,0.05469 -0.322266,0.05469 -0.208333,0 -0.320849,-0.03152 -0.355468,-0.04883 -0.03462,-0.01731 -0.02634,-0.0033 -0.05469,-0.07422 -0.0567,-0.141746 -0.08984,-0.626954 -0.08984,-1.376954 0,-0.749999 0.03314,-1.235207 0.08984,-1.376953 0.02835,-0.07087 0.02007,-0.05691 0.05469,-0.07422 0.03462,-0.01731 0.147135,-0.04883 0.355468,-0.04883 0.208334,0 0.32085,0.03152 0.355469,0.04883 0.03462,0.01731 0.02634,0.0034 0.05469,0.07422 0.0567,0.141746 0.08984,0.626954 0.08984,1.376954 z"
+   sodipodi:nodetypes="sssssscsssccccccccccsssssssssssscsscsscscs" />
 </svg>
