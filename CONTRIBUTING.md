@@ -44,6 +44,15 @@ Then use the install script and open Libreoffice (you should close all instances
 ./install.sh
 ```
 
+**Watch icons change:**
+
+If you need to edit a lot of icons, you can run the build script in watch mode:
+
+```bash
+./build.sh -w
+```
+Then just edit and save an icon, the build script will automatically build it!
+
 ## Make a Pull Request (PR)
 
 Create a feature branch for development:
