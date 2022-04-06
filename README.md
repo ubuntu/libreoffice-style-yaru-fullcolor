@@ -24,7 +24,7 @@ Since Libreoffice 6.0, you can install an icon pack with an extension. To do tha
 ```bash
 git clone https://github.com/ubuntu/libreoffice-style-yaru-fullcolor.git
 cd libreoffice-style-yaru-fullcolor
-./generate-oxt.sh
+./build.sh -e
 ```
 
 This will generate a `yaru-theme.oxt` file.
@@ -59,7 +59,7 @@ To remove the extension, open __Tools__ → __Extension Manager__ (or __Ctrl__ +
 If you want to remove an installation made with the script just execute the remove script at the root of the project:
 
 ```bash
-./remove.sh
+./install.sh -u
 ```
 
 ## Copying or Reusing
