@@ -290,6 +290,8 @@ then
 elif [[ $_oxt = 1 ]];
 then
     generate_oxt
-else
+elif [[ ! -z "$_file" ]]; then
     render_icon $_file
+else
+    echo -e "❌ Error, please provide a valid option\n"
 fi
