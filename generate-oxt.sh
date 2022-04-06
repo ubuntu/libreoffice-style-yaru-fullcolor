@@ -18,7 +18,7 @@ echo
 
 echo "=> 📦 Zip icons"
 
-cd "./build/svg"
+cd "build/svg"
 
 zip -r "images_yaru_svg.zip" *
 
@@ -36,19 +36,19 @@ zip -r "images_yaru_mate.zip" *
 
 cd "../../../"
 
-mv "./build/png/images_yaru.zip" "images_yaru.zip"
-mv "./build/svg/images_yaru_svg.zip" "images_yaru_svg.zip"
-mv "./build/mate/png/images_yaru_mate.zip" "images_yaru_mate.zip"
-mv "./build/mate/svg/images_yaru_mate_svg.zip" "images_yaru_mate_svg.zip"
+mv "build/png/images_yaru.zip" "dist/images_yaru.zip"
+mv "build/svg/images_yaru_svg.zip" "dist/images_yaru_svg.zip"
+mv "build/mate/png/images_yaru_mate.zip" "dist/images_yaru_mate.zip"
+mv "build/mate/svg/images_yaru_mate_svg.zip" "dist/images_yaru_mate_svg.zip"
 
 mkdir -p -v "oxt/iconsets"
-cp "images_yaru.zip" \
+cp "dist/images_yaru.zip" \
 "oxt/iconsets/images_yaru.zip"
-cp "images_yaru_svg.zip" \
+cp "dist/images_yaru_svg.zip" \
 "oxt/iconsets/images_yaru_svg.zip"
-cp "images_yaru_mate.zip" \
+cp "dist/images_yaru_mate.zip" \
 "oxt/iconsets/images_yaru_mate.zip"
-cp "images_yaru_mate_svg.zip" \
+cp "dist/images_yaru_mate_svg.zip" \
 "oxt/iconsets/images_yaru_mate_svg.zip"
 
 cd "oxt"
@@ -57,6 +57,6 @@ echo -e "\n=> 🎁 Create oxt\n"
 
 zip -r "yaru-theme.zip" *
 
-mv "yaru-theme.zip" "../yaru-theme.oxt"
+mv "yaru-theme.zip" "../dist/yaru-theme.oxt"
 
 echo -e "\n=> 🎉 Oxt and zip generated!\n"
