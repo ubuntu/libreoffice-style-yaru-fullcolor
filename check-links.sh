@@ -18,7 +18,8 @@ errors=0
 
 function check-links() {
     workingfolder=$1
-    verbose=$2
+    defaultlinksfile="${1}/links.txt"
+    linksfile="${2:-$defaultlinksfile}"
     n=1
     linkedicons=()
     targeticons=()
@@ -40,7 +41,7 @@ function check-links() {
         fi
 
         let n+=1
-    done < "${workingfolder}/links.txt"
+    done < $linksfile
 
     n=1
 
@@ -79,7 +80,7 @@ function check-links() {
 
 echo -e "\n=> ⏳ Checking src/links.txt - please wait\n"
 
-check-links "src"
+check-links "src/default" "src/links.txt"
 
 if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
@@ -102,7 +103,7 @@ else
     check-links 'build/mate/png'
 
     if [[ ${errors} > 0 ]]; then
-        echo -e "\n=> Errors found into /build links files - please run ${bold}./generate-links.sh${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
+        echo -e "\n=> Errors found into /build links files - please run ${bold}./build.sh -l${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
         exit 1
     else
         echo -e "\n=> 🎉 0 error found\n"
