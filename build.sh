@@ -93,24 +93,24 @@ function render_icon() {
     # Build Normal icon
 
     echo -e "=> 🔨 Render PNG file\n"
-    inkscape -o "./build/default/png${1}.png" "./src${1}.svg"
+    inkscape -o "./build/default/png${1}.png" "./src/default${1}.svg"
 
     echo -e "\n=> ✨ Optimize PNG\n"
     optipng -o7 "./build/default/png${1}.png"
 
     echo -e "\n=> ✨ Minimify SVG"
 
-    svgo -i "./src${1}.svg" -o "./build/default/svg${1}.svg"
+    svgo -i "./src/default${1}.svg" -o "./build/default/svg${1}.svg"
 
     # Build MATE icon
 
-    if test -f "./src-mate${1}.svg"; then # Check if MATE specific file exist
+    if test -f "./src/mate${1}.svg"; then # Check if MATE specific file exist
         echo -e "\n=> 🌠 Copy MATE icon\n"
-        cp -f "./src-mate${1}.svg" "./build/mate/svg${1}.svg"
+        cp -f "./src/mate${1}.svg" "./build/mate/svg${1}.svg"
     else
-        cp -f "./src${1}.svg" "./build/mate/svg${1}.svg"
+        cp -f "./src/default${1}.svg" "./build/mate/svg${1}.svg"
 
-        if ! fgrep -q -m 1 "${1}.svg" "./src-mate/exclude.txt"; then
+        if ! fgrep -q -m 1 "${1}.svg" "./src/mate/exclude.txt"; then
             echo -e "\n=> 🍊 🍇 -> 🍏 Replace Ubuntu Colors by MATE Green\n"
 
             sed -i 's/e95420/88a05d/g' "./build/mate/svg${1}.svg"
@@ -152,9 +152,9 @@ then
     mkdir -p -v "build/default"
     mkdir -p -v "build/mate"
 
-    cp -Rf "src" "./build/default/svg"
-    cp -Rf "src" "./build/default/png"
-    cp -Rf "src" "./build/mate/svg"
+    cp -Rf "src/default" "./build/default/svg"
+    cp -Rf "src/default" "./build/default/png"
+    cp -Rf "src/default" "./build/mate/svg"
 
     # Build Normal icons
 
@@ -184,7 +184,7 @@ then
 
     cd "../../"
 
-    cp "./src-mate/exclude.txt" "build/mate/svg/"
+    cp "./src/mate/exclude.txt" "build/mate/svg/"
 
     cd "./build/mate/svg/"
 
@@ -203,7 +203,7 @@ then
 
     cd "../../.."
 
-    cp -RT "src-mate/" "./build/mate/svg/"
+    cp -RT "src/mate/" "./build/mate/svg/"
     rm "./build/mate/svg/exclude.txt"
 
     cd "./build/mate"
@@ -239,23 +239,23 @@ then
     while true; do
         filename=$(inotifywait -r -q --event close_write --format %w%f ./)
 
-        if [[ $filename = ./src/* ]]; then
+
+        if [[ $filename == *links.txt ]]; then
+            ./generate-links.sh
+        elif [[ $filename == ./src/default/* ]]; then
             if [[ $filename == *.svg ]];
             then
-                filename=${filename#"./src"}
+                filename=${filename#"./src/default"}
                 filename=${filename%".svg"}
 
                 render_icon $filename
 
                 echo
-            elif [[ $filename == *links.txt ]];
-            then
-                ./generate-links.sh
             fi
-        elif [[ $filename = ./src-mate/* ]]; then
+        elif [[ $filename == ./src/mate/* ]]; then
             if [[ $filename == *.svg ]];
             then
-                filename=${filename#"./src-mate"}
+                filename=${filename#"./src/mate"}
                 filename=${filename%".svg"}
 
                 render_icon $filename
