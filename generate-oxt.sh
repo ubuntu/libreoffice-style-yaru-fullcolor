@@ -18,26 +18,22 @@ echo
 
 echo "=> 📦 Zip icons"
 
-cd "build/svg"
-
+cd "build/default/svg"
 zip -r "images_yaru_svg.zip" *
 
 cd "../png"
-
 zip -r "images_yaru.zip" *
 
-cd "../mate/svg"
-
+cd "../../mate/svg"
 zip -r "images_yaru_mate_svg.zip" *
 
 cd "../png"
-
 zip -r "images_yaru_mate.zip" *
 
 cd "../../../"
 
-mv "build/png/images_yaru.zip" "dist/images_yaru.zip"
-mv "build/svg/images_yaru_svg.zip" "dist/images_yaru_svg.zip"
+mv "build/default/png/images_yaru.zip" "dist/images_yaru.zip"
+mv "build/default/svg/images_yaru_svg.zip" "dist/images_yaru_svg.zip"
 mv "build/mate/png/images_yaru_mate.zip" "dist/images_yaru_mate.zip"
 mv "build/mate/svg/images_yaru_mate_svg.zip" "dist/images_yaru_mate_svg.zip"
 

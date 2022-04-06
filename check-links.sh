@@ -85,13 +85,13 @@ if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
-    echo -e "=> ⏳ Checking build/svg/links.txt - please wait\n"
+    echo -e "=> ⏳ Checking build/default/svg/links.txt - please wait\n"
 
-    check-links 'build/svg'
+    check-links 'build/default/svg'
 
-    echo -e "\n=> ⏳ Checking build/png/links.txt - please wait\n"
+    echo -e "\n=> ⏳ Checking build/default/png/links.txt - please wait\n"
 
-    check-links 'build/png'
+    check-links 'build/default/png'
 
     echo -e "=> ⏳ Checking build/mate/svg/links.txt - please wait\n"
 

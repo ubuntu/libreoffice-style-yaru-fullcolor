@@ -93,14 +93,14 @@ function render_icon() {
     # Build Normal icon
 
     echo -e "=> 🔨 Render PNG file\n"
-    inkscape -o "./build/png${1}.png" "./src${1}.svg"
+    inkscape -o "./build/default/png${1}.png" "./src${1}.svg"
 
     echo -e "\n=> ✨ Optimize PNG\n"
-    optipng -o7 "./build/png${1}.png"
+    optipng -o7 "./build/default/png${1}.png"
 
     echo -e "\n=> ✨ Minimify SVG"
 
-    svgo -i "./src${1}.svg" -o "./build/svg${1}.svg"
+    svgo -i "./src${1}.svg" -o "./build/default/svg${1}.svg"
 
     # Build MATE icon
 
@@ -149,15 +149,16 @@ then
 
     rm -Rf "build"
     mkdir -p -v "build"
+    mkdir -p -v "build/default"
     mkdir -p -v "build/mate"
 
-    cp -Rf "src" "./build/svg"
-    cp -Rf "src" "./build/png"
+    cp -Rf "src" "./build/default/svg"
+    cp -Rf "src" "./build/default/png"
     cp -Rf "src" "./build/mate/svg"
 
     # Build Normal icons
 
-    cd "./build/png"
+    cd "./build/default/png"
 
     sed -i 's/.xxx/.png/g' links.txt
 
@@ -181,7 +182,7 @@ then
 
     # Build MATE icons
 
-    cd "../"
+    cd "../../"
 
     cp "./src-mate/exclude.txt" "build/mate/svg/"
 

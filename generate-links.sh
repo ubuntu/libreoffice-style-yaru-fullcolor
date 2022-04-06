@@ -16,13 +16,13 @@
 
 echo -e "\n=> 🌠 Copy links.txt\n"
 
-cp -f "./src/links.txt" "./build/png/links.txt"
-sed -i 's/.xxx/.png/g' "./build/png/links.txt"
+cp -f "./src/links.txt" "./build/default/png/links.txt"
+sed -i 's/.xxx/.png/g' "./build/default/png/links.txt"
 
-cp -f "./src/links.txt" "./build/svg/links.txt"
-sed -i 's/.xxx/.svg/g' "./build/svg/links.txt"
+cp -f "./src/links.txt" "./build/default/svg/links.txt"
+sed -i 's/.xxx/.svg/g' "./build/default/svg/links.txt"
 
-cp -f "./build/png/links.txt" "./build/mate/png/links.txt"
-cp -f "./build/svg/links.txt" "./build/mate/svg/links.txt"
+cp -f "./build/default/png/links.txt" "./build/mate/png/links.txt"
+cp -f "./build/default/svg/links.txt" "./build/mate/svg/links.txt"
 
 echo -e "\n=> 🎉 Finish\n"
