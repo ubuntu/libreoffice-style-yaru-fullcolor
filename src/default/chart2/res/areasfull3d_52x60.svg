@@ -57,7 +57,7 @@
      y2="1008.8621">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop2" />
     <stop
        offset="1"
@@ -74,7 +74,7 @@
      y2="958.36206">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop7" />
     <stop
        offset="1"
@@ -102,12 +102,12 @@
      d="m 10,10 v 15 l 19.875,-6 18.125,12 v -21 z"
      fill="url(#a)"
      id="path20"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 10,25 19.87526,-6 18.12474,12 v 15 h -38 z"
      fill="url(#b)"
      id="path22"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 48,10 h -38 l 4,-3 h 37 z"
      fill="#987197"

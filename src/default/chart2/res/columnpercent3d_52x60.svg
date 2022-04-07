@@ -52,7 +52,7 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop2" />
     <stop
        offset="1"
@@ -90,7 +90,7 @@
      id="e">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop10" />
     <stop
        offset="1"
@@ -127,22 +127,22 @@
      d="m 10,31 h 16 v 15 h -16 z"
      fill="url(#b)"
      id="path24"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 32,23 h 16 v 22 h -16 z"
      fill="url(#c)"
      id="path26"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 32,8 h 16 v 15 h -16 z"
      fill="url(#d)"
      id="path28"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 10,8 h 16 v 23 h -16 z"
      fill="url(#f)"
      id="path30"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 26,8 h -16 l 4,-3 h 15 z"
      fill="#987197"

@@ -52,7 +52,7 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop2" />
     <stop
        offset="1"
@@ -63,7 +63,7 @@
      id="b">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop7" />
     <stop
        offset="1"
@@ -129,7 +129,7 @@
      d="m 7,15 a 2,4 0 0 0 -2,4 2,4 0 0 0 2,4 h 24 v -8 z"
      fill="url(#c)"
      id="path26"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="18.999983"
      cy="-31.000078"
@@ -143,7 +143,7 @@
      d="m 7,7 c -1.1045695,0 -2,1.7909 -2,4 0,2.2091 0.8954305,4 2,4 h 12 v -8 z"
      fill="url(#d)"
      id="path30"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <ellipse
      cx="10.999983"
      cy="-19.000076"
@@ -157,7 +157,7 @@
      d="m 7,35 c -1.1045695,0 -2,1.7909 -2,4 0,2.2091 0.8954305,4 2,4 h 40 v -8 z"
      fill="url(#f)"
      id="path34"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="38.999981"
      cy="-47.000076"
@@ -171,7 +171,7 @@
      d="m 7,27 c -1.1045695,0 -2,1.7909 -2,4 0,2.2091 0.8954305,4 2,4 h 28 v -8 z"
      fill="url(#e)"
      id="path38"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <ellipse
      cx="30.999983"
      cy="-35.000076"
