@@ -14,41 +14,105 @@
 # You should have received a copy of the GNU Lesser General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/lgpl-3.0.txt>
 
-./generate-oxt.sh
+## Install script
+##
+## usage: ./install.sh [options]
+##
+## options:
+##      -u, --uninstall   Uninstall this icon pack [default: 0]
 
-echo -e "\n=> 🔥 Deleting old install\n"
+# CLInt GENERATED_CODE: start
+# Default values
+_uninstall=0
 
-for dir in \
-  /usr/share/libreoffice/share/config \
-  /usr/lib/libreoffice/share/config \
-  /usr/lib64/libreoffice/share/config \
-  /usr/local/lib/libreoffice/share/config \
-  /opt/libreoffice*/share/config; do
-  [ -d "$dir" ] || continue
-  sudo rm -f -v "$dir/images_yaru.zip"
-  sudo rm -f -v "$dir/images_yaru_svg.zip"
-  sudo rm -f -v "$dir/images_yaru_mate.zip"
-  sudo rm -f -v "$dir/images_yaru_mate_svg.zip"
+# Converting long-options into short ones
+for arg in "$@"; do
+  shift
+  case "$arg" in
+"--uninstall") set -- "$@" "-u";;
+  *) set -- "$@" "$arg"
+  esac
 done
 
-echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
+function print_illegal() {
+    echo Unexpected flag in command line \"$@\"
+}
 
-sudo mkdir -p -v "/usr/share/libreoffice/share/config"
-sudo cp -v "images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru.zip"
-sudo cp -v "images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_svg.zip"
-sudo cp -v "images_yaru_mate.zip" "/usr/share/libreoffice/share/config/images_yaru_mate.zip"
-sudo cp -v "images_yaru_mate_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip"
-
-for dir in \
-    /usr/lib64/libreoffice/share/config \
-    /usr/lib/libreoffice/share/config \
-    /usr/local/lib/libreoffice/share/config \
-    /opt/libreoffice*/share/config; do
-        [ -d "$dir" ] || continue
-        sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru.zip" "$dir"
-        sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_svg.zip" "$dir"
-        sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate.zip" "$dir"
-        sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip" "$dir"
+# Parsing flags and arguments
+while getopts 'hu' OPT; do
+    case $OPT in
+        h) sed -ne 's/^## \(.*\)/\1/p' $0
+           exit 1 ;;
+        u) _uninstall=1 ;;
+        \?) print_illegal $@ >&2;
+            echo "---"
+            sed -ne 's/^## \(.*\)/\1/p' $0
+            exit 1
+            ;;
+    esac
 done
+# CLInt GENERATED_CODE: end
 
-echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
+###################################################
+# FUNCTIONS
+###################################################
+
+function uninstall() {
+	for dir in \
+		/usr/share/libreoffice/share/config \
+		/usr/lib/libreoffice/share/config \
+		/usr/lib64/libreoffice/share/config \
+		/usr/local/lib/libreoffice/share/config \
+		/opt/libreoffice*/share/config; do
+		[ -d "$dir" ] || continue
+		sudo rm -f -v "$dir/images_yaru.zip"
+		sudo rm -f -v "$dir/images_yaru_svg.zip"
+		sudo rm -f -v "$dir/images_yaru_mate.zip"
+		sudo rm -f -v "$dir/images_yaru_mate_svg.zip"
+	done
+}
+
+function install() {
+	sudo mkdir -p -v "/usr/share/libreoffice/share/config"
+	sudo cp -v "dist/images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru.zip"
+	sudo cp -v "dist/images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_svg.zip"
+	sudo cp -v "dist/images_yaru_mate.zip" "/usr/share/libreoffice/share/config/images_yaru_mate.zip"
+	sudo cp -v "dist/images_yaru_mate_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip"
+
+	for dir in \
+		/usr/lib64/libreoffice/share/config \
+		/usr/lib/libreoffice/share/config \
+		/usr/local/lib/libreoffice/share/config \
+		/opt/libreoffice*/share/config; do
+			[ -d "$dir" ] || continue
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_svg.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip" "$dir"
+	done
+}
+
+###################################################
+# MAIN 
+###################################################
+
+if [[ $_uninstall = 1 ]];
+then
+	echo -e "\n=> 🔥 Removing Libreoffice style Yaru\n"
+
+	uninstall
+
+	echo -e "\n=> 🎉 Finish\n"
+else
+	./build.sh --oxt
+
+	echo -e "\n=> 🔥 Removing old install\n"
+
+	uninstall
+
+	echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
+
+	install
+
+	echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
+fi

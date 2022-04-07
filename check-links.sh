@@ -14,11 +14,28 @@
 # You should have received a copy of the GNU Lesser General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/lgpl-3.0.txt>
 
+###################################################
+# CHECKS
+###################################################
+
+echo
+
+if ! command -v parallel >/dev/null
+then
+    echo  -e "=> 🙅 Please install parallel\n"
+    exit 1
+fi
+
+###################################################
+# FUNCTIONS
+###################################################
+
 errors=0
 
-function check-links() {
+function check_links() {
     workingfolder=$1
-    verbose=$2
+    defaultlinksfile="${1}/links.txt"
+    linksfile="${2:-$defaultlinksfile}"
     n=1
     linkedicons=()
     targeticons=()
@@ -40,7 +57,7 @@ function check-links() {
         fi
 
         let n+=1
-    done < "${workingfolder}/links.txt"
+    done < $linksfile
 
     n=1
 
@@ -76,33 +93,33 @@ function check-links() {
         let n+=1
     done
 }
+export -f check_links
 
-echo -e "\n=> ⏳ Checking src/links.txt - please wait\n"
+###################################################
+# MAIN 
+###################################################
 
-check-links "src"
+echo -e "=> ⏳ Checking links.txt source file - please wait\n"
+
+check_links "src/default" "src/links.txt"
 
 if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
-    echo -e "=> ⏳ Checking build/svg/links.txt - please wait\n"
+    resources=(
+        "build/default/svg"
+        "build/default/png"
+        "build/mate/svg"
+        "build/mate/png"
+    )
 
-    check-links 'build/svg'
+    echo -e "=> ⏳ Checking links.txt built files - please wait"
 
-    echo -e "\n=> ⏳ Checking build/png/links.txt - please wait\n"
-
-    check-links 'build/png'
-
-    echo -e "=> ⏳ Checking build/mate/svg/links.txt - please wait\n"
-
-    check-links 'build/mate/svg'
-
-    echo -e "\n=> ⏳ Checking build/mate/png/links.txt - please wait\n"
-
-    check-links 'build/mate/png'
+    parallel check_links ::: "${resources[@]}"
 
     if [[ ${errors} > 0 ]]; then
-        echo -e "\n=> Errors found into /build links files - please run ${bold}./generate-links.sh${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
+        echo -e "\n=> Errors found into /build links files - please run ${bold}./build.sh -l${normal} and/or ${bold}./build.sh -a${normal} to fix them\n"
         exit 1
     else
         echo -e "\n=> 🎉 0 error found\n"

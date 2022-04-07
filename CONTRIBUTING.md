@@ -28,10 +28,10 @@ You can now working on the icons!
 ## Create or edit an icon
 
 Open an icon with Inkscape from the `src` folder then do your changes and save.
-Now at the root of the project folder, execute the `build.sh` script like this (for an icon located into ./src/cmd/lc_bold.svg):
+Now at the root of the project folder, execute the `build.sh` script like this (for an icon located into ./src/default/cmd/lc_bold.svg):
 
 ```bash
-./build.sh /cmd/lc_bold
+./build.sh -f /cmd/lc_bold
 ```
 
 ⚠ Do not provide the file extension and don't forget to add the `/` before the file path.
