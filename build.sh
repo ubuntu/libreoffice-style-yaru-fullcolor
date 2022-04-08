@@ -161,8 +161,10 @@ function render_icon() {
 
         echo -e "=> 🔨 Render '${1}' - ${accent_name} accented "
 
-        # Check if accented specific file exist
-        if test -f "./src/accented${1}.svg"; then
+        # Check if flavour or accented specific file exist
+        if test -f "./src/${accent_name}${1}.svg"; then
+            cp -f "./src/${accent_name}${1}.svg" "./build/${accent_name}/svg${1}.svg"
+        elif test -f "./src/accented${1}.svg"; then
             cp -f "./src/accented${1}.svg" "./build/${accent_name}/svg${1}.svg"
         else
             cp -f "./src/default${1}.svg" "./build/${accent_name}/svg${1}.svg"
@@ -282,9 +284,16 @@ then
         elif [[ $filename == ./src/* ]]; then
             if [[ $filename == *.svg ]];
             then
-                if [[ $filename == ./src/default/* ]]; then
-                    filename=${filename#"./src/default"}
-                elif [[ $filename == ./src/accented/* ]]; then
+                for variant_color in "${accents[@]}"; do
+                    variant_color=( $variant_color )
+                    accent_name=${variant_color[0]}
+
+                    if [[ $filename == ./src/${accent_name}/* ]]; then
+                        filename=${filename#"./src/${accent_name}"}
+                    fi
+                done
+
+                if [[ $filename == ./src/accented/* ]]; then
                     filename=${filename#"./src/accented"}
                 fi
 
