@@ -108,116 +108,133 @@ then
 fi
 
 ###################################################
+# POPULATE ACCENT COLORS
+###################################################
+
+accents=( "default" )
+
+while read line; do
+    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
+    then
+        continue
+    fi
+
+    IFS=' '
+    read -ra splitedline <<< "$line"
+    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
+        echo "Error line $n: Malformed line '$line'"
+    else
+        accents+=( "${line}" )
+    fi
+done < "src/accents.txt"
+
+###################################################
 # FUNCTIONS
 ###################################################
 
 function render_icon() {
+    variant_color=( $2 )
+    accent_name=${variant_color[0]}
+    accent_color=${variant_color[1]}
+
     # Mkdir folders
 
-    mkdir -p $(dirname ./build/default/png${1}.png)
-    mkdir -p $(dirname ./build/default/svg${1}.svg)
-    mkdir -p $(dirname ./build/mate/png${1}.png)
-    mkdir -p $(dirname ./build/mate/svg${1}.svg)
+    mkdir -p $(dirname ./build/${accent_name}/png${1}.png)
+    mkdir -p $(dirname ./build/${accent_name}/svg${1}.svg)
 
-    # Build Normal icon
+    if [[ $accent_name == "default" ]]; then
+        # Build default icon
 
-    echo -e "=> 🔨 Render PNG file\n"
-    cairosvg "./src/default${1}.svg" -o "./build/default/png${1}.png"
+        echo -e "=> 🔨 Render '${1}'"
 
-    echo -e "\n=> ✨ Optimize PNG\n"
-    optipng -o7 "./build/default/png${1}.png"
+        cp -f "./src/default${1}.svg" "./build/default/svg${1}.svg"
+        svgo "./build/default/svg${1}.svg"  &>/dev/null
+        # replace placeholder colors
+        sed -i 's/0ff/e95420/g' "./build/default/svg${1}.svg"
+        sed -i 's/0f0/77216f/g' "./build/default/svg${1}.svg"
 
-    echo -e "\n=> ✨ Minimify SVG"
-
-    svgo -i "./src/default${1}.svg" -o "./build/default/svg${1}.svg"
-
-    # Build MATE icon
-
-    if test -f "./src/mate${1}.svg"; then # Check if MATE specific file exist
-        echo -e "\n=> 🌠 Copy MATE icon\n"
-        cp -f "./src/mate${1}.svg" "./build/mate/svg${1}.svg"
+        # Render PNG
+        cairosvg "./build/default/svg${1}.svg" -o "./build/default/png${1}.png"  &>/dev/null
+        optipng -o7 "./build/default/png${1}.png"  &>/dev/null
     else
-        cp -f "./src/default${1}.svg" "./build/mate/svg${1}.svg"
+        # Build accented icons
 
-        if ! fgrep -q -m 1 "${1}.svg" "./src/mate/exclude.txt"; then
-            echo -e "\n=> 🍊 🍇 -> 🍏 Replace Ubuntu Colors by MATE Green\n"
+        echo -e "=> 🔨 Render '${1}' - ${accent_name} accented "
 
-            sed -i 's/e95420/88a05d/g' "./build/mate/svg${1}.svg"
-            sed -i 's/E95420/88a05d/g' "./build/mate/svg${1}.svg"
-            sed -i 's/77216f/88a05d/g' "./build/mate/svg${1}.svg"
-            sed -i 's/77216F/88a05d/g' "./build/mate/svg${1}.svg"
+        # Check if flavour or accented specific file exist
+        if test -f "./src/${accent_name}${1}.svg"; then
+            cp -f "./src/${accent_name}${1}.svg" "./build/${accent_name}/svg${1}.svg"
+        elif test -f "./src/accented${1}.svg"; then
+            cp -f "./src/accented${1}.svg" "./build/${accent_name}/svg${1}.svg"
+        else
+            cp -f "./src/default${1}.svg" "./build/${accent_name}/svg${1}.svg"
         fi
+
+        svgo "./build/${accent_name}/svg${1}.svg"  &>/dev/null
+        # replace placeholder colors
+        sed -i "s/0ff/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
+        sed -i "s/0f0/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
+
+        # Render PNG
+        cairosvg "./build/${accent_name}/svg${1}.svg" -o "./build/${accent_name}/png${1}.png"  &>/dev/null
+        optipng -o7 "./build/${accent_name}/png${1}.png" &>/dev/null
     fi
-
-    cp -f "./build/mate/svg${1}.svg" "./build/mate/png${1}.svg"
-
-    echo -e "=> 🔨 Render MATE PNG file\n"
-    cairosvg "./build/mate/png${1}.svg" -o "./build/mate/png${1}.png"
-    rm "./build/mate/png${1}.svg"
-
-    echo -e "\n=> ✨ Optimize MATE PNG\n"
-    optipng -o7 "./build/mate/png${1}.png"
-
-    echo -e "\n=> ✨ Minimify MATE SVG"
-
-    svgo -i "./build/mate/svg${1}.svg" -o "./build/mate/svg${1}.svg"
 }
 export -f render_icon
 
 function generate_links() {
-    echo -e "\n=> 🌠 Copy links.txt\n"
+    echo -e "=> 🌠 Copy and format links.txt in build\n"
 
-    cp -f "./src/links.txt" "./build/default/png/links.txt"
-    sed -i 's/.xxx/.png/g' "./build/default/png/links.txt"
+    for variant_color in "${accents[@]}"; do
+        variant_color=( $variant_color )
+        accent_name=${variant_color[0]}
+        
+        cp -f "./src/links.txt" "./build/${accent_name}/png/links.txt"
+        sed -i 's/.xxx/.png/g' "./build/${accent_name}/png/links.txt"
 
-    cp -f "./src/links.txt" "./build/default/svg/links.txt"
-    sed -i 's/.xxx/.svg/g' "./build/default/svg/links.txt"
-
-    cp -f "./build/default/png/links.txt" "./build/mate/png/links.txt"
-    cp -f "./build/default/svg/links.txt" "./build/mate/svg/links.txt"
-
-    echo -e "\n=> 🎉 Finish\n"
+        cp -f "./src/links.txt" "./build/${accent_name}/svg/links.txt"
+        sed -i 's/.xxx/.svg/g' "./build/${accent_name}/svg/links.txt"
+    done
 }
 
 function generate_oxt() {
     echo "=> 📦 Zip icons"
 
-    cd "build/default/svg"
-    zip -r "images_yaru_svg.zip" *
-
-    cd "../png"
-    zip -r "images_yaru.zip" *
-
-    cd "../../mate/svg"
-    zip -r "images_yaru_mate_svg.zip" *
-
-    cd "../png"
-    zip -r "images_yaru_mate.zip" *
-
-    cd "../../../"
-
-    mv "build/default/png/images_yaru.zip" "dist/images_yaru.zip"
-    mv "build/default/svg/images_yaru_svg.zip" "dist/images_yaru_svg.zip"
-    mv "build/mate/png/images_yaru_mate.zip" "dist/images_yaru_mate.zip"
-    mv "build/mate/svg/images_yaru_mate_svg.zip" "dist/images_yaru_mate_svg.zip"
-
     mkdir -p -v "oxt/iconsets"
-    cp "dist/images_yaru.zip" \
-    "oxt/iconsets/images_yaru.zip"
-    cp "dist/images_yaru_svg.zip" \
-    "oxt/iconsets/images_yaru_svg.zip"
-    cp "dist/images_yaru_mate.zip" \
-    "oxt/iconsets/images_yaru_mate.zip"
-    cp "dist/images_yaru_mate_svg.zip" \
-    "oxt/iconsets/images_yaru_mate_svg.zip"
+
+    for variant_color in "${accents[@]}"; do
+        variant_color=( $variant_color )
+        accent_name=${variant_color[0]}
+
+        if [[ $accent_name == "default" ]]; then
+            theme_name="yaru"
+        else
+            theme_name="yaru_${accent_name}"
+        fi
+
+        cd "build/${accent_name}/svg"
+        zip -r "images_${theme_name}_svg.zip" *
+
+        cd "../png"
+        zip -r "images_${theme_name}.zip" *
+
+        cd "../../.."
+
+        mv "build/${accent_name}/png/images_${theme_name}.zip" "dist/images_${theme_name}.zip"
+        mv "build/${accent_name}/svg/images_${theme_name}_svg.zip" "dist/images_${theme_name}_svg.zip"
+
+        cp -f "dist/images_${theme_name}.zip" "oxt/iconsets/images_${theme_name}.zip"
+        cp -f "dist/images_${theme_name}_svg.zip" "oxt/iconsets/images_${theme_name}_svg.zip"
+    done
 
     cd "oxt"
 
     echo -e "\n=> 🎁 Create oxt\n"
 
     zip -r "yaru-theme.zip" *
-
-    mv "yaru-theme.zip" "../dist/yaru-theme.oxt"
+    cd ..
+    mv "oxt/yaru-theme.zip" "dist/yaru-theme.oxt"
+    rm oxt/iconsets/*
 
     echo -e "\n=> 🎉 Oxt and zip generated!\n"
 }
@@ -250,7 +267,7 @@ then
         filenames+=($filename)
     done < <(find "./src/default" -name "*.svg" -print0)
 
-    parallel render_icon ::: "${filenames[@]}"
+    parallel render_icon ::: "${filenames[@]}" ::: "${accents[@]}"
 
     generate_links
 elif [[ $_watch = 1 ]];
@@ -258,27 +275,29 @@ then
     echo -e "=> 🔍 Lets watch file changes (abort with CTRL+C) ...\n"
 
     while true; do
-        filename=$(inotifywait -r -q --event close_write --format %w%f ./)
+        filename=$(inotifywait -r -q --event close_write --format %w%f ./src/)
 
-        if [[ $filename == *links.txt ]]; then
-            ./generate-links.sh
-        elif [[ $filename == ./src/default/* ]]; then
+        if [[ $filename == ./src/links.txt ]]; then
+            generate_links
+        elif [[ $filename == ./src/* ]]; then
             if [[ $filename == *.svg ]];
             then
-                filename=${filename#"./src/default"}
+                for variant_color in "${accents[@]}"; do
+                    variant_color=( $variant_color )
+                    accent_name=${variant_color[0]}
+
+                    if [[ $filename == ./src/${accent_name}/* ]]; then
+                        filename=${filename#"./src/${accent_name}"}
+                    fi
+                done
+
+                if [[ $filename == ./src/accented/* ]]; then
+                    filename=${filename#"./src/accented"}
+                fi
+
                 filename=${filename%".svg"}
 
-                render_icon $filename
-
-                echo
-            fi
-        elif [[ $filename == ./src/mate/* ]]; then
-            if [[ $filename == *.svg ]];
-            then
-                filename=${filename#"./src/mate"}
-                filename=${filename%".svg"}
-
-                render_icon $filename
+                parallel render_icon ::: "${filename}" ::: "${accents[@]}"
 
                 echo
             fi
@@ -291,7 +310,7 @@ elif [[ $_oxt = 1 ]];
 then
     generate_oxt
 elif [[ ! -z "$_file" ]]; then
-    render_icon $_file
+    parallel render_icon ::: "${_file}" ::: "${accents[@]}"
 else
     echo -e "❌ Error, please provide a valid option\n"
 fi

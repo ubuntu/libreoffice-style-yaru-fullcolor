@@ -52,7 +52,7 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop2" />
     <stop
        offset="1"
@@ -95,7 +95,7 @@
      id="f">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop11" />
     <stop
        offset="1"
@@ -136,40 +136,40 @@
      fill="url(#b)"
      r="4.5"
      id="circle24"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <circle
      cx="31"
      cy="35.999981"
      fill="url(#c)"
      r="6"
      id="circle26"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <circle
      cx="49"
      cy="11.999983"
      fill="url(#d)"
      r="3"
      id="circle28"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <circle
      cx="13.5"
      cy="34.499981"
      fill="url(#e)"
      r="4.5"
      id="circle30"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <circle
      cx="29.5"
      cy="13.499983"
      fill="url(#g)"
      r="4.5"
      id="circle32"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <circle
      cx="49"
      cy="23.999983"
      fill="url(#h)"
      r="6"
      id="circle34"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
 </svg>

@@ -52,7 +52,7 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop2" />
     <stop
        offset="1"
@@ -63,7 +63,7 @@
      id="b">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop7" />
     <stop
        offset="1"
@@ -125,17 +125,17 @@
      d="m 21,3 -10,40 c -0.535795,2.14318 4.253295,4 9.5,4 5.246705,0 9.5,-1.790861 9.5,-4 z"
      fill="url(#c)"
      id="path24"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 43,3 -10,40 c -0.535795,2.1432 4.253295,4 9.5,4 5.246705,0 9.5,-1.7909 9.5,-4 z"
      fill="url(#e)"
      id="path26"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 43,3 -6.75,27 h -0.002 a 6.4119763,3 0 0 0 6.412109,3 6.4119763,3 0 0 0 6.41211,-3 h 0.002 z"
      fill="url(#d)"
      id="path28"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <g
      fill="#ffffff"
      transform="translate(-37.520538,-974.862)"
@@ -155,5 +155,5 @@
      d="m 21,3 -8.5,34 h 0.0039 a 8.0947018,3 0 0 0 -0.0098,0.07422 8.0947018,3 0 0 0 8.095703,3 8.0947018,3 0 0 0 8.09375,-3 8.0947018,3 0 0 0 -0.0059,-0.07422 h -0.02734 z"
      fill="url(#f)"
      id="path38"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
 </svg>

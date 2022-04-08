@@ -52,7 +52,7 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#e95420"
+       stop-color="#00ffff"
        id="stop2" />
     <stop
        offset="1"
@@ -63,7 +63,7 @@
      id="b">
     <stop
        offset="0"
-       stop-color="#77216F"
+       stop-color="#00ff00"
        id="stop7" />
     <stop
        offset="1"
@@ -129,12 +129,12 @@
      d="m 7,28 a 4,7.5 0 0 0 -4,7.5 4,7.5 0 0 0 4,7.5 h 28 v -15 z"
      fill="url(#c)"
      id="path26"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 27,28 c -2.209139,0 -4,3.3579 -4,7.5 0,4.1421 1.790861,7.5 4,7.5 h 22 v -15 z"
      fill="url(#d)"
      id="path28"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="35.499981"
      cy="-49"
@@ -148,12 +148,12 @@
      d="m 7,8 a 4,7.5 0 0 0 -4,7.5 4,7.5 0 0 0 4,7.5 h 28 v -15 z"
      fill="url(#f)"
      id="path32"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ffff;fill-opacity:1" />
   <path
      d="m 19,8 c -2.209139,0 -4,3.3579 -4,7.5 0,4.1421 1.790861,7.5 4,7.5 h 8 14 8 v -15 h -8 -14 z"
      fill="url(#e)"
      id="path34"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="15.499983"
      cy="-49"

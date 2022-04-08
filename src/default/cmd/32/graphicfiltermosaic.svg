@@ -1,1 +1,54 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="m9 3v5h5v-5zm10 5v5h5v-5zm-10 5.021484v4.978516h5v-4.978516zm10 4.978516v5h5v-5zm5 5v4.978516h5v-4.978516z" fill="#e95420"/><path d="m14 3v5h5v-5zm10 5v5h5v-5zm-20 5v5h5v-5zm20 5v5h5v-5zm-10 5v5h5v-5z" fill="#2ecc71"/><path d="m24 3v5h5v-5zm-10 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm-20 4.978516v5h5v-5zm5 5v5h5v-5zm10 .021484v4.978516h5v-4.978516z" fill="#fdbc4b"/><path d="m4 3v5h5v-5zm5 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm0 4.978516h-5v5h5zm-15 5v5h5v-5z" fill="#77216F"/><path d="m19 3v5h5v-5zm-15 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm0 4.978516h-5v5h5z" fill="#c7162b"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="graphicfiltermosaic.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="24.09375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="m9 3v5h5v-5zm10 5v5h5v-5zm-10 5.021484v4.978516h5v-4.978516zm10 4.978516v5h5v-5zm5 5v4.978516h5v-4.978516z"
+     fill="#00ffff"
+     id="path2"
+     style="fill:#77216f;fill-opacity:1" />
+  <path
+     d="m14 3v5h5v-5zm10 5v5h5v-5zm-20 5v5h5v-5zm20 5v5h5v-5zm-10 5v5h5v-5z"
+     fill="#2ecc71"
+     id="path4" />
+  <path
+     d="m24 3v5h5v-5zm-10 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm-20 4.978516v5h5v-5zm5 5v5h5v-5zm10 .021484v4.978516h5v-4.978516z"
+     fill="#fdbc4b"
+     id="path6" />
+  <path
+     d="m4 3v5h5v-5zm5 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm0 4.978516h-5v5h5zm-15 5v5h5v-5z"
+     fill="#00ff00"
+     id="path8"
+     style="fill:#e95420;fill-opacity:1" />
+  <path
+     d="m19 3v5h5v-5zm-15 5v5h5v-5zm10 5.021484v4.978516h5v-4.978516zm0 4.978516h-5v5h5z"
+     fill="#c7162b"
+     id="path10" />
+</svg>
