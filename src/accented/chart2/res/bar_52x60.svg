@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="52"
+   viewBox="0 0 60 52"
+   width="60"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="bar_52x60.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="16.923077"
+     inkscape:cx="29.988636"
+     inkscape:cy="26.029545"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34"
+     inkscape:pagecheckerboard="0" />
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#e95420"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#fe865c"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(0,-0.8888888,-1.5,0,1576.5433,44.6666)"
+     gradientUnits="userSpaceOnUse"
+     x1="16.499928"
+     x2="16.499928"
+     xlink:href="#a"
+     y1="1046.3622"
+     y2="1014.3622" />
+  <linearGradient
+     id="c"
+     gradientTransform="matrix(0,-0.88888889,-1.2,0,1262.6345,82)"
+     gradientUnits="userSpaceOnUse"
+     x1="49.5"
+     x2="49.5"
+     xlink:href="#d"
+     y1="1046.3621"
+     y2="1006.3621" />
+  <linearGradient
+     id="d">
+    <stop
+       offset="0"
+       stop-color="#77216f"
+       id="stop9" />
+    <stop
+       offset="1"
+       stop-color="#a25f9e"
+       id="stop11" />
+  </linearGradient>
+  <linearGradient
+     id="e"
+     gradientTransform="matrix(0,-0.88888889,-1.3333333,0,1402.1495,24.6667)"
+     gradientUnits="userSpaceOnUse"
+     x1="16.500038"
+     x2="16.500038"
+     xlink:href="#a"
+     y1="1046.3622"
+     y2="1010.3621" />
+  <linearGradient
+     id="f"
+     gradientTransform="matrix(0,-0.88888889,-1,0,1053.3621,62)"
+     gradientUnits="userSpaceOnUse"
+     x1="49.5"
+     x2="49.5"
+     xlink:href="#d"
+     y1="1046.3621"
+     y2="998.36212" />
+  <path
+     d="m 0,0 h 60 v 52 h -60 z"
+     fill="#ffffff"
+     id="path16" />
+  <path
+     d="m 34,34 v -8 h -27 v 8 z"
+     fill="url(#b)"
+     id="path18"
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 43,42 v -8 h -36 v 8 z"
+     fill="url(#c)"
+     id="path20"
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 31,14 v -8 h -24 v 8 z"
+     fill="url(#e)"
+     id="path22"
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 37,22 v -8 h -30 v 8 z"
+     fill="url(#f)"
+     id="path24"
+     style="fill:#00ff00;fill-opacity:1" />
+  <g
+     fill="#232629"
+     id="g30"
+     transform="translate(0,-1000.3622)">
+    <path
+       d="m 3,1045.3622 h 52 v 1 h -52 z"
+       id="path26" />
+    <path
+       d="m 6,1003.3622 h 1 v 46 h -1 z"
+       id="path28" />
+  </g>
+  <path
+     d="m 34,34 v -8 h -27 v 8 z"
+     fill="url(#b)"
+     id="path42"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <path
+     d="m 31,14 v -8 h -24 v 8 z"
+     fill="url(#e)"
+     id="path44"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+</svg>
