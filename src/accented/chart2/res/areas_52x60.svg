@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="52"
+   viewBox="0 0 60 52"
+   width="60"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="areas_52x60.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="14.891667"
+     inkscape:cx="39.451595"
+     inkscape:cy="28.4723"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26"
+     inkscape:pagecheckerboard="0" />
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(4.9999999,0,0,0.7,-218,-701.45344)"
+     gradientUnits="userSpaceOnUse"
+     x1="50"
+     x2="50"
+     y1="1066.3621"
+     y2="1006.3621">
+    <stop
+       offset="0"
+       stop-color="#77216f"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#a25f9e"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(5,0,0,1.1666666,-53,-1174.7558)"
+     gradientUnits="userSpaceOnUse"
+     x1="16"
+     x2="16"
+     y1="1046.3622"
+     y2="1009.505">
+    <stop
+       offset="0"
+       stop-color="#e95420"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#fe865c"
+       id="stop9" />
+  </linearGradient>
+  <path
+     d="m 0,0 h 60 v 52 h -60 z"
+     fill="#ffffff"
+     id="path12" />
+  <path
+     d="m 7,22 v 3 l 20,-6 25,12 v -9 l -24.875,-12 z"
+     fill="url(#a)"
+     id="path14"
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 7,25 20,-6 25,12 v 15 h -45 z"
+     fill="url(#b)"
+     id="path16"
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 7,25 20,-6 25,12 v 15 h -45 z"
+     fill="url(#b)"
+     id="path72"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+  <g
+     fill="#232629"
+     id="g22"
+     transform="translate(0,-1000.3622)">
+    <path
+       d="m 3,1045.3622 h 52 v 1 h -52 z"
+       id="path18" />
+    <path
+       d="m 6,1003.3622 h 1 v 46 h -1 z"
+       id="path20" />
+  </g>
+</svg>
