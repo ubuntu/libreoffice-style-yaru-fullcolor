@@ -195,8 +195,6 @@ function generate_links() {
         cp -f "./src/links.txt" "./build/${accent_name}/svg/links.txt"
         sed -i 's/.xxx/.svg/g' "./build/${accent_name}/svg/links.txt"
     done
-
-    echo -e "=> 🎉 Finish\n"
 }
 
 function generate_oxt() {
