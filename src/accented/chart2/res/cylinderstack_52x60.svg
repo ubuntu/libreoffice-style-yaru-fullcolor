@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="52"
    viewBox="0 0 60 52"
    width="60"
    version="1.1"
    id="svg38"
    sodipodi:docname="cylinderstack_52x60.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata44">
     <rdf:RDF>
@@ -37,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1852"
      inkscape:window-height="1016"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="16.923077"
-     inkscape:cx="30"
-     inkscape:cy="26"
+     inkscape:cx="30.018182"
+     inkscape:cy="26.029545"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
+     inkscape:current-layer="svg38"
+     inkscape:pagecheckerboard="0" />
   <linearGradient
      id="a">
     <stop
@@ -118,12 +119,12 @@
      d="m 32,31 v 11 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -11 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
      fill="url(#c)"
      id="path20"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 32,19 v 12 c 0,2.2091 4.253295,4 9.5,4 5.246705,0 9.5,-1.7909 9.5,-4 v -12 z"
      fill="url(#d)"
      id="path22"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="41.5"
      cy="18.999983"
@@ -131,7 +132,7 @@
      rx="9.5"
      ry="4"
      id="ellipse24"
-     style="fill:#b87ab2;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 12,40 -9,9"
      fill="none"
@@ -145,12 +146,12 @@
      d="m 10,21 v 6 9 6 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -6 -9 -6 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
      fill="url(#f)"
      id="path30"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 10,9 v 12 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -12 z"
      fill="url(#e)"
      id="path32"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="19.5"
      cy="8.9999828"
@@ -158,5 +159,31 @@
      rx="9.5"
      ry="4"
      id="ellipse34"
-     style="fill:#b87ab2;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 32,31 v 11 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -11 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
+     fill="url(#c)"
+     id="path859"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <path
+     d="m 10,21 v 6 9 6 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -6 -9 -6 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
+     fill="url(#f)"
+     id="path861"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <ellipse
+     cx="41.5"
+     cy="18.999983"
+     fill="#987197"
+     rx="9.5"
+     ry="4"
+     id="ellipse953"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+  <ellipse
+     cx="19.5"
+     cy="8.9999828"
+     fill="#987197"
+     rx="9.5"
+     ry="4"
+     id="ellipse955"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
 </svg>

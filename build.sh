@@ -77,33 +77,39 @@ done
 
 echo
 
+missing_deps=0
+
 if ! command -v cairosvg >/dev/null
 then
     echo  -e "=> 🙅 Please install cairosvg\n"
-    exit 1
+    missing_deps+=1
 fi
 
 if ! command -v optipng >/dev/null
 then
     echo  -e "=> 🙅 Please install optipng\n"
-    exit 1
+    missing_deps+=1
 fi
 
 if ! command -v svgo >/dev/null
 then
     echo  -e "=> 🙅 Please install svgo\n"
-    exit 1
+    missing_deps+=1
 fi
 
 if ! command -v inotifywait >/dev/null
 then
     echo  -e "=> 🙅 Please install inotify-tools\n"
-    exit 1
+    missing_deps+=1
 fi
 
 if ! command -v parallel >/dev/null
 then
     echo  -e "=> 🙅 Please install parallel\n"
+    missing_deps+=1
+fi
+
+if [[ ${missing_deps} > 0 ]]; then
     exit 1
 fi
 
@@ -201,6 +207,7 @@ function generate_oxt() {
     echo "=> 📦 Zip icons"
 
     mkdir -p -v "oxt/iconsets"
+    mkdir -p -v "dist"
 
     for variant_color in "${accents[@]}"; do
         variant_color=( $variant_color )

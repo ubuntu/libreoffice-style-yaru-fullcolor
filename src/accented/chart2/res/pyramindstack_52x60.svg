@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="52"
    viewBox="0 0 60 52"
    width="60"
    version="1.1"
    id="svg44"
    sodipodi:docname="pyramindstack_52x60.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata50">
     <rdf:RDF>
@@ -37,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1852"
      inkscape:window-height="1016"
      id="namedview46"
      showgrid="false"
      inkscape:zoom="16.923077"
-     inkscape:cx="25.885723"
-     inkscape:cy="32.164445"
+     inkscape:cx="25.881818"
+     inkscape:cy="32.175"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg44" />
+     inkscape:current-layer="svg44"
+     inkscape:pagecheckerboard="0" />
   <linearGradient
      id="a">
     <stop
@@ -115,44 +116,78 @@
      d="m 20,11 6,35 h -16 z"
      fill="url(#d)"
      id="path22"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 20,11 6,35 3,-3 z"
      fill="#945c93"
      id="path24"
-     style="fill-rule:evenodd;fill:#a6599f;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 43,21 7,25 3,-3 z"
      fill="#945c93"
      id="path26"
-     style="fill-rule:evenodd;fill:#a6599f;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 43,21 7,25 3,-3 z"
+     fill="#945c93"
+     id="path998"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.2" />
+  <path
+     d="m 20,11 6,35 3,-3 z"
+     fill="#945c93"
+     id="path996"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.2" />
   <g
      fill="#fe865c"
      id="g32"
-     style="fill-rule:evenodd;fill:#f08966;fill-opacity:1"
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1"
      transform="translate(0,-1000.3622)">
     <path
        d="m 49.375,1035.3896 -1.896484,1.9648 2.521484,9.0078 3,-3 z"
        id="path28"
-       style="fill:#f08966;fill-opacity:1" />
+       style="fill:#00ff00;fill-opacity:1" />
     <path
        d="m 25.332031,1030.3192 -1.908203,1.0176 2.576172,15.0254 3,-3 z"
        id="path30"
-       style="fill:#f08966;fill-opacity:1" />
+       style="fill:#00ff00;fill-opacity:1" />
   </g>
   <path
      d="m 14.285156,31 -4.285156,15 h 16 l -2.572266,-15 z"
      fill="url(#c)"
      id="path36"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 43,21 7,25 h -16 z"
      fill="#77216f"
      id="path38"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 37.240234,37 -3.240234,9 h 16 l -2.519531,-9 z"
      fill="url(#b)"
      id="path40"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 14.285156,31 -4.285156,15 h 16 l -2.572266,-15 z"
+     fill="url(#c)"
+     id="path860"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <path
+     d="m 37.240234,37 -3.240234,9 h 16 l -2.519531,-9 z"
+     fill="url(#b)"
+     id="path862"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <g
+     fill="#fe865c"
+     id="g940"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.5"
+     transform="translate(0,-1000.3622)">
+    <path
+       d="m 49.375,1035.3896 -1.896484,1.9648 2.521484,9.0078 3,-3 z"
+       id="path936"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="m 25.332031,1030.3192 -1.908203,1.0176 2.576172,15.0254 3,-3 z"
+       id="path938"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
 </svg>
