@@ -27,6 +27,27 @@ then
 fi
 
 ###################################################
+# POPULATE ACCENT COLORS
+###################################################
+
+accents=( "default" )
+
+while read line; do
+    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
+    then
+        continue
+    fi
+
+    IFS=' '
+    read -ra splitedline <<< "$line"
+    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
+        echo "Error line $n: Malformed line '$line'"
+    else
+        accents+=( ${splitedline[0]} )
+    fi
+done < "src/accents.txt"
+
+###################################################
 # FUNCTIONS
 ###################################################
 
@@ -107,12 +128,12 @@ if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
-    resources=(
-        "build/default/svg"
-        "build/default/png"
-        "build/mate/svg"
-        "build/mate/png"
-    )
+    for accent in "${accents[@]}"; do
+        resources=(
+            "build/${accent}/svg"
+            "build/${accent}/png"
+        )
+    done
 
     echo -e "=> ⏳ Checking links.txt built files - please wait"
 

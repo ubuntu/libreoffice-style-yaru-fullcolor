@@ -54,41 +54,73 @@ done
 # CLInt GENERATED_CODE: end
 
 ###################################################
+# POPULATE ACCENT COLORS
+###################################################
+
+accents=( "default" )
+
+while read line; do
+    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
+    then
+        continue
+    fi
+
+    IFS=' '
+    read -ra splitedline <<< "$line"
+    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
+        echo "Error line $n: Malformed line '$line'"
+    else
+        accents+=( ${splitedline[0]} )
+    fi
+done < "src/accents.txt"
+
+###################################################
 # FUNCTIONS
 ###################################################
 
 function uninstall() {
 	for dir in \
-		/usr/share/libreoffice/share/config \
-		/usr/lib/libreoffice/share/config \
-		/usr/lib64/libreoffice/share/config \
-		/usr/local/lib/libreoffice/share/config \
-		/opt/libreoffice*/share/config; do
-		[ -d "$dir" ] || continue
-		sudo rm -f -v "$dir/images_yaru.zip"
-		sudo rm -f -v "$dir/images_yaru_svg.zip"
-		sudo rm -f -v "$dir/images_yaru_mate.zip"
-		sudo rm -f -v "$dir/images_yaru_mate_svg.zip"
+	  /usr/share/libreoffice/share/config \
+	  /usr/lib/libreoffice/share/config \
+	  /usr/lib64/libreoffice/share/config \
+	  /usr/local/lib/libreoffice/share/config \
+	  /opt/libreoffice*/share/config; do
+	  	[ -d "$dir" ] || continue
+		for accent in "${accents[@]}"; do
+			if [[ $accent == "default" ]]; then
+				theme_name="yaru"
+			else
+				theme_name="yaru_${accent}"
+			fi
+
+			sudo rm -f -v "$dir/images_${theme_name}.zip"
+			sudo rm -f -v "$dir/images_${theme_name}_svg.zip"
+		done
 	done
 }
 
 function install() {
 	sudo mkdir -p -v "/usr/share/libreoffice/share/config"
-	sudo cp -v "dist/images_yaru.zip" "/usr/share/libreoffice/share/config/images_yaru.zip"
-	sudo cp -v "dist/images_yaru_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_svg.zip"
-	sudo cp -v "dist/images_yaru_mate.zip" "/usr/share/libreoffice/share/config/images_yaru_mate.zip"
-	sudo cp -v "dist/images_yaru_mate_svg.zip" "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip"
 
-	for dir in \
+	for accent in "${accents[@]}"; do
+		if [[ $accent == "default" ]]; then
+			theme_name="yaru"
+		else
+			theme_name="yaru_${accent}"
+		fi
+
+		sudo cp -v "dist/images_${theme_name}.zip" "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
+		sudo cp -v "dist/images_${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
+
+		for dir in \
 		/usr/lib64/libreoffice/share/config \
 		/usr/lib/libreoffice/share/config \
 		/usr/local/lib/libreoffice/share/config \
 		/opt/libreoffice*/share/config; do
 			[ -d "$dir" ] || continue
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru.zip" "$dir"
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_svg.zip" "$dir"
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate.zip" "$dir"
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_yaru_mate_svg.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip" "$dir"
+		done
 	done
 }
 
