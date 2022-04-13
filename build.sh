@@ -211,8 +211,10 @@ function generate_oxt() {
     for variant_color in "${accents[@]}"; do
         variant_color=( $variant_color )
         accent_name=${variant_color[0]}
+        accent_color=${variant_color[1]}
 
         if [[ $accent_name == "default" ]]; then
+            accent_color="e95420"
             archive_filename="images_yaru"
             oxt_filename="yaru-theme"
             oxt_title="Yaru icon theme"
@@ -250,6 +252,12 @@ function generate_oxt() {
         sed -i "s|%title%|${oxt_title}|g" "description.xml"
         sed -i "s|%identifier%|${oxt_identifier}|g" "description.xml"
         sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/${oxt_filename}.update.xml|g" "description.xml"
+
+        # Accented logo
+        sed -i "s/0ff/${accent_color}/g" "logo.svg"
+        cairosvg "logo.svg" -o "logo.png" &>/dev/null
+        optipng -o7 "logo.png" &>/dev/null
+        rm "logo.svg"
 
         # Zip and create OXT
         zip -q -r "${oxt_filename}.oxt" * -x update.xml version.txt
