@@ -4,10 +4,10 @@
  xmlns:dep="http://openoffice.org/extensions/description/2006"
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <identifier value="org.iconset.Yaru"/>
+    <identifier value="%identifier%"/>
 	<version value="2022-04-09"/>
     <display-name>
-        <name lang="en-US">Yaru icon theme</name>
+        <name lang="en-US">%title%</name>
     </display-name>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
@@ -27,6 +27,6 @@
         </simple-license>
     </registration>
     <update-information>
-        <src xlink:href="https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/yaru-theme.update.xml" />
+        <src xlink:href="%update_path%" />
     </update-information>
 </description>

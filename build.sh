@@ -154,14 +154,14 @@ function render_icon() {
         echo -e "=> 🔨 Render '${1}'"
 
         cp -f "./src/default${1}.svg" "./build/default/svg${1}.svg"
-        svgo "./build/default/svg${1}.svg"  &>/dev/null
+        svgo "./build/default/svg${1}.svg" &>/dev/null
         # replace placeholder colors
         sed -i 's/0ff/e95420/g' "./build/default/svg${1}.svg"
         sed -i 's/0f0/77216f/g' "./build/default/svg${1}.svg"
 
         # Render PNG
-        cairosvg "./build/default/svg${1}.svg" -o "./build/default/png${1}.png"  &>/dev/null
-        optipng -o7 "./build/default/png${1}.png"  &>/dev/null
+        cairosvg "./build/default/svg${1}.svg" -o "./build/default/png${1}.png" &>/dev/null
+        optipng -o7 "./build/default/png${1}.png" &>/dev/null
     else
         # Build accented icons
 
@@ -176,13 +176,13 @@ function render_icon() {
             cp -f "./src/default${1}.svg" "./build/${accent_name}/svg${1}.svg"
         fi
 
-        svgo "./build/${accent_name}/svg${1}.svg"  &>/dev/null
+        svgo "./build/${accent_name}/svg${1}.svg" &>/dev/null
         # replace placeholder colors
         sed -i "s/0ff/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
         sed -i "s/0f0/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
 
         # Render PNG
-        cairosvg "./build/${accent_name}/svg${1}.svg" -o "./build/${accent_name}/png${1}.png"  &>/dev/null
+        cairosvg "./build/${accent_name}/svg${1}.svg" -o "./build/${accent_name}/png${1}.png" &>/dev/null
         optipng -o7 "./build/${accent_name}/png${1}.png" &>/dev/null
     fi
 }
@@ -204,46 +204,65 @@ function generate_links() {
 }
 
 function generate_oxt() {
-    mkdir -p -v "oxt/iconsets"
-    mkdir -p -v "dist"
+    rm -r "dist"
+    mkdir -p -v "dist" &>/dev/null
+    mkdir -p -v "oxt/iconsets" &>/dev/null
 
     for variant_color in "${accents[@]}"; do
         variant_color=( $variant_color )
         accent_name=${variant_color[0]}
 
         if [[ $accent_name == "default" ]]; then
-            theme_name="yaru"
+            archive_filename="images_yaru"
+            oxt_filename="yaru-theme"
+            oxt_title="Yaru icon theme"
+            oxt_identifier="org.iconset.Yaru"
         else
-            theme_name="yaru_${accent_name}"
+            archive_filename="images_yaru_${accent_name}"
+            oxt_filename="yaru-${accent_name}-theme"
+            oxt_title="Yaru icon theme (${accent_name} variant)"
+            oxt_identifier="org.iconset.Yaru-${accent_name}"
         fi
 
         echo "=> 📦 Zip ${accent_name} svg icons"
         cd "build/${accent_name}/svg"
-        zip -q -r "images_${theme_name}_svg.zip" *
+        zip -q -r "${archive_filename}_svg.zip" *
 
         echo "=> 📦 Zip ${accent_name} png icons"
         cd "../png"
-        zip -q -r "images_${theme_name}.zip" *
+        zip -q -r "${archive_filename}.zip" *
 
         cd "../../.."
 
-        mv "build/${accent_name}/png/images_${theme_name}.zip" "dist/images_${theme_name}.zip"
-        mv "build/${accent_name}/svg/images_${theme_name}_svg.zip" "dist/images_${theme_name}_svg.zip"
+        mv "build/${accent_name}/png/${archive_filename}.zip" "dist/${archive_filename}.zip"
+        mv "build/${accent_name}/svg/${archive_filename}_svg.zip" "dist/${archive_filename}_svg.zip"
 
-        cp -f "dist/images_${theme_name}.zip" "oxt/iconsets/images_${theme_name}.zip"
-        cp -f "dist/images_${theme_name}_svg.zip" "oxt/iconsets/images_${theme_name}_svg.zip"
+        echo "=> 🎁 Build ${accent_name} OXT"
+
+        #Create temp files
+        cp -r "oxt/" "dist/"
+        cd "dist"
+        cp -f "${archive_filename}.zip" "oxt/iconsets/${archive_filename}.zip"
+        cp -f "${archive_filename}_svg.zip" "oxt/iconsets/${archive_filename}_svg.zip"
+
+        # Update metadata
+        cd "oxt"
+        sed -i "s|%title%|${oxt_title}|g" "description.xml"
+        sed -i "s|%identifier%|${oxt_identifier}|g" "description.xml"
+        sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/yaru-${accent_name}-theme.update.xml|g" "description.xml"
+
+        # Zip and create OXT
+        zip -q -r "${oxt_filename}.oxt" * -x update.xml version.txt
+        sed -i "s|%title%|${oxt_title}|g" "description.xml"
+        cd ..
+        mv "oxt/${oxt_filename}.oxt" "./"
+        rm -r "oxt"
+        cd ..
+
+        echo
     done
 
-    cd "oxt"
-
-    echo -e "\n=> 🎁 Create oxt"
-
-    zip -q -r "yaru-theme.zip" *
-    cd ..
-    mv "oxt/yaru-theme.zip" "dist/yaru-theme.oxt"
-    rm oxt/iconsets/*
-
-    echo -e "\n=> 🎉 Oxt and zip generated!\n"
+    echo -e "=> 🎉 Oxt and zip generated!\n"
 }
 
 ###################################################
