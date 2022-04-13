@@ -6,12 +6,14 @@
  xmlns:xlink="http://www.w3.org/1999/xlink">
     <identifier value="org.iconset.Yaru"/>
 	<version value="2022-04-09"/>
-    <display-name name="Fullcolor Yaru icon theme"/>
+    <display-name>
+        <name lang="en-US">Yaru icon theme</name>
+    </display-name>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">https://github.com/ubuntu/libreoffice-style-yaru-fullcolor</name>
+	    <name xlink:href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Github repository</name>
     </publisher>
     <icon>
         <default xlink:href="logo.png"/>
