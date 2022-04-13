@@ -249,7 +249,7 @@ function generate_oxt() {
         cd "oxt"
         sed -i "s|%title%|${oxt_title}|g" "description.xml"
         sed -i "s|%identifier%|${oxt_identifier}|g" "description.xml"
-        sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/yaru-${accent_name}-theme.update.xml|g" "description.xml"
+        sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/${oxt_filename}.update.xml|g" "description.xml"
 
         # Zip and create OXT
         zip -q -r "${oxt_filename}.oxt" * -x update.xml version.txt
