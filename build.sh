@@ -204,8 +204,6 @@ function generate_links() {
 }
 
 function generate_oxt() {
-    echo "=> 📦 Zip icons"
-
     mkdir -p -v "oxt/iconsets"
     mkdir -p -v "dist"
 
@@ -219,11 +217,13 @@ function generate_oxt() {
             theme_name="yaru_${accent_name}"
         fi
 
+        echo "=> 📦 Zip ${accent_name} svg icons"
         cd "build/${accent_name}/svg"
-        zip -r "images_${theme_name}_svg.zip" *
+        zip -q -r "images_${theme_name}_svg.zip" *
 
+        echo "=> 📦 Zip ${accent_name} png icons"
         cd "../png"
-        zip -r "images_${theme_name}.zip" *
+        zip -q -r "images_${theme_name}.zip" *
 
         cd "../../.."
 
@@ -236,9 +236,9 @@ function generate_oxt() {
 
     cd "oxt"
 
-    echo -e "\n=> 🎁 Create oxt\n"
+    echo -e "\n=> 🎁 Create oxt"
 
-    zip -r "yaru-theme.zip" *
+    zip -q -r "yaru-theme.zip" *
     cd ..
     mv "oxt/yaru-theme.zip" "dist/yaru-theme.oxt"
     rm oxt/iconsets/*
