@@ -138,6 +138,10 @@ then
 else
 	./build.sh --oxt
 
+	if [[ $? -ne 0 ]]; then
+	    exit 1
+	fi
+
 	echo -e "\n=> 🔥 Removing old install\n"
 
 	uninstall
