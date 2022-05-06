@@ -23,13 +23,15 @@
 ##      -a, --all            Delete the "/build" folder and recreate it entirely from "/src" [default: 0]
 ##      -w, --watch          Watch file changes [default: 0]
 ##      -l, --links          Generate "links.txt" files [default: 0]
-##      -e, --oxt            Generate OXT extension archive [default: 0]
+##      -z, --zip            Generate ZIP archives [default: 0]
+##      -e, --oxt            Generate OXT extension archives [default: 0]
 
 # CLInt GENERATED_CODE: start
 # Default values
 _all=0
 _watch=0
 _links=0
+_zip=0
 _oxt=0
 
 # No-arguments is not allowed
@@ -43,6 +45,7 @@ for arg in "$@"; do
 "--all") set -- "$@" "-a";;
 "--watch") set -- "$@" "-w";;
 "--links") set -- "$@" "-l";;
+"--zip") set -- "$@" "-z";;
 "--oxt") set -- "$@" "-e";;
   *) set -- "$@" "$arg"
   esac
@@ -53,13 +56,14 @@ function print_illegal() {
 }
 
 # Parsing flags and arguments
-while getopts 'hawlef:' OPT; do
+while getopts 'hawlzef:' OPT; do
     case $OPT in
         h) sed -ne 's/^## \(.*\)/\1/p' $0
            exit 1 ;;
         a) _all=1 ;;
         w) _watch=1 ;;
         l) _links=1 ;;
+        z) _zip=1 ;;
         e) _oxt=1 ;;
         f) _file=$OPTARG ;;
         \?) print_illegal $@ >&2;
@@ -70,48 +74,6 @@ while getopts 'hawlef:' OPT; do
     esac
 done
 # CLInt GENERATED_CODE: end
-
-###################################################
-# CHECKS
-###################################################
-
-echo
-
-missing_deps=0
-
-if ! command -v cairosvg >/dev/null
-then
-    echo  -e "=> 🙅 Please install cairosvg\n"
-    missing_deps+=1
-fi
-
-if ! command -v optipng >/dev/null
-then
-    echo  -e "=> 🙅 Please install optipng\n"
-    missing_deps+=1
-fi
-
-if ! command -v svgo >/dev/null
-then
-    echo  -e "=> 🙅 Please install svgo\n"
-    missing_deps+=1
-fi
-
-if ! command -v inotifywait >/dev/null
-then
-    echo  -e "=> 🙅 Please install inotify-tools\n"
-    missing_deps+=1
-fi
-
-if ! command -v parallel >/dev/null
-then
-    echo  -e "=> 🙅 Please install parallel\n"
-    missing_deps+=1
-fi
-
-if [[ ${missing_deps} > 0 ]]; then
-    exit 1
-fi
 
 ###################################################
 # POPULATE ACCENT COLORS
@@ -138,7 +100,59 @@ done < "src/accents.txt"
 # FUNCTIONS
 ###################################################
 
+function check_deps() {
+    missing_deps=False
+    params=( "$@" )
+
+    if [[ " ${params[*]} " =~ "cairosvg" ]]; then
+        if ! command -v cairosvg >/dev/null
+        then
+            echo  -e "=> 🙅 Please install cairosvg"
+            missing_deps=True
+        fi
+    fi
+
+    if [[ " ${params[*]} " =~ "optipng" ]]; then
+        if ! command -v optipng >/dev/null
+        then
+            echo  -e "=> 🙅 Please install optipng"
+            missing_deps=True
+        fi
+    fi
+
+    if [[ " ${params[*]} " =~ "svgo" ]]; then
+        if ! command -v svgo >/dev/null
+        then
+            echo  -e "=> 🙅 Please install svgo"
+            missing_deps=True
+        fi
+    fi
+
+    if [[ " ${params[*]} " =~ "inotifywait" ]]; then
+        if ! command -v inotifywait >/dev/null
+        then
+            echo  -e "=> 🙅 Please install inotify-tools"
+            missing_deps=True
+        fi
+    fi
+
+    if [[ " ${params[*]} " =~ "parallel" ]]; then
+        if ! command -v parallel >/dev/null
+        then
+            echo  -e "=> 🙅 Please install parallel"
+            missing_deps=True
+        fi
+    fi
+
+    if [[ $missing_deps == True ]]; then
+        echo
+        exit 1
+    fi
+}
+
 function render_icon() {
+    check_deps "cairosvg" "svgo" "optipng"
+
     variant_color=( $2 )
     accent_name=${variant_color[0]}
     accent_color=${variant_color[1]}
@@ -203,9 +217,42 @@ function generate_links() {
     done
 }
 
-function generate_oxt() {
+function generate_zip() {
     rm -r "dist"
     mkdir -p -v "dist" &>/dev/null
+
+    for variant_color in "${accents[@]}"; do
+        variant_color=( $variant_color )
+        accent_name=${variant_color[0]}
+
+        if [[ $accent_name == "default" ]]; then
+            archive_filename="images_yaru"
+        else
+            archive_filename="images_yaru_${accent_name}"
+        fi
+
+        echo "=> 📦 Zip ${accent_name} svg icons"
+        cd "build/${accent_name}/svg"
+        zip -q -r "${archive_filename}_svg.zip" *
+
+        echo "=> 📦 Zip ${accent_name} png icons"
+        cd "../png"
+        zip -q -r "${archive_filename}.zip" *
+
+        cd "../../.."
+
+        mv "build/${accent_name}/png/${archive_filename}.zip" "dist/${archive_filename}.zip"
+        mv "build/${accent_name}/svg/${archive_filename}_svg.zip" "dist/${archive_filename}_svg.zip"
+    done
+
+    echo -e "\n=> 🎉 ZIP generated!\n"
+}
+
+function generate_oxt() {
+    check_deps "cairosvg" "optipng"
+
+    generate_zip
+
     mkdir -p -v "oxt/iconsets" &>/dev/null
 
     for variant_color in "${accents[@]}"; do
@@ -225,19 +272,6 @@ function generate_oxt() {
             oxt_title="Yaru icon theme (${accent_name} variant)"
             oxt_identifier="org.iconset.Yaru-${accent_name}"
         fi
-
-        echo "=> 📦 Zip ${accent_name} svg icons"
-        cd "build/${accent_name}/svg"
-        zip -q -r "${archive_filename}_svg.zip" *
-
-        echo "=> 📦 Zip ${accent_name} png icons"
-        cd "../png"
-        zip -q -r "${archive_filename}.zip" *
-
-        cd "../../.."
-
-        mv "build/${accent_name}/png/${archive_filename}.zip" "dist/${archive_filename}.zip"
-        mv "build/${accent_name}/svg/${archive_filename}_svg.zip" "dist/${archive_filename}_svg.zip"
 
         echo "=> 🎁 Build ${accent_name} OXT"
 
@@ -266,11 +300,9 @@ function generate_oxt() {
         mv "oxt/${oxt_filename}.oxt" "./"
         rm -r "oxt"
         cd ..
-
-        echo
     done
 
-    echo -e "=> 🎉 Oxt and zip generated!\n"
+    echo -e "\n=> 🎉 OXT generated!\n"
 }
 
 ###################################################
@@ -279,6 +311,8 @@ function generate_oxt() {
 
 if [[ $_all = 1 ]];
 then
+    check_deps "parallel"
+
     echo -e "=> 🔥 Warning this will delete the /build folder and recreate it entirely from /src (will take a while)\n"
     read -p "=> Continue? (yes/no) " continue
 
@@ -306,6 +340,8 @@ then
     generate_links
 elif [[ $_watch = 1 ]];
 then
+    check_deps "parallel" "inotifywait"
+
     echo -e "=> 🔍 Lets watch file changes (abort with CTRL+C) ...\n"
 
     while true; do
@@ -340,11 +376,17 @@ then
 elif [[ $_links = 1 ]];
 then
     generate_links
+elif [[ $_zip = 1 ]];
+then
+    generate_zip
 elif [[ $_oxt = 1 ]];
 then
     generate_oxt
 elif [[ ! -z "$_file" ]]; then
+    check_deps "parallel"
+
     parallel render_icon ::: "${_file}" ::: "${accents[@]}"
 else
     echo -e "❌ Error, please provide a valid option\n"
+    exit 1
 fi
