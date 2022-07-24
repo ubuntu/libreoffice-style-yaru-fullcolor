@@ -439,7 +439,6 @@ cmd/32/objectmenu.xxx cmd/32/insertobject.xxx
 cmd/32/objectmirrorhorizontal.xxx cmd/32/mirror.xxx
 cmd/32/objectmirrorvertical.xxx cmd/32/mirrorvert.xxx
 cmd/32/objects3dtoolbox.xxx cmd/32/cube.xxx
-cmd/32/objecttitledescription.xxx cmd/32/insertcaptiondialog.xxx
 cmd/32/open_h.xxx cmd/32/open.xxx
 cmd/32/openfromcalc.xxx cmd/32/open.xxx
 cmd/32/openfromwriter.xxx cmd/32/open.xxx
@@ -1127,7 +1126,6 @@ cmd/lc_objectmenu.xxx cmd/lc_insertobject.xxx
 cmd/lc_objectmirrorhorizontal.xxx cmd/lc_mirror.xxx
 cmd/lc_objectmirrorvertical.xxx cmd/lc_mirrorvert.xxx
 cmd/lc_objects3dtoolbox.xxx cmd/lc_cube.xxx
-cmd/lc_objecttitledescription.xxx cmd/lc_insertcaptiondialog.xxx
 cmd/lc_open_h.xxx cmd/lc_open.xxx
 cmd/lc_openfromcalc.xxx cmd/lc_open.xxx
 cmd/lc_openfromwriter.xxx cmd/lc_open.xxx
@@ -1678,7 +1676,6 @@ cmd/sc_objectmenu.xxx cmd/sc_insertobject.xxx
 cmd/sc_objectmirrorhorizontal.xxx cmd/sc_mirror.xxx
 cmd/sc_objectmirrorvertical.xxx cmd/sc_mirrorvert.xxx
 cmd/sc_objects3dtoolbox.xxx cmd/sc_cube.xxx
-cmd/sc_objecttitledescription.xxx cmd/sc_insertcaptiondialog.xxx
 cmd/sc_open_h.xxx cmd/sc_open.xxx
 cmd/sc_openfromcalc.xxx cmd/sc_open.xxx
 cmd/sc_openfromwriter.xxx cmd/sc_open.xxx
