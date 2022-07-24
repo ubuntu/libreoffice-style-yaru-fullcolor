@@ -149,6 +149,7 @@ function check_deps() {
         exit 1
     fi
 }
+export -f check_deps
 
 function render_icon() {
     check_deps "cairosvg" "svgo" "optipng"
