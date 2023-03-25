@@ -2271,6 +2271,8 @@ svx/res/cd08.png cmd/sc_polygon.png
 svx/res/color.png cmd/sc_bmpmask.png
 svx/res/colordlg.png cmd/sc_graphicfiltersmooth.png
 svx/res/convrt3d.png cmd/sc_convertinto3d.png
+svx/res/doc_modified_no.png cmd/sc_save.png
+svx/res/doc_modified_yes.png res/savemodified_small.png
 svx/res/dsth_cen.png cmd/sc_distributehorzcenter.png
 svx/res/dsth_dst.png cmd/sc_distributehorzdistance.png
 svx/res/dsth_hig.png cmd/sc_distributehorzright.png
