@@ -111,6 +111,8 @@ function install() {
 
 		sudo cp -v "dist/images_${theme_name}.zip" "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
 		sudo cp -v "dist/images_${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
 
 		for dir in \
 		/usr/lib64/libreoffice/share/config \
