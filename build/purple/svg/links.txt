@@ -2205,6 +2205,7 @@ sfx2/res/symphony/sidebar-colors-large.svg cmd/lc_bmpmask.svg
 sfx2/res/symphony/sidebar-colors-small.svg cmd/sc_bmpmask.svg
 sfx2/res/symphony/sidebar-eyedropper-large.svg cmd/lc_bmpmask.svg
 sfx2/res/symphony/sidebar-eyedropper-small.svg cmd/sc_bmpmask.svg
+sfx2/res/symphony/sidebar-elements-large.svg cmd/lc_insertmath.svg
 sfx2/res/symphony/sidebar-functions-large.svg cmd/lc_toggleformula.svg
 sfx2/res/symphony/sidebar-functions-small.svg cmd/sc_toggleformula.svg
 sfx2/res/symphony/sidebar-gallery-large.svg cmd/lc_gallery.svg
@@ -2271,6 +2272,8 @@ svx/res/cd08.svg cmd/sc_polygon.svg
 svx/res/color.svg cmd/sc_bmpmask.svg
 svx/res/colordlg.svg cmd/sc_graphicfiltersmooth.svg
 svx/res/convrt3d.svg cmd/sc_convertinto3d.svg
+svx/res/doc_modified_no.svg cmd/sc_save.svg
+svx/res/doc_modified_yes.svg res/savemodified_small.svg
 svx/res/dsth_cen.svg cmd/sc_distributehorzcenter.svg
 svx/res/dsth_dst.svg cmd/sc_distributehorzdistance.svg
 svx/res/dsth_hig.svg cmd/sc_distributehorzright.svg
