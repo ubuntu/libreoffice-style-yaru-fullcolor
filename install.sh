@@ -138,7 +138,7 @@ then
 
 	echo -e "\n=> 🎉 Finish\n"
 else
-	./build.sh --oxt
+	./build.sh --zip
 
 	if [[ $? -ne 0 ]]; then
 	    exit 1
