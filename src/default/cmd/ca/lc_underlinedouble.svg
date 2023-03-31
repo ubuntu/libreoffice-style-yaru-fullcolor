@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_underlinedouble.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/ca/lc_underlinedouble.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,29 +67,29 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="7.4707621"
-     inkscape:cy="11.837121"
-     inkscape:window-x="1920"
+     inkscape:cx="7.4999999"
+     inkscape:cy="11.847457"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#808080">
     <inkscape:grid
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
-  <text
+  <g
+     aria-label="S"
      transform="scale(1.0174755,0.98282464)"
      id="text832"
-     y="17.986551"
-     x="5.4937387"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.2px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;"
-       y="17.986551"
-       x="5.4937387"
-       id="tspan830"
-       sodipodi:role="line">S</tspan></text>
+     style="font-weight:bold;font-size:25.2px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';letter-spacing:0px;word-spacing:0px;opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round">
+    <path
+       d="m 11.340139,15.718551 q 0.7812,0 1.2852,-0.1512 0.5292,-0.1764 0.8316,-0.4536 0.3024,-0.3024 0.4032,-0.6552 0.126,-0.378 0.126,-0.756 0,-0.4788 -0.2772,-0.8568 -0.2772,-0.378 -0.7056,-0.6552 -0.4284,-0.3024 -0.9576,-0.5292 -0.5292,-0.252 -1.0584,-0.4536 -0.7056,-0.252 -1.4616002,-0.5796 -0.756,-0.3276 -1.3860001,-0.8316 -0.6048,-0.504 -1.008,-1.2348 -0.4032,-0.756 -0.4032,-1.8648001 0,-2.1924 1.4112,-3.4272001 1.4364001,-1.2348 3.9312003,-1.2348 1.4364,0 2.4948,0.3276 1.0836,0.3276 1.8144,0.7308 l -0.9072,2.3940001 q -0.63,-0.3528 -1.4112,-0.6048 -0.756,-0.252 -1.764,-0.252 -2.4696002,0 -2.4696002,1.7892 0,0.4536 0.2520002,0.8064001 0.252,0.3276 0.63,0.6048 0.4032,0.252 0.882,0.4536 0.504,0.2016 0.9828,0.378 0.7308,0.2772 1.512,0.63 0.8064,0.3276 1.4616,0.9072 0.6804,0.5544 1.1088,1.4112 0.4284,0.8316 0.4284,2.1168 0,2.1924 -1.4364,3.402 -1.4112,1.1844 -4.3092,1.1844 -1.9404002,0 -3.0996003,-0.4032 -1.1592,-0.4284 -1.7388,-0.7812 l 0.9072,-2.52 q 0.6804,0.4032 1.6128001,0.756 0.9576,0.3528 2.3184002,0.3528 z"
+       id="path305" />
+  </g>
   <path
      style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 4 20 L 4 21 L 20 21 L 20 20 L 4 20 z M 4 22 L 4 23 L 20 23 L 20 22 L 4 22 z "
