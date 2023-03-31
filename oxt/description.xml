@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<description
- xmlns="http://openoffice.org/extensions/description/2006"
- xmlns:dep="http://openoffice.org/extensions/description/2006"
- xmlns:lo="http://libreoffice.org/extensions/description/2011"
- xmlns:xlink="http://www.w3.org/1999/xlink">
+<description xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:dep="http://openoffice.org/extensions/description/2006"
+    xmlns:lo="http://libreoffice.org/extensions/description/2011"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
     <identifier value="%identifier%"/>
-	<version value="2022-09-04"/>
+    <version value="2023-03-31"/>
     <display-name>
         <name lang="en-US">%title%</name>
     </display-name>
@@ -13,13 +12,13 @@
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Github repository</name>
+        <name xlink:href="https://github.com/ubuntu/libreoffice-style-yaru-fullcolor">Github repository</name>
     </publisher>
     <icon>
         <default xlink:href="logo.png"/>
     </icon>
     <extension-description>
-       <src xlink:href="pkg-desc/pkg-description.txt" />
+        <src xlink:href="pkg-desc/pkg-description.txt" />
     </extension-description>
     <registration>
         <simple-license accept-by="admin">
