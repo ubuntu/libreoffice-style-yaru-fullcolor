@@ -2426,10 +2426,6 @@ sw/res/nc20011.xxx cmd/sc_insertdraw.xxx
 sw/res/one_left.xxx cmd/sc_prevrecord.xxx
 sw/res/one_right.xxx cmd/sc_nextrecord.xxx
 sw/res/page_break.xxx cmd/lc_insertpagebreak.xxx
-sw/res/re01.xxx cmd/lc_unsetcellsreadonly.xxx
-sw/res/re02.xxx cmd/lc_unsetcellsreadonly.xxx
-sw/res/re03.xxx cmd/sc_protect.xxx
-sw/res/re04.xxx cmd/sc_protect.xxx
 sw/res/sc20171.xxx cmd/sc_downsearch.xxx
 sw/res/sc20172.xxx cmd/sc_prevrecord.xxx
 sw/res/sc20173.xxx cmd/sc_nextrecord.xxx
