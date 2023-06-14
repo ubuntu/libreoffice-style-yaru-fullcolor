@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="24"
    width="24"
    version="1.1"
    id="svg76"
    sodipodi:docname="lc_toolbarmode.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_menubar.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata82">
     <rdf:RDF>
@@ -41,17 +41,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview78"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="11.368565"
-     inkscape:cy="10.431974"
+     inkscape:cx="11.397602"
+     inkscape:cy="10.426829"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg76"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid892" />
@@ -182,7 +185,7 @@
   </linearGradient>
   <path
      id="rect859"
-     style="opacity:0.6;fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
+     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
      d="M 4,2 C 2.892,2 2,2.892 2,4 V 21 H 22 V 4 C 22,2.892 21.108,2 20,2 Z"
      sodipodi:nodetypes="ssccsss" />
   <rect
@@ -202,7 +205,7 @@
      d="m 18,4 h 1 v 1 h -1 z"
      id="path54"
      inkscape:connector-curvature="0"
-     style="fill:#00ffff;fill-opacity:1;stroke-width:2" />
+     style="fill:#232629;fill-opacity:1.0;stroke-width:2" />
   <path
      d="m 16,4 h 1 v 1 h -1 z"
      id="path855"
