@@ -58,7 +58,7 @@ cmd/32/basicshapes.circle.png cmd/32/circle.png
 cmd/32/basicshapes.ellipse.png cmd/32/ellipse.png
 cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.parallelogram.png cmd/32/flowchartshapes.flowchart-data.png
-cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
+cmd/32/basicshapes.png cmd/32/graphic.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
 cmd/32/basicshapes.rectangle.png cmd/32/rect.png
 cmd/32/basicshapes.round-rectangle.png cmd/32/rect_rounded.png
@@ -796,7 +796,7 @@ cmd/lc_basicshapes.circle.png cmd/lc_circle.png
 cmd/lc_basicshapes.ellipse.png cmd/lc_ellipse.png
 cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
-cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
+cmd/lc_basicshapes.png cmd/lc_graphic.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
 cmd/lc_basicshapes.rectangle.png cmd/lc_rect.png
 cmd/lc_basicshapes.round-rectangle.png cmd/lc_rect_rounded.png
@@ -1343,7 +1343,7 @@ cmd/sc_basicshapes.circle.png cmd/sc_circle.png
 cmd/sc_basicshapes.ellipse.png cmd/sc_ellipse.png
 cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
-cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
+cmd/sc_basicshapes.png cmd/sc_graphic.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
 cmd/sc_basicshapes.rectangle.png cmd/sc_rect.png
 cmd/sc_basicshapes.round-rectangle.png cmd/sc_rect_rounded.png
@@ -1941,7 +1941,7 @@ reportdesign/res/sc30769.png cmd/sc_downsearch.png
 reportdesign/res/sc30770.png cmd/sc_cancel.png
 reportdesign/res/sortdown.png cmd/sc_downsearch.png
 reportdesign/res/sortup.png cmd/sc_upsearch.png
-reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
+reportdesign/res/sx11047.png cmd/sc_graphic.png
 reportdesign/res/sx12452.png cmd/sc_config.png
 reportdesign/res/sx12453.png cmd/sc_config.png
 reportdesign/res/sx12454.png cmd/sc_alignright.png
@@ -2178,6 +2178,7 @@ sd/res/comments_indicator.png cmd/sc_shownote.png
 sd/res/get1obj.png cmd/sc_selectobject.png
 sd/res/getallob.png cmd/sc_selectall.png
 sd/res/group.png cmd/sc_group.png
+sd/res/graphic.png cmd/lc_graphic.png
 sd/res/nv010.png cmd/sc_inserthyperlink.png
 sd/res/nv02.png cmd/sc_freeline_unfilled.png
 sd/res/nv03.png cmd/sc_firstpage.png
