@@ -58,7 +58,7 @@ cmd/32/basicshapes.circle.xxx cmd/32/circle.xxx
 cmd/32/basicshapes.ellipse.xxx cmd/32/ellipse.xxx
 cmd/32/basicshapes.frame.xxx cmd/32/rect_unfilled.xxx
 cmd/32/basicshapes.parallelogram.xxx cmd/32/flowchartshapes.flowchart-data.xxx
-cmd/32/basicshapes.xxx cmd/32/basicshapes.diamond.xxx
+cmd/32/basicshapes.xxx cmd/32/graphic.xxx
 cmd/32/basicshapes.quadrat.xxx cmd/32/square.xxx
 cmd/32/basicshapes.rectangle.xxx cmd/32/rect.xxx
 cmd/32/basicshapes.round-rectangle.xxx cmd/32/rect_rounded.xxx
@@ -796,7 +796,7 @@ cmd/lc_basicshapes.circle.xxx cmd/lc_circle.xxx
 cmd/lc_basicshapes.ellipse.xxx cmd/lc_ellipse.xxx
 cmd/lc_basicshapes.frame.xxx cmd/lc_rect_unfilled.xxx
 cmd/lc_basicshapes.parallelogram.xxx cmd/lc_flowchartshapes.flowchart-data.xxx
-cmd/lc_basicshapes.xxx cmd/lc_basicshapes.diamond.xxx
+cmd/lc_basicshapes.xxx cmd/lc_graphic.xxx
 cmd/lc_basicshapes.quadrat.xxx cmd/lc_square.xxx
 cmd/lc_basicshapes.rectangle.xxx cmd/lc_rect.xxx
 cmd/lc_basicshapes.round-rectangle.xxx cmd/lc_rect_rounded.xxx
@@ -1343,7 +1343,7 @@ cmd/sc_basicshapes.circle.xxx cmd/sc_circle.xxx
 cmd/sc_basicshapes.ellipse.xxx cmd/sc_ellipse.xxx
 cmd/sc_basicshapes.frame.xxx cmd/sc_rect_unfilled.xxx
 cmd/sc_basicshapes.parallelogram.xxx cmd/sc_flowchartshapes.flowchart-data.xxx
-cmd/sc_basicshapes.xxx cmd/sc_basicshapes.diamond.xxx
+cmd/sc_basicshapes.xxx cmd/sc_graphic.xxx
 cmd/sc_basicshapes.quadrat.xxx cmd/sc_square.xxx
 cmd/sc_basicshapes.rectangle.xxx cmd/sc_rect.xxx
 cmd/sc_basicshapes.round-rectangle.xxx cmd/sc_rect_rounded.xxx
@@ -1941,7 +1941,7 @@ reportdesign/res/sc30769.xxx cmd/sc_downsearch.xxx
 reportdesign/res/sc30770.xxx cmd/sc_cancel.xxx
 reportdesign/res/sortdown.xxx cmd/sc_downsearch.xxx
 reportdesign/res/sortup.xxx cmd/sc_upsearch.xxx
-reportdesign/res/sx11047.xxx cmd/sc_basicshapes.diamond.xxx
+reportdesign/res/sx11047.xxx cmd/sc_graphic.xxx
 reportdesign/res/sx12452.xxx cmd/sc_config.xxx
 reportdesign/res/sx12453.xxx cmd/sc_config.xxx
 reportdesign/res/sx12454.xxx cmd/sc_alignright.xxx
@@ -2178,6 +2178,7 @@ sd/res/comments_indicator.xxx cmd/sc_shownote.xxx
 sd/res/get1obj.xxx cmd/sc_selectobject.xxx
 sd/res/getallob.xxx cmd/sc_selectall.xxx
 sd/res/group.xxx cmd/sc_group.xxx
+sd/res/graphic.xxx cmd/lc_graphic.xxx
 sd/res/nv010.xxx cmd/sc_inserthyperlink.xxx
 sd/res/nv02.xxx cmd/sc_freeline_unfilled.xxx
 sd/res/nv03.xxx cmd/sc_firstpage.xxx

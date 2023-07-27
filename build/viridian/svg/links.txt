@@ -58,7 +58,7 @@ cmd/32/basicshapes.circle.svg cmd/32/circle.svg
 cmd/32/basicshapes.ellipse.svg cmd/32/ellipse.svg
 cmd/32/basicshapes.frame.svg cmd/32/rect_unfilled.svg
 cmd/32/basicshapes.parallelogram.svg cmd/32/flowchartshapes.flowchart-data.svg
-cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
+cmd/32/basicshapes.svg cmd/32/graphic.svg
 cmd/32/basicshapes.quadrat.svg cmd/32/square.svg
 cmd/32/basicshapes.rectangle.svg cmd/32/rect.svg
 cmd/32/basicshapes.round-rectangle.svg cmd/32/rect_rounded.svg
@@ -796,7 +796,7 @@ cmd/lc_basicshapes.circle.svg cmd/lc_circle.svg
 cmd/lc_basicshapes.ellipse.svg cmd/lc_ellipse.svg
 cmd/lc_basicshapes.frame.svg cmd/lc_rect_unfilled.svg
 cmd/lc_basicshapes.parallelogram.svg cmd/lc_flowchartshapes.flowchart-data.svg
-cmd/lc_basicshapes.svg cmd/lc_basicshapes.diamond.svg
+cmd/lc_basicshapes.svg cmd/lc_graphic.svg
 cmd/lc_basicshapes.quadrat.svg cmd/lc_square.svg
 cmd/lc_basicshapes.rectangle.svg cmd/lc_rect.svg
 cmd/lc_basicshapes.round-rectangle.svg cmd/lc_rect_rounded.svg
@@ -1343,7 +1343,7 @@ cmd/sc_basicshapes.circle.svg cmd/sc_circle.svg
 cmd/sc_basicshapes.ellipse.svg cmd/sc_ellipse.svg
 cmd/sc_basicshapes.frame.svg cmd/sc_rect_unfilled.svg
 cmd/sc_basicshapes.parallelogram.svg cmd/sc_flowchartshapes.flowchart-data.svg
-cmd/sc_basicshapes.svg cmd/sc_basicshapes.diamond.svg
+cmd/sc_basicshapes.svg cmd/sc_graphic.svg
 cmd/sc_basicshapes.quadrat.svg cmd/sc_square.svg
 cmd/sc_basicshapes.rectangle.svg cmd/sc_rect.svg
 cmd/sc_basicshapes.round-rectangle.svg cmd/sc_rect_rounded.svg
@@ -1941,7 +1941,7 @@ reportdesign/res/sc30769.svg cmd/sc_downsearch.svg
 reportdesign/res/sc30770.svg cmd/sc_cancel.svg
 reportdesign/res/sortdown.svg cmd/sc_downsearch.svg
 reportdesign/res/sortup.svg cmd/sc_upsearch.svg
-reportdesign/res/sx11047.svg cmd/sc_basicshapes.diamond.svg
+reportdesign/res/sx11047.svg cmd/sc_graphic.svg
 reportdesign/res/sx12452.svg cmd/sc_config.svg
 reportdesign/res/sx12453.svg cmd/sc_config.svg
 reportdesign/res/sx12454.svg cmd/sc_alignright.svg
@@ -2178,6 +2178,7 @@ sd/res/comments_indicator.svg cmd/sc_shownote.svg
 sd/res/get1obj.svg cmd/sc_selectobject.svg
 sd/res/getallob.svg cmd/sc_selectall.svg
 sd/res/group.svg cmd/sc_group.svg
+sd/res/graphic.svg cmd/lc_graphic.svg
 sd/res/nv010.svg cmd/sc_inserthyperlink.svg
 sd/res/nv02.svg cmd/sc_freeline_unfilled.svg
 sd/res/nv03.svg cmd/sc_firstpage.svg
