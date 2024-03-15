@@ -60,6 +60,7 @@ If you want to remove an installation made with the script just execute the remo
 
 ```bash
 ./install.sh -u
+
 ```
 
 ## Copying or Reusing
@@ -69,3 +70,4 @@ This project has mixed licencing. You are free to copy, redistribute and/or modi
 All images (any and all source `.svg` files or rendered `.png` files) are licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Included scripts are free software licensed under the terms of the [GNU Lesser General Public License, version 3](https://www.gnu.org/licenses/lgpl-3.0.txt).
+

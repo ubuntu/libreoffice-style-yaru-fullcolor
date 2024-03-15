@@ -154,3 +154,6 @@ else
 
 	echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
 fi
+
+
+
