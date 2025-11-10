@@ -163,6 +163,7 @@ function render_icon() {
     mkdir -p $(dirname ./build/${accent_name}/png${1}.png)
     mkdir -p $(dirname ./build/${accent_name}/svg${1}.svg)
 
+    # Default is special because it uses two accent colors
     if [[ $accent_name == "default" ]]; then
         # Build default icon
 
