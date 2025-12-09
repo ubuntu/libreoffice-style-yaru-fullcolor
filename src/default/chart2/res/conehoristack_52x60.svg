@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="52"
    viewBox="0 0 60 52"
    width="60"
    version="1.1"
    id="svg36"
    sodipodi:docname="conehoristack_52x60.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata42">
     <rdf:RDF>
@@ -37,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1852"
      inkscape:window-height="1016"
      id="namedview38"
      showgrid="false"
      inkscape:zoom="16.923077"
-     inkscape:cx="30"
-     inkscape:cy="26"
+     inkscape:cx="29.988636"
+     inkscape:cy="26.915909"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg36" />
+     inkscape:current-layer="svg36"
+     inkscape:pagecheckerboard="0" />
   <linearGradient
      id="a">
     <stop
@@ -129,20 +130,30 @@
      d="m 32,14.5 -24,-9.462 c -2.0465375,-0.8068 -4,3.9382 -4,8.7961 0,4.8579 1.7909,8.7961 4,8.7961 z"
      fill="url(#c)"
      id="path26"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="M 32,14.5 8,5.038 C 5.9534625,4.2312 4,8.9762 4,13.8341 c 0,4.8579 1.7909,8.7961 4,8.7961 z"
+     fill="url(#c)"
+     id="path43"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
   <path
      d="m 43,34.6669 -35,-9.259 c -2.1267061,-0.5626 -4,3.9381 -4,8.796 0,4.858 1.7909,8.7961 4,8.7961 z"
      fill="url(#f)"
      id="path28"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="M 43,34.6669 8,25.4079 C 5.8732939,24.8453 4,29.346 4,34.2039 4,39.0619 5.7909,43 8,43 Z"
+     fill="url(#f)"
+     id="path45"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
   <path
      d="m 43,34.6669 -22,-5.8394 v -0.01 c -1.656877,0 -3.000032,2.2556 -3,5.5345 -3.2e-5,3.2789 1.343123,5.5898 3,5.5898 z"
      fill="url(#e)"
      id="path30"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 33,14.5 -19,-7.1356 v -0.022 c -0.02465,0 -0.04932,-0.032 -0.074,-0.032 -1.656999,0 -3.000204,2.4633 -3,6.6031 1.85e-4,4.1389 1.432562,6.7128 3.089286,6.7128 0.02468,-0.8036 -0.01762,-0.01 -0.03761,-0.01 l 0.02232,0.02 19,-6.1367 z"
      fill="url(#d)"
      id="path32"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
 </svg>

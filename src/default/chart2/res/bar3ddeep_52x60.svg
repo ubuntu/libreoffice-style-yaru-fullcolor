@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="52"
    viewBox="0 0 60 52"
    width="60"
    version="1.1"
    id="svg54"
    sodipodi:docname="bar3ddeep_52x60.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata60">
     <rdf:RDF>
@@ -37,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1852"
      inkscape:window-height="1016"
      id="namedview56"
      showgrid="false"
      inkscape:zoom="16.923077"
-     inkscape:cx="21.982593"
-     inkscape:cy="27.12472"
+     inkscape:cx="21.981818"
+     inkscape:cy="27.152273"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg54" />
+     inkscape:current-layer="svg54"
+     inkscape:pagecheckerboard="0" />
   <linearGradient
      id="a">
     <stop
@@ -131,61 +132,112 @@
      d="m 41,29 v 12 h -33 v -12 z"
      fill="url(#b)"
      id="path26"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 25,33 v 12 h -21 v -12 z"
      fill="url(#d)"
      id="path28"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 35,11 v 12 h -27 v -12 z"
      fill="url(#e)"
      id="path30"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 41,29 h -33 l 3,-3 h 33 z"
      fill="#987197"
      fill-rule="evenodd"
      id="path32"
-     style="fill:#b87ab2;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 41,29 h -33 l 3,-3 h 33 z"
+     fill="#987197"
+     fill-rule="evenodd"
+     id="path884"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
   <path
      d="m 13,15 v 12 h -9 v -12 z"
      fill="url(#f)"
      id="path34"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 25,33 h -21 l 3,-3 h 21 z"
      fill="#fe865c"
      id="path36"
-     style="fill-rule:evenodd;fill:#f39472;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 41,29 v 12 l 3,-3 v -12 z"
      fill="#945c93"
      id="path38"
-     style="fill-rule:evenodd;fill:#a6599f;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 25,33 v 12 l 3,-3 v -12 z"
      fill="#fe865c"
      id="path40"
-     style="fill-rule:evenodd;fill:#f08966;fill-opacity:1" />
-  <path
-     d="m 13,15 h -9 l 3,-3 h 9 z"
-     fill="#fe865c"
-     id="path42"
-     style="fill-rule:evenodd;fill:#f39472;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 13,15 v 12 l 3,-3 v -12 z"
      fill="#fe865c"
      id="path44"
-     style="fill-rule:evenodd;fill:#f08966;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 35,11 h -27 l 3,-3 h 27 z"
      fill="#987197"
      id="path46"
-     style="fill-rule:evenodd;fill:#b87ab2;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
   <path
      d="m 35,11 v 12 l 3,-3 v -12 z"
      fill="#945c93"
      id="path48"
-     style="fill-rule:evenodd;fill:#a6599f;fill-opacity:1" />
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 35,11 h -27 l 3,-3 h 27 z"
+     fill="#987197"
+     id="path886"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.3" />
+  <path
+     d="m 41,29 v 12 l 3,-3 v -12 z"
+     fill="#945c93"
+     id="path942"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.2" />
+  <path
+     d="m 35,11 v 12 l 3,-3 v -12 z"
+     fill="#945c93"
+     id="path944"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.2" />
+  <path
+     d="m 13,15 h -9 l 3,-3 h 9 z"
+     fill="#fe865c"
+     id="path42"
+     style="fill-rule:evenodd;fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 25,33 h -21 l 3,-3 h 21 z"
+     fill="#fe865c"
+     id="path1000"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.6" />
+  <path
+     d="m 13,15 h -9 l 3,-3 h 9 z"
+     fill="#fe865c"
+     id="path1002"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.6" />
+  <path
+     d="m 25,33 v 12 l 3,-3 v -12 z"
+     fill="#fe865c"
+     id="path1058"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.5" />
+  <path
+     d="m 13,15 v 12 l 3,-3 v -12 z"
+     fill="#fe865c"
+     id="path1060"
+     style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1;opacity:0.5" />
+  <path
+     d="m 25,33 v 12 h -21 v -12 z"
+     fill="url(#d)"
+     id="path1116"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <path
+     d="m 13,15 v 12 h -9 v -12 z"
+     fill="url(#f)"
+     id="path1118"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
 </svg>

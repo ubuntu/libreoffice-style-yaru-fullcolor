@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="52"
    viewBox="0 0 60 52"
    width="60"
    version="1.1"
    id="svg46"
    sodipodi:docname="cylinderhorideep_52x60.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata52">
     <rdf:RDF>
@@ -37,17 +37,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="1852"
      inkscape:window-height="1016"
      id="namedview48"
      showgrid="false"
      inkscape:zoom="16.923077"
-     inkscape:cx="30"
-     inkscape:cy="26"
+     inkscape:cx="30.018182"
+     inkscape:cy="26.029545"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg46" />
+     inkscape:current-layer="svg46"
+     inkscape:pagecheckerboard="0" />
   <linearGradient
      id="a">
     <stop
@@ -131,12 +132,12 @@
      d="m 11,5 c -1.656854,0 -3,2.6863 -3,6 0,3.3137 1.343146,6 3,6 h 32 v -12 z"
      fill="url(#f)"
      id="path26"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 7,10 a 3,6 0 0 0 -3,6 3,6 0 0 0 3,6 h 12 v -12 z"
      fill="url(#c)"
      id="path28"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="10.999983"
      cy="-43"
@@ -145,26 +146,17 @@
      ry="3"
      transform="rotate(90)"
      id="ellipse30"
-     style="fill:#a6599f;fill-opacity:1" />
-  <ellipse
-     cx="15.999983"
-     cy="-19"
-     fill="#fe865c"
-     rx="6"
-     ry="3"
-     transform="rotate(90)"
-     id="ellipse32"
-     style="fill:#f08966;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 11,23 c -1.656854,0 -3,2.6863 -3,6 0,3.3137 1.343146,6 3,6 h 40 v -12 z"
      fill="url(#e)"
      id="path34"
-     style="fill:#77216f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <path
      d="m 7,28 c -1.6568542,0 -3,2.6863 -3,6 0,3.3137 1.3431458,6 3,6 h 26 v -12 z"
      fill="url(#d)"
      id="path36"
-     style="fill:#e95420;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="28.999983"
      cy="-51"
@@ -173,7 +165,26 @@
      ry="3"
      id="ellipse38"
      transform="rotate(90)"
-     style="fill:#a6599f;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <path
+     d="m 7,10 a 3,6 0 0 0 -3,6 3,6 0 0 0 3,6 h 12 v -12 z"
+     fill="url(#c)"
+     id="path862"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <path
+     d="m 7,28 c -1.6568542,0 -3,2.6863 -3,6 0,3.3137 1.3431458,6 3,6 h 26 v -12 z"
+     fill="url(#d)"
+     id="path864"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+  <ellipse
+     cx="15.999983"
+     cy="-19"
+     fill="#fe865c"
+     rx="6"
+     ry="3"
+     transform="rotate(90)"
+     id="ellipse32"
+     style="fill:#00ff00;fill-opacity:1" />
   <ellipse
      cx="33.999981"
      cy="-33"
@@ -182,5 +193,41 @@
      ry="3"
      id="ellipse40"
      transform="rotate(90)"
-     style="fill:#f08966;fill-opacity:1" />
+     style="fill:#00ff00;fill-opacity:1" />
+  <ellipse
+     cx="15.999983"
+     cy="-19"
+     fill="#fe865c"
+     rx="6"
+     ry="3"
+     transform="rotate(90)"
+     id="ellipse920"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+  <ellipse
+     cx="33.999981"
+     cy="-33"
+     fill="#fe865c"
+     rx="6"
+     ry="3"
+     id="ellipse922"
+     transform="rotate(90)"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+  <ellipse
+     cx="10.999983"
+     cy="-43"
+     fill="#987197"
+     rx="6"
+     ry="3"
+     transform="rotate(90)"
+     id="ellipse996"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+  <ellipse
+     cx="28.999983"
+     cy="-51"
+     fill="#987197"
+     rx="6"
+     ry="3"
+     id="ellipse998"
+     transform="rotate(90)"
+     style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
 </svg>
