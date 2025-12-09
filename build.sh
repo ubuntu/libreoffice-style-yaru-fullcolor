@@ -205,6 +205,8 @@ function render_icon() {
 
     if test -f "./src/${variant_name}${1}.svg"; then
         src="./src/${variant_name}${1}.svg"
+    elif test -f "./src/accented${1}.svg"; then
+        src="./src/accented${1}.svg"
     else
         src="./src/default${1}.svg"
     fi
