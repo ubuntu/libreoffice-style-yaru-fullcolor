@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_jumpdownthislevel.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_removebullets.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -29,7 +29,7 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#bfbfbf"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="41.7193"
-     inkscape:cx="7.4186288"
-     inkscape:cy="8.9167364"
+     inkscape:zoom="14.75"
+     inkscape:cx="-9.220339"
+     inkscape:cy="-0.77966102"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,17 +54,25 @@
      inkscape:deskcolor="#bfbfbf">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid895"
        dotted="true"
        spacingx="0.5"
        spacingy="0.5"
-       empspacing="10" />
+       empspacing="10"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <rect
-     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#0000ff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      id="rect860"
      width="7"
      height="1"
@@ -72,69 +80,16 @@
      y="-9"
      transform="scale(1,-1)" />
   <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect862"
-     width="7"
-     height="1"
-     x="6"
-     y="-10"
-     transform="scale(1,-1)" />
-  <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect868"
-     width="9"
-     height="1"
-     x="6"
-     y="-8"
-     transform="scale(1,-1)" />
-  <rect
-     style="fill:#232629;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#0000ff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      id="rect870"
      width="9"
      height="1"
      x="6"
      y="-7"
      transform="scale(1,-1)" />
-  <rect
-     style="fill:#00ff00;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect307"
-     width="5"
-     height="1"
-     x="6"
-     y="-15"
-     transform="scale(1,-1)" />
-  <rect
      style="fill:#00ff00;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect309"
-     width="9"
-     height="1"
-     x="6"
-     y="-13"
+     d="M 6 -1 L 6 -2 L 15 -2 L 15 -1 L 6 -1 z M 3.5 -2 C 2.6944444 -2 2.0379057 -2.130063 1.5839844 -2.5839844 C 1.130063 -3.0379057 1 -3.6944444 1 -4.5 L 1 -11.5 C 1 -12.300494 1.1106008 -12.95929 1.5605469 -13.423828 C 1.9140608 -13.788807 2.4033022 -13.947968 3 -13.990234 L 3 -15.5 L 5.5 -13.5 L 3 -11.5 L 3 -12.986328 C 2.6113871 -12.949644 2.3998795 -12.851056 2.2792969 -12.726562 C 2.1156326 -12.557589 2 -12.199506 2 -11.5 L 2 -4.5 C 2 -3.8055556 2.119937 -3.4620943 2.2910156 -3.2910156 C 2.4620943 -3.119937 2.8055556 -3 3.5 -3 L 5 -3 L 5 -2 L 3.5 -2 z M 6 -3 L 6 -4 L 11 -4 L 11 -3 L 6 -3 z M 6 -12 L 6 -13 L 15 -13 L 15 -12 L 6 -12 z M 6 -14 L 6 -15 L 11 -15 L 11 -14 L 6 -14 z "
      transform="scale(1,-1)" />
-  <rect
-     style="fill:#00ff00;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect311"
-     width="5"
-     height="1"
-     x="6"
-     y="-4"
-     transform="scale(1,-1)" />
-  <rect
-     style="fill:#00ff00;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect313"
-     width="9"
-     height="1"
-     x="6"
-     y="-2"
-     transform="scale(1,-1)" />
-  <path
-     style="fill:none;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     d="m 5,2.5 h -1.5 c -1.5,0 -2,0.5 -2,2 v 7 c 0,1.5 0.4544417,2.034042 2,2 h 0.5"
-     id="path1038"
-     sodipodi:nodetypes="cccccc" />
-  <path
-     style="fill:#00ff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     d="m 3,11.5 v 4 l 2.5,-2 z"
-     id="path1040"
-     sodipodi:nodetypes="cccc" />
 </svg>

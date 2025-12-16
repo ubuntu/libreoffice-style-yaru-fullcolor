@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/lastrecord.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,13 +37,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="16.892733"
-     inkscape:cx="18.410283"
-     inkscape:cy="15.628022"
+     inkscape:cx="18.380685"
+     inkscape:cy="15.65762"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,23 +62,9 @@
        units="px"
        visible="true" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle845"
-     cx="16"
-     cy="-16"
-     transform="scale(1,-1)"
-     r="12" />
-  <circle
-     style="opacity:0.9;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle943"
-     cx="16"
-     cy="-16"
-     transform="scale(1,-1)"
-     r="12" />
   <path
-     style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 13.499999,22.5 l 6.500001,-6.5 l -6.500001,-6.5"
-     id="path947"
-     sodipodi:nodetypes="ccc" />
+     d="m 13,2.5 c 1.12125,1.474875 2.270125,2.9649375 3.263,4.482 1.103375,1.6875 2.091375,3.32775 2.965625,4.914 0.807625,1.46475 1.41375,2.993625 1.896375,4.104 -0.482625,1.110375 -1.08875,2.63925 -1.896375,4.104 A 72.826,75.627 0 0 1 16.263,25.018 C 15.27175,26.53675 14.122875,28.025125 13,29.5 v -2.514375 c 0.65,-0.88425 1.360125,-1.792125 1.98575,-2.742187 0.78975,-1.198125 1.53075,-2.424938 2.22625,-3.67875 0.703625,-1.274063 1.54375,-3.024 2.088125,-4.21875 v -0.0017 l 0.156,-0.34425 -0.156,-0.342563 A 63.5505,65.99475 0 0 0 17.212,11.437 53.418625,55.473187 0 0 0 14.98575,7.7565625 C 14.360125,6.8081875 13.65,5.9003125 13,5.014375 Z"
+     fill="#808080"
+     id="path1"
+     style="opacity:0.5;fill:#0000ff;stroke-width:1.65596" />
 </svg>

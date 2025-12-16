@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="15"
    width="15"
    version="1.1"
    id="svg18"
    sodipodi:docname="pr014.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -39,54 +39,31 @@
      inkscape:window-height="1011"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="19.044743"
-     inkscape:cx="4.9918939"
-     inkscape:cy="6.3248736"
+     inkscape:zoom="26.933334"
+     inkscape:cx="5.6249999"
+     inkscape:cy="5.2165841"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18">
+     inkscape:current-layer="svg18"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid873" />
+       id="grid873"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     d="M 0.9999999,1.0000001 V 2.0000003 H 2 V 1.0000001 Z m 1.9999999,0 v 1.0000002 h 2 V 1.0000001 Z m 3,0 V 2.0000003 H 7.9999999 V 1.0000001 Z m 3.0000001,0 V 2.0000003 H 11 V 1.0000001 Z m 3.0000001,0 v 1.0000002 h 1 1 V 1.0000001 H 13 Z M 0.9999999,3.0000003 V 5.0000001 H 2 V 3.0000003 Z m 12.0000001,0 v 1.9999998 h 1 V 3.0000003 Z M 0.9999999,6.0000001 V 7.9999999 H 2 V 6.0000001 Z m 12.0000001,0 v 1.9999998 h 1 V 6.0000001 Z M 0.9999999,9 v 2 H 2 V 9 Z M 13,9 v 2 h 1 V 9 Z M 0.9999999,12 v 2 H 2 V 12 Z M 13,12 v 1 h -1 v 1 h 1 1 V 12 Z M 2.9999999,13 v 1 h 2 v -1 z m 3,0 v 1 h 2 v -1 z m 3,0 v 1 H 11 v -1 z"
-     style="opacity:0.8;fill:#808080;fill-opacity:1;opacity:0.8"
-     id="path4-2" />
-  <rect
-     style="fill:#00ff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path4-2"
+     style="opacity:0.5;fill:#0000ff;fill-opacity:1"
+     d="M 1 1 L 1 2 L 2 2 L 2 1 L 1 1 z M 3 1 L 3 2 L 5 2 L 5 1 L 3 1 z M 6 1 L 6 2 L 8 2 L 8 1 L 6 1 z M 9 1 L 9 2 L 11 2 L 11 1 L 9 1 z M 12 1 L 12 2 L 13 2 L 14 2 L 14 1 L 13 1 L 12 1 z M 1 3 L 1 5 L 2 5 L 2 3 L 1 3 z M 13 3 L 13 5 L 14 5 L 14 3 L 13 3 z M 1 6 L 1 8 L 2 8 L 2 6 L 1 6 z M 13 6 L 13 8 L 14 8 L 14 6 L 13 6 z M 1 9 L 1 11 L 2 11 L 2 9 L 1 9 z M 13 9 L 13 11 L 14 11 L 14 9 L 13 9 z M 1 12 L 1 14 L 2 14 L 2 12 L 1 12 z M 13 12 L 13 13 L 12 13 L 12 14 L 13 14 L 14 14 L 14 12 L 13 12 z M 3 13 L 3 14 L 5 14 L 5 13 L 3 13 z M 6 13 L 6 14 L 8 14 L 8 13 L 6 13 z M 9 13 L 9 14 L 11 14 L 11 13 L 9 13 z " />
+  <path
      id="rect875"
-     width="1"
-     height="13"
-     x="1"
-     y="1" />
-  <rect
-     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect877"
-     width="1"
-     height="13"
-     x="7"
-     y="1" />
-  <rect
-     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect879"
-     width="1"
-     height="13"
-     x="1"
-     y="1" />
-  <rect
-     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect881"
-     width="1"
-     height="13"
-     x="1"
-     y="1" />
-  <rect
-     style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="rect883"
-     width="1"
-     height="13"
-     x="13"
-     y="1" />
+     style="fill:#00ff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 1 1 L 1 14 L 2 14 L 2 1 L 1 1 z M 7 1 L 7 14 L 8 14 L 8 1 L 7 1 z M 13 1 L 13 14 L 14 14 L 14 1 L 13 1 z " />
 </svg>
