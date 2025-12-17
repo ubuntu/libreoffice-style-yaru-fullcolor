@@ -4,7 +4,7 @@
    version="1.1"
    id="svg13"
    sodipodi:docname="sc20236.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/sw/res/sc20236.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -30,7 +30,7 @@
   <defs
      id="defs17" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.57627119"
-     inkscape:cy="6.0338983"
+     inkscape:zoom="41.7193"
+     inkscape:cx="9.5759037"
+     inkscape:cy="3.8231706"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,12 @@
      inkscape:deskcolor="#808080">
     <inkscape:grid
        type="xygrid"
-       id="grid818" />
+       id="grid818"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -104,17 +109,10 @@
      x="9"
      y="13" />
   <rect
-     style="fill:#232629;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;fill-opacity:1"
+     style="fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;fill-opacity:1"
      id="rect1163"
      width="14"
      height="1"
      x="1"
      y="1" />
-  <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
-     id="rect1165"
-     width="14"
-     height="1"
-     x="1"
-     y="2" />
 </svg>
