@@ -133,6 +133,11 @@ for accent in "${accents[@]}"; do
     done
 done
 
+# Bash arrays cannot be exported to the workers created by GNU parallel.
+# Serialize the small variant list once instead of rebuilding it for every icon.
+printf -v variants_serialized '%s\n' "${variants[@]}"
+export variants_serialized
+
 ###################################################
 # FUNCTIONS
 ###################################################
@@ -188,46 +193,116 @@ function check_deps() {
 }
 export -f check_deps
 
+function render_variant() {
+    local filename=$1
+    local variant_color=$2
+    local template=$3
+    local variant_name accent_color brightness_color
+
+    read -r variant_name accent_color brightness_color <<< "$variant_color"
+
+    # Apply both substitutions in one pass, writing the final SVG directly.
+    sed \
+        -e "s/0f0/${accent_color}/g" \
+        -e "s/00f/${brightness_color}/g" \
+        "$template" \
+        > "./build/${variant_name}/svg${filename}.svg"
+
+    resvg "./build/${variant_name}/svg${filename}.svg" \
+        "./build/${variant_name}/png${filename}.png" &>/dev/null
+    optipng -o7 "./build/${variant_name}/png${filename}.png" &>/dev/null
+}
+export -f render_variant
+
 function render_icon() {
-    check_deps "resvg" "scour" "optipng"
+    local filename=$1
+    local parallel_variants=${2:-0}
+    local relative_dir=${filename%/*}
+    local template_root="./build/.templates/${BASHPID}"
+    local variant_color variant_name accent_color brightness_color src template
+    local template_number=0
+    local index active_jobs max_jobs render_status
+    local -a variant_colors variant_templates output_dirs
+    local -A optimized_sources
 
-    variant_color=( $2 )
-    variant_name=${variant_color[0]}
-    accent_color=${variant_color[1]}
-    brightness_color=${variant_color[2]}
+    # Creating all output directories at once avoids two processes for every
+    # icon/variant pair.
+    while IFS= read -r variant_color; do
+        [[ -z $variant_color ]] && continue
+        read -r variant_name accent_color brightness_color <<< "$variant_color"
+        variant_colors+=( "$variant_color" )
+        output_dirs+=(
+            "./build/${variant_name}/png${relative_dir}"
+            "./build/${variant_name}/svg${relative_dir}"
+        )
+    done <<< "$variants_serialized"
+    mkdir -p "${output_dirs[@]}" "$template_root"
 
-    # Mkdir folders
+    echo -e "=> 🔨 Render '${filename}'"
 
-    mkdir -p $(dirname ./build/${variant_name}/png${1}.png)
-    mkdir -p $(dirname ./build/${variant_name}/svg${1}.svg)
+    # Scour works on the source SVG, before variant colors are substituted.
+    # Most icons use the same source for every color variant, so optimize each
+    # distinct source only once and reuse the result for all variants.
+    for variant_color in "${variant_colors[@]}"; do
+        read -r variant_name accent_color brightness_color <<< "$variant_color"
 
-    echo -e "=> 🔨 Render '${1}' - ${variant_name} variant "
+        if test -f "./src/${variant_name}${filename}.svg"; then
+            src="./src/${variant_name}${filename}.svg"
+        elif test -f "./src/accented${filename}.svg"; then
+            src="./src/accented${filename}.svg"
+        else
+            src="./src/default${filename}.svg"
+        fi
 
-    if test -f "./src/${variant_name}${1}.svg"; then
-        src="./src/${variant_name}${1}.svg"
-    elif test -f "./src/accented${1}.svg"; then
-        src="./src/accented${1}.svg"
-    else
-        src="./src/default${1}.svg"
+        template=${optimized_sources["$src"]-}
+        if [[ -z $template ]]; then
+            template="${template_root}/${template_number}.svg"
+            scour "$src" "$template" \
+                --no-line-breaks \
+                --strip-xml-prolog \
+                --create-groups \
+                --enable-id-stripping \
+                --strip-xml-space \
+                --remove-descriptive-elements \
+                --enable-comment-stripping \
+                &>/dev/null
+            optimized_sources["$src"]=$template
+            template_number=$((template_number+1))
+        fi
+        variant_templates+=( "$template" )
+    done
+
+    if [[ $parallel_variants = 1 ]]; then
+        max_jobs=$(nproc 2>/dev/null || echo 1)
+        active_jobs=0
+        render_status=0
+
+        for index in "${!variant_colors[@]}"; do
+            render_variant "$filename" "${variant_colors[$index]}" \
+                "${variant_templates[$index]}" &
+            active_jobs=$((active_jobs+1))
+
+            if (( active_jobs >= max_jobs )); then
+                if ! wait -n; then
+                    render_status=1
+                fi
+                active_jobs=$((active_jobs-1))
+            fi
+        done
+
+        while (( active_jobs > 0 )); do
+            if ! wait -n; then
+                render_status=1
+            fi
+            active_jobs=$((active_jobs-1))
+        done
+        return "$render_status"
     fi
 
-    scour $src "./build/${variant_name}/svg${1}.svg" \
-        --no-line-breaks \
-        --strip-xml-prolog \
-        --create-groups \
-        --enable-id-stripping \
-        --strip-xml-space \
-        --remove-descriptive-elements \
-        --enable-comment-stripping \
-        &>/dev/null
-
-    # replace placeholder colors
-    sed -i "s/0f0/${accent_color}/g" "./build/${variant_name}/svg${1}.svg"
-    sed -i "s/00f/${brightness_color}/g" "./build/${variant_name}/svg${1}.svg"
-
-    # Render PNG
-    resvg "./build/${variant_name}/svg${1}.svg" "./build/${variant_name}/png${1}.png" &>/dev/null
-    optipng -o7 "./build/${variant_name}/png${1}.png" &>/dev/null
+    for index in "${!variant_colors[@]}"; do
+        render_variant "$filename" "${variant_colors[$index]}" \
+            "${variant_templates[$index]}"
+    done
 }
 export -f render_icon
 
@@ -340,7 +415,7 @@ function generate_oxt() {
 
 if [[ $_all = 1 ]];
 then
-    check_deps "parallel"
+    check_deps "parallel" "resvg" "scour" "optipng"
 
     echo -e "=> 🔥 Warning this will delete the /build folder and recreate it entirely from /src (will take a while)\n"
     read -p "=> Continue? (yes/no) " continue
@@ -361,15 +436,16 @@ then
     do
         filename=${filename#"./src/default"}
         filename=${filename%".svg"}
-        filenames+=($filename)
+        filenames+=( "$filename" )
     done < <(find "./src/default" -name "*.svg" -print0)
 
-    parallel render_icon ::: "${filenames[@]}" ::: "${variants[@]}"
+    parallel render_icon ::: "${filenames[@]}"
+    rm -Rf "build/.templates"
 
     generate_links
 elif [[ $_watch = 1 ]];
 then
-    check_deps "parallel" "inotifywait"
+    check_deps "parallel" "inotifywait" "resvg" "scour" "optipng"
 
     echo -e "=> 🔍 Lets watch file changes (abort with CTRL+C) ...\n"
 
@@ -392,7 +468,8 @@ then
 
                 filename=${filename%".svg"}
 
-                parallel render_icon ::: "${filename}" ::: "${variants[@]}"
+                render_icon "${filename}" 1
+                rm -Rf "build/.templates"
 
                 echo
             fi
@@ -408,9 +485,10 @@ elif [[ $_oxt = 1 ]];
 then
     generate_oxt
 elif [[ ! -z "$_file" ]]; then
-    check_deps "parallel"
+    check_deps "resvg" "scour" "optipng"
 
-    parallel render_icon ::: "${_file}" ::: "${variants[@]}"
+    render_icon "${_file}" 1
+    rm -Rf "build/.templates"
 else
     echo -e "❌ Error, please provide a valid option\n"
     exit 1
