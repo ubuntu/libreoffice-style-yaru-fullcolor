@@ -126,7 +126,7 @@ for accent in "${accents[@]}"; do
         elif [[ $accent_name == 'default' && $brightness_name != 'default' ]]; then
             variant_name=$brightness_name
         else
-            variant_name="$accent_name-$brightness_name"
+            variant_name="${accent_name}_${brightness_name}"
         fi
 
         variants+=( "$variant_name $accent_color $brightness_color" )

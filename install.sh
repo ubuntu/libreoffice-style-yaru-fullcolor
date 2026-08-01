@@ -54,25 +54,60 @@ done
 # CLInt GENERATED_CODE: end
 
 ###################################################
-# POPULATE ACCENT COLORS
+# POPULATE VARIANTS COLORS
 ###################################################
 
-accents=( "default" )
+function read_map_file() {
+    local line
+    local splitedline
+    local n=0
 
-while read line; do
-    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
-    then
-        continue
-    fi
+    while IFS= read -r line; do
+        n=$((n+1))
+        [[ -z "$line" || "$line" =~ ^# ]] && continue
 
-    IFS=' '
-    read -ra splitedline <<< "$line"
-    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
-        echo "Error line $n: Malformed line '$line'"
-    else
-        accents+=( ${splitedline[0]} )
-    fi
-done < "src/accents.txt"
+        read -ra splitedline <<< "$line"
+        if (( ${#splitedline[@]} != 2 )); then
+            echo "Error in \"$1\": $line (line $n)" >&2
+            exit 1
+        fi
+        printf '%s\n' "$line"
+    done < $1
+}
+
+output=$(read_map_file "src/accents.txt")
+mapfile -t accents <<< "$output"
+
+output=$(read_map_file "src/brightness.txt")
+mapfile -t brightness <<< "$output"
+
+# Should be an array of:
+# variant_name accent_color brightness_color
+variants=()
+
+for accent in "${accents[@]}"; do
+    accent=( $accent )
+    accent_name=${accent[0]}
+    accent_color=${accent[1]}
+
+    for bness in "${brightness[@]}"; do
+        bness=( $bness )
+        brightness_name=${bness[0]}
+        brightness_color=${bness[1]}
+
+        variant_name=''
+
+        if [[ $brightness_name == 'default' ]]; then
+            variant_name=$accent_name
+        elif [[ $accent_name == 'default' && $brightness_name != 'default' ]]; then
+            variant_name=$brightness_name
+        else
+            variant_name="${accent_name}_${brightness_name}"
+        fi
+
+        variants+=( "$variant_name $accent_color $brightness_color" )
+    done
+done
 
 ###################################################
 # FUNCTIONS
@@ -102,17 +137,20 @@ function uninstall() {
 function install() {
 	sudo mkdir -p -v "/usr/share/libreoffice/share/config"
 
-	for accent in "${accents[@]}"; do
-		if [[ $accent == "default" ]]; then
-			theme_name="yaru"
-		else
-			theme_name="yaru_${accent}"
-		fi
+	for variant in "${variants[@]}"; do
+		variant=( $variant )
+        variant_name=${variant[0]}
 
-		sudo cp -v "dist/images_${theme_name}.zip" "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
-		sudo cp -v "dist/images_${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
-		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
-		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
+        if [[ $variant_name == "default" ]]; then
+            theme_name="images_yaru"
+        else
+            theme_name="images_yaru_${variant_name}"
+        fi
+
+		sudo cp -v "dist/${theme_name}.zip" "/usr/share/libreoffice/share/config/${theme_name}.zip"
+		sudo cp -v "dist/${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/${theme_name}_svg.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/${theme_name}.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/${theme_name}_svg.zip"
 
 		for dir in \
 		/usr/lib64/libreoffice/share/config \
@@ -120,8 +158,8 @@ function install() {
 		/usr/local/lib/libreoffice/share/config \
 		/opt/libreoffice*/share/config; do
 			[ -d "$dir" ] || continue
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}.zip" "$dir"
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/${theme_name}.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/${theme_name}_svg.zip" "$dir"
 		done
 	done
 }
