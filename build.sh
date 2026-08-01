@@ -141,10 +141,10 @@ function check_deps() {
     missing_deps=False
     params=( "$@" )
 
-    if [[ " ${params[*]} " =~ "cairosvg" ]]; then
-        if ! command -v cairosvg >/dev/null
+    if [[ " ${params[*]} " =~ "resvg" ]]; then
+        if ! command -v resvg >/dev/null
         then
-            echo  -e "=> 🙅 Please install cairosvg"
+            echo  -e "=> 🙅 Please install resvg"
             missing_deps=True
         fi
     fi
@@ -189,7 +189,7 @@ function check_deps() {
 export -f check_deps
 
 function render_icon() {
-    check_deps "cairosvg" "scour" "optipng"
+    check_deps "resvg" "scour" "optipng"
 
     variant_color=( $2 )
     variant_name=${variant_color[0]}
@@ -226,7 +226,7 @@ function render_icon() {
     sed -i "s/00f/${brightness_color}/g" "./build/${variant_name}/svg${1}.svg"
 
     # Render PNG
-    cairosvg "./build/${variant_name}/svg${1}.svg" -o "./build/${variant_name}/png${1}.png" &>/dev/null
+    resvg "./build/${variant_name}/svg${1}.svg" "./build/${variant_name}/png${1}.png" &>/dev/null
     optipng -o7 "./build/${variant_name}/png${1}.png" &>/dev/null
 }
 export -f render_icon
@@ -278,7 +278,7 @@ function generate_zip() {
 }
 
 function generate_oxt() {
-    check_deps "cairosvg" "optipng"
+    check_deps "resvg" "optipng"
 
     generate_zip
 
@@ -318,7 +318,7 @@ function generate_oxt() {
 
         # Accented logo
         sed -i "s/0ff/${accent_color}/g" "logo.svg"
-        cairosvg "logo.svg" -o "logo.png" &>/dev/null
+        resvg "logo.svg" "logo.png" &>/dev/null
         optipng -o7 "logo.png" &>/dev/null
         rm "logo.svg"
 
