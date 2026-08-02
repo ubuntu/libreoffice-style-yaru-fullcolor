@@ -85,13 +85,14 @@ function read_map_file() {
     local line
     local splitedline
     local n=0
+    local expected_fields=$2
 
     while IFS= read -r line; do
         n=$((n+1))
         [[ -z "$line" || "$line" =~ ^# ]] && continue
 
         read -ra splitedline <<< "$line"
-        if (( ${#splitedline[@]} != 2 )); then
+        if (( ${#splitedline[@]} != expected_fields )); then
             echo "Error in \"$1\": $line (line $n)" >&2
             exit 1
         fi
@@ -99,14 +100,14 @@ function read_map_file() {
     done < $1
 }
 
-output=$(read_map_file "src/accents.txt")
+output=$(read_map_file "src/accents.txt" 2)
 mapfile -t accents <<< "$output"
 
-output=$(read_map_file "src/brightness.txt")
+output=$(read_map_file "src/brightness.txt" 3)
 mapfile -t brightness <<< "$output"
 
 # Should be an array of:
-# variant_name accent_color brightness_color
+# variant_name accent_color bg_color txt_color
 variants=()
 
 for accent in "${accents[@]}"; do
@@ -117,7 +118,8 @@ for accent in "${accents[@]}"; do
     for bness in "${brightness[@]}"; do
         bness=( $bness )
         brightness_name=${bness[0]}
-        brightness_color=${bness[1]}
+        bg_color=${bness[1]}
+        txt_color=${bness[2]}
 
         variant_name=''
 
@@ -129,7 +131,7 @@ for accent in "${accents[@]}"; do
             variant_name="${accent_name}_${brightness_name}"
         fi
 
-        variants+=( "$variant_name $accent_color $brightness_color" )
+        variants+=( "$variant_name $accent_color $bg_color $txt_color" )
     done
 done
 
@@ -197,14 +199,15 @@ function render_variant() {
     local filename=$1
     local variant_color=$2
     local template=$3
-    local variant_name accent_color brightness_color
+    local variant_name accent_color bg_color txt_color
 
-    read -r variant_name accent_color brightness_color <<< "$variant_color"
+    read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
 
-    # Apply both substitutions in one pass, writing the final SVG directly.
+    # Apply all color substitutions in one pass, writing the final SVG directly.
     sed \
         -e "s/0f0/${accent_color}/g" \
-        -e "s/00f/${brightness_color}/g" \
+        -e "s/ff0/${bg_color}/g" \
+        -e "s/00f/${txt_color}/g" \
         "$template" \
         > "./build/${variant_name}/svg${filename}.svg"
 
@@ -219,7 +222,7 @@ function render_icon() {
     local parallel_variants=${2:-0}
     local relative_dir=${filename%/*}
     local template_root="./build/.templates/${BASHPID}"
-    local variant_color variant_name accent_color brightness_color src template
+    local variant_color variant_name accent_color bg_color txt_color src template
     local template_number=0
     local index active_jobs max_jobs render_status
     local -a variant_colors variant_templates output_dirs
@@ -229,7 +232,7 @@ function render_icon() {
     # icon/variant pair.
     while IFS= read -r variant_color; do
         [[ -z $variant_color ]] && continue
-        read -r variant_name accent_color brightness_color <<< "$variant_color"
+        read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
         variant_colors+=( "$variant_color" )
         output_dirs+=(
             "./build/${variant_name}/png${relative_dir}"
@@ -244,7 +247,7 @@ function render_icon() {
     # Most icons use the same source for every color variant, so optimize each
     # distinct source only once and reuse the result for all variants.
     for variant_color in "${variant_colors[@]}"; do
-        read -r variant_name accent_color brightness_color <<< "$variant_color"
+        read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
 
         if test -f "./src/${variant_name}${filename}.svg"; then
             src="./src/${variant_name}${filename}.svg"

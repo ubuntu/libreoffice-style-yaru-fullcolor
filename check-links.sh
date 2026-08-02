@@ -34,13 +34,14 @@ function read_map_file() {
     local line
     local splitedline
     local n=0
+    local expected_fields=$2
 
     while IFS= read -r line; do
         n=$((n+1))
         [[ -z "$line" || "$line" =~ ^# ]] && continue
 
         read -ra splitedline <<< "$line"
-        if (( ${#splitedline[@]} != 2 )); then
+        if (( ${#splitedline[@]} != expected_fields )); then
             echo "Error in \"$1\": $line (line $n)" >&2
             exit 1
         fi
@@ -48,14 +49,14 @@ function read_map_file() {
     done < $1
 }
 
-output=$(read_map_file "src/accents.txt")
+output=$(read_map_file "src/accents.txt" 2)
 mapfile -t accents <<< "$output"
 
-output=$(read_map_file "src/brightness.txt")
+output=$(read_map_file "src/brightness.txt" 3)
 mapfile -t brightness <<< "$output"
 
 # Should be an array of:
-# variant_name accent_color brightness_color
+# variant_name accent_color bg_color txt_color
 variants=()
 
 for accent in "${accents[@]}"; do
@@ -66,7 +67,8 @@ for accent in "${accents[@]}"; do
     for bness in "${brightness[@]}"; do
         bness=( $bness )
         brightness_name=${bness[0]}
-        brightness_color=${bness[1]}
+        bg_color=${bness[1]}
+        txt_color=${bness[2]}
 
         variant_name=''
 
@@ -78,7 +80,7 @@ for accent in "${accents[@]}"; do
             variant_name="${accent_name}_${brightness_name}"
         fi
 
-        variants+=( "$variant_name $accent_color $brightness_color" )
+        variants+=( "$variant_name $accent_color $bg_color $txt_color" )
     done
 done
 
