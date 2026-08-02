@@ -283,6 +283,7 @@ cmd/32/basicshapes.right-triangle
 cmd/32/basicshapes.ring
 cmd/32/basicshapes.round-quadrat
 cmd/32/basicshapes.round-rectangle
+cmd/32/basicshapes.sinusoid
 cmd/32/basicshapes.trapezoid
 cmd/32/basicstepinto
 cmd/32/basicstepout
@@ -396,6 +397,7 @@ cmd/32/conditionalformatmenu
 cmd/32/cone
 cmd/32/config
 cmd/32/configuredialog
+cmd/32/connect
 cmd/32/connector
 cmd/32/connectorarrowend
 cmd/32/connectorarrows
@@ -2118,6 +2120,7 @@ cmd/lc_connectorcurvearrowend
 cmd/lc_connectorcurvearrows
 cmd/lc_connectorcurvearrowstart
 cmd/lc_connectorcurvecircleend
+cmd/lc_connectorcurvecircles
 cmd/lc_connectorcurvecircles
 cmd/lc_connectorcurvecirclestart
 cmd/lc_connectorline

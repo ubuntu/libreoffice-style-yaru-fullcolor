@@ -56,7 +56,6 @@ cmd/32/badcellstyles.xxx cmd/32/badcellstyle.xxx
 cmd/32/basicshapes.circle-pie.xxx cmd/32/pie.xxx
 cmd/32/basicshapes.circle.xxx cmd/32/circle.xxx
 cmd/32/basicshapes.ellipse.xxx cmd/32/ellipse.xxx
-cmd/32/basicshapes.frame.xxx cmd/32/rect_unfilled.xxx
 cmd/32/basicshapes.parallelogram.xxx cmd/32/flowchartshapes.flowchart-data.xxx
 cmd/32/basicshapes.xxx cmd/32/graphic.xxx
 cmd/32/basicshapes.quadrat.xxx cmd/32/square.xxx
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.xxx cmd/32/basicshapes.can.xxx
 cmd/32/flowchartshapes.flowchart-manual-operation.xxx cmd/32/basicshapes.trapezoid.xxx
 cmd/32/flowchartshapes.flowchart-merge.xxx cmd/32/fontworkshapetype.fontwork-triangle-down.xxx
 cmd/32/flowchartshapes.flowchart-process.xxx cmd/32/square.xxx
-cmd/32/flowchartshapes.flowchart-punched-tape.xxx cmd/32/fontworkshapetype.fontwork-wave.xxx
-cmd/32/flowchartshapes.xxx cmd/32/flowchartshapes.flowchart-document.xxx
 cmd/32/focustofindbar.xxx cmd/32/recsearch.xxx
 cmd/32/fontcolor.xxx cmd/32/color.xxx
 cmd/32/fontheight.xxx cmd/32/scaletext.xxx
@@ -794,7 +791,6 @@ cmd/lc_badcellstyles.xxx cmd/lc_badcellstyle.xxx
 cmd/lc_basicshapes.circle-pie.xxx cmd/lc_pie.xxx
 cmd/lc_basicshapes.circle.xxx cmd/lc_circle.xxx
 cmd/lc_basicshapes.ellipse.xxx cmd/lc_ellipse.xxx
-cmd/lc_basicshapes.frame.xxx cmd/lc_rect_unfilled.xxx
 cmd/lc_basicshapes.parallelogram.xxx cmd/lc_flowchartshapes.flowchart-data.xxx
 cmd/lc_basicshapes.xxx cmd/lc_graphic.xxx
 cmd/lc_basicshapes.quadrat.xxx cmd/lc_square.xxx
@@ -932,8 +928,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.xxx cmd/lc_basicshapes.can.xxx
 cmd/lc_flowchartshapes.flowchart-manual-operation.xxx cmd/lc_basicshapes.trapezoid.xxx
 cmd/lc_flowchartshapes.flowchart-merge.xxx cmd/lc_fontworkshapetype.fontwork-triangle-down.xxx
 cmd/lc_flowchartshapes.flowchart-process.xxx cmd/lc_square.xxx
-cmd/lc_flowchartshapes.flowchart-punched-tape.xxx cmd/lc_fontworkshapetype.fontwork-wave.xxx
-cmd/lc_flowchartshapes.xxx cmd/lc_flowchartshapes.flowchart-document.xxx
 cmd/lc_focustofindbar.xxx cmd/lc_recsearch.xxx
 cmd/lc_fontcolor.xxx cmd/lc_color.xxx
 cmd/lc_fontheight.xxx cmd/lc_scaletext.xxx
@@ -1341,7 +1335,6 @@ cmd/sc_badcellstyles.xxx cmd/sc_badcellstyle.xxx
 cmd/sc_basicshapes.circle-pie.xxx cmd/sc_pie.xxx
 cmd/sc_basicshapes.circle.xxx cmd/sc_circle.xxx
 cmd/sc_basicshapes.ellipse.xxx cmd/sc_ellipse.xxx
-cmd/sc_basicshapes.frame.xxx cmd/sc_rect_unfilled.xxx
 cmd/sc_basicshapes.parallelogram.xxx cmd/sc_flowchartshapes.flowchart-data.xxx
 cmd/sc_basicshapes.xxx cmd/sc_graphic.xxx
 cmd/sc_basicshapes.quadrat.xxx cmd/sc_square.xxx
@@ -1481,8 +1474,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.xxx cmd/sc_basicshapes.can.xxx
 cmd/sc_flowchartshapes.flowchart-manual-operation.xxx cmd/sc_basicshapes.trapezoid.xxx
 cmd/sc_flowchartshapes.flowchart-merge.xxx cmd/sc_fontworkshapetype.fontwork-triangle-down.xxx
 cmd/sc_flowchartshapes.flowchart-process.xxx cmd/sc_square.xxx
-cmd/sc_flowchartshapes.flowchart-punched-tape.xxx cmd/sc_fontworkshapetype.fontwork-wave.xxx
-cmd/sc_flowchartshapes.xxx cmd/sc_flowchartshapes.flowchart-document.xxx
 cmd/sc_focustofindbar.xxx cmd/sc_recsearch.xxx
 cmd/sc_fontcolor.xxx cmd/sc_color.xxx
 cmd/sc_fontheight.xxx cmd/sc_scaletext.xxx
