@@ -56,7 +56,6 @@ cmd/32/badcellstyles.png cmd/32/badcellstyle.png
 cmd/32/basicshapes.circle-pie.png cmd/32/pie.png
 cmd/32/basicshapes.circle.png cmd/32/circle.png
 cmd/32/basicshapes.ellipse.png cmd/32/ellipse.png
-cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.parallelogram.png cmd/32/flowchartshapes.flowchart-data.png
 cmd/32/basicshapes.png cmd/32/graphic.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.png cmd/32/basicshapes.can.png
 cmd/32/flowchartshapes.flowchart-manual-operation.png cmd/32/basicshapes.trapezoid.png
 cmd/32/flowchartshapes.flowchart-merge.png cmd/32/fontworkshapetype.fontwork-triangle-down.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
-cmd/32/flowchartshapes.flowchart-punched-tape.png cmd/32/fontworkshapetype.fontwork-wave.png
-cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-document.png
 cmd/32/focustofindbar.png cmd/32/recsearch.png
 cmd/32/fontcolor.png cmd/32/color.png
 cmd/32/fontheight.png cmd/32/scaletext.png
@@ -794,7 +791,6 @@ cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
 cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
 cmd/lc_basicshapes.circle.png cmd/lc_circle.png
 cmd/lc_basicshapes.ellipse.png cmd/lc_ellipse.png
-cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
 cmd/lc_basicshapes.png cmd/lc_graphic.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
@@ -932,8 +928,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
 cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
 cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
 cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
-cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
-cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-document.png
 cmd/lc_focustofindbar.png cmd/lc_recsearch.png
 cmd/lc_fontcolor.png cmd/lc_color.png
 cmd/lc_fontheight.png cmd/lc_scaletext.png
@@ -1341,7 +1335,6 @@ cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_basicshapes.circle-pie.png cmd/sc_pie.png
 cmd/sc_basicshapes.circle.png cmd/sc_circle.png
 cmd/sc_basicshapes.ellipse.png cmd/sc_ellipse.png
-cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
 cmd/sc_basicshapes.png cmd/sc_graphic.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
@@ -1481,8 +1474,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
 cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
 cmd/sc_flowchartshapes.flowchart-merge.png cmd/sc_fontworkshapetype.fontwork-triangle-down.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
-cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
-cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-document.png
 cmd/sc_focustofindbar.png cmd/sc_recsearch.png
 cmd/sc_fontcolor.png cmd/sc_color.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png

@@ -21,17 +21,41 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="33.458333"
-     inkscape:cx="11.985056"
-     inkscape:cy="12"
+     inkscape:cx="8.26401"
+     inkscape:cy="9.5790786"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <path
      d="M 12.025391,2 C 6.4889451,2 1.9882812,6.4820098 1.9882812,12 c 0,5.517991 4.500664,10 10.0371098,10 5.136905,0 9.373095,-3.861308 9.958984,-8.828125 L 22.011719,12.949219 12.25,2 Z M 11.835938,3.0371094 20.933594,13.242188 C 20.317932,17.615628 16.592335,21 12.025391,21 7.0272733,21 2.9882812,16.975433 2.9882812,12 c 0,-4.9085403 3.9427229,-8.856679 8.8476568,-8.9628906 z"
-     fill="#0000ff"
+     fill="#00ff00"
      id="path1"
      sodipodi:nodetypes="ssscccsccssc" />
+  <g
+     id="svg2-0"
+     transform="translate(3,-3)">
+    <path
+       style="opacity:0.5;fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5,13 6,6"
+       id="path2" />
+  </g>
 </svg>

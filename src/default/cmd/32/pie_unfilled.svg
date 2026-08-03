@@ -20,17 +20,37 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="25.09375"
-     inkscape:cx="15.980075"
-     inkscape:cy="16"
+     inkscape:zoom="17.743961"
+     inkscape:cx="1.7752519"
+     inkscape:cy="14.51198"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <path
      d="m 16.5,5.5000002 c -6.9016198,0 -12.9964891,4.8441688 -12.9964891,10.3650778 0,5.520908 5.5948687,10.634923 12.4964891,10.634923 6.90162,0 12.496489,-4.479296 12.496489,-10.000204 L 16.5,16.500203 Z"
      id="path2"
-     style="fill:none;stroke:#0000ff;stroke-width:1.00702;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#00ff00;stroke-width:1.00702;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     style="opacity:0.5;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 9,15 8,8"
+     id="path2-4" />
 </svg>

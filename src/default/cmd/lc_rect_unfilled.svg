@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="33.458333"
-     inkscape:cx="11.985056"
+     inkscape:cx="11.970112"
      inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -30,10 +30,18 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
-     fill="#0000ff"
+     fill="#00ff00"
      id="g2">
     <path
        d="m2.5 4a.50005.50005 0 0 0 -.5.5v15a.50005.50005 0 0 0 .5.5h19a.50005.50005 0 0 0 .5-.5v-15a.50005.50005 0 0 0 -.5-.5zm.5 1h18v14h-18z"
        id="path1" />
+  </g>
+  <g
+     id="svg2-0"
+     transform="translate(4,-4)">
+    <path
+       style="opacity:0.5;fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5,13 6,6"
+       id="path2" />
   </g>
 </svg>

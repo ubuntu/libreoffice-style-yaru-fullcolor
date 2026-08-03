@@ -20,18 +20,34 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="33.458333"
-     inkscape:cx="11.985056"
-     inkscape:cy="12"
+     inkscape:zoom="23.658614"
+     inkscape:cx="4.353594"
+     inkscape:cy="10.968521"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <g
      fill="none"
-     stroke="#0000ff"
+     stroke="#00ff00"
      stroke-linecap="round"
      stroke-linejoin="round"
      id="g2">
@@ -40,4 +56,8 @@
        stroke-width="1.02448"
        id="path2" />
   </g>
+  <path
+     style="opacity:0.5;fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6,11 6,6"
+     id="path2-6" />
 </svg>

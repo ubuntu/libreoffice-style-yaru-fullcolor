@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="25.09375"
-     inkscape:cx="15.980075"
+     inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -32,5 +32,9 @@
   <path
      d="m 16,3 c -7.1719977,3e-7 -12.9999923,5.8279962 -13,13 7.7e-6,7.172004 5.8280023,13 13,13 7.171997,0 12.999992,-5.827996 13,-13 -8e-6,-7.1720038 -5.828003,-12.9999997 -13,-13 z m 0,1 A 12,12 0 0 1 28,16 12,12 0 0 1 16,28 12,12 0 0 1 4,16 12,12 0 0 1 16,4 Z"
      id="path1"
-     fill="#0000ff" />
+     fill="#00ff00" />
+  <path
+     style="opacity:0.5;fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 12,12 8,8"
+     id="path2" />
 </svg>

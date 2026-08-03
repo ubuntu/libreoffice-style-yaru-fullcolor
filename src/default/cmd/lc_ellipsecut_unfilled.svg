@@ -20,26 +20,50 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="33.458333"
-     inkscape:cx="11.985056"
-     inkscape:cy="12"
+     inkscape:zoom="16.729167"
+     inkscape:cx="-0.74719801"
+     inkscape:cy="9.2951433"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <g
      fill="none"
-     stroke="#0000ff"
+     stroke="#00ff00"
      stroke-linecap="round"
      stroke-linejoin="round"
      id="g2"
-     style="stroke:#0000ff">
+     style="stroke:#00ff00">
     <path
        d="m12 4.5122401c-5.2399451 0-9.4877599 3.3523843-9.4877599 7.4877599 0 4.135375 4.2478148 7.48776 9.4877599 7.48776 5.239945 0 9.48776-3.352385 9.48776-7.48776z"
        stroke-width="1.024"
        id="path1"
-       style="stroke:#0000ff" />
+       style="stroke:#00ff00" />
+  </g>
+  <g
+     id="svg2-0"
+     transform="translate(3,-3)">
+    <path
+       style="opacity:0.5;fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5,13 6,6"
+       id="path2" />
   </g>
 </svg>

@@ -56,7 +56,6 @@ cmd/32/badcellstyles.svg cmd/32/badcellstyle.svg
 cmd/32/basicshapes.circle-pie.svg cmd/32/pie.svg
 cmd/32/basicshapes.circle.svg cmd/32/circle.svg
 cmd/32/basicshapes.ellipse.svg cmd/32/ellipse.svg
-cmd/32/basicshapes.frame.svg cmd/32/rect_unfilled.svg
 cmd/32/basicshapes.parallelogram.svg cmd/32/flowchartshapes.flowchart-data.svg
 cmd/32/basicshapes.svg cmd/32/graphic.svg
 cmd/32/basicshapes.quadrat.svg cmd/32/square.svg
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.svg cmd/32/basicshapes.can.svg
 cmd/32/flowchartshapes.flowchart-manual-operation.svg cmd/32/basicshapes.trapezoid.svg
 cmd/32/flowchartshapes.flowchart-merge.svg cmd/32/fontworkshapetype.fontwork-triangle-down.svg
 cmd/32/flowchartshapes.flowchart-process.svg cmd/32/square.svg
-cmd/32/flowchartshapes.flowchart-punched-tape.svg cmd/32/fontworkshapetype.fontwork-wave.svg
-cmd/32/flowchartshapes.svg cmd/32/flowchartshapes.flowchart-document.svg
 cmd/32/focustofindbar.svg cmd/32/recsearch.svg
 cmd/32/fontcolor.svg cmd/32/color.svg
 cmd/32/fontheight.svg cmd/32/scaletext.svg
@@ -794,7 +791,6 @@ cmd/lc_badcellstyles.svg cmd/lc_badcellstyle.svg
 cmd/lc_basicshapes.circle-pie.svg cmd/lc_pie.svg
 cmd/lc_basicshapes.circle.svg cmd/lc_circle.svg
 cmd/lc_basicshapes.ellipse.svg cmd/lc_ellipse.svg
-cmd/lc_basicshapes.frame.svg cmd/lc_rect_unfilled.svg
 cmd/lc_basicshapes.parallelogram.svg cmd/lc_flowchartshapes.flowchart-data.svg
 cmd/lc_basicshapes.svg cmd/lc_graphic.svg
 cmd/lc_basicshapes.quadrat.svg cmd/lc_square.svg
@@ -932,8 +928,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.svg cmd/lc_basicshapes.can.svg
 cmd/lc_flowchartshapes.flowchart-manual-operation.svg cmd/lc_basicshapes.trapezoid.svg
 cmd/lc_flowchartshapes.flowchart-merge.svg cmd/lc_fontworkshapetype.fontwork-triangle-down.svg
 cmd/lc_flowchartshapes.flowchart-process.svg cmd/lc_square.svg
-cmd/lc_flowchartshapes.flowchart-punched-tape.svg cmd/lc_fontworkshapetype.fontwork-wave.svg
-cmd/lc_flowchartshapes.svg cmd/lc_flowchartshapes.flowchart-document.svg
 cmd/lc_focustofindbar.svg cmd/lc_recsearch.svg
 cmd/lc_fontcolor.svg cmd/lc_color.svg
 cmd/lc_fontheight.svg cmd/lc_scaletext.svg
@@ -1341,7 +1335,6 @@ cmd/sc_badcellstyles.svg cmd/sc_badcellstyle.svg
 cmd/sc_basicshapes.circle-pie.svg cmd/sc_pie.svg
 cmd/sc_basicshapes.circle.svg cmd/sc_circle.svg
 cmd/sc_basicshapes.ellipse.svg cmd/sc_ellipse.svg
-cmd/sc_basicshapes.frame.svg cmd/sc_rect_unfilled.svg
 cmd/sc_basicshapes.parallelogram.svg cmd/sc_flowchartshapes.flowchart-data.svg
 cmd/sc_basicshapes.svg cmd/sc_graphic.svg
 cmd/sc_basicshapes.quadrat.svg cmd/sc_square.svg
@@ -1481,8 +1474,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.svg cmd/sc_basicshapes.can.svg
 cmd/sc_flowchartshapes.flowchart-manual-operation.svg cmd/sc_basicshapes.trapezoid.svg
 cmd/sc_flowchartshapes.flowchart-merge.svg cmd/sc_fontworkshapetype.fontwork-triangle-down.svg
 cmd/sc_flowchartshapes.flowchart-process.svg cmd/sc_square.svg
-cmd/sc_flowchartshapes.flowchart-punched-tape.svg cmd/sc_fontworkshapetype.fontwork-wave.svg
-cmd/sc_flowchartshapes.svg cmd/sc_flowchartshapes.flowchart-document.svg
 cmd/sc_focustofindbar.svg cmd/sc_recsearch.svg
 cmd/sc_fontcolor.svg cmd/sc_color.svg
 cmd/sc_fontheight.svg cmd/sc_scaletext.svg

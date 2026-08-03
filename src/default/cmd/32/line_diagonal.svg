@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="25.09375"
-     inkscape:cx="15.980075"
+     inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -31,23 +31,23 @@
      inkscape:current-layer="svg3" />
   <g
      fill="none"
-     stroke="#0000ff"
+     stroke="#00ff00"
      stroke-linecap="round"
      id="g3"
-     style="stroke:#0000ff">
+     style="stroke:#00ff00">
     <path
        d="m3.5 28.5 25-25"
        stroke-linejoin="round"
        id="path1"
-       style="stroke:#0000ff" />
+       style="stroke:#00ff00" />
     <path
        d="m19.5 25.5c.204006-2.612987-.703787-5.069358-3-7"
        id="path2"
-       style="stroke:#0000ff" />
+       style="stroke:#00ff00;opacity:0.5" />
     <path
        d="m3.5 28.5h25"
        stroke-linejoin="round"
        id="path3"
-       style="stroke:#0000ff" />
+       style="stroke:#00ff00" />
   </g>
 </svg>

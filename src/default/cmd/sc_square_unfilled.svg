@@ -29,11 +29,16 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="svg2" />
 
+
 /&amp;amp;gt;<g
-   fill="#0000ff"
+   fill="#00ff00"
    id="g2">
   <path
      d="m.5 0a.50005.50005 0 0 0 -.5.5v15a.50005.50005 0 0 0 .5.5h15a.50005.50005 0 0 0 .5-.5v-15a.50005.50005 0 0 0 -.5-.5zm.5 1h14v14h-14z"
      id="path1" />
 </g>
+<path
+   style="opacity:0.5;fill:none;stroke:#00ff00;stroke-linecap:round;stroke-linejoin:round"
+   d="m 5,5 6,6"
+   id="path2" />
 </svg>
