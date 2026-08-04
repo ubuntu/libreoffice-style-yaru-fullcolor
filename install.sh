@@ -20,16 +20,19 @@
 ##
 ## options:
 ##      -u, --uninstall   Uninstall this icon pack [default: 0]
+##      -v, --variant <name> Only install or uninstall this variant; repeat to select multiple variants
 
 # CLInt GENERATED_CODE: start
 # Default values
 _uninstall=0
+_requested_variants=()
 
 # Converting long-options into short ones
 for arg in "$@"; do
   shift
   case "$arg" in
 "--uninstall") set -- "$@" "-u";;
+"--variant") set -- "$@" "-v";;
   *) set -- "$@" "$arg"
   esac
 done
@@ -39,11 +42,12 @@ function print_illegal() {
 }
 
 # Parsing flags and arguments
-while getopts 'hu' OPT; do
+while getopts 'huv:' OPT; do
     case $OPT in
         h) sed -ne 's/^## \(.*\)/\1/p' $0
            exit 1 ;;
         u) _uninstall=1 ;;
+        v) _requested_variants+=( "$OPTARG" ) ;;
         \?) print_illegal $@ >&2;
             echo "---"
             sed -ne 's/^## \(.*\)/\1/p' $0
@@ -111,9 +115,60 @@ for accent in "${accents[@]}"; do
     done
 done
 
+if (( ${#_requested_variants[@]} > 0 )); then
+    filtered_variants=()
+    unknown_variants=()
+    declare -A selected_variant_names=()
+
+    for requested_variant in "${_requested_variants[@]}"; do
+        variant_found=0
+        for variant in "${variants[@]}"; do
+            read -r variant_name _ <<< "$variant"
+            if [[ $variant_name == "$requested_variant" ]]; then
+                selected_variant_names["$variant_name"]=1
+                variant_found=1
+                break
+            fi
+        done
+        if [[ $variant_found == 0 ]]; then
+            unknown_variants+=( "$requested_variant" )
+        fi
+    done
+
+    if (( ${#unknown_variants[@]} > 0 )); then
+        printf 'Error: unknown variant(s):' >&2
+        printf ' %s' "${unknown_variants[@]}" >&2
+        printf '\n' >&2
+        printf 'Available variants:' >&2
+        for variant in "${variants[@]}"; do
+            read -r variant_name _ <<< "$variant"
+            printf ' %s' "$variant_name" >&2
+        done
+        printf '\n' >&2
+        exit 1
+    fi
+
+    for variant in "${variants[@]}"; do
+        read -r variant_name _ <<< "$variant"
+        if [[ -n ${selected_variant_names[$variant_name]+x} ]]; then
+            filtered_variants+=( "$variant" )
+        fi
+    done
+
+    variants=( "${filtered_variants[@]}" )
+fi
+
 ###################################################
 # FUNCTIONS
 ###################################################
+
+function get_theme_name() {
+	if [[ $1 == "default" ]]; then
+		echo "images_yaru"
+	else
+		echo "images_yaru_$1"
+	fi
+}
 
 function uninstall() {
 	for dir in \
@@ -123,15 +178,12 @@ function uninstall() {
 	  /usr/local/lib/libreoffice/share/config \
 	  /opt/libreoffice*/share/config; do
 	  	[ -d "$dir" ] || continue
-		for accent in "${accents[@]}"; do
-			if [[ $accent == "default" ]]; then
-				theme_name="yaru"
-			else
-				theme_name="yaru_${accent}"
-			fi
+		for variant in "${variants[@]}"; do
+			read -r variant_name _ <<< "$variant"
+			theme_name=$(get_theme_name "$variant_name")
 
-			sudo rm -f -v "$dir/images_${theme_name}.zip"
-			sudo rm -f -v "$dir/images_${theme_name}_svg.zip"
+			sudo rm -f -v "$dir/${theme_name}.zip"
+			sudo rm -f -v "$dir/${theme_name}_svg.zip"
 		done
 	done
 }
@@ -140,14 +192,8 @@ function install() {
 	sudo mkdir -p -v "/usr/share/libreoffice/share/config"
 
 	for variant in "${variants[@]}"; do
-		variant=( $variant )
-        variant_name=${variant[0]}
-
-        if [[ $variant_name == "default" ]]; then
-            theme_name="images_yaru"
-        else
-            theme_name="images_yaru_${variant_name}"
-        fi
+		read -r variant_name _ <<< "$variant"
+		theme_name=$(get_theme_name "$variant_name")
 
 		sudo cp -v "dist/${theme_name}.zip" "/usr/share/libreoffice/share/config/${theme_name}.zip"
 		sudo cp -v "dist/${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/${theme_name}_svg.zip"
@@ -166,6 +212,16 @@ function install() {
 	done
 }
 
+function clear_cache() {
+    for dir in \
+    ~/.config/libreoffice/4/cache \
+    ~/.config/libreoffice/3/cache \
+    ~/.libreoffice/3/cache; do
+        [ -d "$dir" ] || continue
+        sudo rm -f -r "$dir"
+    done
+}
+
 ###################################################
 # MAIN 
 ###################################################
@@ -178,7 +234,14 @@ then
 
 	echo -e "\n=> 🎉 Finish\n"
 else
-	./build.sh --zip
+	build_args=( --zip )
+	if (( ${#_requested_variants[@]} > 0 )); then
+		for variant in "${variants[@]}"; do
+			read -r variant_name _ <<< "$variant"
+			build_args+=( --variant "$variant_name" )
+		done
+	fi
+	./build.sh "${build_args[@]}"
 
 	if [[ $? -ne 0 ]]; then
 	    exit 1
@@ -191,6 +254,10 @@ else
 	echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
 
 	install
+
+	echo -e "\n=> 🧹 Clear icon cache\n"
+
+	clear_cache
 
 	echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
 fi

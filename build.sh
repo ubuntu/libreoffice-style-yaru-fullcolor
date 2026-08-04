@@ -25,6 +25,7 @@
 ##      -l, --links          Generate "links.txt" files [default: 0]
 ##      -z, --zip            Generate ZIP archives [default: 0]
 ##      -e, --oxt            Generate OXT extension archives [default: 0]
+##      -v, --variant <name> Only process this variant; repeat to select multiple variants
 
 set -e
 
@@ -35,6 +36,7 @@ _watch=0
 _links=0
 _zip=0
 _oxt=0
+_requested_variants=()
 
 # No-arguments is not allowed
 [ $# -eq 0 ] && sed -ne 's/^## \(.*\)/\1/p' $0 && exit 1
@@ -49,6 +51,7 @@ for arg in "$@"; do
 "--links") set -- "$@" "-l";;
 "--zip") set -- "$@" "-z";;
 "--oxt") set -- "$@" "-e";;
+"--variant") set -- "$@" "-v";;
   *) set -- "$@" "$arg"
   esac
 done
@@ -58,7 +61,7 @@ function print_illegal() {
 }
 
 # Parsing flags and arguments
-while getopts 'hawlzef:' OPT; do
+while getopts 'hawlzev:f:' OPT; do
     case $OPT in
         h) sed -ne 's/^## \(.*\)/\1/p' $0
            exit 1 ;;
@@ -67,6 +70,7 @@ while getopts 'hawlzef:' OPT; do
         l) _links=1 ;;
         z) _zip=1 ;;
         e) _oxt=1 ;;
+        v) _requested_variants+=( "$OPTARG" ) ;;
         f) _file=$OPTARG ;;
         \?) print_illegal $@ >&2;
             echo "---"
@@ -134,6 +138,49 @@ for accent in "${accents[@]}"; do
         variants+=( "$variant_name $accent_color $bg_color $txt_color" )
     done
 done
+
+if (( ${#_requested_variants[@]} > 0 )); then
+    filtered_variants=()
+    unknown_variants=()
+    declare -A selected_variant_names=()
+
+    for requested_variant in "${_requested_variants[@]}"; do
+        variant_found=0
+        for variant in "${variants[@]}"; do
+            read -r variant_name _ <<< "$variant"
+            if [[ $variant_name == "$requested_variant" ]]; then
+                selected_variant_names["$variant_name"]=1
+                variant_found=1
+                break
+            fi
+        done
+        if [[ $variant_found == 0 ]]; then
+            unknown_variants+=( "$requested_variant" )
+        fi
+    done
+
+    if (( ${#unknown_variants[@]} > 0 )); then
+        printf 'Error: unknown variant(s):' >&2
+        printf ' %s' "${unknown_variants[@]}" >&2
+        printf '\n' >&2
+        printf 'Available variants:' >&2
+        for variant in "${variants[@]}"; do
+            read -r variant_name _ <<< "$variant"
+            printf ' %s' "$variant_name" >&2
+        done
+        printf '\n' >&2
+        exit 1
+    fi
+
+    for variant in "${variants[@]}"; do
+        read -r variant_name _ <<< "$variant"
+        if [[ -n ${selected_variant_names[$variant_name]+x} ]]; then
+            filtered_variants+=( "$variant" )
+        fi
+    done
+
+    variants=( "${filtered_variants[@]}" )
+fi
 
 # Bash arrays cannot be exported to the workers created by GNU parallel.
 # Serialize the small variant list once instead of rebuilding it for every icon.
