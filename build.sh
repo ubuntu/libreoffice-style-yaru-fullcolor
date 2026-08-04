@@ -85,102 +85,10 @@ done
 # POPULATE VARIANTS COLORS
 ###################################################
 
-function read_map_file() {
-    local line
-    local splitedline
-    local n=0
-    local expected_fields=$2
+source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
-    while IFS= read -r line; do
-        n=$((n+1))
-        [[ -z "$line" || "$line" =~ ^# ]] && continue
-
-        read -ra splitedline <<< "$line"
-        if (( ${#splitedline[@]} != expected_fields )); then
-            echo "Error in \"$1\": $line (line $n)" >&2
-            exit 1
-        fi
-        printf '%s\n' "$line"
-    done < $1
-}
-
-output=$(read_map_file "src/accents.txt" 2)
-mapfile -t accents <<< "$output"
-
-output=$(read_map_file "src/brightness.txt" 3)
-mapfile -t brightness <<< "$output"
-
-# Should be an array of:
-# variant_name accent_color bg_color txt_color
-variants=()
-
-for accent in "${accents[@]}"; do
-    accent=( $accent )
-    accent_name=${accent[0]}
-    accent_color=${accent[1]}
-
-    for bness in "${brightness[@]}"; do
-        bness=( $bness )
-        brightness_name=${bness[0]}
-        bg_color=${bness[1]}
-        txt_color=${bness[2]}
-
-        variant_name=''
-
-        if [[ $brightness_name == 'default' ]]; then
-            variant_name=$accent_name
-        elif [[ $accent_name == 'default' && $brightness_name != 'default' ]]; then
-            variant_name=$brightness_name
-        else
-            variant_name="${accent_name}_${brightness_name}"
-        fi
-
-        variants+=( "$variant_name $accent_color $bg_color $txt_color" )
-    done
-done
-
-if (( ${#_requested_variants[@]} > 0 )); then
-    filtered_variants=()
-    unknown_variants=()
-    declare -A selected_variant_names=()
-
-    for requested_variant in "${_requested_variants[@]}"; do
-        variant_found=0
-        for variant in "${variants[@]}"; do
-            read -r variant_name _ <<< "$variant"
-            if [[ $variant_name == "$requested_variant" ]]; then
-                selected_variant_names["$variant_name"]=1
-                variant_found=1
-                break
-            fi
-        done
-        if [[ $variant_found == 0 ]]; then
-            unknown_variants+=( "$requested_variant" )
-        fi
-    done
-
-    if (( ${#unknown_variants[@]} > 0 )); then
-        printf 'Error: unknown variant(s):' >&2
-        printf ' %s' "${unknown_variants[@]}" >&2
-        printf '\n' >&2
-        printf 'Available variants:' >&2
-        for variant in "${variants[@]}"; do
-            read -r variant_name _ <<< "$variant"
-            printf ' %s' "$variant_name" >&2
-        done
-        printf '\n' >&2
-        exit 1
-    fi
-
-    for variant in "${variants[@]}"; do
-        read -r variant_name _ <<< "$variant"
-        if [[ -n ${selected_variant_names[$variant_name]+x} ]]; then
-            filtered_variants+=( "$variant" )
-        fi
-    done
-
-    variants=( "${filtered_variants[@]}" )
-fi
+load_variants
+filter_variants "${_requested_variants[@]}"
 
 # Bash arrays cannot be exported to the workers created by GNU parallel.
 # Serialize the small variant list once instead of rebuilding it for every icon.
@@ -379,11 +287,7 @@ function generate_zip() {
         variant=( $variant )
         variant_name=${variant[0]}
 
-        if [[ $variant_name == "default" ]]; then
-            archive_filename="images_yaru"
-        else
-            archive_filename="images_yaru_${variant_name}"
-        fi
+        archive_filename=$(get_theme_name "$variant_name")
 
         echo "=> 📦 Zip ${variant_name} svg icons"
         cd "build/${variant_name}/svg"
@@ -414,14 +318,13 @@ function generate_oxt() {
         variant_name=${variant[0]}
         accent_color=${variant[1]}
 
+        archive_filename=$(get_theme_name "$variant_name")
         if [[ $variant_name == "default" ]]; then
             accent_color="e95420"
-            archive_filename="images_yaru"
             oxt_filename="yaru-theme"
             oxt_title="Yaru icon theme"
             oxt_identifier="org.iconset.Yaru"
         else
-            archive_filename="images_yaru_${variant_name}"
             oxt_filename="yaru-${variant_name}-theme"
             oxt_title="Yaru icon theme (${variant_name} variant)"
             oxt_identifier="org.iconset.Yaru-${variant_name}"

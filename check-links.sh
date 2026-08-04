@@ -27,62 +27,12 @@ then
 fi
 
 ###################################################
-# POPULATE ACCENT COLORS
+# POPULATE VARIANTS COLORS
 ###################################################
 
-function read_map_file() {
-    local line
-    local splitedline
-    local n=0
-    local expected_fields=$2
+source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
-    while IFS= read -r line; do
-        n=$((n+1))
-        [[ -z "$line" || "$line" =~ ^# ]] && continue
-
-        read -ra splitedline <<< "$line"
-        if (( ${#splitedline[@]} != expected_fields )); then
-            echo "Error in \"$1\": $line (line $n)" >&2
-            exit 1
-        fi
-        printf '%s\n' "$line"
-    done < $1
-}
-
-output=$(read_map_file "src/accents.txt" 2)
-mapfile -t accents <<< "$output"
-
-output=$(read_map_file "src/brightness.txt" 3)
-mapfile -t brightness <<< "$output"
-
-# Should be an array of:
-# variant_name accent_color bg_color txt_color
-variants=()
-
-for accent in "${accents[@]}"; do
-    accent=( $accent )
-    accent_name=${accent[0]}
-    accent_color=${accent[1]}
-
-    for bness in "${brightness[@]}"; do
-        bness=( $bness )
-        brightness_name=${bness[0]}
-        bg_color=${bness[1]}
-        txt_color=${bness[2]}
-
-        variant_name=''
-
-        if [[ $brightness_name == 'default' ]]; then
-            variant_name=$accent_name
-        elif [[ $accent_name == 'default' && $brightness_name != 'default' ]]; then
-            variant_name=$brightness_name
-        else
-            variant_name="${accent_name}_${brightness_name}"
-        fi
-
-        variants+=( "$variant_name $accent_color $bg_color $txt_color" )
-    done
-done
+load_variants || exit 1
 
 ###################################################
 # FUNCTIONS
