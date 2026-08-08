@@ -1,1 +1,67 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m21.50505 21.49495-18.9999999-19.0000001" fill="none" stroke="#00ff00" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="2.0"
+   id="svg1"
+   sodipodi:docname="lc_line.svg"
+   standalone="no"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="35.287752"
+     inkscape:cx="10.839455"
+     inkscape:cy="10.75444"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.5"
+       spacingy="0.5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ff00;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-opacity:1;opacity:1"
+     d="M 3.5 2 A 1.5 1.5 0 0 0 2 3.5 A 1.5 1.5 0 0 0 3.5 5 A 1.5 1.5 0 0 0 4.1464844 4.8535156 L 19.146484 19.853516 A 1.5 1.5 0 0 0 19 20.5 A 1.5 1.5 0 0 0 20.5 22 A 1.5 1.5 0 0 0 22 20.5 A 1.5 1.5 0 0 0 20.5 19 A 1.5 1.5 0 0 0 19.853516 19.146484 L 4.8535156 4.1464844 A 1.5 1.5 0 0 0 5 3.5 A 1.5 1.5 0 0 0 3.5 2 z " />
+</svg>
