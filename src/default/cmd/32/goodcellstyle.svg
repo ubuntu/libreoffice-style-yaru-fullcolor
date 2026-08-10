@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
-   version="1.1"
+   version="2.0"
    id="svg6"
    sodipodi:docname="goodcellstyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_goodcellstyle.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
    width="32"
-   height="32">
+   height="32"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -26,34 +26,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient837">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop833" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop835" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient837"
-       id="linearGradient839"
-       x1="25"
-       y1="5"
-       x2="25"
-       y2="27"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -64,35 +42,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1048"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="16.507837"
-     inkscape:cy="18.361801"
+     inkscape:zoom="11.877367"
+     inkscape:cx="-4.672753"
+     inkscape:cy="12.502772"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path840"
-     style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linejoin:round"
-     d="m 23,5 -9.193359,9.193359 2.830078,2.828125 L 23,10.65625 V 27 h 4 V 5 Z"
-     sodipodi:nodetypes="cccccccc" />
+     d="M 23.835498,28.000002 V 7.809546 q -0.484848,0.51948 -1.38528,1.108224 -0.900432,0.588744 -1.974024,1.142856 -1.073592,0.51948 -2.147184,0.8658 L 17.567106,8.91777 q 2.07792,-0.727272 3.740256,-1.870128 1.696968,-1.142856 3.29004,-3.047616 h 1.835496 v 23.999976 z"
+     id="text1"
+     style="font-size:34.632px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-caps:small-caps;fill:#0000ff;stroke-width:2.03463;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="1" />
   <path
-     d="m 5,12 v 3 H 2 v 2 h 3 v 3 h 2 v -3 h 3 V 15 H 7 v -3 z"
-     id="path4-1"
-     inkscape:connector-curvature="0"
-     style="fill:#0e8420"
-     sodipodi:nodetypes="ccccccccccccc" />
-  <path
-     id="rect833"
-     style="opacity:1;fill:url(#linearGradient839);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2"
-     d="m 23,5 -9.193359,9.193359 2.830078,2.828125 L 23,10.65625 V 27 h 4 V 5 Z"
-     sodipodi:nodetypes="cccccccc" />
+     id="text1-6"
+     style="font-size:33.8983px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-caps:small-caps;fill:#0e8420;fill-opacity:1;stroke-width:1.99152;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7 14 L 7 17 L 4 17 L 4 19 L 7 19 L 7 22 L 9 22 L 9 19 L 12 19 L 12 17 L 9 17 L 9 14 L 7 14 z " />
 </svg>

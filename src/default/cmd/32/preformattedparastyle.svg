@@ -3,16 +3,16 @@
    height="32"
    viewBox="0 0 32 32"
    width="32"
-   version="1.1"
+   version="2.0"
    id="svg6"
    sodipodi:docname="preformattedparastyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/preformattedparastyle.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   standalone="no"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -30,29 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient846">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop842" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop844" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient846"
-       id="linearGradient848"
-       x1="14"
-       y1="5"
-       x2="14.175536"
-       y2="23.992188"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -63,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1048"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -74,17 +52,18 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
-  <path
-     sodipodi:nodetypes="cccccccccccccc"
-     style="fill:#000000;stroke-width:2;stroke:#ffffff;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path824"
-     d="M 17.471531,4.9921406 12.380788,23.992188 h 1.794748 L 19.327005,5.0056342 Z M 9.6785427,8.4466949 4.5641842,13.878171 4.0041685,14.478668 4.5641842,15.075793 9.6481806,20.537633 10.882914,19.34001 6.3555587,14.478668 10.913276,9.6476909 Z" />
   <path
      d="m 25,15 c -2.209139,0 -4,1.790853 -4,4 0,2.209147 1.790861,4 4,4 v 3 1 1 h 1 V 16 h 1 v 12 h 1 V 15 h -2 z"
      id="path2"
@@ -95,6 +74,6 @@
      d="M 17.471531,4.9921406 12.380788,23.992188 h 1.794748 L 19.327005,5.0056342 Z M 9.6785427,8.4466949 4.5641842,13.878171 4.0041685,14.478668 4.5641842,15.075793 9.6481806,20.537633 10.882914,19.34001 6.3555587,14.478668 10.913276,9.6476909 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient848);stroke-width:1.72727704;stroke:none;fill-opacity:1"
+     style="fill:#0000ff;stroke-width:1.72727704;stroke:none;fill-opacity:1"
      sodipodi:nodetypes="cccccccccccccc" />
 </svg>

@@ -3,16 +3,16 @@
    height="32"
    viewBox="0 0 32 32"
    width="32"
-   version="1.1"
+   version="2.0"
    id="svg8"
    sodipodi:docname="quoteparastyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/quoteparastyle.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   standalone="no"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -30,29 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient840">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop836" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop838" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient840"
-       id="linearGradient842"
-       x1="14"
-       y1="4"
-       x2="14"
-       y2="27"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -63,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1048"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -74,19 +52,18 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid821" />
+       id="grid821"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
-  <path
-     id="path833"
-     d="M 14 4 A 8.2196954 10.341016 24.817732 0 0 4 14 A 8.2196954 10.341016 24.817732 0 0 11 24 A 8.2196954 10.341016 24.817732 0 0 11.390625 23.976562 L 13 28 L 16 28 L 14.132812 23.330078 A 8.2196954 10.341016 24.817732 0 0 21 14 A 8.2196954 10.341016 24.817732 0 0 14 4 z M 13.550781 7 A 5.3565196 7.1875029 19.896797 0 1 18 14 A 5.3565196 7.1875029 19.896797 0 1 11.449219 21 A 5.3565196 7.1875029 19.896797 0 1 7 14 A 5.3565196 7.1875029 19.896797 0 1 13.550781 7 z "
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     style="opacity:1;fill:url(#linearGradient842);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 14 4 A 8.2196954 10.341016 24.817732 0 0 4 14 A 8.2196954 10.341016 24.817732 0 0 11 24 A 8.2196954 10.341016 24.817732 0 0 11.390625 23.976562 L 13 28 L 16 28 L 14.132812 23.330078 A 8.2196954 10.341016 24.817732 0 0 21 14 A 8.2196954 10.341016 24.817732 0 0 14 4 z M 13.550781 7 A 5.3565196 7.1875029 19.896797 0 1 18 14 A 5.3565196 7.1875029 19.896797 0 1 11.449219 21 A 5.3565196 7.1875029 19.896797 0 1 7 14 A 5.3565196 7.1875029 19.896797 0 1 13.550781 7 z "
-     id="path823" />
   <path
      style="fill:#00ff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="m 21,20 h 3 l -1,6 h -1 z"
@@ -97,4 +74,15 @@
      id="path839"
      d="m 26,20 h 3 l -1,6 h -1 z"
      style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:26.8757px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:none;fill:#0000ff;stroke:none;stroke-width:2.15901;stroke-linecap:round;stroke-linejoin:round"
+     x="1.3605602"
+     y="23.028005"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="1.3605602"
+       y="23.028005"
+       style="stroke-width:2.15901">Q</tspan></text>
 </svg>

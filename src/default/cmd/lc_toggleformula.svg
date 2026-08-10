@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 24 24"
-   version="1.1"
+   version="2.0"
    id="svg4"
    sodipodi:docname="lc_toggleformula.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_dbviewfunctions.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
+   standalone="no"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,30 +29,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient839">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop835" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop837" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient839"
-       id="linearGradient847"
-       gradientUnits="userSpaceOnUse"
-       x1="13"
-       y1="3"
-       x2="13"
-       y2="20"
-       gradientTransform="translate(0.71618506,0.57161655)" />
-  </defs>
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -63,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1048"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
@@ -97,13 +74,17 @@
        originy="0"
        units="px" />
   </sodipodi:namedview>
-  <path
-     style="fill:url(#linearGradient847);fill-opacity:1"
-     d="m 15.066268,14.00083 -1.065355,1.055597 2.450667,2.425283 -2.450736,2.425351 1.065648,1.055891 2.450738,-2.425352 2.44852,2.425086 1.065354,-1.055597 -2.450472,-2.425087 2.450703,-2.425303 -1.06565,-1.055892 -2.448743,2.42531 z"
-     id="path845"
-     sodipodi:nodetypes="ccccccccccccc" />
-  <path
-     id="path2"
-     style="fill:#0000ff;fill-opacity:1"
-     d="M 11 3 C 8 3 7 4 7 7 L 7 9 L 5 9 L 5 11 L 7 11 L 7 20 L 9 20 L 9 11 L 11 11 L 11 9 L 9 9 L 9 7 C 9 5.5013242 9.5039062 5 11 5 L 13 5 L 13 3 L 11 3 z M 15.03125 13.96875 L 13.96875 15.03125 L 16.4375 17.5 L 13.96875 19.96875 L 15.03125 21.03125 L 17.5 18.5625 L 19.96875 21.03125 L 21.03125 19.96875 L 18.5625 17.5 L 21.03125 15.03125 L 19.96875 13.96875 L 17.5 16.4375 L 15.03125 13.96875 z " />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.1958px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:none;stroke-width:3.21495;stroke-linecap:round;stroke-linejoin:round"
+     x="2.226072"
+     y="20.999982"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="2.226072"
+       y="20.999982"
+       style="fill:#0000ff;stroke-width:3.21495">f<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.1464px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:3.21495"
+   id="tspan3">x</tspan></tspan></text>
 </svg>
