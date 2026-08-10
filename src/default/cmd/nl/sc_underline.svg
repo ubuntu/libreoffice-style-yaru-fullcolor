@@ -43,7 +43,7 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="38.256767"
-     inkscape:cx="5.4238771"
+     inkscape:cx="5.4369466"
      inkscape:cy="9.7629787"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -69,15 +69,9 @@
      height="1"
      x="2"
      y="15" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5975px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:1.62103;stroke-linecap:round;stroke-linejoin:round"
-     x="1.560162"
-     y="13.75104"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="1.560162"
-       y="13.75104"
-       style="stroke-width:1.62103;fill:#0000ff">O</tspan></text>
+  <path
+     d="m 7.9999919,14.000002 q -1.4605799,0 -2.7053924,-0.680497 Q 4.0663845,12.639008 3.319497,11.311208 2.5726095,9.96681 2.5726095,7.9917076 q 0,-1.4771775 0.431535,-2.58921 0.431535,-1.12863 1.1784225,-1.8755175 0.763485,-0.763485 1.7427375,-1.1452275 0.9792525,-0.3817425 2.0746874,-0.3817425 1.4771775,0 2.7053921,0.6804975 1.228215,0.6639 1.975103,2.0082975 0.746887,1.3278 0.746887,3.3029025 0,1.9751024 -0.746887,3.3195004 -0.746888,1.3278 -1.975103,2.008297 -1.2282146,0.680497 -2.7053921,0.680497 z m 0,-1.161824 q 1.2448125,0 2.1576751,-0.580913 0.912862,-0.59751 1.410787,-1.676347 0.497925,-1.0954355 0.497925,-2.5892104 0,-1.493775 -0.497925,-2.5726125 Q 11.070529,4.3236601 10.157667,3.7427476 9.2448044,3.1618351 7.9999919,3.1618351 q -1.2448124,0 -2.1576749,0.5809125 -0.9128625,0.5809125 -1.4107875,1.6763475 -0.497925,1.0788375 -0.497925,2.5726125 0,1.4937749 0.497925,2.5892104 0.497925,1.078837 1.4107875,1.676347 0.9128625,0.580913 2.1576749,0.580913 z"
+     id="text1"
+     style="font-size:16.5975px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke-width:1.62103;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="O" />
 </svg>

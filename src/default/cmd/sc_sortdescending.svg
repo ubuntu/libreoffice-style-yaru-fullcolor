@@ -89,7 +89,7 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="5.8135593"
+     inkscape:cx="5.7966102"
      inkscape:cy="6.2542373"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -114,14 +114,9 @@
      d="M 12.5,1 9.999999,4.999999 H 12 V 11 l 1.0001,10e-7 V 5 h 2 z"
      id="path834-1"
      sodipodi:nodetypes="cccccccc" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:10.101px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     x="2.4545549"
-     y="14"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="2.4545549"
-       y="14">Z</tspan></text>
+  <path
+     d="m 2.8181909,14 v -0.848484 q 0.242424,-0.434343 0.555555,-0.959595 0.323232,-0.525252 0.696969,-1.070706 0.373737,-0.555555 0.757575,-1.090908 0.383838,-0.5353529 0.7575749,-1.0100999 0.373737,-0.484848 0.696969,-0.858585 H 2.9798069 v -1.161615 h 5.0909039 v 0.989898 q -0.262626,0.272727 -0.616161,0.696969 -0.343434,0.414141 -0.737373,0.929292 -0.393939,0.5050499 -0.797979,1.0606049 -0.40404,0.545454 -0.7676759,1.101009 -0.363636,0.555555 -0.656565,1.060605 H 8.1818218 V 14 Z"
+     id="text1"
+     style="font-weight:700;font-size:10.101px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold @wght=700';fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="Z" />
 </svg>

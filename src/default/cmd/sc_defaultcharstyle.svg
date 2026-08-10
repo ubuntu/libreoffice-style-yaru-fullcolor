@@ -44,7 +44,7 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="-6.938485"
+     inkscape:cx="-6.9826792"
      inkscape:cy="-8.5294752"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -73,14 +73,9 @@
        originy="0.000000"
        units="px" />
   </sodipodi:namedview>
-  <text
-     xml:space="preserve"
-     style="font-size:17.316px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     x="2.3723033"
-     y="14.000001"
-     id="text1"><tspan
-       sodipodi:role="line"
-       id="tspan1"
-       x="2.3723033"
-       y="14.000001">A</tspan></text>
+  <path
+     d="m 2.5454633,14.000001 q 0.935064,-2.51082 1.714284,-4.571424 0.77922,-2.060604 1.523808,-3.861468 0.761904,-1.81818 1.610388,-3.567096 h 1.21212 q 0.623376,1.316016 1.194804,2.666664 0.5887437,1.333332 1.1601717,2.77056 0.571428,1.437228 1.177488,3.064932 0.623376,1.610388 1.316016,3.497832 h -1.47186 q -0.311688,-0.8658 -0.60606,-1.64502 -0.294372,-0.796536 -0.554112,-1.55844 H 5.1082313 q -0.277056,0.761904 -0.571428,1.55844 -0.294372,0.77922 -0.588744,1.64502 z M 5.5064993,9.653685 H 10.424243 Q 10.095239,8.787885 9.7835513,7.974033 9.4718633,7.160181 9.1601753,6.398277 8.8658033,5.636373 8.5541153,4.926417 8.2597433,4.199145 7.9480553,3.506505 q -0.294372,0.69264 -0.60606,1.419912 -0.294372,0.709956 -0.60606,1.47186 -0.294372,0.761904 -0.60606,1.575756 -0.311688,0.813852 -0.623376,1.679652 z"
+     id="text1"
+     style="font-size:17.316px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="A" />
 </svg>

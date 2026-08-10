@@ -44,7 +44,7 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="11.595353"
+     inkscape:cx="11.61333"
      inkscape:cy="13.357127"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -74,17 +74,16 @@
        originy="0"
        units="px" />
   </sodipodi:namedview>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.1958px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:none;stroke-width:3.21495;stroke-linecap:round;stroke-linejoin:round"
-     x="2.226072"
-     y="20.999982"
-     id="text2"><tspan
-       sodipodi:role="line"
-       id="tspan2"
-       x="2.226072"
-       y="20.999982"
-       style="fill:#0000ff;stroke-width:3.21495">f<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.1464px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:3.21495"
-   id="tspan3">x</tspan></tspan></text>
+  <g
+     id="text2"
+     style="font-size:23.1958px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke-width:3.21495;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="fx">
+    <path
+       d="M 4.1745193,20.999982 V 7.7551798 q 0,-2.3427759 1.1133984,-3.5489576 1.1133984,-1.2061816 3.4097827,-1.2061816 0.9510279,0 1.5773146,0.1623706 0.649482,0.1391748 0.88144,0.2783496 L 10.808518,4.9020963 Q 10.530169,4.7629215 10.019861,4.6469424 9.5327492,4.5309634 8.7904836,4.5309634 q -1.5541186,0 -2.2267969,0.7886573 Q 5.9142043,6.1082779 5.9142043,7.8015714 V 8.9845572 H 10.669343 V 10.445893 H 5.9142043 v 10.554089 z"
+       id="path1" />
+    <path
+       style="font-size:17.1464px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+       d="m 14.698721,16.301868 -3.172084,-4.492357 h 1.71464 l 2.366203,3.463573 2.349057,-3.463573 h 1.697494 l -3.172084,4.492357 3.343548,4.698114 h -1.71464 l -2.503375,-3.66933 -2.537667,3.66933 h -1.697494 z"
+       id="path2" />
+  </g>
 </svg>
