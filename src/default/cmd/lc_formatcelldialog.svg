@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_formatcelldialog.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_formatcelldialog.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -41,46 +41,47 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="10.039005"
-     inkscape:cy="8.4008321"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="27.812867"
+     inkscape:cx="13.06949"
+     inkscape:cy="14.543628"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
      id="rect827-7"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 4 4 L 4 20 L 14.183594 20 C 14.267677 19.827259 14.370526 19.662034 14.507812 19.515625 C 14.105595 19.087305 13.87907 18.525881 14.121094 17.939453 L 14.582031 16.826172 A 1.0001 1.0001 0 0 0 14.582031 16.824219 C 14.824683 16.238394 15.381342 16.001822 15.96875 15.982422 C 15.986864 15.397402 16.221882 14.846213 16.8125 14.601562 L 17.929688 14.138672 C 18.520262 13.894053 19.07597 14.118821 19.501953 14.519531 C 19.637506 14.392345 19.719953 14.198866 19.888672 14.128906 C 19.924597 14.114009 19.963024 14.105892 20 14.09375 L 20 4 L 4 4 z M 19.439453 19.365234 C 19.376513 19.391306 19.326013 19.514492 19.351562 19.576172 C 19.376646 19.636732 19.503763 19.689203 19.564453 19.664062 C 19.627393 19.637991 19.677894 19.514805 19.652344 19.453125 C 19.62726 19.392565 19.500143 19.340094 19.439453 19.365234 z " />
+     style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6 4 C 5 4 4 4 4 5 L 4 8 L 8 8 L 8 5 L 8 4 L 6 4 z M 9 4 L 9 5 L 9 8 L 15 8 L 15 5 L 15 4 L 9 4 z M 16 4 L 16 5 L 16 8 L 20 8 L 20 5 C 20 4 19 4 18 4 L 16 4 z M 4 9 L 4 15 L 8 15 L 8 9 L 4 9 z M 9 9 L 9 15 L 15 15 L 15 9 L 9 9 z M 16 9 L 16 15 L 16.699219 15 C 16.768069 14.946698 16.844207 14.901787 16.927734 14.867188 L 18.044922 14.404297 C 18.566543 14.188238 19.17349 14.454914 19.5 14.910156 C 19.629879 14.724295 19.803868 14.570771 20 14.466797 L 20 9 L 16 9 z M 4 16 L 4 19 C 4 20 5 20 6 20 L 8 20 L 8 19.099609 L 8 16 L 4 16 z M 9 16 L 9 20 L 14.478516 20 C 14.581356 19.806779 14.730693 19.634664 14.910156 19.505859 C 14.444097 19.180183 14.177339 18.574781 14.398438 18.041016 L 14.861328 16.925781 C 14.897615 16.838176 14.944499 16.758971 15 16.6875 L 15 16 L 9 16 z " />
   <path
      id="path2-8"
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
-     d="M 6 3 C 4 3 3 3 3 5 L 3 19 C 3 21 4 21 6 21 L 14.107422 21 C 13.919247 20.444359 14.127296 19.921427 14.507812 19.515625 C 14.105595 19.087305 13.87907 18.525881 14.121094 17.939453 L 14.582031 16.826172 A 1.0001 1.0001 0 0 0 14.582031 16.824219 C 14.676263 16.596719 14.827647 16.434582 15 16.304688 L 15 15 L 16.304688 15 C 16.433417 14.836695 16.59129 14.693194 16.8125 14.601562 L 17.929688 14.138672 C 18.520262 13.894053 19.07597 14.118821 19.501953 14.519531 C 19.637506 14.392345 19.719953 14.198866 19.888672 14.128906 C 20.230135 13.987311 20.622261 13.9751 21 14.109375 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 6 4 L 9 4 L 9 5 L 9 9 L 4 9 L 4 5 C 4 4 5 4 6 4 z M 10 4 L 14 4 L 14 5 L 14 9 L 10 9 L 10 5 L 10 4 z M 15 4 L 18 4 C 19 4 20 4 20 5 L 20 9 L 15 9 L 15 5 L 15 4 z M 4 10 L 9 10 L 9 14 L 8 14 L 4 14 L 4 10 z M 10 10 L 14 10 L 14 14 L 10 14 L 10 10 z M 15 10 L 20 10 L 20 14 L 15 14 L 15 10 z M 4 15 L 8 15 L 9 15 L 9 19.099609 L 9 20 L 6 20 C 5 20 4 20 4 19 L 4 15 z M 10 15 L 14 15 L 14 20 L 10 20 L 10 15 z " />
+     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     d="M 6 3 C 4 3 3 3 3 5 L 3 19 C 3 21 4 21 6 21 L 14.421875 21 L 14.404297 20.958984 C 14.273476 20.643156 14.320601 20.296696 14.478516 20 L 9 20 L 9 16 L 15 16 L 15 16.6875 C 15.231406 16.389507 15.612602 16.233695 16 16.232422 L 16 16 L 16.238281 16 C 16.243791 15.61326 16.403277 15.22911 16.699219 15 L 16 15 L 16 9 L 20 9 L 20 14.466797 C 20.172723 14.375232 20.362619 14.321998 20.554688 14.320312 C 20.69141 14.319114 20.82945 14.343163 20.962891 14.398438 L 21 14.414062 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 6 4 L 8 4 L 8 5 L 8 8 L 4 8 L 4 5 C 4 4 5 4 6 4 z M 9 4 L 15 4 L 15 5 L 15 8 L 9 8 L 9 5 L 9 4 z M 16 4 L 18 4 C 19 4 20 4 20 5 L 20 8 L 16 8 L 16 5 L 16 4 z M 4 9 L 8 9 L 8 15 L 4 15 L 4 9 z M 9 9 L 15 9 L 15 15 L 9 15 L 9 9 z M 4 16 L 8 16 L 8 19.099609 L 8 20 L 6 20 C 5 20 4 20 4 19 L 4 16 z " />
   <path
-     style="fill:#77216F;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 9,9 v 6 h 6 V 9 Z m 1,1 h 4 v 4 h -4 z"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8,8 v 8 h 8 V 8 Z m 1,1 h 6 v 6 H 9 Z"
      id="path835"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccc" />
   <rect
-     style="opacity:1;fill:#f3d8f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.2;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect842"
-     width="4"
-     height="4"
-     x="10"
-     y="10" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path838"
-     cx="-18"
-     cy="18"
-     r="1"
-     transform="scale(-1,1)" />
+     width="6"
+     height="6"
+     x="9"
+     y="9" />
   <g
      id="g915">
     <circle

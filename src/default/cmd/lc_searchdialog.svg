@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_searchdialog.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_searchdialog.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -42,8 +42,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="21.898213"
-     inkscape:cy="12.28598"
+     inkscape:cx="13.037281"
+     inkscape:cy="13.280349"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,28 +54,27 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <g
-     id="g244">
-    <circle
-       style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="path1206"
-       cx="11.5"
-       cy="11.5"
-       r="7.5" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="circle1208"
-       cx="11.5"
-       cy="11.5"
-       r="7.5" />
-    <path
-       style="fill:none;stroke:#6d6d6d;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
-       d="m 21,21 -2.8,-2.8"
-       id="path1327"
-       sodipodi:nodetypes="cc" />
-  </g>
+  <circle
+     style="opacity:1;fill:#ffff00;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="path3"
+     cx="11.5"
+     cy="11.5"
+     r="7.5" />
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 11.5 3 C 6.8174243 3 3 6.8174243 3 11.5 C 3 16.182576 6.8174243 20 11.5 20 C 16.182576 20 20 16.182576 20 11.5 C 20 10.281191 19.740582 9.1217879 19.275391 8.0722656 L 18.511719 8.8359375 A 7.5 7.5 0 0 1 19 11.5 A 7.5 7.5 0 0 1 11.5 19 A 7.5 7.5 0 0 1 4 11.5 A 7.5 7.5 0 0 1 11.5 4 A 7.5 7.5 0 0 1 15.498047 5.1542969 L 16.216797 4.4355469 C 14.86572 3.5297835 13.243182 3 11.5 3 z " />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
+     d="m 18.199219,17.199219 a 1,1 0 0 0 -0.707031,0.292969 1,1 0 0 0 0,1.414062 l 2.800781,2.800781 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 18.90625,17.492188 a 1,1 0 0 0 -0.707031,-0.292969 z" />
   <g
      style="display:inline;stroke-width:27.2;enable-background:new"
      transform="matrix(0.03109234,0.03109234,-0.03372203,0.03372203,3.1088762,-19.902028)"

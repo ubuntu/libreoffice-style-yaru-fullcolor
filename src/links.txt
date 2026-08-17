@@ -392,7 +392,6 @@ cmd/32/mailmergepreventry.xxx cmd/32/prevrecord.xxx
 cmd/32/margins.xxx cmd/32/pagemargin.xxx
 cmd/32/measureattributes.xxx cmd/32/measureline.xxx
 cmd/32/mergecellsmenu.xxx cmd/32/mergecells.xxx
-cmd/32/togglemergecells.xxx cmd/32/mergecells.xxx
 cmd/32/managelanguage.xxx cmd/32/showallnotes.xxx
 cmd/32/mirrorhorz.xxx cmd/32/mirror.xxx
 cmd/32/mirrormenu.xxx cmd/32/rotateleft.xxx
@@ -1078,7 +1077,6 @@ cmd/lc_margins.xxx cmd/lc_pagemargin.xxx
 cmd/lc_measureattributes.xxx cmd/lc_measureline.xxx
 cmd/lc_mergecellsmenu.xxx cmd/lc_mergecells.xxx
 cmd/lc_managelanguage.xxx cmd/lc_showallnotes.xxx
-cmd/lc_togglemergecells.xxx cmd/lc_mergecells.xxx
 cmd/lc_mergedocument.xxx cmd/lc_mergedocuments.xxx
 cmd/lc_mirrorhorz.xxx cmd/lc_mirror.xxx
 cmd/lc_mirrormenu.xxx cmd/lc_rotateleft.xxx
@@ -1625,7 +1623,6 @@ cmd/sc_margins.xxx cmd/sc_pagemargin.xxx
 cmd/sc_measureattributes.xxx cmd/sc_measureline.xxx
 cmd/sc_mergecellsmenu.xxx cmd/sc_mergecells.xxx
 cmd/sc_managelanguage.xxx cmd/sc_showallnotes.xxx
-cmd/sc_togglemergecells.xxx cmd/sc_mergecells.xxx
 cmd/sc_mergedocument.xxx cmd/sc_mergedocuments.xxx
 cmd/sc_mirrorhorz.xxx cmd/sc_mirror.xxx
 cmd/sc_mirrormenu.xxx cmd/sc_rotateleft.xxx

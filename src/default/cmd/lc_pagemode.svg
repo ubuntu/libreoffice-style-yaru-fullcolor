@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_pagemode.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_pagemode.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="9.2288134"
-     inkscape:cy="11.364407"
+     inkscape:zoom="13.906434"
+     inkscape:cx="-2.0134566"
+     inkscape:cy="8.4493266"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,20 +52,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
   <path
-     sodipodi:nodetypes="cccccccccccc"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path829"
-     d="M 8,20 C 6,20 5,20 5,18 V 5.9999998 C 5,3.9999999 6,3.9999999 8,3.9999999 h 7 l 1,0.9999999 2,2 1,1 V 9.4062499 18 c 0,2 -1,2 -3,2 z"
-     inkscape:connector-curvature="0" />
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 8 3 C 7 3 6.1605052 2.9265833 5.3027344 3.3554688 C 4.8738489 3.5699113 4.4821774 3.9678353 4.2734375 4.4375 C 4.0646976 4.9071647 4 5.4166667 4 6 L 4 18 C 4 18.583333 4.064698 19.092835 4.2734375 19.5625 C 4.4821774 20.032165 4.8738489 20.430089 5.3027344 20.644531 C 6.1605053 21.073417 7 21 8 21 L 16 21 C 17 21 17.839495 21.07342 18.697266 20.644531 C 19.126151 20.430089 19.517824 20.032165 19.726562 19.5625 C 19.935303 19.092835 20 18.583333 20 18 L 20 9.40625 L 20 8 A 1.0001 1.0001 0 0 0 19.707031 7.2929688 L 18.707031 6.2929688 L 16.707031 4.2929688 L 15.707031 3.2929688 A 1.0001 1.0001 0 0 0 15 3 L 8 3 z M 8 4 L 15 4 L 16 5 L 18 7 L 19 8 L 19 9.40625 L 19 18 C 19 20 18 20 16 20 L 8 20 C 6 20 5 20 5 18 L 5 6 C 5 4.0000001 6 4 8 4 z " />
   <path
      inkscape:connector-curvature="0"
      d="M 8,20 C 6,20 5,20 5,18 V 5.9999998 C 5,3.9999999 6,3.9999999 8,3.9999999 h 7 l 1,0.9999999 2,2 1,1 V 9.4062499 18 c 0,2 -1,2 -3,2 z"
      id="path2"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      sodipodi:nodetypes="cccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      d="M 15,7.9999998 V 3.9999999 l 4,3.9999999 z"
      id="path4"
-     style="fill:#6d6d6d;fill-opacity:1" />
+     style="fill:#0000ff;fill-opacity:1;opacity:0.5" />
 </svg>
