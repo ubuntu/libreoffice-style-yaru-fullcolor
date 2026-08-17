@@ -76,14 +76,14 @@
      x="4"
      y="9.000061" />
   <rect
-     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.65148354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.65148354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect832"
      width="5"
      height="2"
      x="4"
      y="12.000061" />
   <rect
-     style="opacity:1;fill:#46a926;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.65148354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#0f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.65148354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect834"
      width="5"
      height="2"
@@ -91,7 +91,7 @@
      y="15.000061" />
   <path
      id="path820"
-     style="opacity:1;fill:#46a926;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#0f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 15.5 9 A 4.5 4.5 0 0 0 11.341797 11.777344 A 4.5 4.5 0 0 0 12.318359 16.681641 A 4.5 4.5 0 0 0 17.007812 17.728516 C 17.002813 17.653042 17 17.576681 17 17.5 C 17 15.762418 18.290777 14.30565 19.958984 14.042969 A 4.5 4.5 0 0 0 20 13.5 L 15.5 13.5 L 15.5 9 z " />
   <path
      d="m 9.000061,-15.500001 a 4.5,4.5 0 0 1 4.5,-4.5 l 0,4.5 z"
@@ -103,10 +103,10 @@
      sodipodi:cx="13.500061"
      sodipodi:type="arc"
      id="path822"
-     style="opacity:1;fill:#c7162b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      transform="rotate(90)" />
   <path
-     style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 20.5,15 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 z m 0,5 a 3.5,4 0 0 0 -3.5,4 h 7 a 3.5,4 0 0 0 -3.5,-4 z"
      id="path843" />
 </svg>

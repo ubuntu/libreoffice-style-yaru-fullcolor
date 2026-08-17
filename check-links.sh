@@ -116,9 +116,10 @@ if [[ ${errors} > 0 ]]; then
     exit 1
 else
     for variant in "${variants[@]}"; do
-        resources=(
-            "build/${variant}/svg"
-            "build/${variant}/png"
+        read -r variant_name _ <<< "$variant"
+        resources+=(
+            "build/${variant_name}/svg"
+            "build/${variant_name}/png"
         )
     done
 

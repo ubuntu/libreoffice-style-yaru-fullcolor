@@ -154,16 +154,28 @@ function render_variant() {
     local filename=$1
     local variant_color=$2
     local template=$3
-    local variant_name accent_color bg_color txt_color
+    local variant_name dummy_color replacement_color placeholder
+    local index
+    local -a variant_fields sed_args placeholders
 
-    read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
+    read -r -a variant_fields <<< "$variant_color"
+    variant_name=${variant_fields[0]}
 
-    # Apply all color substitutions in one pass, writing the final SVG directly.
-    sed \
-        -e "s/0f0/${accent_color}/g" \
-        -e "s/ff0/${bg_color}/g" \
-        -e "s/00f/${txt_color}/g" \
-        "$template" \
+    # Replace dummy colors with placeholders first so a replacement that
+    # resembles another dummy color cannot be processed a second time.
+    for (( index = 4; index < ${#variant_fields[@]}; index += 2 )); do
+        dummy_color=${variant_fields[$index]}
+        placeholder="__YARU_COLOR_$(( (index - 4) / 2 ))__"
+        placeholders+=( "$placeholder" )
+        sed_args+=( -e "s/#${dummy_color}/#${placeholder}/g" )
+    done
+    for (( index = 4; index < ${#variant_fields[@]}; index += 2 )); do
+        replacement_color=${variant_fields[$((index + 1))]}
+        placeholder=${placeholders[$(( (index - 4) / 2 ))]}
+        sed_args+=( -e "s/#${placeholder}/#${replacement_color}/g" )
+    done
+
+    sed "${sed_args[@]}" "$template" \
         > "./build/${variant_name}/svg${filename}.svg"
 
     resvg "./build/${variant_name}/svg${filename}.svg" \
@@ -177,7 +189,7 @@ function render_icon() {
     local parallel_variants=${2:-0}
     local relative_dir=${filename%/*}
     local template_root="./build/.templates/${BASHPID}"
-    local variant_color variant_name accent_color bg_color txt_color src template
+    local variant_color variant_name src template
     local template_number=0
     local index active_jobs max_jobs render_status
     local -a variant_colors variant_templates output_dirs
@@ -187,7 +199,7 @@ function render_icon() {
     # icon/variant pair.
     while IFS= read -r variant_color; do
         [[ -z $variant_color ]] && continue
-        read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
+        read -r variant_name _ <<< "$variant_color"
         variant_colors+=( "$variant_color" )
         output_dirs+=(
             "./build/${variant_name}/png${relative_dir}"
@@ -202,7 +214,7 @@ function render_icon() {
     # Most icons use the same source for every color variant, so optimize each
     # distinct source only once and reuse the result for all variants.
     for variant_color in "${variant_colors[@]}"; do
-        read -r variant_name accent_color bg_color txt_color <<< "$variant_color"
+        read -r variant_name _ <<< "$variant_color"
 
         if test -f "./src/${variant_name}${filename}.svg"; then
             src="./src/${variant_name}${filename}.svg"
@@ -345,7 +357,7 @@ function generate_oxt() {
         sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/${oxt_filename}.update.xml|g" "description.xml"
 
         # Accented logo
-        sed -i "s/0ff/${accent_color}/g" "logo.svg"
+        sed -i "s/#${accent_dummy_color}/#${accent_color}/g" "logo.svg"
         resvg "logo.svg" "logo.png" &>/dev/null
         optipng -o7 "logo.png" &>/dev/null
         rm "logo.svg"
