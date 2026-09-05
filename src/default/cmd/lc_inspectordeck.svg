@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="39.333334"
-     inkscape:cx="12.025424"
-     inkscape:cy="13.766949"
+     inkscape:zoom="27.812867"
+     inkscape:cx="8.0178717"
+     inkscape:cy="11.343671"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,33 +87,14 @@
      id="rect829"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 8.9296875 8.9921875 C 8.6740681 8.9921874 8.418525 9.0892875 8.2226562 9.2851562 L 6.0996094 11.40625 C 5.7078719 11.797987 5.7078722 12.428575 6.0996094 12.820312 L 11.541016 18.259766 A 5 5 0 0 1 11 16 A 5 5 0 0 1 12.644531 12.292969 L 9.6367188 9.2851562 C 9.4408502 9.0892877 9.1853069 8.9921876 8.9296875 8.9921875 z " />
-  <g
-     style="display:inline;stroke-width:0.999982;enable-background:new;stroke:#0000ff;stroke-opacity:1;fill:#0000ff"
-     transform="matrix(0.10000368,0,0,0.1,-14.808311,10.15381)"
-     id="g1252"
-     inkscape:transform-center-x="-0.74987971"
-     inkscape:transform-center-y="0.75000013">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0000ff;fill-opacity:0;fill-rule:nonzero;stroke:#0000ff;stroke-width:15.9997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 358.06994,108.4619 -19.99927,-20"
-       id="path1244"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       style="display:inline;stroke-width:0.999982;enable-background:new;stroke:#0000ff;stroke-opacity:1;fill:#0000ff"
-       id="g1246"
-       transform="matrix(-1,0,0,1,495,-64.578123)" />
-    <circle
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0000ff;fill-opacity:0.97;fill-rule:nonzero;stroke:#0000ff;stroke-width:9.99982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="circle1248"
-       cx="308.07065"
-       cy="58.461903"
-       r="35" />
-  </g>
   <path
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffff00;fill-opacity:0.97;stroke:none;stroke-width:0.1;stroke-opacity:1;marker:none;enable-background:accumulate;stop-color:#000000"
-     d="M 19.500016,16 A 3.5001288,3.5 0 0 1 15.999888,19.5 3.5001288,3.5 0 0 1 12.499759,16 3.5001288,3.5 0 0 1 15.999888,12.5 3.5001288,3.5 0 0 1 19.500016,16 Z"
-     id="path5" />
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffff00;fill-opacity:0.97;marker:none;enable-background:accumulate;stop-color:#000000"
+     d="m 16,13 c -1.662858,0 -3,1.337233 -3,3 0,1.662767 1.337142,3 3,3 1.662858,0 3,-1.337233 3,-3 0,-1.662767 -1.337142,-3 -3,-3 z" />
+  <path
+     id="path1244-3"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;marker:none;enable-background:accumulate;stop-color:#000000;opacity:1"
+     d="m 16,12 c -2.203278,0 -4,1.796773 -4,4 0,2.203227 1.796722,4 4,4 0.836148,0 1.612799,-0.259614 2.255859,-0.701172 a 0.80000001,0.80000001 0 0 0 0.177735,0.267578 l 2,2 a 0.80000001,0.80000001 0 0 0 1.132812,0 0.80000001,0.80000001 0 0 0 0,-1.132812 l -2,-2 A 0.80000001,0.80000001 0 0 0 19.298828,18.255859 C 19.740389,17.612793 20,16.836138 20,16 20,13.796773 18.203278,12 16,12 Z m 0,1 c 1.662858,0 3,1.337233 3,3 0,1.662767 -1.337142,3 -3,3 -1.662858,0 -3,-1.337233 -3,-3 0,-1.662767 1.337142,-3 3,-3 z" />
   <g
      style="display:inline;stroke:#6d6d6d;stroke-width:0.999982;stroke-opacity:1;enable-background:new"
      id="g6"

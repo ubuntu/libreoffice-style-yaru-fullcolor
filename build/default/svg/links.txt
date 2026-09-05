@@ -342,7 +342,7 @@ cmd/32/insertobjectfloatingframe.svg cmd/32/insertframe.svg
 cmd/32/insertobjectstarmath.svg cmd/32/insertmath.svg
 cmd/32/insertpagefooter.svg cmd/32/insertfooter.svg
 cmd/32/insertpageheader.svg cmd/32/insertheader.svg
-cmd/32/insertpagesfield.svg cmd/32/insertpagenumberfield.svg
+cmd/32/insertpagesfield.svg cmd/32/insertpagecountfield.svg
 cmd/32/insertpagetitlefield.svg cmd/32/inserttitlefield.svg
 cmd/32/insertpatternfield.svg cmd/32/patternfield.svg
 cmd/32/insertpivottable.svg cmd/32/datadatapilotrun.svg
@@ -448,6 +448,7 @@ cmd/32/outlineright.svg cmd/32/decrementlevel.svg
 cmd/32/outlineup.svg cmd/32/moveup.svg
 cmd/32/pagedown.svg cmd/32/nextrecord.svg
 cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
+cmd/32/pagemode.svg cmd/32/showsinglepage.svg
 cmd/32/pageup.svg cmd/32/prevrecord.svg
 cmd/32/paragraphmenu.svg cmd/32/paragraphdialog.svg
 cmd/32/pastespecialmenu.svg cmd/32/pastespecial.svg
@@ -1033,7 +1034,8 @@ cmd/lc_insertobjectstarmath.svg cmd/lc_insertmath.svg
 cmd/lc_insertpagefooter.svg cmd/lc_insertfooter.svg
 cmd/lc_insertpageheader.svg cmd/lc_insertheader.svg
 cmd/lc_inserttopicfield.svg cmd/lc_drawcaption.svg
-cmd/lc_insertpagesfield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertpagefield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertpagesfield.svg cmd/lc_insertpagecountfield.svg
 cmd/lc_insertpagetitlefield.svg cmd/lc_inserttitlefield.svg
 cmd/lc_insertpatternfield.svg cmd/lc_patternfield.svg
 cmd/lc_insertpivottable.svg cmd/lc_datadatapilotrun.svg
@@ -1131,6 +1133,7 @@ cmd/lc_outlineright.svg cmd/lc_decrementlevel.svg
 cmd/lc_outlineup.svg cmd/lc_moveup.svg
 cmd/lc_pagedown.svg cmd/lc_nextrecord.svg
 cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
+cmd/lc_pagemode.svg cmd/lc_showsinglepage.svg
 cmd/lc_pageup.svg cmd/lc_prevrecord.svg
 cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
 cmd/lc_pastespecialmenu.svg cmd/lc_pastespecial.svg
@@ -1578,7 +1581,7 @@ cmd/sc_insertobjectstarmath.svg cmd/sc_insertmath.svg
 cmd/sc_insertpagefooter.svg cmd/sc_insertfooter.svg
 cmd/sc_insertpageheader.svg cmd/sc_insertheader.svg
 cmd/sc_inserttopicfield.svg cmd/sc_drawcaption.svg
-cmd/sc_insertpagesfield.svg cmd/sc_insertpagenumberfield.svg
+cmd/sc_insertpagesfield.svg cmd/sc_insertpagecountfield.svg
 cmd/sc_insertpagetitlefield.svg cmd/sc_inserttitlefield.svg
 cmd/sc_insertpatternfield.svg cmd/sc_patternfield.svg
 cmd/sc_insertpivottable.svg cmd/sc_datadatapilotrun.svg
@@ -1678,6 +1681,7 @@ cmd/sc_outlineright.svg cmd/sc_decrementlevel.svg
 cmd/sc_outlineup.svg cmd/sc_moveup.svg
 cmd/sc_pagedown.svg cmd/sc_nextrecord.svg
 cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
+cmd/sc_pagemode.svg cmd/sc_showsinglepage.svg
 cmd/sc_pageup.svg cmd/sc_prevrecord.svg
 cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
 cmd/sc_pastespecialmenu.svg cmd/sc_pastespecial.svg
@@ -2479,7 +2483,7 @@ sw/res/zetlhor2.svg svx/res/zetlhor2.svg
 sw/res/zetlver2.svg svx/res/zetlver2.svg
 sw/res/sidebar/pageproppanel/columncopy_24x24.svg sw/res/sidebar/pageproppanel/formatcopy_24x24.svg
 sw/res/sidebar/pageproppanel/column_L_copy_24x24.svg sw/res/sidebar/pageproppanel/format_L_copy_24x24.svg
-sw/res/sidebar/pageproppanel/portraitcopy_24x24.svg cmd/lc_pagemode.svg
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.svg cmd/lc_showsinglepage.svg
 vcl/res/index.svg cmd/sc_insertmultiindex.svg
 vcl/res/querybox.svg vcl/res/infobox.svg
 vcl/res/warningbox.svg vcl/res/errorbox.svg

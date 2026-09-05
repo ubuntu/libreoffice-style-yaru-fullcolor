@@ -342,7 +342,8 @@ cmd/32/insertobjectfloatingframe.xxx cmd/32/insertframe.xxx
 cmd/32/insertobjectstarmath.xxx cmd/32/insertmath.xxx
 cmd/32/insertpagefooter.xxx cmd/32/insertfooter.xxx
 cmd/32/insertpageheader.xxx cmd/32/insertheader.xxx
-cmd/32/insertpagesfield.xxx cmd/32/insertpagenumberfield.xxx
+cmd/32/insertpagefield.xxx cmd/32/insertpagenumberfield.xxx
+cmd/32/insertpagesfield.xxx cmd/32/insertpagecountfield.xxx
 cmd/32/insertpagetitlefield.xxx cmd/32/inserttitlefield.xxx
 cmd/32/insertpatternfield.xxx cmd/32/patternfield.xxx
 cmd/32/insertpivottable.xxx cmd/32/datadatapilotrun.xxx
@@ -448,6 +449,7 @@ cmd/32/outlineright.xxx cmd/32/decrementlevel.xxx
 cmd/32/outlineup.xxx cmd/32/moveup.xxx
 cmd/32/pagedown.xxx cmd/32/nextrecord.xxx
 cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
+cmd/32/pagemode.xxx cmd/32/showsinglepage.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
 cmd/32/paragraphmenu.xxx cmd/32/paragraphdialog.xxx
 cmd/32/pastespecialmenu.xxx cmd/32/pastespecial.xxx
@@ -1033,7 +1035,8 @@ cmd/lc_insertobjectstarmath.xxx cmd/lc_insertmath.xxx
 cmd/lc_insertpagefooter.xxx cmd/lc_insertfooter.xxx
 cmd/lc_insertpageheader.xxx cmd/lc_insertheader.xxx
 cmd/lc_inserttopicfield.xxx cmd/lc_drawcaption.xxx
-cmd/lc_insertpagesfield.xxx cmd/lc_insertpagenumberfield.xxx
+cmd/lc_insertpagefield.xxx cmd/lc_insertpagenumberfield.xxx
+cmd/lc_insertpagesfield.xxx cmd/lc_insertpagecountfield.xxx
 cmd/lc_insertpagetitlefield.xxx cmd/lc_inserttitlefield.xxx
 cmd/lc_insertpatternfield.xxx cmd/lc_patternfield.xxx
 cmd/lc_insertpivottable.xxx cmd/lc_datadatapilotrun.xxx
@@ -1131,6 +1134,7 @@ cmd/lc_outlineright.xxx cmd/lc_decrementlevel.xxx
 cmd/lc_outlineup.xxx cmd/lc_moveup.xxx
 cmd/lc_pagedown.xxx cmd/lc_nextrecord.xxx
 cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
+cmd/lc_pagemode.xxx cmd/lc_showsinglepage.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
 cmd/lc_paragraphmenu.xxx cmd/lc_paragraphdialog.xxx
 cmd/lc_pastespecialmenu.xxx cmd/lc_pastespecial.xxx
@@ -1578,7 +1582,8 @@ cmd/sc_insertobjectstarmath.xxx cmd/sc_insertmath.xxx
 cmd/sc_insertpagefooter.xxx cmd/sc_insertfooter.xxx
 cmd/sc_insertpageheader.xxx cmd/sc_insertheader.xxx
 cmd/sc_inserttopicfield.xxx cmd/sc_drawcaption.xxx
-cmd/sc_insertpagesfield.xxx cmd/sc_insertpagenumberfield.xxx
+cmd/sc_insertpagefield.xxx cmd/sc_insertpagenumberfield.xxx
+cmd/sc_insertpagesfield.xxx cmd/sc_insertpagecountfield.xxx
 cmd/sc_insertpagetitlefield.xxx cmd/sc_inserttitlefield.xxx
 cmd/sc_insertpatternfield.xxx cmd/sc_patternfield.xxx
 cmd/sc_insertpivottable.xxx cmd/sc_datadatapilotrun.xxx
@@ -1678,6 +1683,7 @@ cmd/sc_outlineright.xxx cmd/sc_decrementlevel.xxx
 cmd/sc_outlineup.xxx cmd/sc_moveup.xxx
 cmd/sc_pagedown.xxx cmd/sc_nextrecord.xxx
 cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
+cmd/sc_pagemode.xxx cmd/sc_showsinglepage.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
 cmd/sc_paragraphmenu.xxx cmd/sc_paragraphdialog.xxx
 cmd/sc_pastespecialmenu.xxx cmd/sc_pastespecial.xxx
@@ -2479,7 +2485,7 @@ sw/res/zetlhor2.xxx svx/res/zetlhor2.xxx
 sw/res/zetlver2.xxx svx/res/zetlver2.xxx
 sw/res/sidebar/pageproppanel/columncopy_24x24.xxx sw/res/sidebar/pageproppanel/formatcopy_24x24.xxx
 sw/res/sidebar/pageproppanel/column_L_copy_24x24.xxx sw/res/sidebar/pageproppanel/format_L_copy_24x24.xxx
-sw/res/sidebar/pageproppanel/portraitcopy_24x24.xxx cmd/lc_pagemode.xxx
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.xxx cmd/lc_showsinglepage.xxx
 vcl/res/index.xxx cmd/sc_insertmultiindex.xxx
 vcl/res/querybox.xxx vcl/res/infobox.xxx
 vcl/res/warningbox.xxx vcl/res/errorbox.xxx

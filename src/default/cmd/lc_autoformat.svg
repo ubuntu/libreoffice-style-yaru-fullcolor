@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
@@ -14,7 +7,14 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_autoformat.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -41,44 +41,43 @@
      inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="-6.0850195"
-     inkscape:cy="17.624367"
+     inkscape:zoom="17.416667"
+     inkscape:cx="5.6267943"
+     inkscape:cy="13.578947"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#808080;opacity:1;fill-opacity:1"
-     d="M 5.5,4 4.96875,4.96875 4,5.5 4.96875,6.03125 5.5,7 6.03125,6.03125 7,5.5 6.03125,4.96875 Z"
+     style="opacity:1;fill:#0000ff;fill-opacity:1;stroke-width:1.66667"
+     d="M 4.5,2 3.6145834,3.6145833 2.0000001,4.5 3.6145834,5.3854167 4.5,7 5.3854168,5.3854167 7,4.5 5.3854168,3.6145833 Z"
      id="path844" />
   <path
-     style="opacity:0.8;fill:#808080;opacity:1;fill-opacity:1"
-     d="M 10.5,4 9.96875,4.96875 9,5.5 9.96875,6.03125 10.5,7 11.03125,6.03125 12,5.5 11.03125,4.96875 Z"
+     style="opacity:1;fill:#0000ff;fill-opacity:1;stroke-width:1.66667"
+     d="M 11.500001,2 10.614584,3.6145833 9,4.5 10.614584,5.3854167 11.500001,7 12.385418,5.3854167 14.000001,4.5 12.385418,3.6145833 Z"
      id="path842" />
   <path
-     style="fill:#000000;opacity:0.7"
-     d="M 17.171875,4 4,17.171875 6.828125,20 20,6.828125 Z"
-     id="path840" />
-  <path
-     style="fill:#ffffff;fill-opacity:1"
-     d="M 17.103515,5.4824219 18.517577,6.8964844 15.419921,9.9960938 14.003905,8.5800781 Z"
-     id="path838" />
-  <path
-     style="opacity:0.8;fill:#808080;opacity:1;fill-opacity:1"
-     d="M 7.5,8 6.96875,8.96875 6,9.5 6.96875,10.03125 7.5,11 8.03125,10.03125 9,9.5 8.03125,8.96875 Z"
+     style="opacity:1;fill:#0000ff;fill-opacity:1;stroke-width:1.66667"
+     d="M 8,7 7.1145833,8.614583 5.5,9.500001 7.1145833,10.385417 8,12.000001 8.8854168,10.385417 10.5,9.500001 8.8854168,8.614583 Z"
      id="path2" />
-  <rect
-     style="opacity:1;fill:#fa9381;fill-opacity:1;stroke:none;stroke-width:1.00675654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect819"
-     width="11.149147"
-     height="2"
-     x="-8.3139219"
-     y="15.971854"
-     ry="0"
-     transform="rotate(-45)" />
+  <path
+     style="opacity:1;fill:#00ffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 19.656273,5.5156485 5.5156483,19.656273 8.3437734,22.486351 22.486352,8.3437736 Z"
+     id="path1" />
+  <path
+     style="opacity:1;fill:#ffff00;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="m 19.656273,6.9297108 1.416016,1.414063 -4.244141,4.2421862 -1.414062,-1.414062 z"
+     id="rect1" />
 </svg>

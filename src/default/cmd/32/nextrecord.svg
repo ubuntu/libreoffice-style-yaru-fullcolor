@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
    sodipodi:docname="nextrecord.svg"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/nextrecord.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -40,32 +40,36 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-13.739389"
-     inkscape:cy="14.351028"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="7.2881356"
+     inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0" />
-  <circle
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle845"
-     cx="16"
-     cy="-16"
-     transform="scale(1,-1)"
-     r="12" />
-  <circle
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle943"
-     cx="16"
-     cy="-16"
-     transform="scale(1,-1)"
-     r="12" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <path
-     style="fill:none;stroke:#232629;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 13.499999,22.5 20,16 13.499999,9.4999999"
-     id="path947"
-     sodipodi:nodetypes="ccc" />
+     d="M 12,2.5166667 C 13.15,3.9733333 14.328334,5.445 15.346667,6.9433333 16.478334,8.61 17.491667,10.23 18.388334,11.796667 c 0.828333,1.446666 1.45,2.956666 1.945,4.053333 -0.495,1.096667 -1.116667,2.606667 -1.945,4.053333 a 74.693333,74.693333 0 0 1 -3.041667,4.853334 c -1.016667,1.5 -2.195,2.97 -3.346667,4.426666 V 26.7 c 0.666667,-0.873333 1.395,-1.77 2.036667,-2.708333 0.81,-1.183334 1.57,-2.395 2.283333,-3.633334 0.721667,-1.258333 1.583334,-2.986666 2.141667,-4.166666 v -0.0016 l 0.16,-0.34 -0.16,-0.338334 A 65.18,65.18 0 0 0 16.32,11.343333 54.788333,54.788333 0 0 0 14.036667,7.7083333 C 13.395,6.7716667 12.666667,5.875 12,5 Z"
+     fill="#808080"
+     id="path1"
+     style="fill:#0000ff;stroke-width:1.66667" />
 </svg>
