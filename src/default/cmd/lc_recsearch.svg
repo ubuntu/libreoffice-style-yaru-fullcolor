@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_recsearch.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_recsearch.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -43,9 +43,9 @@
      inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="17.25"
-     inkscape:cx="14.637681"
-     inkscape:cy="17.449275"
+     inkscape:zoom="12.197592"
+     inkscape:cx="2.705452"
+     inkscape:cy="19.880973"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,33 +57,35 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid831" />
+       id="grid831"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid891"
        dotted="true"
        spacingx="0.5"
        spacingy="0.5"
-       empspacing="10" />
+       empspacing="10"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
-  <g
-     id="g244">
-    <circle
-       style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="path1206"
-       cx="11.5"
-       cy="11.5"
-       r="7.5" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       id="circle1208"
-       cx="11.5"
-       cy="11.5"
-       r="7.5" />
-    <path
-       style="fill:none;stroke:#6d6d6d;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
-       d="m 21,21 -2.8,-2.8"
-       id="path1327"
-       sodipodi:nodetypes="cc" />
-  </g>
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:0.8"
+     d="M 11.5 3 C 6.8174243 3 3 6.8174243 3 11.5 C 3 16.182576 6.8174243 20 11.5 20 C 16.182576 20 20 16.182576 20 11.5 C 20 6.8174243 16.182576 3 11.5 3 z M 11.5 4 A 7.5 7.5 0 0 1 19 11.5 A 7.5 7.5 0 0 1 11.5 19 A 7.5 7.5 0 0 1 4 11.5 A 7.5 7.5 0 0 1 11.5 4 z " />
+  <circle
+     style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="circle1208"
+     cx="11.5"
+     cy="11.5"
+     r="7.5" />
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:round;enable-background:accumulate;stop-color:#000000;opacity:0.8"
+     d="M 18.199219 17.199219 A 1 1 0 0 0 17.492188 17.492188 A 1 1 0 0 0 17.492188 18.90625 L 20.292969 21.707031 A 1 1 0 0 0 21.707031 21.707031 A 1 1 0 0 0 21.707031 20.292969 L 18.90625 17.492188 A 1 1 0 0 0 18.199219 17.199219 z " />
 </svg>

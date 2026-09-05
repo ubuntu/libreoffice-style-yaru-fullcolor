@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
-   version="1.1"
+   version="2.0"
    id="svg4"
    sodipodi:docname="sc_overline.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_overline.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"><metadata
+   inkscape:export-ydpi="96"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -23,36 +23,13 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title></dc:title>
     </cc:Work>
   </rdf:RDF>
 </metadata>
 <defs
-   id="defs8">
-  <linearGradient
-     inkscape:collect="always"
-     id="linearGradient839">
-    <stop
-       style="stop-color:#151515;stop-opacity:1"
-       offset="0"
-       id="stop835" />
-    <stop
-       style="stop-color:#4d4d4d;stop-opacity:1"
-       offset="1"
-       id="stop837" />
-  </linearGradient>
-  <linearGradient
-     inkscape:collect="always"
-     xlink:href="#linearGradient839"
-     id="linearGradient841"
-     x1="8"
-     y1="1"
-     x2="8"
-     y2="15"
-     gradientUnits="userSpaceOnUse" />
-</defs>
+   id="defs8" />
 <sodipodi:namedview
-   pagecolor="#808080"
+   pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
    objecttolerance="10"
@@ -61,29 +38,41 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1043"
+   inkscape:window-height="1048"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="3.0414608"
-   inkscape:cy="6.3840112"
+   inkscape:cx="3.0338983"
+   inkscape:cy="6.3898305"
    inkscape:window-x="1920"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:document-rotation="0">
+   inkscape:document-rotation="0"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid819" />
+     id="grid819"
+     originx="0.000000"
+     originy="0.000000"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 
 
+
+
+
 /&gt;<path
-   style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 2 1 L 2 2 L 14 2 L 14 1 L 2 1 z M 8 3 C 5.784 3 4 4.784 4 7 L 4 11 C 4 13.216 5.784 15 8 15 C 10.216 15 12 13.216 12 11 L 12 7 C 12 4.784 10.216 3 8 3 z M 7.5 5 L 8.5 5 C 9.331 5 10 5.892 10 7 L 10 11 C 10 12.108 9.331 13 8.5 13 L 7.5 13 C 6.669 13 6 12.108 6 11 L 6 7 C 6 5.892 6.669 5 7.5 5 z "
-   id="rect832" />
+   style="opacity:1;fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 2,0 V 1 H 14 V 0 Z"
+   id="rect830" />
 <path
-   id="rect830"
-   style="opacity:1;fill:url(#linearGradient841);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 2 1 L 2 2 L 14 2 L 14 1 L 2 1 z M 8 3 C 5.784 3 4 4.784 4 7 L 4 11 C 4 13.216 5.784 15 8 15 C 10.216 15 12 13.216 12 11 L 12 7 C 12 4.784 10.216 3 8 3 z M 7.5 5 L 8.5 5 C 9.331 5 10 5.892 10 7 L 10 11 C 10 12.108 9.331 13 8.5 13 L 7.5 13 C 6.669 13 6 12.108 6 11 L 6 7 C 6 5.892 6.669 5 7.5 5 z " />
+   d="m 7.9999919,14.00001 q -1.4605799,0 -2.7053924,-0.680497 Q 4.0663845,12.639016 3.319497,11.311216 2.5726095,9.966818 2.5726095,7.9917156 q 0,-1.4771775 0.431535,-2.58921 0.431535,-1.12863 1.1784225,-1.8755175 0.763485,-0.763485 1.7427375,-1.1452275 0.9792525,-0.3817425 2.0746874,-0.3817425 1.4771775,0 2.7053921,0.6804975 1.228215,0.6639 1.975103,2.0082975 0.746887,1.3278 0.746887,3.3029025 0,1.9751024 -0.746887,3.3195004 -0.746888,1.3278 -1.975103,2.008297 -1.2282146,0.680497 -2.7053921,0.680497 z m 0,-1.161824 q 1.2448125,0 2.1576751,-0.580913 0.912862,-0.59751 1.410787,-1.676347 0.497925,-1.095435 0.497925,-2.5892104 0,-1.493775 -0.497925,-2.5726125 Q 11.070529,4.3236681 10.157667,3.7427556 9.2448044,3.1618431 7.9999919,3.1618431 q -1.2448124,0 -2.1576749,0.5809125 -0.9128625,0.5809125 -1.4107875,1.6763475 -0.497925,1.0788375 -0.497925,2.5726125 0,1.4937754 0.497925,2.5892104 0.497925,1.078837 1.4107875,1.676347 0.9128625,0.580913 2.1576749,0.580913 z"
+   id="text2"
+   style="font-size:16.5975px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke-width:1.55602;stroke-linecap:round"
+   aria-label="O" />
 </svg>

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
@@ -15,7 +7,14 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/de/lc_italic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -24,24 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient841">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop837" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop839" />
-    </linearGradient>
     <radialGradient
        id="a"
        cx="13"
@@ -66,18 +53,9 @@
          stop-color="#3f3f3f"
          id="stop8" />
     </radialGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient841"
-       id="linearGradient843"
-       x1="7.1953125"
-       y1="3.9980469"
-       x2="7"
-       y2="20"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -86,27 +64,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="11.803354"
-     inkscape:cy="13.364052"
+     inkscape:cx="11.81108"
+     inkscape:cy="13.357127"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path845"
-     d="M 7.1953125 3.9980469 L 4 20 L 7.0351562 20 L 8.0449219 14.958984 L 10.050781 13.119141 L 13 20 L 13.492188 20 L 15.802734 20 L 16 20 L 12.105469 11.236328 L 20 4 L 18.789062 4 L 18.791016 3.9980469 L 16.501953 3.9980469 L 10.330078 10.160156 L 8.6328125 12 L 10.232422 3.9980469 L 7.1953125 3.9980469 z "
-     style="fill:#000000;stroke:#ffffff;stroke-opacity:1;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
-  <path
-     style="fill:url(#linearGradient843);stroke:none;stroke-opacity:0.7;fill-opacity:1"
-     d="M 7.1953125 3.9980469 L 4 20 L 7.0351562 20 L 8.0449219 14.958984 L 10.050781 13.119141 L 13 20 L 13.492188 20 L 15.802734 20 L 16 20 L 12.105469 11.236328 L 20 4 L 18.789062 4 L 18.791016 3.9980469 L 16.501953 3.9980469 L 10.330078 10.160156 L 8.6328125 12 L 10.232422 3.9980469 L 7.1953125 3.9980469 z "
-     id="path33" />
+     d="M 4.4964009,20 8.3290088,4.0000165 H 10.106785 L 8.3982727,11.180384 q 1.108224,-0.80808 2.3549763,-1.8008637 1.26984,-0.992784 2.493504,-2.0086559 1.246752,-1.015872 2.262624,-1.893216 1.03896,-0.900432 1.662335,-1.4776319 H 19.5036 q -0.784992,0.7388159 -1.939392,1.7315999 -1.154399,0.969696 -2.470415,2.0317439 -1.292928,1.062048 -2.585856,2.101008 -1.26984,1.0389597 -2.354976,1.8701277 0.80808,0.623376 1.685424,1.61616 0.877344,0.992784 1.708512,2.147184 0.854256,1.1544 1.523808,2.331888 0.69264,1.1544 1.131312,2.170272 h -1.96248 Q 13.408369,18.360752 12.461761,16.906208 11.538241,15.451664 10.453105,14.251088 9.3910567,13.027424 8.1673928,12.126992 L 6.2972648,20 Z"
+     id="text1"
+     style="font-style:italic;font-size:23.088px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';fill:#0000ff;stroke-width:1.62338;stroke-linecap:round"
+     aria-label="K" />
 </svg>

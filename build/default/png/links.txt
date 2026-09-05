@@ -56,7 +56,6 @@ cmd/32/badcellstyles.png cmd/32/badcellstyle.png
 cmd/32/basicshapes.circle-pie.png cmd/32/pie.png
 cmd/32/basicshapes.circle.png cmd/32/circle.png
 cmd/32/basicshapes.ellipse.png cmd/32/ellipse.png
-cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 cmd/32/basicshapes.parallelogram.png cmd/32/flowchartshapes.flowchart-data.png
 cmd/32/basicshapes.png cmd/32/graphic.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.png cmd/32/basicshapes.can.png
 cmd/32/flowchartshapes.flowchart-manual-operation.png cmd/32/basicshapes.trapezoid.png
 cmd/32/flowchartshapes.flowchart-merge.png cmd/32/fontworkshapetype.fontwork-triangle-down.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
-cmd/32/flowchartshapes.flowchart-punched-tape.png cmd/32/fontworkshapetype.fontwork-wave.png
-cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-document.png
 cmd/32/focustofindbar.png cmd/32/recsearch.png
 cmd/32/fontcolor.png cmd/32/color.png
 cmd/32/fontheight.png cmd/32/scaletext.png
@@ -345,7 +342,7 @@ cmd/32/insertobjectfloatingframe.png cmd/32/insertframe.png
 cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
 cmd/32/insertpagefooter.png cmd/32/insertfooter.png
 cmd/32/insertpageheader.png cmd/32/insertheader.png
-cmd/32/insertpagesfield.png cmd/32/insertpagenumberfield.png
+cmd/32/insertpagesfield.png cmd/32/insertpagecountfield.png
 cmd/32/insertpagetitlefield.png cmd/32/inserttitlefield.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
 cmd/32/insertpivottable.png cmd/32/datadatapilotrun.png
@@ -395,7 +392,6 @@ cmd/32/mailmergepreventry.png cmd/32/prevrecord.png
 cmd/32/margins.png cmd/32/pagemargin.png
 cmd/32/measureattributes.png cmd/32/measureline.png
 cmd/32/mergecellsmenu.png cmd/32/mergecells.png
-cmd/32/togglemergecells.png cmd/32/mergecells.png
 cmd/32/managelanguage.png cmd/32/showallnotes.png
 cmd/32/mirrorhorz.png cmd/32/mirror.png
 cmd/32/mirrormenu.png cmd/32/rotateleft.png
@@ -452,6 +448,7 @@ cmd/32/outlineright.png cmd/32/decrementlevel.png
 cmd/32/outlineup.png cmd/32/moveup.png
 cmd/32/pagedown.png cmd/32/nextrecord.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
+cmd/32/pagemode.png cmd/32/showsinglepage.png
 cmd/32/pageup.png cmd/32/prevrecord.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
 cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
@@ -794,7 +791,6 @@ cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
 cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
 cmd/lc_basicshapes.circle.png cmd/lc_circle.png
 cmd/lc_basicshapes.ellipse.png cmd/lc_ellipse.png
-cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
 cmd/lc_basicshapes.png cmd/lc_graphic.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
@@ -932,8 +928,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
 cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
 cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
 cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
-cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
-cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-document.png
 cmd/lc_focustofindbar.png cmd/lc_recsearch.png
 cmd/lc_fontcolor.png cmd/lc_color.png
 cmd/lc_fontheight.png cmd/lc_scaletext.png
@@ -1040,7 +1034,8 @@ cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpagefooter.png cmd/lc_insertfooter.png
 cmd/lc_insertpageheader.png cmd/lc_insertheader.png
 cmd/lc_inserttopicfield.png cmd/lc_drawcaption.png
-cmd/lc_insertpagesfield.png cmd/lc_insertpagenumberfield.png
+cmd/lc_insertpagefield.png cmd/lc_insertpagenumberfield.png
+cmd/lc_insertpagesfield.png cmd/lc_insertpagecountfield.png
 cmd/lc_insertpagetitlefield.png cmd/lc_inserttitlefield.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpivottable.png cmd/lc_datadatapilotrun.png
@@ -1084,7 +1079,6 @@ cmd/lc_margins.png cmd/lc_pagemargin.png
 cmd/lc_measureattributes.png cmd/lc_measureline.png
 cmd/lc_mergecellsmenu.png cmd/lc_mergecells.png
 cmd/lc_managelanguage.png cmd/lc_showallnotes.png
-cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_mergedocument.png cmd/lc_mergedocuments.png
 cmd/lc_mirrorhorz.png cmd/lc_mirror.png
 cmd/lc_mirrormenu.png cmd/lc_rotateleft.png
@@ -1139,6 +1133,7 @@ cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineup.png cmd/lc_moveup.png
 cmd/lc_pagedown.png cmd/lc_nextrecord.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
+cmd/lc_pagemode.png cmd/lc_showsinglepage.png
 cmd/lc_pageup.png cmd/lc_prevrecord.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
@@ -1341,7 +1336,6 @@ cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_basicshapes.circle-pie.png cmd/sc_pie.png
 cmd/sc_basicshapes.circle.png cmd/sc_circle.png
 cmd/sc_basicshapes.ellipse.png cmd/sc_ellipse.png
-cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
 cmd/sc_basicshapes.png cmd/sc_graphic.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
@@ -1481,8 +1475,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
 cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
 cmd/sc_flowchartshapes.flowchart-merge.png cmd/sc_fontworkshapetype.fontwork-triangle-down.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
-cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
-cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-document.png
 cmd/sc_focustofindbar.png cmd/sc_recsearch.png
 cmd/sc_fontcolor.png cmd/sc_color.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
@@ -1589,7 +1581,7 @@ cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
 cmd/sc_insertpagefooter.png cmd/sc_insertfooter.png
 cmd/sc_insertpageheader.png cmd/sc_insertheader.png
 cmd/sc_inserttopicfield.png cmd/sc_drawcaption.png
-cmd/sc_insertpagesfield.png cmd/sc_insertpagenumberfield.png
+cmd/sc_insertpagesfield.png cmd/sc_insertpagecountfield.png
 cmd/sc_insertpagetitlefield.png cmd/sc_inserttitlefield.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpivottable.png cmd/sc_datadatapilotrun.png
@@ -1634,7 +1626,6 @@ cmd/sc_margins.png cmd/sc_pagemargin.png
 cmd/sc_measureattributes.png cmd/sc_measureline.png
 cmd/sc_mergecellsmenu.png cmd/sc_mergecells.png
 cmd/sc_managelanguage.png cmd/sc_showallnotes.png
-cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_mergedocument.png cmd/sc_mergedocuments.png
 cmd/sc_mirrorhorz.png cmd/sc_mirror.png
 cmd/sc_mirrormenu.png cmd/sc_rotateleft.png
@@ -1690,6 +1681,7 @@ cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineup.png cmd/sc_moveup.png
 cmd/sc_pagedown.png cmd/sc_nextrecord.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
+cmd/sc_pagemode.png cmd/sc_showsinglepage.png
 cmd/sc_pageup.png cmd/sc_prevrecord.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
@@ -2491,7 +2483,7 @@ sw/res/zetlhor2.png svx/res/zetlhor2.png
 sw/res/zetlver2.png svx/res/zetlver2.png
 sw/res/sidebar/pageproppanel/columncopy_24x24.png sw/res/sidebar/pageproppanel/formatcopy_24x24.png
 sw/res/sidebar/pageproppanel/column_L_copy_24x24.png sw/res/sidebar/pageproppanel/format_L_copy_24x24.png
-sw/res/sidebar/pageproppanel/portraitcopy_24x24.png cmd/lc_pagemode.png
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.png cmd/lc_showsinglepage.png
 vcl/res/index.png cmd/sc_insertmultiindex.png
 vcl/res/querybox.png vcl/res/infobox.png
 vcl/res/warningbox.png vcl/res/errorbox.png

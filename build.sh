@@ -25,6 +25,9 @@
 ##      -l, --links          Generate "links.txt" files [default: 0]
 ##      -z, --zip            Generate ZIP archives [default: 0]
 ##      -e, --oxt            Generate OXT extension archives [default: 0]
+##      -v, --variant <name> Only process this variant; repeat to select multiple variants
+
+set -e
 
 # CLInt GENERATED_CODE: start
 # Default values
@@ -33,6 +36,7 @@ _watch=0
 _links=0
 _zip=0
 _oxt=0
+_requested_variants=()
 
 # No-arguments is not allowed
 [ $# -eq 0 ] && sed -ne 's/^## \(.*\)/\1/p' $0 && exit 1
@@ -47,6 +51,7 @@ for arg in "$@"; do
 "--links") set -- "$@" "-l";;
 "--zip") set -- "$@" "-z";;
 "--oxt") set -- "$@" "-e";;
+"--variant") set -- "$@" "-v";;
   *) set -- "$@" "$arg"
   esac
 done
@@ -56,7 +61,7 @@ function print_illegal() {
 }
 
 # Parsing flags and arguments
-while getopts 'hawlzef:' OPT; do
+while getopts 'hawlzev:f:' OPT; do
     case $OPT in
         h) sed -ne 's/^## \(.*\)/\1/p' $0
            exit 1 ;;
@@ -65,6 +70,7 @@ while getopts 'hawlzef:' OPT; do
         l) _links=1 ;;
         z) _zip=1 ;;
         e) _oxt=1 ;;
+        v) _requested_variants+=( "$OPTARG" ) ;;
         f) _file=$OPTARG ;;
         \?) print_illegal $@ >&2;
             echo "---"
@@ -76,25 +82,18 @@ done
 # CLInt GENERATED_CODE: end
 
 ###################################################
-# POPULATE ACCENT COLORS
+# POPULATE VARIANTS COLORS
 ###################################################
 
-accents=( "default" )
+source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
-while read line; do
-    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
-    then
-        continue
-    fi
+load_variants
+filter_variants "${_requested_variants[@]}"
 
-    IFS=' '
-    read -ra splitedline <<< "$line"
-    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
-        echo "Error line $n: Malformed line '$line'"
-    else
-        accents+=( "${line}" )
-    fi
-done < "src/accents.txt"
+# Bash arrays cannot be exported to the workers created by GNU parallel.
+# Serialize the small variant list once instead of rebuilding it for every icon.
+printf -v variants_serialized '%s\n' "${variants[@]}"
+export variants_serialized
 
 ###################################################
 # FUNCTIONS
@@ -104,10 +103,10 @@ function check_deps() {
     missing_deps=False
     params=( "$@" )
 
-    if [[ " ${params[*]} " =~ "cairosvg" ]]; then
-        if ! command -v cairosvg >/dev/null
+    if [[ " ${params[*]} " =~ "resvg" ]]; then
+        if ! command -v resvg >/dev/null
         then
-            echo  -e "=> 🙅 Please install cairosvg"
+            echo  -e "=> 🙅 Please install resvg"
             missing_deps=True
         fi
     fi
@@ -120,10 +119,10 @@ function check_deps() {
         fi
     fi
 
-    if [[ " ${params[*]} " =~ "svgo" ]]; then
-        if ! command -v svgo >/dev/null
+    if [[ " ${params[*]} " =~ "scour" ]]; then
+        if ! command -v scour >/dev/null
         then
-            echo  -e "=> 🙅 Please install svgo"
+            echo  -e "=> 🙅 Please install scour"
             missing_deps=True
         fi
     fi
@@ -151,131 +150,199 @@ function check_deps() {
 }
 export -f check_deps
 
+function render_variant() {
+    local filename=$1
+    local variant_color=$2
+    local template=$3
+    local variant_name dummy_color replacement_color placeholder
+    local index
+    local -a variant_fields sed_args placeholders
+
+    read -r -a variant_fields <<< "$variant_color"
+    variant_name=${variant_fields[0]}
+
+    # Replace dummy colors with placeholders first so a replacement that
+    # resembles another dummy color cannot be processed a second time.
+    for (( index = 4; index < ${#variant_fields[@]}; index += 2 )); do
+        dummy_color=${variant_fields[$index]}
+        placeholder="__YARU_COLOR_$(( (index - 4) / 2 ))__"
+        placeholders+=( "$placeholder" )
+        sed_args+=( -e "s/#${dummy_color}/#${placeholder}/g" )
+    done
+    for (( index = 4; index < ${#variant_fields[@]}; index += 2 )); do
+        replacement_color=${variant_fields[$((index + 1))]}
+        placeholder=${placeholders[$(( (index - 4) / 2 ))]}
+        sed_args+=( -e "s/#${placeholder}/#${replacement_color}/g" )
+    done
+
+    sed "${sed_args[@]}" "$template" \
+        > "./build/${variant_name}/svg${filename}.svg"
+
+    resvg "./build/${variant_name}/svg${filename}.svg" \
+        "./build/${variant_name}/png${filename}.png" &>/dev/null
+    optipng -o7 "./build/${variant_name}/png${filename}.png" &>/dev/null
+}
+export -f render_variant
+
 function render_icon() {
-    check_deps "cairosvg" "svgo" "optipng"
+    local filename=$1
+    local parallel_variants=${2:-0}
+    local relative_dir=${filename%/*}
+    local template_root="./build/.templates/${BASHPID}"
+    local variant_color variant_name src template
+    local template_number=0
+    local index active_jobs max_jobs render_status
+    local -a variant_colors variant_templates output_dirs
+    local -A optimized_sources
 
-    variant_color=( $2 )
-    accent_name=${variant_color[0]}
-    accent_color=${variant_color[1]}
+    # Creating all output directories at once avoids two processes for every
+    # icon/variant pair.
+    while IFS= read -r variant_color; do
+        [[ -z $variant_color ]] && continue
+        read -r variant_name _ <<< "$variant_color"
+        variant_colors+=( "$variant_color" )
+        output_dirs+=(
+            "./build/${variant_name}/png${relative_dir}"
+            "./build/${variant_name}/svg${relative_dir}"
+        )
+    done <<< "$variants_serialized"
+    mkdir -p "${output_dirs[@]}" "$template_root"
 
-    # Mkdir folders
+    echo -e "=> 🔨 Render '${filename}'"
 
-    mkdir -p $(dirname ./build/${accent_name}/png${1}.png)
-    mkdir -p $(dirname ./build/${accent_name}/svg${1}.svg)
+    # Scour works on the source SVG, before variant colors are substituted.
+    # Most icons use the same source for every color variant, so optimize each
+    # distinct source only once and reuse the result for all variants.
+    for variant_color in "${variant_colors[@]}"; do
+        read -r variant_name _ <<< "$variant_color"
 
-    # Default is special because it uses two accent colors
-    if [[ $accent_name == "default" ]]; then
-        # Build default icon
-
-        echo -e "=> 🔨 Render '${1}'"
-
-        cp -f "./src/default${1}.svg" "./build/default/svg${1}.svg"
-        svgo "./build/default/svg${1}.svg" &>/dev/null
-        # replace placeholder colors
-        sed -i 's/0ff/e95420/g' "./build/default/svg${1}.svg"
-        sed -i 's/0f0/77216f/g' "./build/default/svg${1}.svg"
-
-        # Render PNG
-        cairosvg "./build/default/svg${1}.svg" -o "./build/default/png${1}.png" &>/dev/null
-        optipng -o7 "./build/default/png${1}.png" &>/dev/null
-    else
-        # Build accented icons
-
-        echo -e "=> 🔨 Render '${1}' - ${accent_name} accented "
-
-        # Check if flavour or accented specific file exist
-        if test -f "./src/${accent_name}${1}.svg"; then
-            cp -f "./src/${accent_name}${1}.svg" "./build/${accent_name}/svg${1}.svg"
-        elif test -f "./src/accented${1}.svg"; then
-            cp -f "./src/accented${1}.svg" "./build/${accent_name}/svg${1}.svg"
+        if test -f "./src/${variant_name}${filename}.svg"; then
+            src="./src/${variant_name}${filename}.svg"
+        elif test -f "./src/accented${filename}.svg"; then
+            src="./src/accented${filename}.svg"
         else
-            cp -f "./src/default${1}.svg" "./build/${accent_name}/svg${1}.svg"
+            src="./src/default${filename}.svg"
         fi
 
-        svgo "./build/${accent_name}/svg${1}.svg" &>/dev/null
-        # replace placeholder colors
-        sed -i "s/0ff/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
-        sed -i "s/0f0/${accent_color}/g" "./build/${accent_name}/svg${1}.svg"
+        template=${optimized_sources["$src"]-}
+        if [[ -z $template ]]; then
+            template="${template_root}/${template_number}.svg"
+            scour "$src" "$template" \
+                --no-line-breaks \
+                --strip-xml-prolog \
+                --create-groups \
+                --enable-id-stripping \
+                --strip-xml-space \
+                --remove-descriptive-elements \
+                --enable-comment-stripping \
+                &>/dev/null
+            optimized_sources["$src"]=$template
+            template_number=$((template_number+1))
+        fi
+        variant_templates+=( "$template" )
+    done
 
-        # Render PNG
-        cairosvg "./build/${accent_name}/svg${1}.svg" -o "./build/${accent_name}/png${1}.png" &>/dev/null
-        optipng -o7 "./build/${accent_name}/png${1}.png" &>/dev/null
+    if [[ $parallel_variants = 1 ]]; then
+        max_jobs=$(nproc 2>/dev/null || echo 1)
+        active_jobs=0
+        render_status=0
+
+        for index in "${!variant_colors[@]}"; do
+            render_variant "$filename" "${variant_colors[$index]}" \
+                "${variant_templates[$index]}" &
+            active_jobs=$((active_jobs+1))
+
+            if (( active_jobs >= max_jobs )); then
+                if ! wait -n; then
+                    render_status=1
+                fi
+                active_jobs=$((active_jobs-1))
+            fi
+        done
+
+        while (( active_jobs > 0 )); do
+            if ! wait -n; then
+                render_status=1
+            fi
+            active_jobs=$((active_jobs-1))
+        done
+        return "$render_status"
     fi
+
+    for index in "${!variant_colors[@]}"; do
+        render_variant "$filename" "${variant_colors[$index]}" \
+            "${variant_templates[$index]}"
+    done
 }
 export -f render_icon
 
 function generate_links() {
     echo -e "=> 🌠 Copy and format links.txt in build\n"
 
-    for variant_color in "${accents[@]}"; do
-        variant_color=( $variant_color )
-        accent_name=${variant_color[0]}
+    for variant in "${variants[@]}"; do
+        variant=( $variant )
+        variant_name=${variant[0]}
         
-        cp -f "./src/links.txt" "./build/${accent_name}/png/links.txt"
-        sed -i 's/.xxx/.png/g' "./build/${accent_name}/png/links.txt"
+        cp -f "./src/links.txt" "./build/${variant_name}/png/links.txt"
+        sed -i 's/.xxx/.png/g' "./build/${variant_name}/png/links.txt"
 
-        cp -f "./src/links.txt" "./build/${accent_name}/svg/links.txt"
-        sed -i 's/.xxx/.svg/g' "./build/${accent_name}/svg/links.txt"
+        cp -f "./src/links.txt" "./build/${variant_name}/svg/links.txt"
+        sed -i 's/.xxx/.svg/g' "./build/${variant_name}/svg/links.txt"
     done
 }
 
 function generate_zip() {
-    rm -r "dist"
+    rm -Rf "dist"
     mkdir -p -v "dist" &>/dev/null
 
-    for variant_color in "${accents[@]}"; do
-        variant_color=( $variant_color )
-        accent_name=${variant_color[0]}
+    for variant in "${variants[@]}"; do
+        variant=( $variant )
+        variant_name=${variant[0]}
 
-        if [[ $accent_name == "default" ]]; then
-            archive_filename="images_yaru"
-        else
-            archive_filename="images_yaru_${accent_name}"
-        fi
+        archive_filename=$(get_theme_name "$variant_name")
 
-        echo "=> 📦 Zip ${accent_name} svg icons"
-        cd "build/${accent_name}/svg"
+        echo "=> 📦 Zip ${variant_name} svg icons"
+        cd "build/${variant_name}/svg"
         zip -q -r "${archive_filename}_svg.zip" *
 
-        echo "=> 📦 Zip ${accent_name} png icons"
+        echo "=> 📦 Zip ${variant_name} png icons"
         cd "../png"
         zip -q -r "${archive_filename}.zip" *
 
         cd "../../.."
 
-        mv "build/${accent_name}/png/${archive_filename}.zip" "dist/${archive_filename}.zip"
-        mv "build/${accent_name}/svg/${archive_filename}_svg.zip" "dist/${archive_filename}_svg.zip"
+        mv "build/${variant_name}/png/${archive_filename}.zip" "dist/${archive_filename}.zip"
+        mv "build/${variant_name}/svg/${archive_filename}_svg.zip" "dist/${archive_filename}_svg.zip"
     done
 
     echo -e "\n=> 🎉 ZIP generated!\n"
 }
 
 function generate_oxt() {
-    check_deps "cairosvg" "optipng"
+    check_deps "resvg" "optipng"
 
     generate_zip
 
     mkdir -p -v "oxt/iconsets" &>/dev/null
 
-    for variant_color in "${accents[@]}"; do
-        variant_color=( $variant_color )
-        accent_name=${variant_color[0]}
-        accent_color=${variant_color[1]}
+    for variant in "${variants[@]}"; do
+        variant=( $variant )
+        variant_name=${variant[0]}
+        accent_color=${variant[1]}
 
-        if [[ $accent_name == "default" ]]; then
+        archive_filename=$(get_theme_name "$variant_name")
+        if [[ $variant_name == "default" ]]; then
             accent_color="e95420"
-            archive_filename="images_yaru"
             oxt_filename="yaru-theme"
             oxt_title="Yaru icon theme"
             oxt_identifier="org.iconset.Yaru"
         else
-            archive_filename="images_yaru_${accent_name}"
-            oxt_filename="yaru-${accent_name}-theme"
-            oxt_title="Yaru icon theme (${accent_name} variant)"
-            oxt_identifier="org.iconset.Yaru-${accent_name}"
+            oxt_filename="yaru-${variant_name}-theme"
+            oxt_title="Yaru icon theme (${variant_name} variant)"
+            oxt_identifier="org.iconset.Yaru-${variant_name}"
         fi
 
-        echo "=> 🎁 Build ${accent_name} OXT"
+        echo "=> 🎁 Build ${variant_name} OXT"
 
         #Create temp files
         cp -r "oxt/" "dist/"
@@ -290,8 +357,8 @@ function generate_oxt() {
         sed -i "s|%update_path%|https://raw.githubusercontent.com/ubuntu/libreoffice-style-yaru-fullcolor/master/updates/${oxt_filename}.update.xml|g" "description.xml"
 
         # Accented logo
-        sed -i "s/0ff/${accent_color}/g" "logo.svg"
-        cairosvg "logo.svg" -o "logo.png" &>/dev/null
+        sed -i "s/#${accent_dummy_color}/#${accent_color}/g" "logo.svg"
+        resvg "logo.svg" "logo.png" &>/dev/null
         optipng -o7 "logo.png" &>/dev/null
         rm "logo.svg"
 
@@ -300,7 +367,7 @@ function generate_oxt() {
         sed -i "s|%title%|${oxt_title}|g" "description.xml"
         cd ..
         mv "oxt/${oxt_filename}.oxt" "./"
-        rm -r "oxt"
+        rm -Rf "oxt"
         cd ..
     done
 
@@ -313,7 +380,7 @@ function generate_oxt() {
 
 if [[ $_all = 1 ]];
 then
-    check_deps "parallel"
+    check_deps "parallel" "resvg" "scour" "optipng"
 
     echo -e "=> 🔥 Warning this will delete the /build folder and recreate it entirely from /src (will take a while)\n"
     read -p "=> Continue? (yes/no) " continue
@@ -334,15 +401,16 @@ then
     do
         filename=${filename#"./src/default"}
         filename=${filename%".svg"}
-        filenames+=($filename)
+        filenames+=( "$filename" )
     done < <(find "./src/default" -name "*.svg" -print0)
 
-    parallel render_icon ::: "${filenames[@]}" ::: "${accents[@]}"
+    parallel render_icon ::: "${filenames[@]}"
+    rm -Rf "build/.templates"
 
     generate_links
 elif [[ $_watch = 1 ]];
 then
-    check_deps "parallel" "inotifywait"
+    check_deps "parallel" "inotifywait" "resvg" "scour" "optipng"
 
     echo -e "=> 🔍 Lets watch file changes (abort with CTRL+C) ...\n"
 
@@ -354,22 +422,19 @@ then
         elif [[ $filename == ./src/* ]]; then
             if [[ $filename == *.svg ]];
             then
-                for variant_color in "${accents[@]}"; do
+                for variant_color in "${variants[@]}"; do
                     variant_color=( $variant_color )
-                    accent_name=${variant_color[0]}
+                    variant_name=${variant_color[0]}
 
-                    if [[ $filename == ./src/${accent_name}/* ]]; then
-                        filename=${filename#"./src/${accent_name}"}
+                    if [[ $filename == ./src/${variant_name}/* ]]; then
+                        filename=${filename#"./src/${variant_name}"}
                     fi
                 done
 
-                if [[ $filename == ./src/accented/* ]]; then
-                    filename=${filename#"./src/accented"}
-                fi
-
                 filename=${filename%".svg"}
 
-                parallel render_icon ::: "${filename}" ::: "${accents[@]}"
+                render_icon "${filename}" 1
+                rm -Rf "build/.templates"
 
                 echo
             fi
@@ -385,9 +450,10 @@ elif [[ $_oxt = 1 ]];
 then
     generate_oxt
 elif [[ ! -z "$_file" ]]; then
-    check_deps "parallel"
+    check_deps "resvg" "scour" "optipng"
 
-    parallel render_icon ::: "${_file}" ::: "${accents[@]}"
+    render_icon "${_file}" 1
+    rm -Rf "build/.templates"
 else
     echo -e "❌ Error, please provide a valid option\n"
     exit 1

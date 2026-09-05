@@ -56,7 +56,6 @@ cmd/32/badcellstyles.svg cmd/32/badcellstyle.svg
 cmd/32/basicshapes.circle-pie.svg cmd/32/pie.svg
 cmd/32/basicshapes.circle.svg cmd/32/circle.svg
 cmd/32/basicshapes.ellipse.svg cmd/32/ellipse.svg
-cmd/32/basicshapes.frame.svg cmd/32/rect_unfilled.svg
 cmd/32/basicshapes.parallelogram.svg cmd/32/flowchartshapes.flowchart-data.svg
 cmd/32/basicshapes.svg cmd/32/graphic.svg
 cmd/32/basicshapes.quadrat.svg cmd/32/square.svg
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.svg cmd/32/basicshapes.can.svg
 cmd/32/flowchartshapes.flowchart-manual-operation.svg cmd/32/basicshapes.trapezoid.svg
 cmd/32/flowchartshapes.flowchart-merge.svg cmd/32/fontworkshapetype.fontwork-triangle-down.svg
 cmd/32/flowchartshapes.flowchart-process.svg cmd/32/square.svg
-cmd/32/flowchartshapes.flowchart-punched-tape.svg cmd/32/fontworkshapetype.fontwork-wave.svg
-cmd/32/flowchartshapes.svg cmd/32/flowchartshapes.flowchart-document.svg
 cmd/32/focustofindbar.svg cmd/32/recsearch.svg
 cmd/32/fontcolor.svg cmd/32/color.svg
 cmd/32/fontheight.svg cmd/32/scaletext.svg
@@ -345,7 +342,7 @@ cmd/32/insertobjectfloatingframe.svg cmd/32/insertframe.svg
 cmd/32/insertobjectstarmath.svg cmd/32/insertmath.svg
 cmd/32/insertpagefooter.svg cmd/32/insertfooter.svg
 cmd/32/insertpageheader.svg cmd/32/insertheader.svg
-cmd/32/insertpagesfield.svg cmd/32/insertpagenumberfield.svg
+cmd/32/insertpagesfield.svg cmd/32/insertpagecountfield.svg
 cmd/32/insertpagetitlefield.svg cmd/32/inserttitlefield.svg
 cmd/32/insertpatternfield.svg cmd/32/patternfield.svg
 cmd/32/insertpivottable.svg cmd/32/datadatapilotrun.svg
@@ -395,7 +392,6 @@ cmd/32/mailmergepreventry.svg cmd/32/prevrecord.svg
 cmd/32/margins.svg cmd/32/pagemargin.svg
 cmd/32/measureattributes.svg cmd/32/measureline.svg
 cmd/32/mergecellsmenu.svg cmd/32/mergecells.svg
-cmd/32/togglemergecells.svg cmd/32/mergecells.svg
 cmd/32/managelanguage.svg cmd/32/showallnotes.svg
 cmd/32/mirrorhorz.svg cmd/32/mirror.svg
 cmd/32/mirrormenu.svg cmd/32/rotateleft.svg
@@ -452,6 +448,7 @@ cmd/32/outlineright.svg cmd/32/decrementlevel.svg
 cmd/32/outlineup.svg cmd/32/moveup.svg
 cmd/32/pagedown.svg cmd/32/nextrecord.svg
 cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
+cmd/32/pagemode.svg cmd/32/showsinglepage.svg
 cmd/32/pageup.svg cmd/32/prevrecord.svg
 cmd/32/paragraphmenu.svg cmd/32/paragraphdialog.svg
 cmd/32/pastespecialmenu.svg cmd/32/pastespecial.svg
@@ -794,7 +791,6 @@ cmd/lc_badcellstyles.svg cmd/lc_badcellstyle.svg
 cmd/lc_basicshapes.circle-pie.svg cmd/lc_pie.svg
 cmd/lc_basicshapes.circle.svg cmd/lc_circle.svg
 cmd/lc_basicshapes.ellipse.svg cmd/lc_ellipse.svg
-cmd/lc_basicshapes.frame.svg cmd/lc_rect_unfilled.svg
 cmd/lc_basicshapes.parallelogram.svg cmd/lc_flowchartshapes.flowchart-data.svg
 cmd/lc_basicshapes.svg cmd/lc_graphic.svg
 cmd/lc_basicshapes.quadrat.svg cmd/lc_square.svg
@@ -932,8 +928,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.svg cmd/lc_basicshapes.can.svg
 cmd/lc_flowchartshapes.flowchart-manual-operation.svg cmd/lc_basicshapes.trapezoid.svg
 cmd/lc_flowchartshapes.flowchart-merge.svg cmd/lc_fontworkshapetype.fontwork-triangle-down.svg
 cmd/lc_flowchartshapes.flowchart-process.svg cmd/lc_square.svg
-cmd/lc_flowchartshapes.flowchart-punched-tape.svg cmd/lc_fontworkshapetype.fontwork-wave.svg
-cmd/lc_flowchartshapes.svg cmd/lc_flowchartshapes.flowchart-document.svg
 cmd/lc_focustofindbar.svg cmd/lc_recsearch.svg
 cmd/lc_fontcolor.svg cmd/lc_color.svg
 cmd/lc_fontheight.svg cmd/lc_scaletext.svg
@@ -1040,7 +1034,8 @@ cmd/lc_insertobjectstarmath.svg cmd/lc_insertmath.svg
 cmd/lc_insertpagefooter.svg cmd/lc_insertfooter.svg
 cmd/lc_insertpageheader.svg cmd/lc_insertheader.svg
 cmd/lc_inserttopicfield.svg cmd/lc_drawcaption.svg
-cmd/lc_insertpagesfield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertpagefield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertpagesfield.svg cmd/lc_insertpagecountfield.svg
 cmd/lc_insertpagetitlefield.svg cmd/lc_inserttitlefield.svg
 cmd/lc_insertpatternfield.svg cmd/lc_patternfield.svg
 cmd/lc_insertpivottable.svg cmd/lc_datadatapilotrun.svg
@@ -1084,7 +1079,6 @@ cmd/lc_margins.svg cmd/lc_pagemargin.svg
 cmd/lc_measureattributes.svg cmd/lc_measureline.svg
 cmd/lc_mergecellsmenu.svg cmd/lc_mergecells.svg
 cmd/lc_managelanguage.svg cmd/lc_showallnotes.svg
-cmd/lc_togglemergecells.svg cmd/lc_mergecells.svg
 cmd/lc_mergedocument.svg cmd/lc_mergedocuments.svg
 cmd/lc_mirrorhorz.svg cmd/lc_mirror.svg
 cmd/lc_mirrormenu.svg cmd/lc_rotateleft.svg
@@ -1139,6 +1133,7 @@ cmd/lc_outlineright.svg cmd/lc_decrementlevel.svg
 cmd/lc_outlineup.svg cmd/lc_moveup.svg
 cmd/lc_pagedown.svg cmd/lc_nextrecord.svg
 cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
+cmd/lc_pagemode.svg cmd/lc_showsinglepage.svg
 cmd/lc_pageup.svg cmd/lc_prevrecord.svg
 cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
 cmd/lc_pastespecialmenu.svg cmd/lc_pastespecial.svg
@@ -1341,7 +1336,6 @@ cmd/sc_badcellstyles.svg cmd/sc_badcellstyle.svg
 cmd/sc_basicshapes.circle-pie.svg cmd/sc_pie.svg
 cmd/sc_basicshapes.circle.svg cmd/sc_circle.svg
 cmd/sc_basicshapes.ellipse.svg cmd/sc_ellipse.svg
-cmd/sc_basicshapes.frame.svg cmd/sc_rect_unfilled.svg
 cmd/sc_basicshapes.parallelogram.svg cmd/sc_flowchartshapes.flowchart-data.svg
 cmd/sc_basicshapes.svg cmd/sc_graphic.svg
 cmd/sc_basicshapes.quadrat.svg cmd/sc_square.svg
@@ -1481,8 +1475,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.svg cmd/sc_basicshapes.can.svg
 cmd/sc_flowchartshapes.flowchart-manual-operation.svg cmd/sc_basicshapes.trapezoid.svg
 cmd/sc_flowchartshapes.flowchart-merge.svg cmd/sc_fontworkshapetype.fontwork-triangle-down.svg
 cmd/sc_flowchartshapes.flowchart-process.svg cmd/sc_square.svg
-cmd/sc_flowchartshapes.flowchart-punched-tape.svg cmd/sc_fontworkshapetype.fontwork-wave.svg
-cmd/sc_flowchartshapes.svg cmd/sc_flowchartshapes.flowchart-document.svg
 cmd/sc_focustofindbar.svg cmd/sc_recsearch.svg
 cmd/sc_fontcolor.svg cmd/sc_color.svg
 cmd/sc_fontheight.svg cmd/sc_scaletext.svg
@@ -1589,7 +1581,7 @@ cmd/sc_insertobjectstarmath.svg cmd/sc_insertmath.svg
 cmd/sc_insertpagefooter.svg cmd/sc_insertfooter.svg
 cmd/sc_insertpageheader.svg cmd/sc_insertheader.svg
 cmd/sc_inserttopicfield.svg cmd/sc_drawcaption.svg
-cmd/sc_insertpagesfield.svg cmd/sc_insertpagenumberfield.svg
+cmd/sc_insertpagesfield.svg cmd/sc_insertpagecountfield.svg
 cmd/sc_insertpagetitlefield.svg cmd/sc_inserttitlefield.svg
 cmd/sc_insertpatternfield.svg cmd/sc_patternfield.svg
 cmd/sc_insertpivottable.svg cmd/sc_datadatapilotrun.svg
@@ -1634,7 +1626,6 @@ cmd/sc_margins.svg cmd/sc_pagemargin.svg
 cmd/sc_measureattributes.svg cmd/sc_measureline.svg
 cmd/sc_mergecellsmenu.svg cmd/sc_mergecells.svg
 cmd/sc_managelanguage.svg cmd/sc_showallnotes.svg
-cmd/sc_togglemergecells.svg cmd/sc_mergecells.svg
 cmd/sc_mergedocument.svg cmd/sc_mergedocuments.svg
 cmd/sc_mirrorhorz.svg cmd/sc_mirror.svg
 cmd/sc_mirrormenu.svg cmd/sc_rotateleft.svg
@@ -1690,6 +1681,7 @@ cmd/sc_outlineright.svg cmd/sc_decrementlevel.svg
 cmd/sc_outlineup.svg cmd/sc_moveup.svg
 cmd/sc_pagedown.svg cmd/sc_nextrecord.svg
 cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
+cmd/sc_pagemode.svg cmd/sc_showsinglepage.svg
 cmd/sc_pageup.svg cmd/sc_prevrecord.svg
 cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
 cmd/sc_pastespecialmenu.svg cmd/sc_pastespecial.svg
@@ -2491,7 +2483,7 @@ sw/res/zetlhor2.svg svx/res/zetlhor2.svg
 sw/res/zetlver2.svg svx/res/zetlver2.svg
 sw/res/sidebar/pageproppanel/columncopy_24x24.svg sw/res/sidebar/pageproppanel/formatcopy_24x24.svg
 sw/res/sidebar/pageproppanel/column_L_copy_24x24.svg sw/res/sidebar/pageproppanel/format_L_copy_24x24.svg
-sw/res/sidebar/pageproppanel/portraitcopy_24x24.svg cmd/lc_pagemode.svg
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.svg cmd/lc_showsinglepage.svg
 vcl/res/index.svg cmd/sc_insertmultiindex.svg
 vcl/res/querybox.svg vcl/res/infobox.svg
 vcl/res/warningbox.svg vcl/res/errorbox.svg

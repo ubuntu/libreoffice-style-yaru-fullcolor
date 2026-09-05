@@ -20,16 +20,19 @@
 ##
 ## options:
 ##      -u, --uninstall   Uninstall this icon pack [default: 0]
+##      -v, --variant <name> Only install or uninstall this variant; repeat to select multiple variants
 
 # CLInt GENERATED_CODE: start
 # Default values
 _uninstall=0
+_requested_variants=()
 
 # Converting long-options into short ones
 for arg in "$@"; do
   shift
   case "$arg" in
 "--uninstall") set -- "$@" "-u";;
+"--variant") set -- "$@" "-v";;
   *) set -- "$@" "$arg"
   esac
 done
@@ -39,11 +42,12 @@ function print_illegal() {
 }
 
 # Parsing flags and arguments
-while getopts 'hu' OPT; do
+while getopts 'huv:' OPT; do
     case $OPT in
         h) sed -ne 's/^## \(.*\)/\1/p' $0
            exit 1 ;;
         u) _uninstall=1 ;;
+        v) _requested_variants+=( "$OPTARG" ) ;;
         \?) print_illegal $@ >&2;
             echo "---"
             sed -ne 's/^## \(.*\)/\1/p' $0
@@ -54,25 +58,13 @@ done
 # CLInt GENERATED_CODE: end
 
 ###################################################
-# POPULATE ACCENT COLORS
+# POPULATE VARIANTS COLORS
 ###################################################
 
-accents=( "default" )
+source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
-while read line; do
-    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
-    then
-        continue
-    fi
-
-    IFS=' '
-    read -ra splitedline <<< "$line"
-    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
-        echo "Error line $n: Malformed line '$line'"
-    else
-        accents+=( ${splitedline[0]} )
-    fi
-done < "src/accents.txt"
+load_variants || exit 1
+filter_variants "${_requested_variants[@]}" || exit 1
 
 ###################################################
 # FUNCTIONS
@@ -86,15 +78,12 @@ function uninstall() {
 	  /usr/local/lib/libreoffice/share/config \
 	  /opt/libreoffice*/share/config; do
 	  	[ -d "$dir" ] || continue
-		for accent in "${accents[@]}"; do
-			if [[ $accent == "default" ]]; then
-				theme_name="yaru"
-			else
-				theme_name="yaru_${accent}"
-			fi
+		for variant in "${variants[@]}"; do
+			read -r variant_name _ <<< "$variant"
+			theme_name=$(get_theme_name "$variant_name")
 
-			sudo rm -f -v "$dir/images_${theme_name}.zip"
-			sudo rm -f -v "$dir/images_${theme_name}_svg.zip"
+			sudo rm -f -v "$dir/${theme_name}.zip"
+			sudo rm -f -v "$dir/${theme_name}_svg.zip"
 		done
 	done
 }
@@ -102,17 +91,14 @@ function uninstall() {
 function install() {
 	sudo mkdir -p -v "/usr/share/libreoffice/share/config"
 
-	for accent in "${accents[@]}"; do
-		if [[ $accent == "default" ]]; then
-			theme_name="yaru"
-		else
-			theme_name="yaru_${accent}"
-		fi
+	for variant in "${variants[@]}"; do
+		read -r variant_name _ <<< "$variant"
+		theme_name=$(get_theme_name "$variant_name")
 
-		sudo cp -v "dist/images_${theme_name}.zip" "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
-		sudo cp -v "dist/images_${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
-		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}.zip"
-		sudo chmod 644 "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip"
+		sudo cp -v "dist/${theme_name}.zip" "/usr/share/libreoffice/share/config/${theme_name}.zip"
+		sudo cp -v "dist/${theme_name}_svg.zip" "/usr/share/libreoffice/share/config/${theme_name}_svg.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/${theme_name}.zip"
+		sudo chmod 644 "/usr/share/libreoffice/share/config/${theme_name}_svg.zip"
 
 		for dir in \
 		/usr/lib64/libreoffice/share/config \
@@ -120,10 +106,20 @@ function install() {
 		/usr/local/lib/libreoffice/share/config \
 		/opt/libreoffice*/share/config; do
 			[ -d "$dir" ] || continue
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}.zip" "$dir"
-			sudo ln -sf -v "/usr/share/libreoffice/share/config/images_${theme_name}_svg.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/${theme_name}.zip" "$dir"
+			sudo ln -sf -v "/usr/share/libreoffice/share/config/${theme_name}_svg.zip" "$dir"
 		done
 	done
+}
+
+function clear_cache() {
+    for dir in \
+    ~/.config/libreoffice/4/cache \
+    ~/.config/libreoffice/3/cache \
+    ~/.libreoffice/3/cache; do
+        [ -d "$dir" ] || continue
+        sudo rm -f -r "$dir"
+    done
 }
 
 ###################################################
@@ -138,7 +134,14 @@ then
 
 	echo -e "\n=> 🎉 Finish\n"
 else
-	./build.sh --zip
+	build_args=( --zip )
+	if (( ${#_requested_variants[@]} > 0 )); then
+		for variant in "${variants[@]}"; do
+			read -r variant_name _ <<< "$variant"
+			build_args+=( --variant "$variant_name" )
+		done
+	fi
+	./build.sh "${build_args[@]}"
 
 	if [[ $? -ne 0 ]]; then
 	    exit 1
@@ -151,6 +154,10 @@ else
 	echo -e "\n=> 📥 Installing Libreoffice style Yaru\n"
 
 	install
+
+	echo -e "\n=> 🧹 Clear icon cache\n"
+
+	clear_cache
 
 	echo -e "\n=> 🎉 Finish (don't forget to restart Libreoffice)!\n"
 fi

@@ -56,7 +56,6 @@ cmd/32/badcellstyles.xxx cmd/32/badcellstyle.xxx
 cmd/32/basicshapes.circle-pie.xxx cmd/32/pie.xxx
 cmd/32/basicshapes.circle.xxx cmd/32/circle.xxx
 cmd/32/basicshapes.ellipse.xxx cmd/32/ellipse.xxx
-cmd/32/basicshapes.frame.xxx cmd/32/rect_unfilled.xxx
 cmd/32/basicshapes.parallelogram.xxx cmd/32/flowchartshapes.flowchart-data.xxx
 cmd/32/basicshapes.xxx cmd/32/graphic.xxx
 cmd/32/basicshapes.quadrat.xxx cmd/32/square.xxx
@@ -218,8 +217,6 @@ cmd/32/flowchartshapes.flowchart-magnetic-disk.xxx cmd/32/basicshapes.can.xxx
 cmd/32/flowchartshapes.flowchart-manual-operation.xxx cmd/32/basicshapes.trapezoid.xxx
 cmd/32/flowchartshapes.flowchart-merge.xxx cmd/32/fontworkshapetype.fontwork-triangle-down.xxx
 cmd/32/flowchartshapes.flowchart-process.xxx cmd/32/square.xxx
-cmd/32/flowchartshapes.flowchart-punched-tape.xxx cmd/32/fontworkshapetype.fontwork-wave.xxx
-cmd/32/flowchartshapes.xxx cmd/32/flowchartshapes.flowchart-document.xxx
 cmd/32/focustofindbar.xxx cmd/32/recsearch.xxx
 cmd/32/fontcolor.xxx cmd/32/color.xxx
 cmd/32/fontheight.xxx cmd/32/scaletext.xxx
@@ -345,7 +342,8 @@ cmd/32/insertobjectfloatingframe.xxx cmd/32/insertframe.xxx
 cmd/32/insertobjectstarmath.xxx cmd/32/insertmath.xxx
 cmd/32/insertpagefooter.xxx cmd/32/insertfooter.xxx
 cmd/32/insertpageheader.xxx cmd/32/insertheader.xxx
-cmd/32/insertpagesfield.xxx cmd/32/insertpagenumberfield.xxx
+cmd/32/insertpagefield.xxx cmd/32/insertpagenumberfield.xxx
+cmd/32/insertpagesfield.xxx cmd/32/insertpagecountfield.xxx
 cmd/32/insertpagetitlefield.xxx cmd/32/inserttitlefield.xxx
 cmd/32/insertpatternfield.xxx cmd/32/patternfield.xxx
 cmd/32/insertpivottable.xxx cmd/32/datadatapilotrun.xxx
@@ -395,7 +393,6 @@ cmd/32/mailmergepreventry.xxx cmd/32/prevrecord.xxx
 cmd/32/margins.xxx cmd/32/pagemargin.xxx
 cmd/32/measureattributes.xxx cmd/32/measureline.xxx
 cmd/32/mergecellsmenu.xxx cmd/32/mergecells.xxx
-cmd/32/togglemergecells.xxx cmd/32/mergecells.xxx
 cmd/32/managelanguage.xxx cmd/32/showallnotes.xxx
 cmd/32/mirrorhorz.xxx cmd/32/mirror.xxx
 cmd/32/mirrormenu.xxx cmd/32/rotateleft.xxx
@@ -452,6 +449,7 @@ cmd/32/outlineright.xxx cmd/32/decrementlevel.xxx
 cmd/32/outlineup.xxx cmd/32/moveup.xxx
 cmd/32/pagedown.xxx cmd/32/nextrecord.xxx
 cmd/32/pageformatdialog.xxx cmd/32/pagedialog.xxx
+cmd/32/pagemode.xxx cmd/32/showsinglepage.xxx
 cmd/32/pageup.xxx cmd/32/prevrecord.xxx
 cmd/32/paragraphmenu.xxx cmd/32/paragraphdialog.xxx
 cmd/32/pastespecialmenu.xxx cmd/32/pastespecial.xxx
@@ -794,7 +792,6 @@ cmd/lc_badcellstyles.xxx cmd/lc_badcellstyle.xxx
 cmd/lc_basicshapes.circle-pie.xxx cmd/lc_pie.xxx
 cmd/lc_basicshapes.circle.xxx cmd/lc_circle.xxx
 cmd/lc_basicshapes.ellipse.xxx cmd/lc_ellipse.xxx
-cmd/lc_basicshapes.frame.xxx cmd/lc_rect_unfilled.xxx
 cmd/lc_basicshapes.parallelogram.xxx cmd/lc_flowchartshapes.flowchart-data.xxx
 cmd/lc_basicshapes.xxx cmd/lc_graphic.xxx
 cmd/lc_basicshapes.quadrat.xxx cmd/lc_square.xxx
@@ -932,8 +929,6 @@ cmd/lc_flowchartshapes.flowchart-magnetic-disk.xxx cmd/lc_basicshapes.can.xxx
 cmd/lc_flowchartshapes.flowchart-manual-operation.xxx cmd/lc_basicshapes.trapezoid.xxx
 cmd/lc_flowchartshapes.flowchart-merge.xxx cmd/lc_fontworkshapetype.fontwork-triangle-down.xxx
 cmd/lc_flowchartshapes.flowchart-process.xxx cmd/lc_square.xxx
-cmd/lc_flowchartshapes.flowchart-punched-tape.xxx cmd/lc_fontworkshapetype.fontwork-wave.xxx
-cmd/lc_flowchartshapes.xxx cmd/lc_flowchartshapes.flowchart-document.xxx
 cmd/lc_focustofindbar.xxx cmd/lc_recsearch.xxx
 cmd/lc_fontcolor.xxx cmd/lc_color.xxx
 cmd/lc_fontheight.xxx cmd/lc_scaletext.xxx
@@ -1040,7 +1035,8 @@ cmd/lc_insertobjectstarmath.xxx cmd/lc_insertmath.xxx
 cmd/lc_insertpagefooter.xxx cmd/lc_insertfooter.xxx
 cmd/lc_insertpageheader.xxx cmd/lc_insertheader.xxx
 cmd/lc_inserttopicfield.xxx cmd/lc_drawcaption.xxx
-cmd/lc_insertpagesfield.xxx cmd/lc_insertpagenumberfield.xxx
+cmd/lc_insertpagefield.xxx cmd/lc_insertpagenumberfield.xxx
+cmd/lc_insertpagesfield.xxx cmd/lc_insertpagecountfield.xxx
 cmd/lc_insertpagetitlefield.xxx cmd/lc_inserttitlefield.xxx
 cmd/lc_insertpatternfield.xxx cmd/lc_patternfield.xxx
 cmd/lc_insertpivottable.xxx cmd/lc_datadatapilotrun.xxx
@@ -1084,7 +1080,6 @@ cmd/lc_margins.xxx cmd/lc_pagemargin.xxx
 cmd/lc_measureattributes.xxx cmd/lc_measureline.xxx
 cmd/lc_mergecellsmenu.xxx cmd/lc_mergecells.xxx
 cmd/lc_managelanguage.xxx cmd/lc_showallnotes.xxx
-cmd/lc_togglemergecells.xxx cmd/lc_mergecells.xxx
 cmd/lc_mergedocument.xxx cmd/lc_mergedocuments.xxx
 cmd/lc_mirrorhorz.xxx cmd/lc_mirror.xxx
 cmd/lc_mirrormenu.xxx cmd/lc_rotateleft.xxx
@@ -1139,6 +1134,7 @@ cmd/lc_outlineright.xxx cmd/lc_decrementlevel.xxx
 cmd/lc_outlineup.xxx cmd/lc_moveup.xxx
 cmd/lc_pagedown.xxx cmd/lc_nextrecord.xxx
 cmd/lc_pageformatdialog.xxx cmd/lc_pagedialog.xxx
+cmd/lc_pagemode.xxx cmd/lc_showsinglepage.xxx
 cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
 cmd/lc_paragraphmenu.xxx cmd/lc_paragraphdialog.xxx
 cmd/lc_pastespecialmenu.xxx cmd/lc_pastespecial.xxx
@@ -1341,7 +1337,6 @@ cmd/sc_badcellstyles.xxx cmd/sc_badcellstyle.xxx
 cmd/sc_basicshapes.circle-pie.xxx cmd/sc_pie.xxx
 cmd/sc_basicshapes.circle.xxx cmd/sc_circle.xxx
 cmd/sc_basicshapes.ellipse.xxx cmd/sc_ellipse.xxx
-cmd/sc_basicshapes.frame.xxx cmd/sc_rect_unfilled.xxx
 cmd/sc_basicshapes.parallelogram.xxx cmd/sc_flowchartshapes.flowchart-data.xxx
 cmd/sc_basicshapes.xxx cmd/sc_graphic.xxx
 cmd/sc_basicshapes.quadrat.xxx cmd/sc_square.xxx
@@ -1481,8 +1476,6 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.xxx cmd/sc_basicshapes.can.xxx
 cmd/sc_flowchartshapes.flowchart-manual-operation.xxx cmd/sc_basicshapes.trapezoid.xxx
 cmd/sc_flowchartshapes.flowchart-merge.xxx cmd/sc_fontworkshapetype.fontwork-triangle-down.xxx
 cmd/sc_flowchartshapes.flowchart-process.xxx cmd/sc_square.xxx
-cmd/sc_flowchartshapes.flowchart-punched-tape.xxx cmd/sc_fontworkshapetype.fontwork-wave.xxx
-cmd/sc_flowchartshapes.xxx cmd/sc_flowchartshapes.flowchart-document.xxx
 cmd/sc_focustofindbar.xxx cmd/sc_recsearch.xxx
 cmd/sc_fontcolor.xxx cmd/sc_color.xxx
 cmd/sc_fontheight.xxx cmd/sc_scaletext.xxx
@@ -1589,7 +1582,8 @@ cmd/sc_insertobjectstarmath.xxx cmd/sc_insertmath.xxx
 cmd/sc_insertpagefooter.xxx cmd/sc_insertfooter.xxx
 cmd/sc_insertpageheader.xxx cmd/sc_insertheader.xxx
 cmd/sc_inserttopicfield.xxx cmd/sc_drawcaption.xxx
-cmd/sc_insertpagesfield.xxx cmd/sc_insertpagenumberfield.xxx
+cmd/sc_insertpagefield.xxx cmd/sc_insertpagenumberfield.xxx
+cmd/sc_insertpagesfield.xxx cmd/sc_insertpagecountfield.xxx
 cmd/sc_insertpagetitlefield.xxx cmd/sc_inserttitlefield.xxx
 cmd/sc_insertpatternfield.xxx cmd/sc_patternfield.xxx
 cmd/sc_insertpivottable.xxx cmd/sc_datadatapilotrun.xxx
@@ -1634,7 +1628,6 @@ cmd/sc_margins.xxx cmd/sc_pagemargin.xxx
 cmd/sc_measureattributes.xxx cmd/sc_measureline.xxx
 cmd/sc_mergecellsmenu.xxx cmd/sc_mergecells.xxx
 cmd/sc_managelanguage.xxx cmd/sc_showallnotes.xxx
-cmd/sc_togglemergecells.xxx cmd/sc_mergecells.xxx
 cmd/sc_mergedocument.xxx cmd/sc_mergedocuments.xxx
 cmd/sc_mirrorhorz.xxx cmd/sc_mirror.xxx
 cmd/sc_mirrormenu.xxx cmd/sc_rotateleft.xxx
@@ -1690,6 +1683,7 @@ cmd/sc_outlineright.xxx cmd/sc_decrementlevel.xxx
 cmd/sc_outlineup.xxx cmd/sc_moveup.xxx
 cmd/sc_pagedown.xxx cmd/sc_nextrecord.xxx
 cmd/sc_pageformatdialog.xxx cmd/sc_pagedialog.xxx
+cmd/sc_pagemode.xxx cmd/sc_showsinglepage.xxx
 cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
 cmd/sc_paragraphmenu.xxx cmd/sc_paragraphdialog.xxx
 cmd/sc_pastespecialmenu.xxx cmd/sc_pastespecial.xxx
@@ -2491,7 +2485,7 @@ sw/res/zetlhor2.xxx svx/res/zetlhor2.xxx
 sw/res/zetlver2.xxx svx/res/zetlver2.xxx
 sw/res/sidebar/pageproppanel/columncopy_24x24.xxx sw/res/sidebar/pageproppanel/formatcopy_24x24.xxx
 sw/res/sidebar/pageproppanel/column_L_copy_24x24.xxx sw/res/sidebar/pageproppanel/format_L_copy_24x24.xxx
-sw/res/sidebar/pageproppanel/portraitcopy_24x24.xxx cmd/lc_pagemode.xxx
+sw/res/sidebar/pageproppanel/portraitcopy_24x24.xxx cmd/lc_showsinglepage.xxx
 vcl/res/index.xxx cmd/sc_insertmultiindex.xxx
 vcl/res/querybox.xxx vcl/res/infobox.xxx
 vcl/res/warningbox.xxx vcl/res/errorbox.xxx

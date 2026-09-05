@@ -1,70 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
-   id="svg6"
+   id="svg2"
    sodipodi:docname="symbolshapes.diamond-bevel.svg"
-   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/symbolshapes.diamond-bevel.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     id="namedview8"
-     showgrid="true"
-     inkscape:zoom="13.015625"
-     inkscape:cx="18.948144"
-     inkscape:cy="12.489725"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
-    <inkscape:grid
-       type="xygrid"
-       id="grid814" />
-  </sodipodi:namedview>
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" />
+<sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="17.743961"
+   inkscape:cx="6.3401853"
+   inkscape:cy="13.159407"
+   inkscape:window-width="1920"
+   inkscape:window-height="1011"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<path
+   d="M 15,3.7070312 3.7070312,15 H 9.2929688 L 15,9.2929688 Z m 2,0 V 9.2929688 L 22.707031,15 h 5.585938 z M 16,10 l -6,6 6,6 6,-6 z M 3.7070312,17 15,28.292969 V 22.707031 L 9.2929688,17 Z M 22.707031,17 17,22.707031 v 5.585938 L 28.292969,17 Z"
+   id="path1"
+   style="fill:#ffff00" />
+#ffff00&quot; /&gt;
   <path
-     style="opacity:0.7;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path822"
-     d="M 15.499959,4.5000414 3.4999586,16.500041 l 12.0000004,12 12,-12 z"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 15.499959,4.5000414 3.4999586,16.500041 l 12.0000004,12 12,-12 z"
-     id="path2"
-     style="fill:#6d6d6d;fill-opacity:1"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 14.999959,5.0000414 3.9999586,16.000041 h 4 L 14.999959,9.0000414 Z m 1,0 v 4 l 7,6.9999996 h 4 z M 3.9999586,17.000041 l 11.0000004,11 v -4 l -7.0000004,-7 z m 19.0000004,0 -7,7 v 4 l 11,-11 z"
-     id="path4"
-     style="fill:#ffffff"
-     inkscape:connector-curvature="0" />
+   d="M 15.478516,1.7929688 A 0.70717748,0.70717748 0 0 0 15,2 L 2,15 A 0.70717748,0.70717748 0 0 0 2.00195,16 0.70717748,0.70717748 0 0 0 2,17 L 15,30 A 0.70717748,0.70717748 0 0 0 16,29.998 0.70717748,0.70717748 0 0 0 17,30 L 30,17 A 0.70717748,0.70717748 0 0 0 29.998,16 0.70717748,0.70717748 0 0 0 30,15 L 17,2 A 0.70717748,0.70717748 0 0 0 16,2.00195 0.70717748,0.70717748 0 0 0 15.478516,1.7929657 Z M 15,3.7070312 V 9.2929688 L 9.2929688,15 H 3.7070312 Z m 2,0 L 28.292969,15 H 22.707031 L 17,9.2929688 Z M 16,10 l 6,6 -6,6 -6,-6 z M 3.7070312,17 H 9.2929688 L 15,22.707031 v 5.585938 z m 18.9999998,0 h 5.585938 L 17,28.292969 v -5.585938 z"
+   fill="#0000ff"
+   id="path2"
+   style="opacity:1" />
 </svg>
