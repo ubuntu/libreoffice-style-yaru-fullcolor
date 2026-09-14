@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
    sodipodi:docname="insertobjectdialog.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/insertobjectdialog.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,29 +38,33 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="15.206644"
-     inkscape:cy="16.734613"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:zoom="20.85965"
+     inkscape:cx="18.408746"
+     inkscape:cy="16.850714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid824" />
+       id="grid824"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path864"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:0.7"
-     d="M 16 4 C 9.3844276 4 4 9.3844276 4 16 C 4 22.615572 9.3844276 28 16 28 C 17.456622 28 18.847707 27.725784 20.140625 27.248047 C 20.259981 26.963838 20.456864 26.705694 20.720703 26.507812 C 20.277703 26.176977 19.994712 25.684028 20.015625 25.158203 C 18.786502 25.696288 17.430691 26 16 26 C 10.465308 26 6 21.534692 6 16 C 6 10.465308 10.465308 6 16 6 C 21.534692 6 26 10.465308 26 16 C 26 17.436289 25.692463 18.796388 25.150391 20.029297 C 25.676435 20.005435 26.164977 20.288745 26.496094 20.730469 C 26.672396 20.493301 26.838196 20.235463 27.101562 20.126953 C 27.156428 20.104345 27.214433 20.090675 27.271484 20.074219 C 27.733814 18.799853 28 17.43181 28 16 C 28 9.3844276 22.615572 4 16 4 z " />
-  <path
-     id="path824"
-     style="opacity:1;fill:#fee581;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 16 5 A 11 11 0 0 0 5 16 A 11 11 0 0 0 16 27 A 11 11 0 0 0 20.328125 26.111328 C 20.025027 25.702056 19.909162 25.185467 20.121094 24.673828 L 20.691406 23.292969 C 20.980786 22.594326 21.700395 22.315649 22.414062 22.419922 C 22.312691 21.709777 22.591071 20.998113 23.289062 20.708984 L 24.671875 20.134766 C 25.187497 19.92119 25.700709 20.03914 26.107422 20.34375 A 11 11 0 0 0 27 16 A 11 11 0 0 0 16 5 z " />
+     id="path1"
+     style="fill:#00ffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 16 4 A 12 12 0 0 0 4 16 A 12 12 0 0 0 16 28 A 12 12 0 0 0 20.460938 27.140625 C 20.597596 26.859752 20.825358 26.623172 21.113281 26.503906 L 21.123047 26.5 L 21.109375 26.494141 C 20.467809 26.228395 20.132684 25.422821 20.398438 24.78125 L 20.970703 23.400391 C 21.236447 22.758811 22.042028 22.425653 22.683594 22.691406 L 22.695312 22.695312 L 22.693359 22.689453 C 22.432171 22.05889 22.771799 21.239705 23.402344 20.978516 L 24.787109 20.40625 C 25.417663 20.145069 26.234958 20.482729 26.496094 21.113281 L 26.5 21.121094 L 26.503906 21.109375 C 26.626007 20.814598 26.861979 20.584251 27.144531 20.447266 A 12 12 0 0 0 28 16 A 12 12 0 0 0 16 4 z " />
   <g
      id="g915"
      transform="matrix(1.2387196,0,0,1.2387196,2.3416999,2.3417)"
@@ -76,7 +80,7 @@
        transform="translate(8.0000004,8)"
        style="stroke-width:0.807285">
       <circle
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.61457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.61457;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1328"
          cx="11.5"
          cy="11.5"

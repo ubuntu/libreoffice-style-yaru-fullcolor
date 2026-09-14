@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/graphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="10.163162"
-     inkscape:cy="15.772077"
+     inkscape:cx="10.211101"
+     inkscape:cy="15.796046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,43 +63,39 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid834" />
+       id="grid834"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.7;fill:#d85eca;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="circle627"
-     cx="20"
-     cy="11"
-     r="7" />
-  <circle
-     style="opacity:1;fill:#d85eca;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="path625"
-     cx="20"
-     cy="11"
-     r="7" />
   <path
-     d="m 14.001684,13.499709 -5.0000001,9.5 h 4.7037781 9.296222 l -4.5,-8 -2,2.5 z"
-     id="path4156-2"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6d6d6d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.3809;marker:none;enable-background:accumulate"
-     sodipodi:nodetypes="ccccccc" />
+     id="path1"
+     style="opacity:0.8;fill:#0000ff"
+     d="m 4,11 c -0.554,0 -1,0.446 -1,1 v 13 c 0,0.554 0.446,1 1,1 H 14.71875 L 13.716797,25 H 4 V 12 h 8.056641 A 9,9 0 0 1 12,11 Z" />
   <path
-     style="opacity:0.7;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path823"
-     fill="#b3b3b3"
-     d="m 19,14 -8,14 h 16 z"
-     sodipodi:nodetypes="cccc" />
+     d="M 4,12 H 18 V 25 H 4 Z"
+     fill="#fafafa"
+     id="path2"
+     style="fill:#ffff00" />
   <path
-     d="m 19,14 -8,14 h 16 z"
-     fill="#b3b3b3"
+     d="m 28,11 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z"
+     fill="#fafafa"
+     id="path3"
+     style="fill:#ffff00" />
+  <path
      id="path4"
-     style="fill:#ffffff"
-     sodipodi:nodetypes="cccc" />
+     style="opacity:0.8;fill:#0000ff"
+     d="m 21,3 a 8,8.0000003 0 0 0 -8,8 8,8.0000003 0 0 0 0.876953,3.640625 L 14.625,13.892578 A 7,7 0 0 1 14,11 a 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 7,7 0 0 1 -2.212891,5.107422 l 0.707032,0.707031 A 8,8.0000003 0 0 0 29,11 8,8.0000003 0 0 0 21,3 Z" />
   <path
-     id="path825"
-     style="opacity:0.7;fill:#80a3fa;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 5,11 v 13 h 13 v -6.613281 c -0.214968,-0.1097 -0.419619,-0.247623 -0.615234,-0.40625 a 7,7 0 0 1 -3.384766,-5.980469 z" />
+     d="m 19.094531,11.001953 a 0.4049017,0.4049017 0 0 0 -0.28125,0.117188 l -8.49414,8.49414 a 0.4049017,0.4049017 0 0 0 0,0.574219 l 8.49414,8.492188 a 0.4049017,0.4049017 0 0 0 0.574219,0 L 27.879688,20.1875 a 0.4049017,0.4049017 0 0 0 0,-0.574219 L 19.3875,11.119141 a 0.4049017,0.4049017 0 0 0 -0.292969,-0.117188 z"
+     fill="#3a3a38"
+     id="path5"
+     style="opacity:0.8;fill:#0000ff;fill-rule:evenodd" />
   <path
+     d="m 19.100391,11.996094 -7.904297,7.904297 7.904297,7.90039 7.90039,-7.90039 z"
+     fill="#fafafa"
      id="path6"
-     style="fill:#80a3fa;fill-opacity:1"
-     d="m 5,11 v 13 h 13 v -6.613281 c -0.214968,-0.1097 -0.419619,-0.247623 -0.615234,-0.40625 a 7,7 0 0 1 -3.384766,-5.980469 z" />
+     style="fill:#ffff00;fill-rule:evenodd" />
 </svg>

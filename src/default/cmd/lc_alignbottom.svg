@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_alignbottom.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_alignbottom.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666666"
-     inkscape:cx="8.466102"
+     inkscape:cx="8.4915257"
      inkscape:cy="13.144068"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,14 +63,13 @@
        units="px" />
   </sodipodi:namedview>
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 12,15 9,11 h 2 V 4 h 2 v 7 h 2 z"
-     id="path834"
-     sodipodi:nodetypes="cccccccc" />
-  <path
      id="rect833"
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M -2 17 L -2 18 L -22 18 L -22 17 L -2 17 z M -5 19 L -5 20 L -19 20 L -19 19 L -5 19 z "
-     transform="scale(-1,1)" />
+     d="m 1,20 v -1 h 21 v 1 z m 3,-2 v -1 h 15 v 1 z"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="rect839"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 12,4 v 7 h 2 L 11.5,15 9,11 h 2 V 4 Z"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

@@ -5,7 +5,7 @@
    version="1.1"
    width="24"
    sodipodi:docname="lc_closedoc.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_closedoc.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -32,8 +32,8 @@
      inkscape:snap-page="true"
      inkscape:snap-grids="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="9.9234647"
-     inkscape:cy="13.75862"
+     inkscape:cx="9.9714041"
+     inkscape:cy="13.73465"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,12 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid831" />
+       id="grid831"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata20854">
@@ -90,7 +95,7 @@
     </linearGradient>
   </defs>
   <circle
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="path850"
      cx="12"
      cy="12"
@@ -124,8 +129,14 @@
      id="layer1"
      style="display:inline"
      transform="translate(-512.00004,-232)" />
+  <circle
+     style="opacity:0.15;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="circle1"
+     cx="12"
+     cy="12"
+     r="10" />
   <path
-     style="fill:#ffffff;fill-opacity:1"
+     style="fill:#0000ff;fill-opacity:1"
      d="M 8.7070312,8 12,11.292969 15.292969,8 16,8.707031 12.707031,12 16,15.292969 15.292969,16 12,12.707031 8.7070312,16 8,15.292969 11.292969,12 8,8.707031 Z"
      id="path848" />
 </svg>

@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_runbasic.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_runbasic.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -37,38 +37,44 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="4.2542373"
+   inkscape:cx="4.2711864"
    inkscape:cy="8.7627119"
    inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:pagecheckerboard="0">
+   inkscape:pagecheckerboard="0"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid817" />
+     id="grid817"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 
-/&gt;<circle
-   style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="path819"
+
+/&gt;<path
+   id="path2"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   d="M 8,1 C 4.1458514,1 1,4.1458514 1,8 c 0,3.854149 3.1458514,7 7,7 3.854149,0 7,-3.145851 7,-7 C 15,4.1458514 11.854149,1 8,1 Z" />
+<circle
+   style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.66667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path821"
    cx="8"
    cy="8"
    r="6" />
-<circle
-   r="6"
-   cy="8"
-   cx="8"
-   id="circle821"
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 <path
-   d="m 6,5 v 6 l 5,-3 z"
-   id="path2"
-   inkscape:connector-curvature="0"
-   style="fill:#0f0;fill-opacity:1.0"
-   sodipodi:nodetypes="cccc" />
+   d="m 5.9999995,4.9998127 v 6.0003743 c 0,0 3.1666973,-1.4165884 5.3333335,-3.0001868 C 9.1666968,6.416401 5.9999995,4.9998127 5.9999995,4.9998127 Z"
+   fill="#808080"
+   overflow="visible"
+   id="path1"
+   style="fill:#00ff00;stroke-width:0.500031" />
 </svg>

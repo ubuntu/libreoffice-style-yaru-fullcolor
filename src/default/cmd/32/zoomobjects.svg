@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="zoomobjects.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/zoomobjects.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -41,9 +41,9 @@
      inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="19.487384"
-     inkscape:cy="16.922623"
+     inkscape:zoom="14.75"
+     inkscape:cx="18.440678"
+     inkscape:cy="32.711864"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,63 +54,62 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid843" />
+       id="grid843"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path821"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 4,16 v 5 h 10 v -5 z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     id="path1" />
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 4 3 A 1.0001 1.0001 0 0 0 3 4 L 3 13 A 1.0001 1.0001 0 0 0 4 14 L 9 14 A 1.0001 1.0001 0 0 0 10 13 L 10 4 A 1.0001 1.0001 0 0 0 9 3 L 4 3 z M 5 5 L 8 5 L 8 12 L 5 12 L 5 5 z M 12 7 A 1.0001 1.0001 0 0 0 11 8 L 11 13 A 1.0001 1.0001 0 0 0 11.773438 13.974609 A 9.5 9.5 0 0 1 19.5 10 A 9.5 9.5 0 0 1 22 10.333984 L 22 8 A 1.0001 1.0001 0 0 0 21 7 L 12 7 z M 4 15 A 1.0001 1.0001 0 0 0 3 16 L 3 21 A 1.0001 1.0001 0 0 0 4 22 L 10.333984 22 A 9.5 9.5 0 0 1 10.013672 20 L 5 20 L 5 17 L 10.333984 17 A 9.5 9.5 0 0 1 11.132812 15 L 4 15 z " />
   <path
      d="m 4,16 v 5 h 10 v -5 z"
      id="path4"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     d="m 9,4 h -5 v 9 h 5 z"
-     id="path825"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 9,4 H 4 v 9 h 5 z"
+     id="path3" />
   <path
      sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
-     style="fill:#d85eca;fill-opacity:1"
+     style="fill:#ffff00;fill-opacity:1"
      id="path827-3"
      d="m 9,4 h -5 v 9 h 5 z" />
   <path
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path829"
-     d="m 21,13 v -5 h -9 v 5 z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
      d="m 21,13 v -5 h -9 v 5 z"
      id="path831"
-     style="fill:#80a3fa;fill-opacity:1"
+     style="fill:#ffff00;fill-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <circle
-     style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.8;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="path1206"
      cx="19.5"
      cy="19.5"
      r="7.5" />
   <circle
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="circle1208"
      cx="19.5"
      cy="19.5"
      r="7.5" />
   <path
-     style="fill:#0f0;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 19,16 v 3 h -3 v 1 h 3 v 3 h 1 v -3 h 3 v -1 h -3 v -3 z"
      id="rect831"
      sodipodi:nodetypes="ccccccccccccc" />
   <path
-     style="fill:none;stroke:#6d6d6d;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
+     style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;opacity:0.8"
      d="m 29,29 -2.8,-2.8"
      id="path1327"
      sodipodi:nodetypes="cc" />

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_snapborder.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_snapborder.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,42 +38,44 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="-6.7936058"
-     inkscape:cy="14.727979"
+     inkscape:zoom="27.812866"
+     inkscape:cx="11.972876"
+     inkscape:cy="14.363856"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid823" />
+       id="grid823"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
+     id="path2"
+     d="M 2 2 L 2 22 L 16 22 L 16 20 L 4 20 L 4 4 L 20 4 L 20 14 C 20.765129 14 21.467516 14.292374 22 14.771484 L 22 2 L 2 2 z "
+     style="fill:#00ffff" />
+  <path
      id="rect824"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 4,4 H 20 V 20 H 4 Z"
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 3,3 H 21 V 21 H 3 Z"
      sodipodi:nodetypes="ccccc" />
   <path
-     d="M 2,2 V 22 H 22 V 20 2 Z M 4,4 H 20 V 20 H 4 Z"
-     fill="#0ff"
-     id="path2"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
      id="path4"
-     d="M 3,3 V 21 H 21 V 3 Z M 4,4 H 20 V 20 H 4 Z"
-     sodipodi:nodetypes="cccccccccc"
-     style="fill:#232629;fill-opacity:1" />
-  <path
-     id="path883"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 19.951172,15 A 2,2 0 0 0 18,17 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 20,16 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
+     style="fill:#0000ff;fill-opacity:1"
+     d="M 4 4 L 4 20 L 16 20 L 16 19 L 5 19 L 5 5 L 19 5 L 19 14.171875 C 19.291533 14.067455 19.603479 14.007919 19.927734 14 A 1.0001 1.0001 0 0 1 19.939453 14 C 19.959913 13.99975 19.97954 13.999831 20 14 L 20 4 L 4 4 z " />
   <path
      id="path855"
-     style="opacity:1;fill:#fee581;fill-opacity:1;fill-rule:evenodd;stroke-width:1.88562;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.88562;stroke-linecap:round;stroke-linejoin:round"
      d="M 19.951172,15 A 2,2 0 0 0 18,17 v 2 h -1 v 4 h 6 v -4 h -1 v -2 a 2,2 0 0 0 -2,-2 2,2 0 0 0 -0.04883,0 z M 20,16 a 1,1 0 0 1 1,1 v 2 h -2 v -2 a 1,1 0 0 1 1,-1 z" />
 </svg>

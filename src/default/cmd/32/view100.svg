@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="view100.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/view100.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="51.4375"
-     inkscape:cy="10.1875"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="8.5"
+     inkscape:cy="19.65625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,31 +56,32 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid829" />
+       id="grid829"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path290-6"
-     cx="15"
-     cy="15"
-     r="10" />
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 15,4 C 8.9367124,4 4,8.9367124 4,15 4,21.063288 8.9367124,26 15,26 21.063288,26 26,21.063288 26,15 26,8.9367124 21.063288,4 15,4 Z m 0,1 A 10,10 0 0 1 25,15 10,10 0 0 1 15,25 10,10 0 0 1 5,15 10,10 0 0 1 15,5 Z" />
   <circle
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="circle344-7"
      cx="15"
      cy="15"
      r="10" />
   <path
-     style="fill:none;stroke:#6d6d6d;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
-     d="m 27,27 -3.515,-3.515"
+     style="opacity:0.8;fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
+     d="M 27,27 23.485,23.485"
      id="path409-5"
      sodipodi:nodetypes="cc" />
-  <g
-     aria-label="1"
-     id="text833"
-     style="font-weight:bold;font-size:16px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';letter-spacing:0px;word-spacing:0px;fill:#232629">
-    <path
-       d="m 14.352,18.32 v -5.536 q -0.448,0.32 -1.024,0.576 -0.576,0.24 -0.976,0.384 l -0.64,-1.632 q 0.384,-0.144 0.832,-0.368 0.448,-0.224 0.896,-0.496 0.448,-0.272 0.848,-0.576 0.4,-0.304 0.688,-0.624 h 1.344 v 8.272 h 1.968 v 1.632 h -6.016 v -1.632 z"
-       id="path293" />
-  </g>
+  <path
+     d="m 14.958875,20 v -8.41269 q -0.20202,0.21645 -0.5772,0.46176 -0.37518,0.24531 -0.82251,0.47619 -0.44733,0.21645 -0.89466,0.36075 l -0.31746,-0.83694 q 0.8658,-0.30303 1.55844,-0.77922 0.70707,-0.47619 1.37085,-1.26984 h 0.76479 V 20 Z"
+     id="text1"
+     style="font-size:14.43px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:none;letter-spacing:0.901875px;opacity:0.8;fill:#00ffff;stroke-width:1.80375;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="1" />
 </svg>

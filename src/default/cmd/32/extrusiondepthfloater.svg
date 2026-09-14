@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/extrusiondepthfloater.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,45 +41,47 @@
      inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="17.953321"
-     inkscape:cy="17.018502"
-     inkscape:window-x="1920"
+     inkscape:zoom="29.5"
+     inkscape:cx="14.61017"
+     inkscape:cy="14.932203"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid824" />
+       id="grid824"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
      d="m13.882812 4-9.882812 10h15v14l9-10.5v-13.5z"
      fill="#b3b3b3"
-     id="path2" />
+     id="path2"
+     style="fill:#ffff00" />
   <path
-     d="M 13,4 4,14 V 28 H 19 L 28,18 V 4 Z m 0.447266,1 H 14 26.324219 l -8.09961,9 H 5.3476562 Z M 27,5.7460938 V 17 17.615234 l -8,8.888672 V 14.634766 Z M 5,15 H 18 V 27 H 5 Z"
+     id="path1"
+     style="fill:#0000ff;opacity:0.5"
+     d="M 13.882812 4 L 4 14 L 9 14 A 1.0001 1.0001 0 0 1 9.2714844 13.314453 L 10.509766 12 L 10 12 A 1.0001 1.0001 0 0 1 9.609375 10.080078 L 16.667969 7.0800781 A 1.0001 1.0001 0 0 1 17.074219 7 A 1.0001 1.0001 0 0 1 17.962891 7.5742188 L 19.375 10.574219 A 1.0001 1.0001 0 0 1 18.470703 12 L 16.078125 12 L 14.197266 14 L 19 14 L 19 28 L 28 17.5 L 28 4 L 13.882812 4 z " />
+  <path
      id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:#1463a5;fill-opacity:1"
-     sodipodi:nodetypes="cccccccccccccccccccccccc" />
-  <path
-     sodipodi:nodetypes="cccccccc"
-     style="fill:#ffffff;stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     inkscape:connector-curvature="0"
-     d="m 12.824219,14 2.822265,-3 h 2.824219 L 17.058594,8 10,11 h 2.824219 L 10,14 Z"
-     id="path828" />
+     style="fill:#0000ff;fill-opacity:1;opacity:0.8"
+     d="M 13 4 L 4 14 L 4 28 L 19 28 L 28 18 L 28 4 L 13 4 z M 13.447266 5 L 14 5 L 26.324219 5 L 18.224609 14 L 14.197266 14 L 13.552734 14.685547 A 1.0001 1.0001 0 0 1 12.824219 15 L 18 15 L 18 27 L 5 27 L 5 15 L 10 15 A 1.0001 1.0001 0 0 1 9 14 L 5.3476562 14 L 13.447266 5 z M 27 5.7460938 L 27 17 L 27 17.615234 L 19 26.503906 L 19 14.634766 L 27 5.7460938 z " />
   <path
      id="path822"
      d="m 12.824219,14 2.822265,-3 h 2.824219 L 17.058594,8 10,11 h 2.824219 L 10,14 Z"
      inkscape:connector-curvature="0"
      style="fill:#0ff"
      sodipodi:nodetypes="cccccccc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+  <path
      id="rect826"
-     width="13"
-     height="12"
-     x="5"
-     y="15" />
+     style="opacity:1;fill:#ffff00;stroke-width:2;stroke-linejoin:round"
+     d="m 5,15 h 4 v -1 h 5.197266 L 14,15 h 4 V 27 H 5 Z"
+     sodipodi:nodetypes="ccccccccc" />
 </svg>

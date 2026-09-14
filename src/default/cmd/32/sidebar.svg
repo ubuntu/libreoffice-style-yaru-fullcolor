@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="sidebar.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/sidebar.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="6.3728814"
-     inkscape:cy="13.152542"
+     inkscape:zoom="20.85965"
+     inkscape:cx="13.75862"
+     inkscape:cy="13.830529"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,42 +56,45 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid845" />
+       id="grid845"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="rect840"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
-     d="M 6,3 C 4.338,3 3,4.338 3,6 V 29 H 29 V 6 C 29,4.338 27.662,3 26,3 Z"
+     id="path12"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffff00;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 5,6 C 4.437351,6 4,6.437351 4,7 v 18 c 0,0.562649 0.437351,1 1,1 h 22 c 0.562649,0 1,-0.437351 1,-1 V 7 C 28,6.437351 27.562649,6 27,6 Z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 5,5 C 3.900649,5 3,5.900649 3,7 v 18 c 0,1.099351 0.900649,2 2,2 h 22 c 1.099351,0 2,-0.900649 2,-2 V 7 C 29,5.900649 28.099351,5 27,5 Z m 0,1 h 22 c 0.562649,0 1,0.437351 1,1 v 18 c 0,0.562649 -0.437351,1 -1,1 H 5 C 4.437351,26 4,25.562649 4,25 V 7 C 4,6.437351 4.437351,6 5,6 Z"
+     id="path13"
+     sodipodi:nodetypes="ssssssssssssssssss" />
+  <path
+     id="path14"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 5,5 C 3.900649,5 3,5.900649 3,7 V 8 H 29 V 7 C 29,5.900649 28.099351,5 27,5 Z"
      sodipodi:nodetypes="ssccsss" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
-     id="rect854"
-     width="24"
-     height="17"
-     x="4"
-     y="11" />
   <path
-     id="rect847"
-     style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round"
-     d="M 6,4 C 4.892,4 4,4.892 4,6 v 4 H 28 V 6 C 28,4.892 27.108,4 26,4 Z" />
-  <path
-     d="m 18.001903,5.9898702 h 2 V 7.98987 h -2 z"
-     id="path894"
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
-  <path
-     d="m 21.001903,5.9898702 h 2 V 7.98987 h -2 z"
-     id="path892"
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#232629;fill-opacity:1;stroke-width:2" />
-  <path
-     d="m 24.001903,5.9898702 h 2 V 7.98987 h -2 z"
-     id="path54"
-     inkscape:connector-curvature="0"
-     style="fill:#232629;fill-opacity:1.0;stroke-width:2" />
-  <path
-     id="rect876"
-     style="fill:#0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-     d="M 28,11 V 28 H 23 V 11 Z"
+     id="rect20"
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     d="m 26,6 h 1 v 1 h -1 z"
      sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect21"
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     d="m 24,6 h 1 v 1 h -1 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect22"
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     d="m 22,6 h 1 v 1 h -1 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect1"
+     style="fill:#00ffff;stroke-width:2.19089;stroke-linecap:round;stroke-linejoin:round"
+     d="M 22 8 L 22 26 L 27 26 C 27.562649 26 28 25.562649 28 25 L 28 8 L 22 8 z " />
 </svg>

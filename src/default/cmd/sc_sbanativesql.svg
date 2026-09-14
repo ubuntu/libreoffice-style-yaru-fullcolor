@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_sbanativesql.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    standalone="no"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,7 +23,6 @@
       <dc:format>image/svg+xml</dc:format>
       <dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      <dc:title />
     </cc:Work>
   </rdf:RDF>
 </metadata>
@@ -39,14 +38,14 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1048"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="41.7193"
-   inkscape:cx="5.1415052"
-   inkscape:cy="9.4320854"
+   inkscape:zoom="29.5"
+   inkscape:cx="5.6949153"
+   inkscape:cy="10.694915"
    inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:document-rotation="0"
@@ -58,22 +57,24 @@
      id="grid837"
      originx="0.000000"
      originy="0.000000"
-     spacingy="16.000000"
-     spacingx="16.000000"
-     units="px" />
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="true" />
 </sodipodi:namedview>
+
 
 
 /&gt;<path
    id="path817"
-   style="fill:#f2cbf8;fill-opacity:1;stroke-width:0.916667"
-   d="M 10 1.5 C 6.962434 1.5 4.5 2.3214624 4.5 3.3339844 L 4.5 5.578125 L 7 8.078125 L 7.7070312 8.7851562 A 1.0001 1.0001 0 0 1 7.7070312 10.199219 L 7 10.90625 L 5.9863281 11.919922 C 6.0634948 11.947368 6.1425556 11.974178 6.2246094 12 L 12 12 A 1.0001 1.0001 0 0 1 12.681641 12.267578 C 14.363549 11.953987 15.5 11.354053 15.5 10.666016 L 15.5 3.3339844 C 15.5 2.3214624 13.037565 1.5 10 1.5 z " />
+   style="fill:#ffff00;fill-opacity:1;stroke-width:0.916667"
+   d="m 10,2.0000001 a 5,1 0 0 0 -5,1 5,1 0 0 0 5,1 5,1 0 0 0 5,-1 5,1 0 0 0 -5,-1 z M 5,4.1015626 v 2.8984375 a 5,1 0 0 0 5,1 5,1 0 0 0 5,-1 V 4.1035157 A 6,2 0 0 1 10,5.0000001 6,2 0 0 1 5,4.1015626 Z m 0,4 V 11 a 5,1 0 0 0 5,1 5,1 0 0 0 5,-1 V 8.1035157 A 6,2 0 0 1 10,9.0000001 6,2 0 0 1 5,8.1015626 Z" />
 <path
    id="path2"
-   style="fill:#8e03a3;fill-opacity:1"
-   d="M 10 1 A 6 2 0 0 0 4 3 L 4 5.078125 L 5 6.078125 L 5 4.1015625 A 6 2 0 0 0 10 5 A 6 2 0 0 0 15 4.1035156 L 15 7 A 5 1 0 0 1 10 8 A 5 1 0 0 1 6.6679688 7.7460938 L 7 8.078125 L 7.7070312 8.7851562 A 1.0001 1.0001 0 0 1 7.7714844 8.8554688 A 6 2 0 0 0 10 9 A 6 2 0 0 0 15 8.1035156 L 15 11 A 5 1 0 0 1 10 12 L 12 12 A 1.0001 1.0001 0 0 1 12.964844 12.738281 A 6 2 0 0 0 16 11 L 16 3 A 6 2 0 0 0 10 1 z M 10 12 A 5 1 0 0 1 6.2460938 11.660156 L 5.90625 12 L 10 12 z M 10 2 A 5 1 0 0 1 15 3 A 5 1 0 0 1 10 4 A 5 1 0 0 1 5 3 A 5 1 0 0 1 10 2 z " />
+   style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+   d="M 10 1 A 6 2 0 0 0 4 3 L 4 7.078125 L 5.046875 8.125 A 6 2 0 0 0 10 9 A 6 2 0 0 0 15 8.1035156 L 15 11 A 5 1 0 0 1 10 12 A 5 1 0 0 1 6.2460938 11.660156 L 6 11.90625 L 5.5605469 12.345703 A 6 2 0 0 0 10 13 A 6 2 0 0 0 16 11 L 16 3 A 6 2 0 0 0 10 1 z M 10 2 A 5 1 0 0 1 15 3 A 5 1 0 0 1 10 4 A 5 1 0 0 1 5 3 A 5 1 0 0 1 10 2 z M 5 4.1015625 A 6 2 0 0 0 10 5 A 6 2 0 0 0 15 4.1035156 L 15 7 A 5 1 0 0 1 10 8 A 5 1 0 0 1 5 7 L 5 4.1015625 z " />
 <path
    id="rect827"
-   style="opacity:1;fill:#0ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-   d="M 2.7578125 5.25 L 1.34375 6.6640625 L 4.171875 9.4921875 L 1.34375 12.320312 L 2.7578125 13.734375 L 6.2929688 10.199219 L 7 9.4921875 L 6.2929688 8.7851562 L 2.7578125 5.25 z M 5 13 L 5 15 L 12 15 L 12 13 L 5 13 z " />
+   style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+   d="M 1.7578125,6.25 0.34375,7.6640625 3.171875,10.492188 0.34375,13.320312 1.7578125,14.734375 5.2929688,11.199219 6,10.492188 5.2929688,9.7851562 Z M 4,14 v 2 h 7 v -2 z" />
 </svg>

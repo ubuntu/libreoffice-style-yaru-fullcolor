@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_graphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="41.7193"
      inkscape:cx="8.1976447"
-     inkscape:cy="8.8687969"
+     inkscape:cy="8.8568121"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,38 +54,39 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid1445" />
+       id="grid1445"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.7;fill:#d85eca;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.81818;stroke-linecap:round;stroke-linejoin:round"
-     id="circle1584"
-     cx="10"
-     cy="6"
-     r="4.090909" />
-  <circle
-     style="opacity:1;fill:#d85eca;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77778;stroke-linecap:round;stroke-linejoin:round"
-     id="path1555"
-     cx="10"
-     cy="6"
-     r="4" />
   <path
-     id="rect1499"
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 2 5 L 2 13 L 9 13 L 9 9.8652344 A 4 4 0 0 1 6 6 A 4 4 0 0 1 6.0136719 5.8164062 C 6.0060529 5.7114491 6.0002417 5.6064098 6 5.5 C 6.00242 5.3328098 6.0141573 5.1658839 6.0351562 5 L 2 5 z " />
+     id="path1"
+     style="opacity:0.8;fill:#0000ff"
+     d="M 1,4 C 0.446,4 0,4.446 0,5 v 8 c 0,0.554 0.446,1 1,1 h 4.6347656 l -1,-1 H 1 V 5 H 5 A 6,6 0 0 1 5.083984,4 Z m 8,6.65625 V 13 H 8.6972656 L 9.5,13.802734 9.9277344,13.375 C 9.9741886,13.259422 10,13.132581 10,13 V 10.916016 A 6,6 0 0 1 9,10.65625 Z" />
   <path
-     id="rect1501"
-     style="opacity:1;fill:#80a3fa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 2 5 L 2 13 L 9 13 L 9 9.8652344 A 4 4 0 0 1 6 6 A 4 4 0 0 1 6.0136719 5.8164062 C 6.0060529 5.7114491 6.0002417 5.6064098 6 5.5 C 6.00242 5.3328098 6.0141573 5.1658839 6.0351562 5 L 2 5 z " />
+     d="M 1,4.9999996 V 13 H 9 V 4.9999996 Z"
+     fill="#fafafa"
+     id="path2"
+     style="fill:#ffff00" />
   <path
-     style="opacity:0.7;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path823"
-     fill="#b3b3b3"
-     d="m 11,7 -4,7 h 8 z"
-     sodipodi:nodetypes="cccc" />
+     id="path3"
+     style="opacity:0.8;fill:#0000ff"
+     d="M 11,0 C 8.2385767,0 6,2.2385763 6,5 6,5.5565774 6.08998,6.0917484 6.2578125,6.5917969 L 7.0761719,5.7753906 A 4,4 0 0 1 7,5 4,4 0 0 1 11,1 4,4 0 0 1 15,5 4,4 0 0 1 13.902344,7.7519531 l 0.707031,0.7070313 C 15.470491,7.5607741 16,6.3425638 16,5 16,2.2385763 13.761423,0 11,0 Z M 8.6660156,8.2480469 7.9511719,8.9628906 C 8.795156,9.6133598 9.8520387,10 11,10 11.338775,10 11.670366,9.96656 11.990234,9.902344 L 11.085938,9 A 4,4 0 0 1 11,9 4,4 0 0 1 8.6660156,8.2480469 Z" />
   <path
-     d="m 11,7 -4,7 h 8 z"
-     fill="#b3b3b3"
+     d="M 15,5 A 4,4 0 0 1 11,9 4,4 0 0 1 7,5 4,4 0 0 1 11,1 4,4 0 0 1 15,5 Z"
+     fill="#fafafa"
      id="path4"
-     style="fill:#ffffff"
-     sodipodi:nodetypes="cccc" />
+     style="fill:#ffff00;stroke-width:0.833333" />
+  <path
+     d="M 9.4921875,5 A 0.56646289,0.56646289 0 0 0 9.0996094,5.1660156 L 4.0566406,10.207031 a 0.56646289,0.56646289 0 0 0 0,0.800781 l 5.0429688,5.042969 a 0.56646289,0.56646289 0 0 0 0.8007812,0 l 5.0429684,-5.042969 a 0.56646289,0.56646289 0 0 0 0,-0.800781 L 9.9003906,5.1660156 A 0.56646289,0.56646289 0 0 0 9.4921875,5 Z M 9.5,6 14.109375,10.607422 9.5,15.216797 4.890625,10.607422 Z"
+     fill="#3a3a38"
+     id="path5"
+     style="opacity:0.8;fill:#0000ff;fill-rule:evenodd" />
+  <path
+     d="M 9.5,6 4.890625,10.607422 9.5,15.216797 14.109375,10.607422 Z"
+     fill="#fafafa"
+     id="path6"
+     style="fill:#ffff00;fill-rule:evenodd" />
 </svg>

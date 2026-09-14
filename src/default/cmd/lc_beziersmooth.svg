@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_beziersmooth.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_beziersmooth.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,33 +38,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="9.6783431"
-     inkscape:cy="10.790108"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:cx="11.81108"
+     inkscape:cy="11.631307"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     d="M 11,5.625 C 7.05603,6.5517 3.5,12.8538 3.5,20.5 h 1 C 4.5,13.4498 7.609651,7.63015 11,6.65625 Z m 2,0 v 1.03125 c 3.390349,0.9739 6.5,6.79355 6.5,13.84375 h 1 C 20.5,12.8538 16.94397,6.5517 13,5.625 Z"
-     id="path2"
-     style="fill:#1463a5;fill-opacity:1;stroke:#1463a5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccc" />
-  <rect
-     y="9"
-     x="3"
-     height="6"
-     width="6"
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
+     d="M 11.5 4.9941406 L 10.884766 5.1386719 C 8.6996619 5.6520975 6.7527869 7.5817003 5.328125 10.310547 C 3.9034631 13.039393 3 16.599388 3 20.5 L 3 21 L 5 21 L 5 20.5 C 5 17.048412 5.7647398 13.899267 6.9277344 11.519531 C 8.0907289 9.1397961 9.6585182 7.5619027 11.138672 7.1367188 L 11.5 7.0332031 L 11.5 4.9941406 z M 12.5 4.9941406 L 12.5 7.0332031 L 12.861328 7.1367188 C 14.341482 7.5619027 15.909271 9.1397961 17.072266 11.519531 C 18.23526 13.899267 19 17.048412 19 20.5 L 19 21 L 21 21 L 21 20.5 C 21 16.599388 20.096537 13.039393 18.671875 10.310547 C 17.247213 7.5817003 15.300338 5.6520975 13.115234 5.1386719 L 12.5 4.9941406 z " />
+  <path
      id="rect832"
-     style="opacity:0.7;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:0.8;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 3 9 L 9 9 L 9 15 L 3 15 L 3 9 z M 4 10 L 4 14 L 8 14 L 8 10 L 4 10 z "
      transform="matrix(0,1,1,0,0,0)" />
   <rect
      y="10"
@@ -72,6 +75,6 @@
      height="4"
      width="4"
      id="rect834"
-     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      transform="matrix(0,1,1,0,0,0)" />
 </svg>

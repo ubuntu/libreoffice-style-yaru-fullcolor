@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/extrusiontiltleft.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,35 +42,31 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="10.666526"
-     inkscape:cy="15.388561"
-     inkscape:window-x="1920"
+     inkscape:cx="10.642556"
+     inkscape:cy="15.364591"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid834" />
+       id="grid834"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <g
-     id="g108"
-     transform="rotate(-90,19.830509,32.169492)">
-    <path
-       sodipodi:nodetypes="csscccccccsscc"
-       inkscape:connector-curvature="0"
-       id="path831"
-       d="m 25.000001,30.338983 c 0,5.522848 4.253295,10 9.5,10 5.246705,0 9.5,-4.477152 9.5,-10 v -4 -5 h 3 l -4,-5 -4,5 h 3 v 5 4 c 0,4.418278 -3.357864,8 -7.5,8 -4.142136,0 -7.5,-3.581722 -7.5,-8 z"
-       style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="m 24.000001,29.338983 h 24 v -1 h -24 z"
-       id="path842"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#1a1a1a"
-       id="path4"
-       d="m 24.000001,29.338983 h 24 v -1 h -24 z"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     id="path831"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 9 5 L 4 9 L 9 13 L 9 10 L 14 10 L 15 10 L 15 8 L 14 8 L 9 8 L 9 5 z M 18 8 L 18 10 C 22.418278 10 26 13.357864 26 17.5 C 26 21.642136 22.418278 25 18 25 L 18 27 C 23.522848 27 28 22.746705 28 17.5 C 28 12.253295 23.522848 8 18 8 z " />
+  <path
+     style="fill:#0000ff"
+     id="path4"
+     d="M 17,28 V 4 h -1 v 24 z"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_aligntop.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_aligntop.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="4.2881356"
-     inkscape:cy="3.5423729"
+     inkscape:zoom="41.7193"
+     inkscape:cx="8.2935236"
+     inkscape:cy="5.2613538"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -62,16 +62,10 @@
        spacingx="1"
        units="px" />
   </sodipodi:namedview>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 8,7 -3,4 h 2 v 4 h 2 v -4 h 2.000001 z"
-     id="path834"
-     sodipodi:nodetypes="cccccccc" />
   <rect
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect833"
-     width="14"
+     width="15"
      height="1"
      x="-15"
      y="2"
@@ -79,9 +73,14 @@
   <rect
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect858"
-     width="10"
+     width="11"
      height="1"
      x="-13"
      y="4"
      transform="scale(-1,1)" />
+  <path
+     id="path1"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 7,14 V 10 H 5 L 7.5,7 10,10 H 8 v 4 z"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

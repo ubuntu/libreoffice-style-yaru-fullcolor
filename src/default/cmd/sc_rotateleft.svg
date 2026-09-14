@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_rotateleft.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_rotateleft.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"><metadata
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -38,52 +38,76 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="41.7193"
-   inkscape:cx="3.5354361"
-   inkscape:cy="7.5786556"
-   inkscape:window-x="1920"
-   inkscape:window-y="27"
+   inkscape:zoom="14.75"
+   inkscape:cx="3.5932203"
+   inkscape:cy="7.7627119"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:document-rotation="0">
+   inkscape:document-rotation="0"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid829" />
+     id="grid829"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
   <inkscape:grid
      type="xygrid"
      id="grid834"
      dotted="true"
      spacingx="0.5"
      spacingy="0.5"
-     empspacing="10" />
+     empspacing="10"
+     originx="0"
+     originy="0"
+     units="px" />
 </sodipodi:namedview>
 
 
 
+
 /&gt;<path
-   sodipodi:nodetypes="ccccc"
-   style="fill:#1a7fd4;fill-opacity:1"
-   id="path2-1"
-   d="M 0,16 H 11 V 11 L 0,15 Z"
-   inkscape:connector-curvature="0" />
+   d="M 2.091,1.307 5.395,4.614 C 4.663,4.887 3.895,5.141 3.089,5.378 2.289,5.609 1.497,5.814 0.714,5.99 0.897,5.214 1.104,4.425 1.335,3.624 1.572,2.819 1.825,2.047 2.091,1.308 Z"
+   style="fill:#00ffff;marker:none"
+   color="#000000"
+   overflow="visible"
+   id="path1" />
 <path
-   sodipodi:nodetypes="ccccc"
-   style="opacity:1;fill:#77b8ee;fill-opacity:1"
-   id="path4"
-   d="m 11,0 v 11 h 5 L 12,0 Z"
-   inkscape:connector-curvature="0" />
+   style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff"
+   d="M 8.033,14.002 7.967,14.998 7.166,14.945 7.232,13.947 Z"
+   id="path7" />
 <path
-   style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M 4.5,11 2,8 7.015257,8.01691 Z"
-   id="path833"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cccc" />
+   style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff;opacity:0.8"
+   d="m 5.707,13.543 0.676,0.23 -0.322,0.948 -0.717,-0.246 -0.06,-0.024 -0.218,-0.11 0.442,-0.896 z"
+   id="path6" />
 <path
-   style="fill:none;stroke:#0ff;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 4.5,7.5 c 0,-3 0,-3 4,-3"
-   id="path836"
-   sodipodi:nodetypes="cc" />
+   style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff;opacity:0.6"
+   d="M 4.354,12.764 4.694,12.99 4.139,13.822 3.772,13.578 3.721,13.539 3.299,13.169 3.957,12.418 Z"
+   id="path5" />
+<path
+   style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff;opacity:0.4"
+   d="m 3.244,11.656 0.072,0.084 -0.75,0.66 -0.091,-0.103 -0.04,-0.05 -0.48,-0.72 0.832,-0.554 z"
+   id="path2" />
+<path
+   d="M 8,6 A 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 Z M 8,7 A 1,1 0 0 1 9,8 1,1 0 0 1 8,9 1,1 0 0 1 7,8 1,1 0 0 1 8,7 Z"
+   id="path3"
+   style="fill:#0000ff" />
+<path
+   d="m 8.426,1.014 c 0.791,0.047 1.586,0.23 2.347,0.558 A 7.005,7.005 0 0 1 14.856,9.416 7.005,7.005 0 0 1 8,15 H 7.5 V 14 H 8 c 2.85,0 5.3,-1.997 5.877,-4.787 A 5.995,5.995 0 0 0 10.377,2.49 5.995,5.995 0 0 0 3.086,4.56 L 2.799,4.97 1.979,4.396 2.266,3.986 a 7.006,7.006 0 0 1 6.16,-2.971 z"
+   style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff"
+   color="#000000"
+   font-weight="400"
+   font-family="sans-serif"
+   white-space="normal"
+   overflow="visible"
+   id="path4" />
 </svg>

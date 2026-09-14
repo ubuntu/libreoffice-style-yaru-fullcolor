@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_alignverticalcenter.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_alignverticalcenter.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="6.0847458"
-     inkscape:cy="7.779661"
+     inkscape:cx="5.8983051"
+     inkscape:cy="7.8813559"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,25 +63,27 @@
        units="px" />
   </sodipodi:namedview>
   <path
-     id="path834"
-     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 8,10 -3,3 h 2 v 2 h 2 v -2 h 2 z" />
-  <path
      id="path819"
-     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 7 0 L 7 2 L 5 2 L 8 5 L 11 2 L 9 2 L 9 0 L 7 0 z " />
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 7,0 V 2 H 5 L 7.5,5 10,2 H 8 V 0 Z"
+     sodipodi:nodetypes="cccccccc" />
   <rect
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect833"
-     width="10"
+     width="9"
      height="1"
      x="3"
      y="8" />
   <rect
      style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect843"
-     width="14"
+     width="15"
      height="1"
-     x="1"
+     x="0"
      y="6" />
+  <path
+     id="path1"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 7,15 V 13 H 5 L 7.5,10 10,13 H 8 v 2 z"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

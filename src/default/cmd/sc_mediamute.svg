@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_mediamute.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_mediamute.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -38,40 +38,43 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="6.671875"
-     inkscape:cy="5.765625"
+     inkscape:cx="6.5625"
+     inkscape:cy="6.109375"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid826" />
+       id="grid826"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path3564"
-     style="color:#000000;fill:#808080;-inkscape-stroke:none"
-     d="M 13.443359 4.6796875 L 13.070312 5.0527344 C 13.441141 5.8397716 13.75 6.8427678 13.75 8 C 13.75 10.888886 11.822266 12.822266 11.822266 12.822266 L 12.177734 13.177734 C 12.177734 13.177734 14.25 11.111108 14.25 8 C 14.25 6.6755151 13.874458 5.5449819 13.443359 4.6796875 z " />
-  <path
-     id="path4028"
-     style="color:#000000;fill:#808080;-inkscape-stroke:none"
-     d="M 11.503906 6.6191406 L 11.111328 7.0117188 C 11.19656 7.305052 11.25 7.6338441 11.25 8 C 11.25 9.8749981 9.8613281 10.791016 9.8613281 10.791016 L 10.138672 11.208984 C 10.138672 11.208984 11.75 10.124998 11.75 8 C 11.75 7.4762655 11.651417 7.0157608 11.503906 6.6191406 z " />
+     id="path5"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;enable-background:accumulate;stop-color:#000000;opacity:0.5"
+     d="M 14.011719 4.2578125 L 13.269531 5 L 13.34375 5.1601562 C 13.702486 5.9215275 14 6.8872502 14 8 C 14 10.77767 12.144531 12.646484 12.144531 12.646484 L 11.96875 12.822266 L 12.677734 13.53125 L 12.853516 13.355469 C 12.853516 13.355469 15 11.222122 15 8 C 15 6.6282587 14.611984 5.4595788 14.167969 4.5683594 L 14.011719 4.2578125 z M 11.601562 6.1679688 L 10.830078 6.9394531 L 10.871094 7.0820312 C 10.950168 7.3541848 11 7.6581689 11 8 C 11 9.7515605 9.7246094 10.582031 9.7246094 10.582031 L 9.5136719 10.720703 L 10.070312 11.556641 L 10.277344 11.416016 C 10.277344 11.416016 12 10.251377 12 8 C 12 7.4448946 11.89515 6.9530222 11.738281 6.53125 L 11.601562 6.1679688 z " />
   <path
      id="path2395"
-     style="color:#000000;opacity:0.7;fill:#000000;stroke-width:2;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 7.9121094 1.2851562 A 1.0001 1.0001 0 0 0 7.4023438 1.4785156 L 2.6679688 5 L 2 5 A 1.0001 1.0001 0 0 0 1 6 L 1 10 A 1.0001 1.0001 0 0 0 2.015625 11 L 2.6542969 10.990234 L 2.7890625 11.091797 L 9 4.8808594 L 9 2.28125 A 1.0001 1.0001 0 0 0 8.4492188 1.3886719 A 1.0001 1.0001 0 0 0 7.9121094 1.2851562 z M 9 9.1230469 L 5.2226562 12.900391 L 7.4023438 14.521484 A 1.0001 1.0001 0 0 0 9 13.71875 L 9 9.1230469 z " />
+     style="color:#0000ff;opacity:0.8;fill:#0000ff;stroke-width:2;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8.0507812 1.2832031 A 1.0001 1.0001 0 0 0 7.9121094 1.2851562 A 1.0001 1.0001 0 0 0 7.4023438 1.4785156 L 2.6679688 5 L 2 5 A 1.0001 1.0001 0 0 0 1 6 L 1 10 A 1.0001 1.0001 0 0 0 2.015625 11 L 2.6542969 10.990234 L 2.7890625 11.091797 L 3.5058594 10.375 L 3 10 L 3 9.984375 L 2 10 L 2 6 L 3 6 L 8 2.28125 L 8 5.8808594 L 9 4.8808594 L 9 2.28125 A 1.0001 1.0001 0 0 0 8.4492188 1.3886719 A 1.0001 1.0001 0 0 0 8.0507812 1.2832031 z M 9 9.1230469 L 8 10.123047 L 8 13.71875 L 5.9375 12.185547 L 5.2226562 12.900391 L 7.4023438 14.521484 A 1.0001 1.0001 0 0 0 9 13.71875 L 9 9.1230469 z " />
   <path
      id="path2"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      d="M 8 2.28125 L 3 6 L 2 6 L 2 10 L 3 9.984375 L 3 10 L 3.5058594 10.375 L 8 5.8808594 L 8 2.28125 z M 8 10.123047 L 5.9375 12.185547 L 8 13.71875 L 8 10.123047 z " />
   <rect
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect830"
      width="1"
      height="4"

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_deleteprintarea.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_deleteprintarea.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95"><metadata
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -38,49 +38,34 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="22.627417"
-   inkscape:cx="9.2091608"
-   inkscape:cy="4.2173843"
-   inkscape:window-x="1920"
-   inkscape:window-y="27"
+   inkscape:cx="9.1923882"
+   inkscape:cy="4.2205436"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:document-rotation="0">
+   inkscape:document-rotation="0"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid825" />
+     id="grid825"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 
 
 
-/&gt;<rect
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="rect820"
-   width="12"
-   height="12"
-   x="1.0000021"
-   y="1" />
-<rect
-   style="fill:#f3d8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-   id="rect879"
-   width="8"
-   height="8"
-   x="1.0000019"
-   y="1" />
-<path
-   d="m 1.7073486e-6,2 v 10 c 0,2 0.9999999926514,2 3.0000001926514,2 h 6.0000001 1 1 c 2,0 3,0 3,-2 V 2 c 0,-2 -1,-2 -3,-2 H 3.0000019 C 1.0000017,0 1.7073486e-6,0 1.7073486e-6,2 Z M 3.0000019,1 h 1 v 3 h -3 V 2 c 0,-1 1.0000001,-1 2,-1 z m 2,0 h 4 v 3 h -4 z m 5.0000001,0 h 1 c 1,0 2,0 2,1 v 2 h -1 -1 -1 z M 1.0000017,5 h 3.0000002 v 4 h -3 z m 4.0000002,0 h 4 v 4 h -4 z m 5.0000001,0 h 1 1 1 v 4 h -1 -1 -1 z m -9.0000002,5 h 3.0000001 v 3 h -1 C 2.0000018,13 1.0000018,13 1.0000018,12 Z m 4.0000001,0 h 4 v 3 h -4 z m 5.0000001,0 h 1 1 1 v 2 c 0,1 -1,1 -2,1 h -1 z"
-   id="path2"
-   inkscape:connector-curvature="0"
-   style="fill:#6d6d6d;fill-opacity:1"
-   sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-<path
-   id="path868"
-   style="fill:#77216F;fill-opacity:1"
-   d="M 3.0000019,0 C 1.0000017,0 1.9073486e-6,0 1.9073486e-6,2 v 8 H 1.0000019 h 3 1 4 1.0000001 V 9 5 4 1 0 Z m 0,1 h 1 v 3 h -3 V 2 c 0,-1 1.0000001,-1 2,-1 z m 2,0 h 4 v 3 h -4 z m -4,4 h 3 v 4 h -3 z m 4,0 h 4 v 4 h -4 z" />
-<circle
+
+/&gt;<circle
    style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="path2644"
    cy="12.5"
@@ -93,4 +78,23 @@
    font-weight="400"
    style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
    d="m 13.914215,10.37868 -1.414213,1.414214 -1.414214,-1.414215 -0.707107,0.707107 1.414214,1.414214 -1.414214,1.414214 0.707107,0.707107 1.414214,-1.414214 1.414213,1.414214 0.707107,-0.707107 L 13.207109,12.5 14.621322,11.085787 Z" />
+<path
+   id="rect820"
+   style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3,1 C 2.000282,1 1.0005636,1.0008455 1,2 V 4 H 4 V 1 Z M 5,1 V 4 H 9 V 1 Z m 5,0 v 3 h 1 1 1 V 2 C 13,1 12,1 11,1 Z M 1,5 V 9 H 4 V 5 Z M 5,5 V 9 H 9 V 5 Z m 5,0 V 8.7578125 A 4.5,4.5 0 0 1 12.5,8 4.5,4.5 0 0 1 13,8.0273438 V 5 h -1 -1 z m -9,5 v 2 0.002 C 1.0006714,13.000946 2.0003358,13 3,13 h 1 v -3 z m 4,0 v 3 H 8.0273438 A 4.5,4.5 0 0 1 8,12.5 4.5,4.5 0 0 1 8.7578125,10 Z" />
+<rect
+   style="opacity:0.2;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   id="rect879"
+   width="8"
+   height="8"
+   x="1"
+   y="1" />
+<path
+   id="path2"
+   style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+   d="M 3,0 C 0.9999998,0 0,0 0,2 v 10 c 0,2 0.9999998,2 3,2 H 8.2578125 A 4.5,4.5 0 0 1 8.0273438,13 H 5 V 10 H 8.7578125 A 4.5,4.5 0 0 1 10,8.7578125 V 5 h 1 1 1 v 3.0273438 a 4.5,4.5 0 0 1 1,0.2304687 V 2 C 14,0 13,0 11,0 Z M 3,1 H 4 V 4 H 1 V 2 C 1,1 2.0000001,1 3,1 Z M 5,1 H 9 V 4 H 5 Z m 5,0 h 1 c 1,0 2,0 2,1 V 4 H 12 11 10 Z M 1,5 H 4 V 9 H 1 Z M 5,5 H 9 V 9 H 5 Z m -4,5 h 3 v 3 H 3 C 1.9999999,13 1,13 1,12 Z" />
+<path
+   id="path868"
+   style="fill:#00ffff;fill-opacity:1"
+   d="M 3,0 C 0.9999998,0 0,0 0,2 v 8 H 1 4 5 8.7578125 A 4.5,4.5 0 0 1 10,8.7578125 V 5 4 1 0 Z M 3,1 H 4 V 4 H 1 V 2 C 1,1 2.0000001,1 3,1 Z M 5,1 H 9 V 4 H 5 Z M 1,5 H 4 V 9 H 1 Z M 5,5 H 9 V 9 H 5 Z" />
 </svg>

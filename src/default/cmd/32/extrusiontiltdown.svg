@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/extrusiontiltdown.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,30 +42,30 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="20.542051"
-     inkscape:cy="18.648443"
-     inkscape:window-x="1920"
+     inkscape:cx="18.408746"
+     inkscape:cy="18.193019"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid840" />
+       id="grid840"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="csscccccccsscc"
-     inkscape:connector-curvature="0"
      id="path831"
-     d="m 5,14 c 0,-5.522848 4.2532951,-10 9.5,-10 5.246705,0 9.5,4.477152 9.5,10 v 4 5 h 3 l -4,5 -4,-5 h 3 v -5 -4 c 0,-4.418278 -3.357864,-8 -7.5,-8 -4.142136,0 -7.5,3.581722 -7.5,8 z"
-     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 14.5 4 C 9.2532951 4 5 8.477152 5 14 L 7 14 C 7 9.581722 10.357864 6 14.5 6 C 18.642136 6 22 9.581722 22 14 L 24 14 C 24 8.477152 19.746705 4 14.5 4 z M 22 17 L 22 18 L 22 23 L 19 23 L 23 28 L 27 23 L 24 23 L 24 18 L 24 17 L 22 17 z " />
   <path
-     d="m 4,15 h 24 v 1 h -24 z"
-     id="path842"
-     style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#1a1a1a"
+     style="fill:#0000ff"
      id="path4"
      d="m 4,15 h 24 v 1 h -24 z"
      inkscape:connector-curvature="0" />

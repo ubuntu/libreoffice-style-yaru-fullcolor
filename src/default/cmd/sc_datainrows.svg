@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_datainrows.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_datainrows.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95"><metadata
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata10">
   <rdf:RDF>
     <cc:Work
@@ -41,30 +41,36 @@
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="4.5403895"
-   inkscape:cy="7.16896"
+   inkscape:cx="4.5423729"
+   inkscape:cy="7.1694915"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
-   inkscape:document-rotation="0">
+   inkscape:document-rotation="0"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid817" />
+     id="grid817"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 
 
 
-/&gt;<rect
-   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+
+/&gt;<path
    id="rect820"
-   width="12"
-   height="12"
-   x="-14.000001"
-   y="1.9999999"
+   style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M -2 6 L -5 6 L -5 9 L -5 10 L -5 14 L -4 14 L -3.984375 14 C -2.9898845 13.999976 -2.0011212 13.995346 -2 13.001953 L -2 6 z M -6 6 L -10 6 L -10 8.5722656 L -10 9 L -10 10 L -10 10.546875 L -10 14 L -6 14 L -6 10.546875 L -6 10 L -6 9 L -6 8.5722656 L -6 6 z M -11 6 L -14 6 L -14 13 C -14 13.995078 -13.010679 13.999976 -12.015625 14 L -12 14 L -11 14 L -11 10 L -11 9 L -11 6 z "
    transform="rotate(-90)" />
 <path
    id="path2"
-   style="fill:#6d6d6d;fill-opacity:1"
+   style="fill:#0000ff;opacity:0.8;fill-opacity:1"
    d="M 3 1 C 1 1 1 2 1 4 L 1 12 C 1 14 1 15 3 15 L 13 15 C 15 15 15 14 15 12 L 15 4 C 15 2 15 1 13 1 L 3 1 z M 6 2 L 9 2 L 10 2 L 13 2 C 14 2 14 3 14 4 L 14 5 L 10 5 L 9 5 L 6 5 L 6 2 z M 6 6 L 8.5722656 6 L 9 6 L 10 6 L 10.546875 6 L 14 6 L 14 10 L 10.546875 10 L 10 10 L 9 10 L 8.5722656 10 L 6 10 L 6 6 z M 6 11 L 9 11 L 10 11 L 14 11 L 14 12 C 14 13 14 14 13 14 L 10 14 L 9 14 L 6 14 L 6 11 z " />
 </svg>

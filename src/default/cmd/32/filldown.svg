@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="filldown.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/dbviewtables.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -39,32 +39,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="5.2973084"
-     inkscape:cy="19.703111"
-     inkscape:window-x="1920"
+     inkscape:cx="5.3212782"
+     inkscape:cy="19.679141"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+  <path
      id="rect820"
-     width="22"
-     height="22"
-     x="5"
-     y="5" />
+     style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5 12 L 5 15 L 5 16 L 5 19 L 5 20 L 5 23 L 5 24 L 5 26 C 5 27 6 27 7 27 L 25 27 C 26 27 27 27 27 26 L 27 24 L 27 23 L 27 20 L 27 19 L 27 16 L 27 15 L 27 12 L 5 12 z " />
   <path
      id="path2"
-     style="fill:#6d6d6d;fill-opacity:1"
+     style="fill:#0000ff;opacity:.8"
      d="M 7 4 C 5 4 4 4 4 6 L 4 26 C 4 28 5 28 7 28 L 25 28 C 27 28 28 28 28 26 L 28 6 C 28 4 27 4 25 4 L 7 4 z M 5 12 L 27 12 L 27 15 L 27 16 L 27 19 L 27 20 L 27 23 L 27 24 L 27 26 C 27 27 26 27 25 27 L 21 27 L 20 27 L 19 27 L 13 27 L 12 27 L 10 27 L 7 27 C 6 27 5 27 5 26 L 5 24 L 5 23 L 5 20 L 5 19 L 5 16 L 5 15 L 5 12 z " />
   <path
      sodipodi:nodetypes="cccccccc"

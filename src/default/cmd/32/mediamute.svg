@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/mediamute.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,47 +38,57 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="8.4133722"
-     inkscape:cy="16.994533"
+     inkscape:cx="13.662741"
+     inkscape:cy="15.652228"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid827" />
+       id="grid827"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid1216"
        dotted="true"
        spacingx="0.5"
        spacingy="0.5"
-       empspacing="10" />
+       empspacing="10"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <path
      id="path3226"
-     style="color:#000000;fill:#808080;-inkscape-stroke:none"
+     style="color:#000000;fill:#0000ff;-inkscape-stroke:none;opacity:0.5"
      d="M 22.164062 11.957031 L 21.394531 12.726562 C 21.730361 13.633002 22 14.749601 22 16 C 22 19.309521 20.109375 21.6875 20.109375 21.6875 L 20.890625 22.3125 C 20.890625 22.3125 23 19.690472 23 16 C 23 14.41247 22.608908 13.025471 22.164062 11.957031 z " />
   <path
      id="path3432"
-     style="color:#000000;fill:#808080;-inkscape-stroke:none"
+     style="color:#000000;fill:#0000ff;-inkscape-stroke:none;opacity:0.5"
      d="M 22.853516 5.6464844 L 22.146484 6.3535156 C 22.146484 6.3535156 22.403905 6.6143721 22.783203 7.09375 L 23.496094 6.3808594 C 23.111153 5.9018054 22.853516 5.6464844 22.853516 5.6464844 z M 25.173828 8.9472656 L 24.4375 9.6835938 C 25.266015 11.315735 26 13.47539 26 16 C 26 21.777772 22.146484 25.646484 22.146484 25.646484 L 22.853516 26.353516 C 22.853516 26.353516 27 22.222216 27 16 C 27 13.137547 26.121504 10.726047 25.173828 8.9472656 z " />
   <path
      id="path1331"
-     style="color:#000000;fill:#000000;stroke-linejoin:round;-inkscape-stroke:none;opacity:0.7"
-     d="M 15.5 3 C 15.3674 3.0000254 15.24024 3.052716 15.146484 3.1464844 L 7.7929688 11 L 3.5 11 C 3.2238691 11.000028 3.0000276 11.223869 3 11.5 L 3 20.5 C 3.0000276 20.776131 3.2238691 20.999972 3.5 21 L 7.7929688 21 L 8.3164062 21.560547 L 18 11.876953 L 18 3.5 C 17.999972 3.2238691 17.776131 3.0000276 17.5 3 L 15.5 3 z M 18 16.121094 L 10.369141 23.751953 L 15.146484 28.853516 C 15.240244 28.947286 15.3674 28.999975 15.5 29 L 17.5 29 C 17.776131 28.999972 17.999972 28.776131 18 28.5 L 18 16.121094 z " />
+     style="color:#0000ff;fill:#0000ff;stroke-linejoin:round;-inkscape-stroke:none;opacity:0.8"
+     d="M 15.5 3 C 15.3674 3.0000254 15.24024 3.052716 15.146484 3.1464844 L 7.7929688 11 L 3.5 11 C 3.2238691 11.000028 3.0000276 11.223869 3 11.5 L 3 20.5 C 3.0000276 20.776131 3.2238691 20.999972 3.5 21 L 7.7929688 21 L 8.3164062 21.560547 L 9.0195312 20.857422 L 8.3535156 20.146484 C 8.2597596 20.05272 8.1325994 20.000025 8 20 L 4 20 L 4 12 L 8 12 C 8.1325994 11.999975 8.2597596 11.947286 8.3535156 11.853516 L 15.707031 4 L 17 4 L 17 12.876953 L 18 11.876953 L 18 3.5 C 17.999972 3.2238691 17.776131 3.0000276 17.5 3 L 15.5 3 z M 18 16.121094 L 17 17.121094 L 17 28 L 15.707031 28 L 11.072266 23.048828 L 10.369141 23.751953 L 15.146484 28.853516 C 15.240244 28.947286 15.3674 28.999975 15.5 29 L 17.5 29 C 17.776131 28.999972 17.999972 28.776131 18 28.5 L 18 16.121094 z " />
   <path
      id="path1977"
-     style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round"
+     style="opacity:1;fill:#ffff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round"
      d="M 15.707031 4 L 8.3535156 11.853516 C 8.2597596 11.947286 8.1325994 11.999975 8 12 L 4 12 L 4 20 L 8 20 C 8.1325994 20.000025 8.2597596 20.05272 8.3535156 20.146484 L 9.0195312 20.857422 L 17 12.876953 L 17 4 L 15.707031 4 z M 17 17.121094 L 11.072266 23.048828 L 15.707031 28 L 17 28 L 17 17.121094 z " />
   <rect
-     style="opacity:1;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round"
+     style="opacity:0.5;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round"
      id="rect1445"
      width="4"
      height="8"

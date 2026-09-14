@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="32"
    viewBox="0 0 32 32"
    width="32"
    version="1.1"
    id="svg4"
    sodipodi:docname="exportdirecttoepub.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/exportdirecttoepub.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -61,24 +61,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="13.937612"
-     inkscape:cy="17.049887"
+     inkscape:cx="13.966102"
+     inkscape:cy="17.033898"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid831" />
+       id="grid831"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
      sodipodi:nodetypes="ccccccccc"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:0.8;fill:#0000ff;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
      id="path815"
      d="M 10,28 C 8,28 6,27 6,25 V 7 C 6,5 8,4 10,4 h 9 l 7,7 v 14 c 0,2 -2,3 -4,3 z"
      inkscape:connector-curvature="0" />
@@ -86,16 +94,16 @@
      inkscape:connector-curvature="0"
      d="M 10,28 C 8,28 6,27 6,25 V 7 C 6,5 8,4 10,4 h 9 l 7,7 v 14 c 0,2 -2,3 -4,3 z"
      id="path2"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      sodipodi:nodetypes="ccccccccc" />
   <path
      inkscape:connector-curvature="0"
      d="M 19,11 V 4 l 7,7 z"
      id="path4"
-     style="fill:#6d6d6d;fill-opacity:1" />
+     style="fill:#0000ff;fill-opacity:1;opacity:0.5" />
   <path
      id="path1112"
      d="m 16.002688,21.770915 -3.770851,-3.77115 3.770851,-3.77062 1.25705,1.25683 -2.514101,2.51379 1.256971,1.25705 3.77085,-3.77063 -3.28485,-3.28484 c -0.26823,-0.26846 -0.703301,-0.26846 -0.971771,0 l -5.31286,5.31286 c -0.26823,0.26824 -0.26823,0.70332 0,0.97178 l 5.31294,5.31271 c 0.26846,0.26846 0.703541,0.26846 0.971771,0 l 5.31294,-5.31271 c 0.26823,-0.26846 0.26823,-0.70354 0,-0.97178 l -0.77129,-0.77105 z"
-     style="display:inline;fill:#579120;fill-opacity:1;stroke-width:0.0764628;enable-background:new"
+     style="display:inline;fill:#00ff00;fill-opacity:1;stroke-width:0.0764628;enable-background:new"
      inkscape:connector-curvature="0" />
 </svg>

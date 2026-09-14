@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="twopages_a_10x24.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/sw/res/twopages_a_10x24.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="18.75"
-     inkscape:cx="7.44"
-     inkscape:cy="9.3866667"
+     inkscape:cx="7.4133333"
+     inkscape:cy="9.4133333"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,10 +53,15 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 4,1.0000002 H 7 L 10,4 V 9 H 4 Z"
      id="path828"
      inkscape:connector-curvature="0" />
@@ -64,7 +69,7 @@
      inkscape:connector-curvature="0"
      id="path821-7"
      d="m 14,1.0000002 h 3 L 20,4 v 5 h -6 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      d="m 13,3 v 4 c 0,2.9999996 1,2.9999996 4,2.9999996 3,0 4,0 4,-2.9999996 V 4 3 L 18,0 h -1 c -3,0 -4,0 -4,3 z m 1,0 c 0,-2 1,-2 3,-2 v 2 1 h 1 2 v 3 c 0,2 -1,2 -3,2 -2,0 -3,0 -3,-2 z"
      id="path2-7"

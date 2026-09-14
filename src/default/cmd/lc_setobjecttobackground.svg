@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_setobjecttobackground.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_sendtoback.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -42,9 +42,9 @@
      inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="13.906434"
-     inkscape:cx="8.1257354"
-     inkscape:cy="13.33915"
+     inkscape:zoom="27.812868"
+     inkscape:cx="10.498737"
+     inkscape:cy="9.2223499"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -70,7 +70,7 @@
   </sodipodi:namedview>
   <path
      sodipodi:nodetypes="cccccccccc"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:0.8;fill:#0000ff;stroke:#0000ff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path829"
      d="M 6,20 C 4,20 3,20 3,18 V 6.0000002 c 0,-2 1,-2 3,-2 h 8 c 2,0 3,0 3,2 V 9.40625 18 c 0,2 -1,2 -3,2 z"
      inkscape:connector-curvature="0" />
@@ -78,46 +78,22 @@
      inkscape:connector-curvature="0"
      d="M 6,20 C 4,20 3,20 3,18 V 6.0000002 c 0,-2 1,-2 3,-2 h 8 c 2,0 3,0 3,2 V 9.40625 18 c 0,2 -1,2 -3,2 z"
      id="path2"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      sodipodi:nodetypes="cccccccccc" />
-  <circle
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle5"
-     cx="16"
-     cy="12"
-     r="6" />
-  <circle
-     style="opacity:1;fill:#fee581;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path824"
-     cx="16"
-     cy="12"
-     r="6" />
-  <rect
-     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+  <path
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 17 5 C 15.686256 5 14.454956 5.3655129 13.402344 6 L 15 6 A 1.0001 1.0001 0 0 1 16 7 L 16 8 A 1.0001 1.0001 0 0 1 15 9 A 1.0001 1.0001 0 0 1 16 10 L 16 11 A 1.0001 1.0001 0 0 1 15 12 A 1.0001 1.0001 0 0 1 16 13 L 16 14 A 1.0001 1.0001 0 0 1 15 15 A 1.0001 1.0001 0 0 1 16 16 L 16 17 A 1.0001 1.0001 0 0 1 15 18 L 13.402344 18 C 14.454957 18.634487 15.686256 19 17 19 C 20.854149 19 24 15.854149 24 12 C 24 8.1458514 20.854149 5 17 5 z " />
+  <path
      id="rect839"
-     width="10"
-     height="1"
-     x="5"
-     y="7" />
-  <rect
-     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect2"
-     width="10"
-     height="1"
-     x="5"
-     y="10" />
-  <rect
-     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect3"
-     width="10"
-     height="1"
-     x="5"
-     y="13" />
-  <rect
-     style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     id="rect5"
-     width="10"
-     height="1"
-     x="5"
-     y="16" />
+     style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5 7 L 5 8 L 15 8 L 15 7 L 5 7 z M 5 10 L 5 11 L 15 11 L 15 10 L 5 10 z M 5 13 L 5 14 L 15 14 L 15 13 L 5 13 z M 5 16 L 5 17 L 15 17 L 15 16 L 5 16 z " />
+  <path
+     id="path8"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.5;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 13.402344 6 C 11.366892 7.2269166 10 9.4595952 10 12 C 10 14.540405 11.366892 16.773083 13.402344 18 L 15 18 A 1.0001 1.0001 0 0 0 16 17 L 16 16 A 1.0001 1.0001 0 0 0 15 15 A 1.0001 1.0001 0 0 0 16 14 L 16 13 A 1.0001 1.0001 0 0 0 15 12 A 1.0001 1.0001 0 0 0 16 11 L 16 10 A 1.0001 1.0001 0 0 0 15 9 A 1.0001 1.0001 0 0 0 16 8 L 16 7 A 1.0001 1.0001 0 0 0 15 6 L 13.402344 6 z " />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 5,7 V 8 H 15 V 7 Z m 0,3 v 1 h 10 v -1 z m 0,3 v 1 h 10 v -1 z m 0,3 v 1 h 10 v -1 z"
+     id="path4" />
 </svg>
