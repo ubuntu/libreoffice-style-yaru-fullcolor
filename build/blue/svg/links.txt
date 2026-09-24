@@ -31,7 +31,7 @@ cmd/32/absoluterecord.svg cmd/32/helpindex.svg
 cmd/32/acceptchanges.svg cmd/32/trackchangesbar.svg
 cmd/32/adddatefield.svg cmd/32/datefield.svg
 cmd/32/addname.svg cmd/32/label.svg
-cmd/32/addons.svgcmd/32/additionsdialog.svg
+cmd/32/addons.svg cmd/32/additionsdialog.svg
 cmd/32/addtable.svg cmd/32/dbnewtable.svg
 cmd/32/addtextbox.svg cmd/32/insertfixedtext.svg
 cmd/32/adjust.svg cmd/32/zoomoptimal.svg
@@ -91,7 +91,7 @@ cmd/32/closewin.svg cmd/32/closedoc.svg
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
 cmd/32/columnoperations.svg cmd/32/selectcolumn.svg
 cmd/32/columnwidth.svg cmd/32/setminimalcolumnwidth.svg
-cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.svgcmd/32/additionsdialog.svg
+cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/32/additionsdialog.svg
 cmd/32/commentchange.svg cmd/32/commentchangetracking.svg
 cmd/32/commonalignbottom.svg cmd/32/alignbottom.svg
 cmd/32/commonalignhorizontalcenter.svg cmd/32/alignhorizontalcenter.svg
@@ -460,7 +460,7 @@ cmd/32/pl/bold.svg cmd/32/fr/bold.svg
 cmd/32/pl/italic.svg cmd/32/de/italic.svg
 cmd/32/pl/underlinesimple.svg cmd/32/pl/underline.svg
 cmd/32/pl/underlinesingle.svg cmd/32/pl/underline.svg
-cmd/32/pluginsactive.svgcmd/32/additionsdialog.svg
+cmd/32/pluginsactive.svg cmd/32/additionsdialog.svg
 cmd/32/presentation.svg cmd/32/dia.svg
 cmd/32/previewprintoptions.svg cmd/32/printpreview.svg
 cmd/32/previewzoom.svg cmd/32/zoomprevious.svg
@@ -774,7 +774,7 @@ cmd/lc_absoluterecord.svg cmd/lc_helpindex.svg
 cmd/lc_acceptchanges.svg cmd/lc_trackchangesbar.svg
 cmd/lc_adddatefield.svg cmd/lc_datefield.svg
 cmd/lc_addname.svg cmd/lc_label.svg
-cmd/lc_addons.svgcmd/lc_additionsdialog.svg
+cmd/lc_addons.svg cmd/lc_additionsdialog.svg
 cmd/lc_addtable.svg cmd/lc_dbnewtable.svg
 cmd/lc_addtextbox.svg cmd/lc_insertfixedtext.svg
 cmd/lc_adjust.svg cmd/lc_zoomoptimal.svg
@@ -827,7 +827,7 @@ cmd/lc_closewin.svg cmd/lc_closedoc.svg
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_columnoperations.svg cmd/lc_selectcolumn.svg
 cmd/lc_columnwidth.svg cmd/lc_setminimalcolumnwidth.svg
-cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.svgcmd/lc_additionsdialog.svg
+cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/lc_additionsdialog.svg
 cmd/lc_commentchange.svg cmd/lc_commentchangetracking.svg
 cmd/lc_commonalignbottom.svg cmd/lc_alignbottom.svg
 cmd/lc_commonalignhorizontalcenter.svg cmd/lc_alignhorizontalcenter.svg
@@ -1144,7 +1144,7 @@ cmd/lc_pageup.svg cmd/lc_prevrecord.svg
 cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
 cmd/lc_pastespecialmenu.svg cmd/lc_pastespecial.svg
 cmd/lc_photoalbumdialog.svg cmd/lc_gallery.svg
-cmd/lc_pluginsactive.svgcmd/lc_additionsdialog.svg
+cmd/lc_pluginsactive.svg cmd/lc_additionsdialog.svg
 cmd/lc_presentation.svg cmd/lc_dia.svg
 cmd/lc_previewprintoptions.svg cmd/lc_printpreview.svg
 cmd/lc_previewzoom.svg cmd/lc_zoomprevious.svg
@@ -1322,7 +1322,7 @@ cmd/sc_absoluterecord.svg cmd/sc_helpindex.svg
 cmd/sc_acceptchanges.svg cmd/sc_trackchangesbar.svg
 cmd/sc_adddatefield.svg cmd/sc_datefield.svg
 cmd/sc_addname.svg cmd/sc_label.svg
-cmd/sc_addons.svgcmd/sc_additionsdialog.svg
+cmd/sc_addons.svg cmd/sc_additionsdialog.svg
 cmd/sc_addtable.svg cmd/sc_dbnewtable.svg
 cmd/sc_addtextbox.svg cmd/sc_insertfixedtext.svg
 cmd/sc_adjust.svg cmd/sc_zoomoptimal.svg
@@ -1377,7 +1377,7 @@ cmd/sc_closewin.svg cmd/sc_closedoc.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_columnoperations.svg cmd/sc_selectcolumn.svg
 cmd/sc_columnwidth.svg cmd/sc_setminimalcolumnwidth.svg
-cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.svgcmd/sc_additionsdialog.svg
+cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.svg cmd/sc_additionsdialog.svg
 cmd/sc_commentchange.svg cmd/sc_commentchangetracking.svg
 cmd/sc_commonalignbottom.svg cmd/sc_alignbottom.svg
 cmd/sc_commonalignhorizontalcenter.svg cmd/sc_alignhorizontalcenter.svg
@@ -1695,7 +1695,7 @@ cmd/sc_pageup.svg cmd/sc_prevrecord.svg
 cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
 cmd/sc_pastespecialmenu.svg cmd/sc_pastespecial.svg
 cmd/sc_photoalbumdialog.svg cmd/sc_gallery.svg
-cmd/sc_pluginsactive.svgcmd/sc_additionsdialog.svg
+cmd/sc_pluginsactive.svg cmd/sc_additionsdialog.svg
 cmd/sc_presentation.svg cmd/sc_dia.svg
 cmd/sc_previewprintoptions.svg cmd/sc_printpreview.svg
 cmd/sc_previewzoom.svg cmd/sc_zoomprevious.svg
@@ -1916,7 +1916,7 @@ dbaccess/res/sortdown.svg cmd/sc_downsearch.svg
 dbaccess/res/sortup.svg cmd/sc_upsearch.svg
 dbaccess/res/tables_32.svg cmd/32/dbviewtables.svg
 desktop/res/caution_16.svg cmd/sc_warningcellstyles.svg
-desktop/res/extension_32.svgcmd/32/additionsdialog.svg
+desktop/res/extension_32.svg cmd/32/additionsdialog.svg
 desktop/res/shared_16.svg cmd/sc_sharedocument.svg
 desktop/res/info_16.svg cmd/sc_helpindex.svg
 desktop/res/lock_16.svg cmd/sc_protect.svg
@@ -1934,7 +1934,7 @@ fpicker/res/fp015.svg cmd/sc_starshapes.svg
 fpicker/res/fp016.svg cmd/sc_sharedocument.svg
 framework/res/addtemplate_32.svg cmd/32/newdoc.svg
 framework/res/arrow.svg cmd/sc_nextrecord.svg
-framework/res/extension.svgcmd/lc_additionsdialog.svg
+framework/res/extension.svg cmd/lc_additionsdialog.svg
 framework/res/info_26.svg cmd/lc_helpindex.svg
 reportdesign/res/report_16.svg cmd/sc_dbviewreports.svg
 reportdesign/res/sc20557.svg cmd/sc_cancel.svg
@@ -2006,7 +2006,7 @@ res/lx03221.svg res/odg_32.svg
 res/lx03222.svg res/odg_32.svg
 res/lx03227.svg res/odg_32.svg
 res/lx03228.svg res/odg_32.svg
-res/lx03256.svgcmd/lc_additionsdialog.svg
+res/lx03256.svg cmd/lc_additionsdialog.svg
 res/mainapp_16_8.svg res/mainapp_16.svg
 res/mainapp_32_8.svg res/mainapp_32.svg
 res/mainapp_48_8.svg res/mainapp_48.svg
@@ -2038,7 +2038,7 @@ res/ots_48_8.svg res/ots_48.svg
 res/ott_16_8.svg res/ott_16.svg
 res/ott_32_8.svg res/ott_32.svg
 res/ott_48_8.svg res/ott_48.svg
-res/plugin.svgcmd/lc_additionsdialog.svg
+res/plugin.svg cmd/lc_additionsdialog.svg
 res/queries_32.svg cmd/32/dbviewqueries.svg
 res/reload.svg cmd/sc_reload.svg
 res/reports_32.svg cmd/32/dbviewreports.svg
@@ -2077,7 +2077,7 @@ res/sx03126.svg cmd/sc_dbviewtables.svg
 res/sx03127.svg res/ots_16.svg
 res/sx03130.svg res/odp_16.svg
 res/sx03137.svg res/sx03125.svg
-res/sx03139.svg cmd/sc_questionanswers.svg
+res/sx03139.svg cmd/sc_browseview.svg
 res/sx03140.svg res/sx03125.svg
 res/sx03144.svg res/odf_16.svg
 res/sx03145.svg res/odf_16.svg
@@ -2104,7 +2104,7 @@ res/sx03221.svg res/odg_16.svg
 res/sx03222.svg res/odg_16.svg
 res/sx03227.svg res/odg_16.svg
 res/sx03228.svg res/odg_16.svg
-res/sx03256.svgcmd/sc_additionsdialog.svg
+res/sx03256.svg cmd/sc_additionsdialog.svg
 res/sx10594.svg cmd/sc_pushbutton.svg
 res/sx10595.svg cmd/sc_radiobutton.svg
 res/sx10596.svg cmd/sc_checkbox.svg

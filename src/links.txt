@@ -31,7 +31,7 @@ cmd/32/absoluterecord.xxx cmd/32/helpindex.xxx
 cmd/32/acceptchanges.xxx cmd/32/trackchangesbar.xxx
 cmd/32/adddatefield.xxx cmd/32/datefield.xxx
 cmd/32/addname.xxx cmd/32/label.xxx
-cmd/32/addons.xxxcmd/32/additionsdialog.xxx
+cmd/32/addons.xxx cmd/32/additionsdialog.xxx
 cmd/32/addtable.xxx cmd/32/dbnewtable.xxx
 cmd/32/addtextbox.xxx cmd/32/insertfixedtext.xxx
 cmd/32/adjust.xxx cmd/32/zoomoptimal.xxx
@@ -91,7 +91,7 @@ cmd/32/closewin.xxx cmd/32/closedoc.xxx
 cmd/32/colorview.xxx cmd/32/graphicfilterinvert.xxx
 cmd/32/columnoperations.xxx cmd/32/selectcolumn.xxx
 cmd/32/columnwidth.xxx cmd/32/setminimalcolumnwidth.xxx
-cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.xxxcmd/32/additionsdialog.xxx
+cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.xxx cmd/32/additionsdialog.xxx
 cmd/32/commentchange.xxx cmd/32/commentchangetracking.xxx
 cmd/32/commonalignbottom.xxx cmd/32/alignbottom.xxx
 cmd/32/commonalignhorizontalcenter.xxx cmd/32/alignhorizontalcenter.xxx
@@ -460,7 +460,7 @@ cmd/32/pl/bold.xxx cmd/32/fr/bold.xxx
 cmd/32/pl/italic.xxx cmd/32/de/italic.xxx
 cmd/32/pl/underlinesimple.xxx cmd/32/pl/underline.xxx
 cmd/32/pl/underlinesingle.xxx cmd/32/pl/underline.xxx
-cmd/32/pluginsactive.xxxcmd/32/additionsdialog.xxx
+cmd/32/pluginsactive.xxx cmd/32/additionsdialog.xxx
 cmd/32/presentation.xxx cmd/32/dia.xxx
 cmd/32/previewprintoptions.xxx cmd/32/printpreview.xxx
 cmd/32/previewzoom.xxx cmd/32/zoomprevious.xxx
@@ -774,7 +774,7 @@ cmd/lc_absoluterecord.xxx cmd/lc_helpindex.xxx
 cmd/lc_acceptchanges.xxx cmd/lc_trackchangesbar.xxx
 cmd/lc_adddatefield.xxx cmd/lc_datefield.xxx
 cmd/lc_addname.xxx cmd/lc_label.xxx
-cmd/lc_addons.xxxcmd/lc_additionsdialog.xxx
+cmd/lc_addons.xxx cmd/lc_additionsdialog.xxx
 cmd/lc_addtable.xxx cmd/lc_dbnewtable.xxx
 cmd/lc_addtextbox.xxx cmd/lc_insertfixedtext.xxx
 cmd/lc_adjust.xxx cmd/lc_zoomoptimal.xxx
@@ -827,7 +827,7 @@ cmd/lc_closewin.xxx cmd/lc_closedoc.xxx
 cmd/lc_colorview.xxx cmd/lc_graphicfilterinvert.xxx
 cmd/lc_columnoperations.xxx cmd/lc_selectcolumn.xxx
 cmd/lc_columnwidth.xxx cmd/lc_setminimalcolumnwidth.xxx
-cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.xxxcmd/lc_additionsdialog.xxx
+cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.xxx cmd/lc_additionsdialog.xxx
 cmd/lc_commentchange.xxx cmd/lc_commentchangetracking.xxx
 cmd/lc_commonalignbottom.xxx cmd/lc_alignbottom.xxx
 cmd/lc_commonalignhorizontalcenter.xxx cmd/lc_alignhorizontalcenter.xxx
@@ -1144,7 +1144,7 @@ cmd/lc_pageup.xxx cmd/lc_prevrecord.xxx
 cmd/lc_paragraphmenu.xxx cmd/lc_paragraphdialog.xxx
 cmd/lc_pastespecialmenu.xxx cmd/lc_pastespecial.xxx
 cmd/lc_photoalbumdialog.xxx cmd/lc_gallery.xxx
-cmd/lc_pluginsactive.xxxcmd/lc_additionsdialog.xxx
+cmd/lc_pluginsactive.xxx cmd/lc_additionsdialog.xxx
 cmd/lc_presentation.xxx cmd/lc_dia.xxx
 cmd/lc_previewprintoptions.xxx cmd/lc_printpreview.xxx
 cmd/lc_previewzoom.xxx cmd/lc_zoomprevious.xxx
@@ -1322,7 +1322,7 @@ cmd/sc_absoluterecord.xxx cmd/sc_helpindex.xxx
 cmd/sc_acceptchanges.xxx cmd/sc_trackchangesbar.xxx
 cmd/sc_adddatefield.xxx cmd/sc_datefield.xxx
 cmd/sc_addname.xxx cmd/sc_label.xxx
-cmd/sc_addons.xxxcmd/sc_additionsdialog.xxx
+cmd/sc_addons.xxx cmd/sc_additionsdialog.xxx
 cmd/sc_addtable.xxx cmd/sc_dbnewtable.xxx
 cmd/sc_addtextbox.xxx cmd/sc_insertfixedtext.xxx
 cmd/sc_adjust.xxx cmd/sc_zoomoptimal.xxx
@@ -1377,7 +1377,7 @@ cmd/sc_closewin.xxx cmd/sc_closedoc.xxx
 cmd/sc_colorview.xxx cmd/sc_graphicfilterinvert.xxx
 cmd/sc_columnoperations.xxx cmd/sc_selectcolumn.xxx
 cmd/sc_columnwidth.xxx cmd/sc_setminimalcolumnwidth.xxx
-cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.xxxcmd/sc_additionsdialog.xxx
+cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.xxx cmd/sc_additionsdialog.xxx
 cmd/sc_commentchange.xxx cmd/sc_commentchangetracking.xxx
 cmd/sc_commonalignbottom.xxx cmd/sc_alignbottom.xxx
 cmd/sc_commonalignhorizontalcenter.xxx cmd/sc_alignhorizontalcenter.xxx
@@ -1695,7 +1695,7 @@ cmd/sc_pageup.xxx cmd/sc_prevrecord.xxx
 cmd/sc_paragraphmenu.xxx cmd/sc_paragraphdialog.xxx
 cmd/sc_pastespecialmenu.xxx cmd/sc_pastespecial.xxx
 cmd/sc_photoalbumdialog.xxx cmd/sc_gallery.xxx
-cmd/sc_pluginsactive.xxxcmd/sc_additionsdialog.xxx
+cmd/sc_pluginsactive.xxx cmd/sc_additionsdialog.xxx
 cmd/sc_presentation.xxx cmd/sc_dia.xxx
 cmd/sc_previewprintoptions.xxx cmd/sc_printpreview.xxx
 cmd/sc_previewzoom.xxx cmd/sc_zoomprevious.xxx
@@ -1916,7 +1916,7 @@ dbaccess/res/sortdown.xxx cmd/sc_downsearch.xxx
 dbaccess/res/sortup.xxx cmd/sc_upsearch.xxx
 dbaccess/res/tables_32.xxx cmd/32/dbviewtables.xxx
 desktop/res/caution_16.xxx cmd/sc_warningcellstyles.xxx
-desktop/res/extension_32.xxxcmd/32/additionsdialog.xxx
+desktop/res/extension_32.xxx cmd/32/additionsdialog.xxx
 desktop/res/shared_16.xxx cmd/sc_sharedocument.xxx
 desktop/res/info_16.xxx cmd/sc_helpindex.xxx
 desktop/res/lock_16.xxx cmd/sc_protect.xxx
@@ -1934,7 +1934,7 @@ fpicker/res/fp015.xxx cmd/sc_starshapes.xxx
 fpicker/res/fp016.xxx cmd/sc_sharedocument.xxx
 framework/res/addtemplate_32.xxx cmd/32/newdoc.xxx
 framework/res/arrow.xxx cmd/sc_nextrecord.xxx
-framework/res/extension.xxxcmd/lc_additionsdialog.xxx
+framework/res/extension.xxx cmd/lc_additionsdialog.xxx
 framework/res/info_26.xxx cmd/lc_helpindex.xxx
 reportdesign/res/report_16.xxx cmd/sc_dbviewreports.xxx
 reportdesign/res/sc20557.xxx cmd/sc_cancel.xxx
@@ -2006,7 +2006,7 @@ res/lx03221.xxx res/odg_32.xxx
 res/lx03222.xxx res/odg_32.xxx
 res/lx03227.xxx res/odg_32.xxx
 res/lx03228.xxx res/odg_32.xxx
-res/lx03256.xxxcmd/lc_additionsdialog.xxx
+res/lx03256.xxx cmd/lc_additionsdialog.xxx
 res/mainapp_16_8.xxx res/mainapp_16.xxx
 res/mainapp_32_8.xxx res/mainapp_32.xxx
 res/mainapp_48_8.xxx res/mainapp_48.xxx
@@ -2038,7 +2038,7 @@ res/ots_48_8.xxx res/ots_48.xxx
 res/ott_16_8.xxx res/ott_16.xxx
 res/ott_32_8.xxx res/ott_32.xxx
 res/ott_48_8.xxx res/ott_48.xxx
-res/plugin.xxxcmd/lc_additionsdialog.xxx
+res/plugin.xxx cmd/lc_additionsdialog.xxx
 res/queries_32.xxx cmd/32/dbviewqueries.xxx
 res/reload.xxx cmd/sc_reload.xxx
 res/reports_32.xxx cmd/32/dbviewreports.xxx
@@ -2077,7 +2077,7 @@ res/sx03126.xxx cmd/sc_dbviewtables.xxx
 res/sx03127.xxx res/ots_16.xxx
 res/sx03130.xxx res/odp_16.xxx
 res/sx03137.xxx res/sx03125.xxx
-res/sx03139.xxx cmd/sc_questionanswers.xxx
+res/sx03139.xxx cmd/sc_browseview.xxx
 res/sx03140.xxx res/sx03125.xxx
 res/sx03144.xxx res/odf_16.xxx
 res/sx03145.xxx res/odf_16.xxx
@@ -2104,7 +2104,7 @@ res/sx03221.xxx res/odg_16.xxx
 res/sx03222.xxx res/odg_16.xxx
 res/sx03227.xxx res/odg_16.xxx
 res/sx03228.xxx res/odg_16.xxx
-res/sx03256.xxxcmd/sc_additionsdialog.xxx
+res/sx03256.xxx cmd/sc_additionsdialog.xxx
 res/sx10594.xxx cmd/sc_pushbutton.xxx
 res/sx10595.xxx cmd/sc_radiobutton.xxx
 res/sx10596.xxx cmd/sc_checkbox.xxx

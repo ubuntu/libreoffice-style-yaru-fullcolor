@@ -31,7 +31,7 @@ cmd/32/absoluterecord.png cmd/32/helpindex.png
 cmd/32/acceptchanges.png cmd/32/trackchangesbar.png
 cmd/32/adddatefield.png cmd/32/datefield.png
 cmd/32/addname.png cmd/32/label.png
-cmd/32/addons.pngcmd/32/additionsdialog.png
+cmd/32/addons.png cmd/32/additionsdialog.png
 cmd/32/addtable.png cmd/32/dbnewtable.png
 cmd/32/addtextbox.png cmd/32/insertfixedtext.png
 cmd/32/adjust.png cmd/32/zoomoptimal.png
@@ -91,7 +91,7 @@ cmd/32/closewin.png cmd/32/closedoc.png
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
 cmd/32/columnoperations.png cmd/32/selectcolumn.png
 cmd/32/columnwidth.png cmd/32/setminimalcolumnwidth.png
-cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.pngcmd/32/additionsdialog.png
+cmd/32/com.sun.star.deployment.ui.packagemanagerdialog.png cmd/32/additionsdialog.png
 cmd/32/commentchange.png cmd/32/commentchangetracking.png
 cmd/32/commonalignbottom.png cmd/32/alignbottom.png
 cmd/32/commonalignhorizontalcenter.png cmd/32/alignhorizontalcenter.png
@@ -460,7 +460,7 @@ cmd/32/pl/bold.png cmd/32/fr/bold.png
 cmd/32/pl/italic.png cmd/32/de/italic.png
 cmd/32/pl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/pl/underlinesingle.png cmd/32/pl/underline.png
-cmd/32/pluginsactive.pngcmd/32/additionsdialog.png
+cmd/32/pluginsactive.png cmd/32/additionsdialog.png
 cmd/32/presentation.png cmd/32/dia.png
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
 cmd/32/previewzoom.png cmd/32/zoomprevious.png
@@ -774,7 +774,7 @@ cmd/lc_absoluterecord.png cmd/lc_helpindex.png
 cmd/lc_acceptchanges.png cmd/lc_trackchangesbar.png
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addname.png cmd/lc_label.png
-cmd/lc_addons.pngcmd/lc_additionsdialog.png
+cmd/lc_addons.png cmd/lc_additionsdialog.png
 cmd/lc_addtable.png cmd/lc_dbnewtable.png
 cmd/lc_addtextbox.png cmd/lc_insertfixedtext.png
 cmd/lc_adjust.png cmd/lc_zoomoptimal.png
@@ -827,7 +827,7 @@ cmd/lc_closewin.png cmd/lc_closedoc.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
 cmd/lc_columnoperations.png cmd/lc_selectcolumn.png
 cmd/lc_columnwidth.png cmd/lc_setminimalcolumnwidth.png
-cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.pngcmd/lc_additionsdialog.png
+cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/lc_additionsdialog.png
 cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
 cmd/lc_commonalignbottom.png cmd/lc_alignbottom.png
 cmd/lc_commonalignhorizontalcenter.png cmd/lc_alignhorizontalcenter.png
@@ -914,6 +914,7 @@ cmd/lc_exportasgraphic.png cmd/lc_gallery.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
 cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
+cmd/lc_extrusionlightingfloater.png cmd/lc_graphicfiltersolarize.png
 cmd/lc_fieldmenu.png cmd/lc_addfield.png
 cmd/lc_fieldnames.png cmd/lc_addfield.png
 cmd/lc_fillcolor.png cmd/lc_backgroundcolor.png
@@ -1143,7 +1144,7 @@ cmd/lc_pageup.png cmd/lc_prevrecord.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
 cmd/lc_photoalbumdialog.png cmd/lc_gallery.png
-cmd/lc_pluginsactive.pngcmd/lc_additionsdialog.png
+cmd/lc_pluginsactive.png cmd/lc_additionsdialog.png
 cmd/lc_presentation.png cmd/lc_dia.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
 cmd/lc_previewzoom.png cmd/lc_zoomprevious.png
@@ -1321,7 +1322,7 @@ cmd/sc_absoluterecord.png cmd/sc_helpindex.png
 cmd/sc_acceptchanges.png cmd/sc_trackchangesbar.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addname.png cmd/sc_label.png
-cmd/sc_addons.pngcmd/sc_additionsdialog.png
+cmd/sc_addons.png cmd/sc_additionsdialog.png
 cmd/sc_addtable.png cmd/sc_dbnewtable.png
 cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
 cmd/sc_adjust.png cmd/sc_zoomoptimal.png
@@ -1376,7 +1377,7 @@ cmd/sc_closewin.png cmd/sc_closedoc.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
 cmd/sc_columnoperations.png cmd/sc_selectcolumn.png
 cmd/sc_columnwidth.png cmd/sc_setminimalcolumnwidth.png
-cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.pngcmd/sc_additionsdialog.png
+cmd/sc_com.sun.star.deployment.ui.packagemanagerdialog.png cmd/sc_additionsdialog.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
 cmd/sc_commonalignbottom.png cmd/sc_alignbottom.png
 cmd/sc_commonalignhorizontalcenter.png cmd/sc_alignhorizontalcenter.png
@@ -1463,6 +1464,7 @@ cmd/sc_exportasgraphic.png cmd/sc_insertgraphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
+cmd/sc_extrusionlightingfloater.png cmd/sc_graphicfiltersolarize.png
 cmd/sc_fieldmenu.png cmd/sc_addfield.png
 cmd/sc_fieldnames.png cmd/sc_addfield.png
 cmd/sc_fillcolor.png cmd/sc_backgroundcolor.png
@@ -1693,7 +1695,7 @@ cmd/sc_pageup.png cmd/sc_prevrecord.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
 cmd/sc_photoalbumdialog.png cmd/sc_gallery.png
-cmd/sc_pluginsactive.pngcmd/sc_additionsdialog.png
+cmd/sc_pluginsactive.png cmd/sc_additionsdialog.png
 cmd/sc_presentation.png cmd/sc_dia.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
 cmd/sc_previewzoom.png cmd/sc_zoomprevious.png
@@ -1914,7 +1916,7 @@ dbaccess/res/sortdown.png cmd/sc_downsearch.png
 dbaccess/res/sortup.png cmd/sc_upsearch.png
 dbaccess/res/tables_32.png cmd/32/dbviewtables.png
 desktop/res/caution_16.png cmd/sc_warningcellstyles.png
-desktop/res/extension_32.pngcmd/32/additionsdialog.png
+desktop/res/extension_32.png cmd/32/additionsdialog.png
 desktop/res/shared_16.png cmd/sc_sharedocument.png
 desktop/res/info_16.png cmd/sc_helpindex.png
 desktop/res/lock_16.png cmd/sc_protect.png
@@ -1932,7 +1934,7 @@ fpicker/res/fp015.png cmd/sc_starshapes.png
 fpicker/res/fp016.png cmd/sc_sharedocument.png
 framework/res/addtemplate_32.png cmd/32/newdoc.png
 framework/res/arrow.png cmd/sc_nextrecord.png
-framework/res/extension.pngcmd/lc_additionsdialog.png
+framework/res/extension.png cmd/lc_additionsdialog.png
 framework/res/info_26.png cmd/lc_helpindex.png
 reportdesign/res/report_16.png cmd/sc_dbviewreports.png
 reportdesign/res/sc20557.png cmd/sc_cancel.png
@@ -2004,7 +2006,7 @@ res/lx03221.png res/odg_32.png
 res/lx03222.png res/odg_32.png
 res/lx03227.png res/odg_32.png
 res/lx03228.png res/odg_32.png
-res/lx03256.pngcmd/lc_additionsdialog.png
+res/lx03256.png cmd/lc_additionsdialog.png
 res/mainapp_16_8.png res/mainapp_16.png
 res/mainapp_32_8.png res/mainapp_32.png
 res/mainapp_48_8.png res/mainapp_48.png
@@ -2036,7 +2038,7 @@ res/ots_48_8.png res/ots_48.png
 res/ott_16_8.png res/ott_16.png
 res/ott_32_8.png res/ott_32.png
 res/ott_48_8.png res/ott_48.png
-res/plugin.pngcmd/lc_additionsdialog.png
+res/plugin.png cmd/lc_additionsdialog.png
 res/queries_32.png cmd/32/dbviewqueries.png
 res/reload.png cmd/sc_reload.png
 res/reports_32.png cmd/32/dbviewreports.png
@@ -2102,7 +2104,7 @@ res/sx03221.png res/odg_16.png
 res/sx03222.png res/odg_16.png
 res/sx03227.png res/odg_16.png
 res/sx03228.png res/odg_16.png
-res/sx03256.pngcmd/sc_additionsdialog.png
+res/sx03256.png cmd/sc_additionsdialog.png
 res/sx10594.png cmd/sc_pushbutton.png
 res/sx10595.png cmd/sc_radiobutton.png
 res/sx10596.png cmd/sc_checkbox.png
