@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="18"
    viewBox="0 0 140 18"
    width="140"
    version="1.1"
    id="svg70"
    sodipodi:docname="line4.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -22,14 +22,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs74" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,428 +38,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview72"
-     showgrid="false"
-     inkscape:zoom="7.5306872"
-     inkscape:cx="67.180236"
-     inkscape:cy="8.6052331"
+     showgrid="true"
+     inkscape:zoom="15.061374"
+     inkscape:cx="-1.4274926"
+     inkscape:cy="12.648248"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg70" />
-  <g
-     fill="#3a3a38"
-     id="g68"
-     style="fill:#232629;fill-opacity:1"
-     transform="translate(0,-1)">
-    <path
-       d="m 5,8 h 2 v 2 H 5 Z"
-       id="path2"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 9,8 h 2 v 2 H 9 Z"
-       id="path4"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 13,8 h 2 v 2 h -2 z"
-       id="path6"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 17,8 h 2 v 2 h -2 z"
-       id="path8"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 21,8 h 2 v 2 h -2 z"
-       id="path10"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 25,8 h 2 v 2 h -2 z"
-       id="path12"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 29,8 h 2 v 2 h -2 z"
-       id="path14"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 33,8 h 2 v 2 h -2 z"
-       id="path16"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 37,8 h 2 v 2 h -2 z"
-       id="path18"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 41,8 h 2 v 2 h -2 z"
-       id="path20"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 45,8 h 2 v 2 h -2 z"
-       id="path22"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 49,8 h 2 v 2 h -2 z"
-       id="path24"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 53,8 h 2 v 2 h -2 z"
-       id="path26"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 57,8 h 2 v 2 h -2 z"
-       id="path28"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 61,8 h 2 v 2 h -2 z"
-       id="path30"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 65,8 h 2 v 2 h -2 z"
-       id="path32"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 69,8 h 2 v 2 h -2 z"
-       id="path34"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 73,8 h 2 v 2 h -2 z"
-       id="path36"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 77,8 h 2 v 2 h -2 z"
-       id="path38"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 81,8 h 2 v 2 h -2 z"
-       id="path40"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 85,8 h 2 v 2 h -2 z"
-       id="path42"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 89,8 h 2 v 2 h -2 z"
-       id="path44"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 93,8 h 2 v 2 h -2 z"
-       id="path46"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 97,8 h 2 v 2 h -2 z"
-       id="path48"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 101,8 h 2 v 2 h -2 z"
-       id="path50"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 105,8 h 2 v 2 h -2 z"
-       id="path52"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 109,8 h 2 v 2 h -2 z"
-       id="path54"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 113,8 h 2 v 2 h -2 z"
-       id="path56"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 117,8 h 2 v 2 h -2 z"
-       id="path58"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 121,8 h 2 v 2 h -2 z"
-       id="path60"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 125,8 h 2 v 2 h -2 z"
-       id="path62"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 129,8 h 2 v 2 h -2 z"
-       id="path64"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 133,8 h 2 v 2 h -2 z"
-       id="path66"
-       style="fill:#232629;fill-opacity:1" />
-  </g>
-  <g
-     fill="#3a3a38"
-     id="g967"
-     style="fill:#ffffff;fill-opacity:1"
-     transform="translate(0,1)">
-    <path
-       d="m 5,8 h 2 v 2 H 5 Z"
-       id="path901"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 9,8 h 2 v 2 H 9 Z"
-       id="path903"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 13,8 h 2 v 2 h -2 z"
-       id="path905"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 17,8 h 2 v 2 h -2 z"
-       id="path907"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 21,8 h 2 v 2 h -2 z"
-       id="path909"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 25,8 h 2 v 2 h -2 z"
-       id="path911"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 29,8 h 2 v 2 h -2 z"
-       id="path913"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 33,8 h 2 v 2 h -2 z"
-       id="path915"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 37,8 h 2 v 2 h -2 z"
-       id="path917"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 41,8 h 2 v 2 h -2 z"
-       id="path919"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 45,8 h 2 v 2 h -2 z"
-       id="path921"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 49,8 h 2 v 2 h -2 z"
-       id="path923"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 53,8 h 2 v 2 h -2 z"
-       id="path925"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 57,8 h 2 v 2 h -2 z"
-       id="path927"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 61,8 h 2 v 2 h -2 z"
-       id="path929"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 65,8 h 2 v 2 h -2 z"
-       id="path931"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 69,8 h 2 v 2 h -2 z"
-       id="path933"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 73,8 h 2 v 2 h -2 z"
-       id="path935"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 77,8 h 2 v 2 h -2 z"
-       id="path937"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 81,8 h 2 v 2 h -2 z"
-       id="path939"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 85,8 h 2 v 2 h -2 z"
-       id="path941"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 89,8 h 2 v 2 h -2 z"
-       id="path943"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 93,8 h 2 v 2 h -2 z"
-       id="path945"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 97,8 h 2 v 2 h -2 z"
-       id="path947"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 101,8 h 2 v 2 h -2 z"
-       id="path949"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 105,8 h 2 v 2 h -2 z"
-       id="path951"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 109,8 h 2 v 2 h -2 z"
-       id="path953"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 113,8 h 2 v 2 h -2 z"
-       id="path955"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 117,8 h 2 v 2 h -2 z"
-       id="path957"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 121,8 h 2 v 2 h -2 z"
-       id="path959"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 125,8 h 2 v 2 h -2 z"
-       id="path961"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 129,8 h 2 v 2 h -2 z"
-       id="path963"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 133,8 h 2 v 2 h -2 z"
-       id="path965"
-       style="fill:#ffffff;fill-opacity:1" />
-  </g>
-  <g
-     fill="#3a3a38"
-     id="g1035"
-     style="fill:#232629;fill-opacity:1"
-     transform="translate(0,-1)">
-    <path
-       d="m 5,8 h 2 v 2 H 5 Z"
-       id="path969"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 9,8 h 2 v 2 H 9 Z"
-       id="path971"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 13,8 h 2 v 2 h -2 z"
-       id="path973"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 17,8 h 2 v 2 h -2 z"
-       id="path975"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 21,8 h 2 v 2 h -2 z"
-       id="path977"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 25,8 h 2 v 2 h -2 z"
-       id="path979"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 29,8 h 2 v 2 h -2 z"
-       id="path981"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 33,8 h 2 v 2 h -2 z"
-       id="path983"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 37,8 h 2 v 2 h -2 z"
-       id="path985"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 41,8 h 2 v 2 h -2 z"
-       id="path987"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 45,8 h 2 v 2 h -2 z"
-       id="path989"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 49,8 h 2 v 2 h -2 z"
-       id="path991"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 53,8 h 2 v 2 h -2 z"
-       id="path993"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 57,8 h 2 v 2 h -2 z"
-       id="path995"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 61,8 h 2 v 2 h -2 z"
-       id="path997"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 65,8 h 2 v 2 h -2 z"
-       id="path999"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 69,8 h 2 v 2 h -2 z"
-       id="path1001"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 73,8 h 2 v 2 h -2 z"
-       id="path1003"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 77,8 h 2 v 2 h -2 z"
-       id="path1005"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 81,8 h 2 v 2 h -2 z"
-       id="path1007"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 85,8 h 2 v 2 h -2 z"
-       id="path1009"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 89,8 h 2 v 2 h -2 z"
-       id="path1011"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 93,8 h 2 v 2 h -2 z"
-       id="path1013"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 97,8 h 2 v 2 h -2 z"
-       id="path1015"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 101,8 h 2 v 2 h -2 z"
-       id="path1017"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 105,8 h 2 v 2 h -2 z"
-       id="path1019"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 109,8 h 2 v 2 h -2 z"
-       id="path1021"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 113,8 h 2 v 2 h -2 z"
-       id="path1023"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 117,8 h 2 v 2 h -2 z"
-       id="path1025"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 121,8 h 2 v 2 h -2 z"
-       id="path1027"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 125,8 h 2 v 2 h -2 z"
-       id="path1029"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 129,8 h 2 v 2 h -2 z"
-       id="path1031"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 133,8 h 2 v 2 h -2 z"
-       id="path1033"
-       style="fill:#232629;fill-opacity:1" />
-  </g>
+     inkscape:current-layer="svg70"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="path2"
+     style="fill:#0000ff;fill-opacity:1"
+     d="M 5 8 L 5 10 L 7 10 L 7 8 L 5 8 z M 9 8 L 9 10 L 11 10 L 11 8 L 9 8 z M 13 8 L 13 10 L 15 10 L 15 8 L 13 8 z M 17 8 L 17 10 L 19 10 L 19 8 L 17 8 z M 21 8 L 21 10 L 23 10 L 23 8 L 21 8 z M 25 8 L 25 10 L 27 10 L 27 8 L 25 8 z M 29 8 L 29 10 L 31 10 L 31 8 L 29 8 z M 33 8 L 33 10 L 35 10 L 35 8 L 33 8 z M 37 8 L 37 10 L 39 10 L 39 8 L 37 8 z M 41 8 L 41 10 L 43 10 L 43 8 L 41 8 z M 45 8 L 45 10 L 47 10 L 47 8 L 45 8 z M 49 8 L 49 10 L 51 10 L 51 8 L 49 8 z M 53 8 L 53 10 L 55 10 L 55 8 L 53 8 z M 57 8 L 57 10 L 59 10 L 59 8 L 57 8 z M 61 8 L 61 10 L 63 10 L 63 8 L 61 8 z M 65 8 L 65 10 L 67 10 L 67 8 L 65 8 z M 69 8 L 69 10 L 71 10 L 71 8 L 69 8 z M 73 8 L 73 10 L 75 10 L 75 8 L 73 8 z M 77 8 L 77 10 L 79 10 L 79 8 L 77 8 z M 81 8 L 81 10 L 83 10 L 83 8 L 81 8 z M 85 8 L 85 10 L 87 10 L 87 8 L 85 8 z M 89 8 L 89 10 L 91 10 L 91 8 L 89 8 z M 93 8 L 93 10 L 95 10 L 95 8 L 93 8 z M 97 8 L 97 10 L 99 10 L 99 8 L 97 8 z M 101 8 L 101 10 L 103 10 L 103 8 L 101 8 z M 105 8 L 105 10 L 107 10 L 107 8 L 105 8 z M 109 8 L 109 10 L 111 10 L 111 8 L 109 8 z M 113 8 L 113 10 L 115 10 L 115 8 L 113 8 z M 117 8 L 117 10 L 119 10 L 119 8 L 117 8 z M 121 8 L 121 10 L 123 10 L 123 8 L 121 8 z M 125 8 L 125 10 L 127 10 L 127 8 L 125 8 z M 129 8 L 129 10 L 131 10 L 131 8 L 129 8 z M 133 8 L 133 10 L 135 10 L 135 8 L 133 8 z " />
 </svg>

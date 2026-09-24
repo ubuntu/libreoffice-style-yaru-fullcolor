@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="18"
    viewBox="0 0 140 18"
    width="140"
    version="1.1"
    id="svg28"
    sodipodi:docname="line6.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -22,14 +22,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs32" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,122 +38,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview30"
-     showgrid="false"
-     inkscape:zoom="7.5306872"
-     inkscape:cx="77.103051"
-     inkscape:cy="8.148606"
+     showgrid="true"
+     inkscape:zoom="15.061374"
+     inkscape:cx="27.122359"
+     inkscape:cy="10.125238"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
-  <g
-     fill="#3a3a38"
-     id="g26"
-     style="fill:#232629;fill-opacity:1"
-     transform="translate(0,-1)">
-    <path
-       d="m 5,8 h 8 v 2 H 5 Z"
-       id="path2"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 27,8 h 8 v 2 h -8 z"
-       id="path4"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 49,8 h 8 v 2 h -8 z"
-       id="path6"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 38,8 h 8 v 2 h -8 z"
-       id="path8"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 16,8 h 8 v 2 h -8 z"
-       id="path10"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 82,8 h 8 v 2 h -8 z"
-       id="path12"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 60,8 h 8 v 2 h -8 z"
-       id="path14"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 126,8 h 8 v 2 h -8 z"
-       id="path16"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 104,8 h 8 v 2 h -8 z"
-       id="path18"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 71,8 h 8 v 2 h -8 z"
-       id="path20"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 93,8 h 8 v 2 h -8 z"
-       id="path22"
-       style="fill:#232629;fill-opacity:1" />
-    <path
-       d="m 115,8 h 8 v 2 h -8 z"
-       id="path24"
-       style="fill:#232629;fill-opacity:1" />
-  </g>
-  <g
-     fill="#3a3a38"
-     id="g883"
-     style="fill:#ffffff;fill-opacity:1"
-     transform="translate(0,1)">
-    <path
-       d="m 5,8 h 8 v 2 H 5 Z"
-       id="path859"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 27,8 h 8 v 2 h -8 z"
-       id="path861"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 49,8 h 8 v 2 h -8 z"
-       id="path863"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 38,8 h 8 v 2 h -8 z"
-       id="path865"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 16,8 h 8 v 2 h -8 z"
-       id="path867"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 82,8 h 8 v 2 h -8 z"
-       id="path869"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 60,8 h 8 v 2 h -8 z"
-       id="path871"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 126,8 h 8 v 2 h -8 z"
-       id="path873"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 104,8 h 8 v 2 h -8 z"
-       id="path875"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 71,8 h 8 v 2 h -8 z"
-       id="path877"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 93,8 h 8 v 2 h -8 z"
-       id="path879"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m 115,8 h 8 v 2 h -8 z"
-       id="path881"
-       style="fill:#ffffff;fill-opacity:1" />
-  </g>
+     inkscape:current-layer="svg28"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="path2"
+     style="fill:#0000ff;fill-opacity:1"
+     d="M 5 8 L 5 10 L 13 10 L 13 8 L 5 8 z M 16 8 L 16 10 L 24 10 L 24 8 L 16 8 z M 27 8 L 27 10 L 35 10 L 35 8 L 27 8 z M 38 8 L 38 10 L 46 10 L 46 8 L 38 8 z M 49 8 L 49 10 L 57 10 L 57 8 L 49 8 z M 60 8 L 60 10 L 68 10 L 68 8 L 60 8 z M 71 8 L 71 10 L 79 10 L 79 8 L 71 8 z M 82 8 L 82 10 L 90 10 L 90 8 L 82 8 z M 93 8 L 93 10 L 101 10 L 101 8 L 93 8 z M 104 8 L 104 10 L 112 10 L 112 8 L 104 8 z M 115 8 L 115 10 L 123 10 L 123 8 L 115 8 z M 126 8 L 126 10 L 134 10 L 134 8 L 126 8 z " />
 </svg>

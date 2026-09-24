@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="32"
    viewBox="0 0 32 32"
    width="32"
-   version="1.1"
+   version="2.0"
    id="svg4"
    sodipodi:docname="bold.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/km/bold.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -26,57 +26,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient843">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop839" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop841" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient835">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop831" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop833" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient835"
-       id="linearGradient837"
-       x1="12"
-       y1="3"
-       x2="12"
-       y2="29"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient843"
-       id="linearGradient845"
-       x1="7"
-       y1="16.070328"
-       x2="25"
-       y2="16.070328"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs8" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -85,31 +42,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1048"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="11.57062"
-     inkscape:cy="15.228009"
+     inkscape:cx="11.553406"
+     inkscape:cy="15.220773"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid847" />
+       id="grid847"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="fill:url(#linearGradient845);stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     id="path817"
-     stroke-width="1.33333"
-     fill="#232629"
-     d="m14.013006 3.140657c-3.519992 0-5.2786328 1.2339862-5.2786329 3.703116 0 1.481478.4883669 2.223953 1.4661419 2.223953h9.799485v3.406241c0 .493825-.548119.737048-1.643225.739582h-6.356775v-1.924475h-4v4.710926h12.703123c2.346663 0 3.27196-1.175554 3.296877-3.526033v-3.406241h-.734373v-2.223953c-1.075553-.9876521-2.073825-1.8504006-3.442709-2.5911401-1.378664-.7407382-4.353027-1.1119759-5.809912-1.1119759zm0 2.66666c1.818661 0 4.831989.4444429 5.927098 1.33333h-7.763021c0-.8888871.76037-1.33333 1.835923-1.33333zm-6.013006 11.192683v12h3.945303l3.403637-3.111971 4.721382 3.111971h3.929678v-12h-4v8.104176l-4.65106-2.843743-3.34894 2.872389v-8.132822z" />
-  <path
-     d="m14.013006 3.140657c-3.519992 0-5.2786328 1.2339862-5.2786329 3.703116 0 1.481478.4883669 2.223953 1.4661419 2.223953h9.799485v3.406241c0 .493825-.548119.737048-1.643225.739582h-6.356775v-1.924475h-4v4.710926h12.703123c2.346663 0 3.27196-1.175554 3.296877-3.526033v-3.406241h-.734373v-2.223953c-1.075553-.9876521-2.073825-1.8504006-3.442709-2.5911401-1.378664-.7407382-4.353027-1.1119759-5.809912-1.1119759zm0 2.66666c1.818661 0 4.831989.4444429 5.927098 1.33333h-7.763021c0-.8888871.76037-1.33333 1.835923-1.33333zm-6.013006 11.192683v12h3.945303l3.403637-3.111971 4.721382 3.111971h3.929678v-12h-4v8.104176l-4.65106-2.843743-3.34894 2.872389v-8.132822z"
-     fill="#232629"
-     stroke-width="1.33333"
-     id="path2"
-     style="fill:url(#linearGradient837);fill-opacity:1" />
+     d="m 9.0696585,15.757303 v -4.206741 h 3.9370795 v 1.671909 h 3.964045 q 1.483146,0 1.483146,-0.647191 V 9.824719 h 3.937078 v 2.750561 q 0,1.591011 -0.728089,2.4 -0.701124,0.782023 -2.534833,0.782023 z m 0,12.242697 V 17.15955 h 3.9370795 v 7.280899 l 2.750561,-2.18427 2.696629,2.157304 V 17.15955 h 3.937078 V 28 H 18.80449 L 15.757299,25.653932 12.683142,28 Z M 13.033712,9.555056 q -1.995505,0 -1.995505,-1.9685393 0,-1.6449439 1.267416,-2.6157304 1.267415,-0.9707865 3.235955,-0.9707865 2.049437,0 3.910111,1.0516854 1.833709,1.0247191 3.478652,2.5348315 V 9.555056 Z m 0.782023,-1.9685393 h 5.258427 Q 18.265173,6.9932583 17.348319,6.6696627 16.404498,6.3460672 15.59551,6.3460672 q -1.779775,0 -1.779775,1.2404495 z"
+     id="text1"
+     style="font-weight:700;font-size:27.3038px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold @wght=700';font-variant-ligatures:none;fill:#0000ff;stroke-width:2.16629;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="ដិ" />
 </svg>

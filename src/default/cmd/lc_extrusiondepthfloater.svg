@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_extrusiondepthfloater.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,42 +40,54 @@
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      id="namedview8"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="-6.4358702"
-     inkscape:cy="-3.8830949"
-     inkscape:window-x="1920"
+     inkscape:cx="18.552565"
+     inkscape:cy="9.4560553"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid5"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="rect824"
+     style="opacity:1;fill:#ffff00;stroke-width:2;stroke-linejoin:round"
+     d="m 5,11 h 3 v -1 h 4.414062 L 12,11 h 2 v 8 H 5 Z"
+     sodipodi:nodetypes="ccccccccc" />
   <path
      d="m11 4-6 6h10v9l6-6v-9z"
      fill="#b3b3b3"
-     id="path2" />
+     id="path2"
+     style="fill:#ffff00" />
   <path
-     d="m 10.28125,4 c 0,0 -0.276707,0.28365 -0.28125,0.28125 L 4.28125,10 4,10.292969 V 20 H 14.6875 L 15,19.6875 20.6875,14 21,13.6875 V 12.28125 4.6875 4 H 20.28125 11.6875 Z M 10.6875,5 H 11 19.28125 l -5,5 H 5.6875 Z M 20,5.6875 V 13 13.28125 l -5,5 V 10.6875 Z M 5,11 h 9 v 8 H 5 Z"
+     id="path1"
+     style="fill:#0000ff;opacity:0.5"
+     d="M 11 4 L 5 10 L 8 10 A 1.0001 1.0001 0 0 1 8.2929688 9.2929688 L 8.7734375 8.8125 A 1.0001 1.0001 0 0 1 8.6289062 7.0722656 L 13.628906 5.0722656 A 1.0001 1.0001 0 0 1 14.025391 5.0019531 A 1.0001 1.0001 0 0 1 14.894531 5.5527344 L 15.894531 7.5527344 A 1.0001 1.0001 0 0 1 15 9 L 13.414062 9 L 12.414062 10 L 15 10 L 15 19 L 21 13 L 21 4 L 11 4 z " />
+  <path
      id="path4"
-     style="fill:#1463a5;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+     style="fill:#0000ff;fill-opacity:1;opacity:0.8"
+     d="M 10.28125 4 C 10.28125 4 10.004543 4.28365 10 4.28125 L 4.28125 10 L 4 10.292969 L 4 20 L 14.6875 20 L 15 19.6875 L 20.6875 14 L 21 13.6875 L 21 12.28125 L 21 4.6875 L 21 4 L 20.28125 4 L 11.6875 4 L 10.28125 4 z M 10.6875 5 L 11 5 L 19.28125 5 L 15.939453 8.3417969 A 1.0001 1.0001 0 0 1 15.341797 8.9394531 L 14.28125 10 L 12.414062 10 L 11.707031 10.707031 A 1.0001 1.0001 0 0 1 11 11 L 14 11 L 14 19 L 5 19 L 5 11 L 9 11 A 1.0001 1.0001 0 0 1 8 10 L 5.6875 10 L 8.3925781 7.2949219 A 1.0001 1.0001 0 0 1 8.5800781 7.1074219 L 10.6875 5 z M 20 5.6875 L 20 13 L 20 13.28125 L 15 18.28125 L 15 10.6875 L 20 5.6875 z " />
   <path
-     sodipodi:nodetypes="cccccccc"
-     inkscape:connector-curvature="0"
-     d="m 11,10 2,-2 h 2 L 14,6 9,8 h 2 l -2,2 z"
-     id="path826"
-     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
-  <path
-     style="fill:#00ffff;fill-opacity:1"
+     style="fill:#0ff;fill-opacity:1"
      id="path822"
      d="m 11,10 2,-2 h 2 L 14,6 9,8 h 2 l -2,2 z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccc" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect824"
-     width="9"
-     height="8"
-     x="5"
-     y="11" />
 </svg>

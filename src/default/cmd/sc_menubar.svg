@@ -4,7 +4,7 @@
    version="1.1"
    id="svg48"
    sodipodi:docname="sc_menubar.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_menubar.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -40,7 +40,7 @@
    showgrid="true"
    inkscape:zoom="20.85965"
    inkscape:cx="0.52733387"
-   inkscape:cy="5.2733387"
+   inkscape:cy="5.249369"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -51,7 +51,12 @@
    inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid862" />
+     id="grid862"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 <defs
    id="defs20">
@@ -114,34 +119,42 @@
 
 
 
+
 /&gt;<path
-   id="rect847"
-   style="fill:#000000;fill-rule:evenodd;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;fill-opacity:1;opacity:0.6"
-   d="M 3,1 C 1.892,1 0.98868879,1.8920577 1,3 V 15 H 15 V 3 C 15,1.892 14.108,1 13,1 Z"
+   id="path12"
+   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffff00;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   d="M 3,2 C 2.437351,2 2,2.437351 2,3 v 9 c 0,0.562649 0.437351,1 1,1 h 10 c 0.562649,0 1,-0.437351 1,-1 V 3 C 14,2.437351 13.562649,2 13,2 Z"
+   sodipodi:nodetypes="sssssssss" />
+<path
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   d="M 3,1 C 1.900649,1 1,1.900649 1,3 v 9 c 0,1.099351 0.900649,2 2,2 h 10 c 1.099351,0 2,-0.900649 2,-2 V 3 C 15,1.900649 14.099351,1 13,1 Z m 0,1 h 10 c 0.562649,0 1,0.437351 1,1 v 9 c 0,0.562649 -0.437351,1 -1,1 H 3 C 2.437351,13 2,12.562649 2,12 V 3 C 2,2.437351 2.437351,2 3,2 Z"
+   id="path13"
+   sodipodi:nodetypes="ssssssssssssssssss" />
+<path
+   id="path14"
+   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   d="M 3,1 C 1.900649,1 1,1.900649 1,3 V 4 H 15 V 3 C 15,1.900649 14.099351,1 13,1 Z"
    sodipodi:nodetypes="ssccsss" />
 <path
-   id="rect864"
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="m 2,6 h 12 v 8 H 2 Z" />
+   id="rect20"
+   style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+   d="m 12,2 h 1 v 1 h -1 z"
+   sodipodi:nodetypes="ccccc" />
 <path
-   id="rect866"
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="M 3,2 C 2.446,2 2,2.446 2,3 V 5 H 14 V 3 C 14,2.446 13.554,2 13,2 Z"
-   sodipodi:nodetypes="ssccsss" />
+   id="rect21"
+   style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+   d="m 10,2 h 1 v 1 h -1 z"
+   sodipodi:nodetypes="ccccc" />
 <path
-   id="rect876"
-   style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="M 2,6 H 14 V 9 H 2 Z" />
-<path
-   id="rect878"
-   style="fill:#232629;fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="m 12,3 h 1 v 1 h -1 z" />
-<path
-   id="rect880"
-   style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="m 10,3 h 1 v 1 h -1 z" />
-<path
-   id="rect882"
-   style="fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
-   d="M 8,3 H 9 V 4 H 8 Z" />
+   id="rect22"
+   style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+   d="M 8,2 H 9 V 3 H 8 Z"
+   sodipodi:nodetypes="ccccc" />
+<rect
+   style="fill:#00ffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   id="rect1"
+   width="12"
+   height="3"
+   x="2"
+   y="4" />
 </svg>

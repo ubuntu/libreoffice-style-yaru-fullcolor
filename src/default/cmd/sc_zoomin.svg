@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_zoomin.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,9 +40,9 @@
    inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="11.327307"
-   inkscape:cx="-12.933348"
-   inkscape:cy="17.568165"
+   inkscape:zoom="22.654614"
+   inkscape:cx="-3.0015961"
+   inkscape:cy="13.220265"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -53,33 +53,39 @@
    inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid829" />
+     id="grid829"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
 
 
 
 
 
+
 /&gt;<circle
-   style="opacity:0.7;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   style="opacity:0.8;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
    id="path289"
    cx="7.5"
    cy="7.5"
    r="5.5" />
 <circle
-   style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
    id="circle395"
    cx="7.5"
    cy="7.5"
    r="5.5" />
 <path
-   style="opacity:1;fill:#46a926;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="opacity:0.8;fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
+   d="M 15,15 12.8,12.8"
+   id="path460"
+   sodipodi:nodetypes="cc" />
+<path
+   style="opacity:1;fill:#0f0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="M 5,7.9999999 H 7 L 7.0000001,10 H 8 V 7.9999999 h 2 V 7 l -2,-1e-7 v -2 H 7.0000001 l -1e-7,2 L 5,7 Z"
    id="rect829"
    inkscape:connector-curvature="0" />
-<path
-   style="fill:none;stroke:#6d6d6d;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter"
-   d="m 15,15 -2.2,-2.2"
-   id="path460"
-   sodipodi:nodetypes="cc" />
 </svg>

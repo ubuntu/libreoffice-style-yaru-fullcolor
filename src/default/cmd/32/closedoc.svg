@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/closedoc.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,8 +42,8 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="10.259041"
-     inkscape:cy="15.244743"
+     inkscape:cx="10.30698"
+     inkscape:cy="15.268713"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,14 +54,23 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.999997"
+     style="fill:#ffff00;fill-opacity:1;stroke-width:0.999997"
      d="M 16,3.0000005 A 13,13 0 0 0 3.0000005,16 13,13 0 0 0 16,29 13,13 0 0 0 29,16 13,13 0 0 0 16,3.0000005 Z"
      id="path837" />
   <path
-     style="fill:#ffffff;fill-opacity:1"
+     style="fill:#0000ff;fill-opacity:1;stroke-width:0.999997;opacity:0.15"
+     d="M 16,3.0000005 A 13,13 0 0 0 3.0000005,16 13,13 0 0 0 16,29 13,13 0 0 0 29,16 13,13 0 0 0 16,3.0000005 Z"
+     id="path1" />
+  <path
+     style="fill:#0000ff;fill-opacity:1"
      d="M 10.707031,10 16,15.292969 21.292969,10 c 0,0 0.725614,0.715646 0.707031,0.707031 L 16.707031,16 22,21.292969 c 0,0 -0.700659,0.705605 -0.707031,0.707031 L 16,16.707031 10.707031,22 C 10.708121,21.995194 10,21.292969 10,21.292969 L 15.292969,16 10,10.707031 C 10.020112,10.708121 10.707031,10 10.707031,10 Z"
      id="path835" />
 </svg>

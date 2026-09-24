@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/bold.png"
    sodipodi:docname="bold.svg"
    id="svg844"
-   version="1.1"
-   viewBox="0 0 32 32">
+   version="2.0"
+   viewBox="0 0 32 32"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata850">
     <rdf:RDF>
@@ -24,45 +24,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs848">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient836">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop832" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop834" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient836"
-       id="linearGradient838"
-       x1="15"
-       y1="4"
-       x2="15"
-       y2="28"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs848" />
   <sodipodi:namedview
      inkscape:current-layer="svg844"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="1920"
-     inkscape:cy="13.914686"
-     inkscape:cx="7.1720798"
+     inkscape:cy="13.890357"
+     inkscape:cx="7.1936876"
      inkscape:zoom="19.11398"
      showgrid="true"
      id="namedview846"
-     inkscape:window-height="1043"
+     inkscape:window-height="1048"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -71,22 +49,23 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#808080"
-     inkscape:document-rotation="0">
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="grid2033"
-       type="xygrid" />
+       type="xygrid"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="32.000000"
+       spacingx="32.000000"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path2047"
-     d="m 7,4 v 6 4.5 7.5 6 h 6 3 1 1 c 4.418278,0 8,-3.357864 8,-7.5 C 25.9969,17.457989 24.034114,14.719042 21.03125,13.566406 22.282951,12.52558 22.997771,11.049136 23,9.5 23,6.4624339 20.313708,4 17,4 h -4 z m 4,4 h 5 c 0.352917,0 0.68601,0.05793 1,0.1503906 v -0.00391 c 1.197184,0.352728 1.998218,1.295346 2,2.3535156 -9.55e-4,1.058769 -0.802141,2.002547 -2,2.355469 v -0.0059 C 16.68601,12.942051 16.352917,13 16,13 h -5 z m 0,9 h 5.5 c 2.485281,0 4.5,1.567004 4.5,3.5 -0.0027,1.780921 -1.72442,3.302121 -4,3.5 H 15.5 15 11 Z"
-     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccscccscccscccccscccscccccc" />
-  <path
-     style="fill:url(#linearGradient838);fill-opacity:1"
-     d="m 7,4 v 6 4.5 7.5 6 h 6 3 1 1 c 4.418278,0 8,-3.357864 8,-7.5 C 25.9969,17.457989 24.034114,14.719042 21.03125,13.566406 22.282951,12.52558 22.997771,11.049136 23,9.5 23,6.4624339 20.313708,4 17,4 h -4 z m 4,4 h 5 c 0.352917,0 0.68601,0.05793 1,0.1503906 v -0.00391 c 1.197184,0.352728 1.998218,1.295346 2,2.3535156 -9.55e-4,1.058769 -0.802141,2.002547 -2,2.355469 v -0.0059 C 16.68601,12.942051 16.352917,13 16,13 h -5 z m 0,9 h 5.5 c 2.485281,0 4.5,1.567004 4.5,3.5 -0.0027,1.780921 -1.72442,3.302121 -4,3.5 H 15.5 15 11 Z"
-     id="path842"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccscccscccscccccscccscccccc" />
+     d="m 14.307476,28.000015 q -1.184768,0 -2.403386,-0.0677 Q 10.685473,27.898463 9.4330041,27.729211 8.2143862,27.593809 6.9619178,27.323005 V 4.6431712 Q 8.0112832,4.4062177 9.1960506,4.2708157 10.380818,4.1354138 11.565586,4.0677128 q 1.218617,-0.067701 2.267983,-0.067701 2.877292,0 5.145276,0.6093089 2.267983,0.609309 3.588152,2.0310299 1.32017,1.3878704 1.32017,3.8589564 0,1.489422 -0.744711,2.67419 -0.744711,1.150917 -2.166432,1.895628 2.200282,0.778561 3.114246,2.200282 0.947814,1.421721 0.947814,3.452751 0,3.622003 -2.70804,5.44993 -2.674189,1.827927 -8.022568,1.827927 z m 0.101551,-3.791256 q 1.726376,0 3.046545,-0.304654 1.32017,-0.338505 2.098731,-1.083216 0.778562,-0.778562 0.778562,-2.166432 0,-1.895628 -1.35402,-2.640339 -1.35402,-0.744711 -3.825107,-0.744711 h -3.655853 v 6.7701 q 0.541607,0.0677 1.286318,0.135402 0.778562,0.03385 1.624824,0.03385 z M 11.497885,13.715105 h 2.978843 q 1.658675,0 2.741891,-0.270804 1.083216,-0.304655 1.590973,-0.981665 0.541608,-0.67701 0.541608,-1.760226 0,-1.6248235 -1.286319,-2.267983 -1.252468,-0.6770099 -3.588153,-0.6770099 -0.778561,0 -1.590973,0.033851 -0.812412,0.03385 -1.38787,0.1015515 z"
+     id="text1"
+     style="font-weight:700;font-size:33.8505px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold @wght=700';fill:#0000ff;stroke-width:4.02821;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="B" />
 </svg>

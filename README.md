@@ -42,6 +42,12 @@ cd libreoffice-style-yaru-fullcolor
 ./install.sh
 ```
 
+During development, select only the variants you need to avoid zipping and copying every theme. Repeat `--variant` to select multiple variants. Names combine an accent and an optional brightness, such as `default`, `dark`, `blue`, or `blue_dark`:
+
+```bash
+./install.sh --variant default --variant dark
+```
+
 ⚠ Installing from script and extension will duplicate the icon pack into the options, so you should remove one before using the other way.
 
 ---

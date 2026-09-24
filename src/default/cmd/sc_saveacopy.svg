@@ -4,7 +4,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="sc_saveacopy.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,49 +19,49 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="10.429825"
-   inkscape:cx="-28.811605"
-   inkscape:cy="10.882254"
+   showgrid="true"
+   inkscape:zoom="29.5"
+   inkscape:cx="7.3220339"
+   inkscape:cy="11.915254"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg12" />
+   inkscape:current-layer="svg12">
+  <inkscape:grid
+     id="grid1"
+     units="px"
+     originx="0"
+     originy="0"
+     spacingx="1"
+     spacingy="1"
+     empcolor="#0099e5"
+     empopacity="0.30196078"
+     color="#0099e5"
+     opacity="0.14901961"
+     empspacing="5"
+     enabled="true"
+     visible="true" />
+</sodipodi:namedview>
+
 /&amp;amp;amp;amp;amp;gt;<path
-   sodipodi:nodetypes="ccccccccc"
-   style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-   id="path815"
-   d="m 1,11.004759 v -8.0000003 c 0,-2 1,-2 3,-2 h 4 l 3,3 v 7.0000003 c 0,2 -1,2 -3,2 h -4 c -2,0 -3,0 -3,-2 z"
-   inkscape:connector-curvature="0" />
+   id="path1"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   d="M 4 0.00390625 C 3 0.00390625 2.1605053 -0.06951044 1.3027344 0.359375 C 0.87384889 0.57381772 0.48217739 0.9717416 0.2734375 1.4414062 C 0.06469761 1.911071 0 2.4205728 0 3.0039062 L 0 11.003906 C 0 11.58724 0.06469761 12.096741 0.2734375 12.566406 C 0.48217739 13.036071 0.8738489 13.433994 1.3027344 13.648438 C 2.1605053 14.077322 3 14.003906 4 14.003906 L 7.9121094 14.003906 A 1.0001 1.0001 0 0 1 8 14 L 9.1914062 14 C 9.5198451 13.985281 9.8360463 13.947727 10.150391 13.859375 C 9.3254105 12.541027 8.4168754 11.107761 8.0957031 10.425781 A 1.0001 1.0001 0 0 1 9 9 L 10 9 L 10 6 A 1.0001 1.0001 0 0 1 11 5 L 12 5 L 12 4.0039062 A 1.0001 1.0001 0 0 0 11.707031 3.296875 L 8.7070312 0.296875 A 1.0001 1.0001 0 0 0 8 0.00390625 L 4 0.00390625 z " />
 <path
    inkscape:connector-curvature="0"
    d="m 1,11.004759 v -8.0000003 c 0,-2 1,-2 3,-2 h 4 l 3,3 v 7.0000003 c 0,2 -1,2 -3,2 h -4 c -2,0 -3,0 -3,-2 z"
    id="path2"
-   style="fill:#ffffff"
+   style="fill:#ffff00"
    sodipodi:nodetypes="ccccccccc" />
 <path
    inkscape:connector-curvature="0"
    d="m 8,4.0047587 v -3 l 3,3 z"
    id="path4"
-   style="fill:#6d6d6d;fill-opacity:1" />
+   style="fill:#0000ff;fill-opacity:1;opacity:0.5" />
 <path
-   id="path831"
-   d="m 10,6 h 2 v 4.000001 h 2 l -3,4.999999 -3,-4.999999 h 2 z"
-   style="color:#000000;overflow:visible;opacity:0.7;fill:#020400;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cccccccc" />
-<path
-   style="color:#000000;overflow:visible;fill:#a6d74f;fill-opacity:1;stroke-width:0.833333;marker:none"
-   d="m 10,6 h 2 v 4.000001 h 2 c -0.391667,0.831666 -1.833334,3.244167 -3,4.999999 -1.166667,-1.755832 -2.608334,-4.168333 -3,-4.999999 h 2 z"
    id="path827"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cccccccc" />
-<path
-   style="color:#000000;overflow:visible;fill:#6d6d6d;fill-opacity:1;stroke-width:0.833333;marker:none"
-   d="m 5.9999996,15 v 1 h 10.0000004 v -1 z"
-   id="path2-4"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="ccccc" />
+   style="color:#000000;overflow:visible;fill:#00ffff;fill-opacity:1;stroke-width:0.833333;marker:none"
+   d="M 11 6 L 11 10 L 9 10 C 9.391666 10.831666 10.833333 13.244168 12 15 C 13.166666 13.244168 14.608333 10.831666 15 10 L 13 10 L 13 6 L 11 6 z M 12 15 L 8 15 L 8 16 L 16 16 L 16 15 L 12 15 z " />
 </svg>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_tabledialog.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_tabledialog.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,28 +38,36 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="13.906434"
-     inkscape:cx="-2.421153"
-     inkscape:cy="17.893708"
+     inkscape:zoom="39.333335"
+     inkscape:cx="9.6483047"
+     inkscape:cy="9.4194911"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
      id="rect827"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 4 4 L 4 20 L 14.177734 20 C 14.262184 19.823167 14.367654 19.653378 14.507812 19.503906 C 14.105595 19.075586 13.87907 18.514162 14.121094 17.927734 L 14.582031 16.814453 A 1.0001 1.0001 0 0 0 14.582031 16.8125 C 14.824683 16.226675 15.381342 15.990103 15.96875 15.970703 C 15.986864 15.385683 16.221882 14.834494 16.8125 14.589844 L 17.929688 14.126953 C 18.520262 13.882334 19.07597 14.107102 19.501953 14.507812 C 19.637506 14.380626 19.719953 14.187148 19.888672 14.117188 C 19.92449 14.102335 19.963137 14.096098 20 14.083984 L 20 4 L 4 4 z M 19.439453 19.353516 C 19.376513 19.379588 19.326013 19.502773 19.351562 19.564453 C 19.376646 19.625013 19.503763 19.677484 19.564453 19.652344 C 19.627393 19.626272 19.677894 19.503086 19.652344 19.441406 C 19.62726 19.380846 19.500143 19.328376 19.439453 19.353516 z " />
+     style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 6 4 C 5 4 4 4 4 5 L 4 7 L 8 7 L 9 7 L 9 5 L 9 4 L 6 4 z M 10 4 L 10 5 L 10 7 L 14 7 L 14 5 L 14 4 L 10 4 z M 15 4 L 15 5 L 15 7 L 16 7 L 20 7 L 20 5 C 20 4 19 4 18 4 L 15 4 z M 4 8 L 4 10 L 9 10 L 9 8 L 8 8 L 4 8 z M 10 8 L 10 10 L 14 10 L 14 8 L 10 8 z M 15 8 L 15 10 L 20 10 L 20 8 L 15 8 z M 4 11 L 4 13 L 9 13 L 9 11 L 4 11 z M 10 11 L 10 13 L 14 13 L 14 11 L 10 11 z M 15 11 L 15 13 L 20 13 L 20 11 L 15 11 z M 4 14 L 4 16 L 8 16 L 9 16 L 9 14 L 4 14 z M 10 14 L 10 16 L 14 16 L 14 14 L 10 14 z M 15 14 L 15 16 L 15.673828 16 C 15.770379 15.983546 15.869041 15.973996 15.96875 15.970703 C 15.986864 15.385683 16.221882 14.834494 16.8125 14.589844 L 17.929688 14.126953 C 18.520262 13.882334 19.07597 14.107103 19.501953 14.507812 C 19.637506 14.380626 19.719953 14.187147 19.888672 14.117188 C 19.92449 14.102334 19.963137 14.096098 20 14.083984 L 20 14 L 15 14 z M 4 17 L 4 19 C 4 20 5 20 6 20 L 9 20 L 9 19.099609 L 9 17 L 8 17 L 4 17 z M 10 17 L 10 20 L 14 20 L 14 17 L 10 17 z M 19.464844 19.347656 C 19.455511 19.348509 19.447039 19.350373 19.439453 19.353516 C 19.376513 19.379588 19.326013 19.502773 19.351562 19.564453 C 19.376646 19.625013 19.503763 19.677484 19.564453 19.652344 C 19.627393 19.626272 19.677894 19.503086 19.652344 19.441406 C 19.630395 19.388416 19.530175 19.341685 19.464844 19.347656 z M 14.371094 19.673828 C 14.291727 19.777994 14.219297 19.884848 14.166016 20 L 14.177734 20 C 14.231776 19.886841 14.296255 19.77774 14.371094 19.673828 z " />
   <path
      id="path2"
-     style="opacity:1;fill:#6d6d6d;fill-opacity:1"
+     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
      d="M 6 3 C 4 3 3 3 3 5 L 3 19 C 3 21 4 21 6 21 L 14.109375 21 C 13.914086 20.439989 14.124628 19.912554 14.507812 19.503906 C 14.105595 19.075586 13.87907 18.514162 14.121094 17.927734 L 14.582031 16.814453 A 1.0001 1.0001 0 0 0 14.582031 16.8125 C 14.79325 16.302564 15.245852 16.067793 15.746094 16 L 15 16 L 15 14 L 20 14 L 20 14.083984 C 20.314707 13.980565 20.661742 13.977301 21 14.097656 L 21 5 C 21 3 20 3 18 3 L 6 3 z M 6 4 L 9 4 L 9 5 L 9 7 L 8 7 L 4 7 L 4 5 C 4 4 5 4 6 4 z M 10 4 L 14 4 L 14 5 L 14 7 L 10 7 L 10 5 L 10 4 z M 15 4 L 18 4 C 19 4 20 4 20 5 L 20 7 L 16 7 L 15 7 L 15 5 L 15 4 z M 4 8 L 8 8 L 9 8 L 9 10 L 4 10 L 4 8 z M 10 8 L 14 8 L 14 10 L 10 10 L 10 8 z M 15 8 L 20 8 L 20 10 L 15 10 L 15 8 z M 4 11 L 9 11 L 9 13 L 4 13 L 4 11 z M 10 11 L 14 11 L 14 13 L 10 13 L 10 11 z M 15 11 L 20 11 L 20 13 L 15 13 L 15 11 z M 4 14 L 9 14 L 9 16 L 8 16 L 4 16 L 4 14 z M 10 14 L 14 14 L 14 16 L 10 16 L 10 14 z M 4 17 L 8 17 L 9 17 L 9 19.099609 L 9 20 L 6 20 C 5 20 4 20 4 19 L 4 17 z M 10 17 L 14 17 L 14 20 L 10 20 L 10 17 z " />
   <g
      id="g915">

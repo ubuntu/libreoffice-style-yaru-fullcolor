@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
@@ -14,7 +7,14 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_dbqueryrename.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -38,32 +38,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.44067797"
-     inkscape:cy="8"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.8135593"
+     inkscape:cy="10.661017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <path
-     style="fill:#f2cbf8;fill-opacity:1;stroke-width:0.91666681"
      id="path817"
-     d="m 8,2.5000002 c -3.0375661,0 -5.5,0.8208113 -5.5,1.8333333 V 11.666666 C 2.5,12.679188 4.9624339,13.5 8,13.5 c 3.037565,0 5.5,-0.820812 5.5,-1.833334 V 4.3333335 C 13.5,3.3208115 11.037565,2.5000002 8,2.5000002 Z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssss" />
+     style="fill:#ffff00;fill-opacity:1;stroke-width:0.91666681"
+     d="M 8 3 A 5 1 0 0 0 3 4 A 5 1 0 0 0 8 5 A 5 1 0 0 1 8.0019531 5 L 8.0019531 5.0019531 L 8.0019531 6 A 6 2 0 0 0 8 6 A 6 2 0 0 1 3 5.1015625 L 3 8 A 5 1 0 0 0 8 9 A 5 1 0 0 0 10 8.9160156 L 10.001953 9.8847656 A 6 2 0 0 1 8 10 A 6 2 0 0 1 3 9.1015625 L 3 12 A 5 1 0 0 0 8 13 A 5 1 0 0 0 8.0097656 13 L 8.0097656 13.5 C 11.042841 13.498243 13.5 12.677452 13.5 11.666016 L 13.5 4.3339844 C 13.5 3.9795924 13.198185 3.6476331 12.675781 3.3671875 C 12.613632 3.3969927 12.552029 3.4274342 12.490234 3.4570312 C 12.045061 3.234777 11.600003 2.9706296 10.949219 3.0019531 L 9 3.0019531 A 0.99964528 1.0005549 0 0 0 8.84375 3.0136719 A 5 1 0 0 0 8 3 z " />
   <path
-     inkscape:connector-curvature="0"
-     d="m 8,2.0000002 a 6,2 0 0 0 -6,2 V 12 a 6,2 0 0 0 6,2 6,2 0 0 0 6,-2 V 4.0000002 a 6,2 0 0 0 -6,-2 z m 0,1 a 5,1 0 0 1 5,1 5,1 0 0 1 -5,1 5,1 0 0 1 -5,-1 5,1 0 0 1 5,-1 z M 3,5.1015627 a 6,2 0 0 0 5,0.8984375 6,2 0 0 0 5,-0.8964844 v 2.8964844 a 5,1 0 0 1 -5,1 5,1 0 0 1 -5,-1 z m 0,4 A 6,2 0 0 0 8,10 6,2 0 0 0 13,9.1035158 V 12 A 5,1 0 0 1 8,13 5,1 0 0 1 3,12 Z"
      id="path2"
-     style="fill:#8e03a3;fill-opacity:1" />
+     style="fill:#0000ff;fill-opacity:1;opacity:0.8"
+     d="M 8 2 A 6 2 0 0 0 2 4 L 2 12 A 6 2 0 0 0 8 14 A 6 2 0 0 0 8.0097656 14 L 8.0097656 13 A 5 1 0 0 1 8 13 A 5 1 0 0 1 3 12 L 3 9.1015625 A 6 2 0 0 0 8 10 A 6 2 0 0 0 10.001953 9.8847656 L 10 8.9160156 A 5 1 0 0 1 8 9 A 5 1 0 0 1 3 8 L 3 5.1015625 A 6 2 0 0 0 8 6 A 6 2 0 0 0 8.0019531 6 L 8.0019531 5.0019531 L 8.0019531 5 A 5 1 0 0 1 8 5 A 5 1 0 0 1 3 4 A 5 1 0 0 1 8 3 A 5 1 0 0 1 8.84375 3.0136719 A 0.99964528 1.0005549 0 0 1 9 3.0019531 L 10.949219 3.0019531 C 11.600003 2.9706296 12.045061 3.234777 12.490234 3.4570312 C 12.76474 3.3255547 13.03844 3.1853525 13.349609 3.0957031 A 6 2 0 0 0 8 2 z " />
   <g
      id="g12435"
      style="display:inline"
-     transform="translate(-118,171.99998)">
+     transform="matrix(0.99888553,0,0,0.99979445,-117.85066,171.96791)">
     <path
        sodipodi:nodetypes="cccccccccscsccccccccscsc"
        inkscape:connector-curvature="0"

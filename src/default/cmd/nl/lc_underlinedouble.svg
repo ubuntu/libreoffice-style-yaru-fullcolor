@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
-   version="1.1"
+   version="2.0"
    id="svg4"
    sodipodi:docname="lc_underlinedouble.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/nl/lc_underlinedouble.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -24,36 +24,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient840">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop836" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop838" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient840"
-       id="linearGradient842"
-       x1="12"
-       y1="2"
-       x2="12"
-       y2="23"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs8" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -62,32 +40,42 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1048"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="10.813175"
-     inkscape:cy="11.181098"
+     inkscape:cx="10.830508"
+     inkscape:cy="11.161017"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid829" />
+       id="grid829"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path848"
-     style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     d="M 12,1 C 8.676,1 6,3.676 6,7 v 5 c 0,3.324 2.676,6 6,6 3.324,0 6,-2.676 6,-6 V 7 C 18,3.676 15.324,1 12,1 Z m 0,3 c 1.662,0 3,1.7319891 3,3.882813 v 3.234375 C 15,13.268012 13.662,15 12,15 10.338,15 9,13.268011 9,11.117188 V 7.882813 C 9,5.7319891 10.338,4 12,4 Z" />
-  <path
-     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 5,20 v 1 h 14 v -1 z m 0,2 v 1 h 14 v -1 z"
-     id="path825"
-     sodipodi:nodetypes="cccccccccc" />
-  <path
      id="rect828"
-     style="opacity:1;fill:url(#linearGradient842);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 12 1 C 8.676 1 6 3.676 6 7 L 6 12 C 6 15.324 8.676 18 12 18 C 15.324 18 18 15.324 18 12 L 18 7 C 18 3.676 15.324 1 12 1 z M 12 4 C 13.662 4 15 5.7319886 15 7.8828125 L 15 11.117188 C 15 13.268012 13.662 15 12 15 C 10.338 15 9 13.26801 9 11.117188 L 9 7.8828125 C 9 5.7319886 10.338 4 12 4 z M 5 20 L 5 21 L 19 21 L 19 20 L 5 20 z M 5 22 L 5 23 L 19 23 L 19 22 L 5 22 z " />
+     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5,23 v 1 h 14 v -1 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 11.999989,20.000003 q -1.94744,0 -3.6071898,-0.90733 -1.6376199,-0.90733 -2.6334699,-2.67773 -0.99585,-1.79253 -0.99585,-4.426 0,-1.96957 0.57538,-3.4522796 0.57538,-1.5048399 1.57123,-2.5006899 1.0179799,-1.0179799 2.3236499,-1.5269699 1.3056698,-0.50899 2.7662498,-0.50899 1.96957,0 3.60719,0.90733 1.63762,0.8851999 2.63347,2.6777299 0.99585,1.7703999 0.99585,4.4038695 0,2.63347 -0.99585,4.426 -0.99585,1.7704 -2.63347,2.67773 -1.63762,0.90733 -3.60719,0.90733 z m 0,-1.5491 q 1.65975,0 2.8769,-0.77455 1.21715,-0.79668 1.88105,-2.23513 0.6639,-1.46058 0.6639,-3.45228 0,-1.9916996 -0.6639,-3.4301496 -0.6639,-1.4605799 -1.88105,-2.2351299 -1.21715,-0.77455 -2.8769,-0.77455 -1.65975,0 -2.8768998,0.77455 -1.21715,0.77455 -1.8810499,2.2351299 -0.6639,1.43845 -0.6639,3.4301496 0,1.9917 0.6639,3.45228 0.6638999,1.43845 1.8810499,2.23513 1.2171498,0.77455 2.8768998,0.77455 z"
+     id="text1"
+     style="font-size:22.13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#0000ff;stroke-width:1.72565;stroke-linecap:round"
+     aria-label="O" />
+  <path
+     id="path1"
+     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5,21 v 1 h 14 v -1 z"
+     sodipodi:nodetypes="ccccc" />
 </svg>

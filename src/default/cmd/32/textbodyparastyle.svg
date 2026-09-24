@@ -3,16 +3,16 @@
    height="32"
    viewBox="0 0 32 32"
    width="32"
-   version="1.1"
+   version="2.0"
    id="svg6"
    sodipodi:docname="textbodyparastyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/textbodyparastyle.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   standalone="no"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -30,29 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient837"
-       id="linearGradient839"
-       x1="16"
-       y1="6"
-       x2="16"
-       y2="26"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient837">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop833" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop835" />
-    </linearGradient>
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -63,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1048"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -74,22 +52,25 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid838" />
+       id="grid838"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path833"
-     style="color:#000000;fill:#ffffff;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 14 5 A 1.0001 1.0001 0 0 0 13.087891 5.5898438 L 4.0878906 25.589844 A 1.0001 1.0001 0 0 0 5 27 L 8 27 A 1.0001 1.0001 0 0 0 8.9003906 26.435547 L 11.535156 21 L 20.464844 21 L 23.099609 26.435547 A 1.0001 1.0001 0 0 0 24 27 L 25 27 L 25 25 L 24.626953 25 L 23.898438 23.496094 C 21.941842 22.766198 20.452801 21.090499 20.087891 19 L 10.908203 19 A 1.0001 1.0001 0 0 0 10.007812 19.564453 L 7.3730469 25 L 6.546875 25 L 14.646484 7 L 16 7 L 17.353516 7 L 20.890625 14.863281 C 21.276553 14.238261 21.774976 13.688459 22.355469 13.242188 L 18.912109 5.5898438 A 1.0001 1.0001 0 0 0 18 5 L 16 5 L 14 5 z M 16 7.4023438 A 1.0001 1.0001 0 0 0 15.087891 7.9941406 L 11.238281 16.591797 A 1.0001 1.0001 0 0 0 12.150391 18 L 16 18 L 19.849609 18 A 1.0001 1.0001 0 0 0 20 17.982422 C 20.002219 17.219084 20.149385 16.488798 20.414062 15.816406 L 16.912109 7.9941406 A 1.0001 1.0001 0 0 0 16 7.4023438 z M 16 10.847656 L 18.306641 16 L 16 16 L 13.693359 16 L 16 10.847656 z M 24.902344 23.777344 L 25 23.992188 L 25 23.796875 C 24.967239 23.791101 24.934934 23.783621 24.902344 23.777344 z " />
-  <path
-     id="path2-3-3"
-     style="fill:url(#linearGradient839);fill-opacity:1"
-     d="M 14 6 L 5 26 L 8 26 L 10.908203 20 L 20.357422 20 C 20.127359 19.379036 20 18.706625 20 18 C 20 16.44385 20.598763 15.021827 21.578125 13.953125 L 18 6 L 16 6 L 14 6 z M 16 8.4023438 L 19.849609 17 L 16 17 L 12.150391 17 L 16 8.4023438 z M 22.392578 22.683594 L 24 26 L 25 26 L 25 23.796875 C 24.037251 23.627182 23.146557 23.238653 22.392578 22.683594 z " />
+     id="text1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.632px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:6.49348;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14.787109 4 C 13.655797 6.331888 12.582278 8.7105256 11.566406 11.134766 C 10.573622 13.535918 9.5584912 16.10995 8.5195312 18.857422 C 7.4805713 21.604894 6.3385489 24.65224 5.0917969 28 L 7.8964844 28 C 8.2889804 26.8456 8.6817228 25.749897 9.0742188 24.710938 C 9.4667147 23.64889 9.8473889 22.609622 10.216797 21.59375 L 21.257812 21.59375 C 20.731117 20.933282 20.345422 20.15731 20.148438 19.306641 L 11.013672 19.306641 C 11.429256 18.152241 11.844182 17.032402 12.259766 15.947266 C 12.67535 14.86213 13.08016 13.812747 13.472656 12.796875 C 13.88824 11.781003 14.291098 10.800124 14.683594 9.8535156 C 15.099178 8.8838196 15.503988 7.9371919 15.896484 7.0136719 C 16.312068 7.9371919 16.714926 8.8838196 17.107422 9.8535156 C 17.523006 10.800124 17.927817 11.781003 18.320312 12.796875 C 18.735896 13.812747 19.150822 14.86213 19.566406 15.947266 C 19.72615 16.364375 19.887626 16.787501 20.050781 17.214844 C 20.214131 15.977286 20.758475 14.855657 21.560547 13.972656 C 20.915757 12.377031 20.262731 10.831337 19.601562 9.3339844 C 18.839659 7.5331204 18.044059 5.754688 17.212891 4 L 14.787109 4 z M 21.873047 22.253906 C 22.152404 23.05824 22.446161 23.878216 22.753906 24.710938 C 23.146402 25.749897 23.54926 26.8456 23.964844 28 L 25 28 L 25 23.796875 C 23.805125 23.586267 22.72292 23.039225 21.873047 22.253906 z " />
   <path
      inkscape:connector-curvature="0"
      d="m 26,13 c -2.76142,0 -5,2.23857 -5,5 0,2.76142 2.23858,5 4.999999,5 v 6 h 1 V 14 H 28 v 15 h 1 V 13 h -2.000001 z"
      id="path2-3"
-     style="opacity:1;fill:#00ffff;fill-opacity:1" />
+     style="opacity:1;fill:#0ff;fill-opacity:1" />
 </svg>

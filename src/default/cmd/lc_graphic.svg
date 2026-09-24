@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_graphic.svg"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_graphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.470385"
-     inkscape:cx="4.103489"
-     inkscape:cy="8.2558291"
+     inkscape:cx="8.9397439"
+     inkscape:cy="8.9153184"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,38 +54,38 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid834" />
+       id="grid834"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.7;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke:#000000;stroke-width:2"
-     id="circle685"
-     cx="14.5"
-     cy="8.5"
-     r="5.5" />
-  <circle
-     style="opacity:1;fill:#d85eca;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.577077;fill-opacity:1"
-     id="path623"
-     cx="14.5"
-     cy="8.5"
-     r="5.5" />
   <path
-     style="opacity:0.7;fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path823"
-     fill="#b3b3b3"
-     d="m 14,10 -6,11 h 12 z"
-     sodipodi:nodetypes="cccc" />
+     id="path1"
+     style="opacity:0.8;fill:#0000ff"
+     d="M 3,8 C 2.446,8 2,8.446 2,9 v 10 c 0,0.554 0.446,1 1,1 h 8.392578 l -1,-1 H 3 V 9 H 9.0722656 A 7,7 0 0 1 9,8 Z m 10,6.324219 v 3.261719 l 1,1 v -3.876954 a 7,7 0 0 1 -1,-0.384765 z" />
   <path
-     d="m 14,10 -6,11 h 12 z"
-     fill="#b3b3b3"
+     d="M 3,9 H 13 V 19 H 3 Z"
+     fill="#fafafa"
+     id="path2"
+     style="fill:#ffff00" />
+  <path
+     id="path3"
+     style="opacity:0.8;fill:#0000ff"
+     d="m 16,2 a 6,6 0 0 0 -6,6 6,6 0 0 0 0.658203,2.734375 L 11.410156,9.9824219 A 5,5 0 0 1 11,8 5,5 0 0 1 11.042969,7.3476562 5,5 0 0 1 16,3 a 5,5 0 0 1 5,5 5,5 0 0 1 -1.173828,3.21875 l 0.708984,0.708984 A 6,6 0 0 0 22,8 6,6 0 0 0 16,2 Z m -2.757812,10.171875 -0.71875,0.71875 A 6,6 0 0 0 16,14 6,6 0 0 0 18.177734,13.591797 L 17.388672,12.802734 A 5,5 0 0 1 16,13 5,5 0 0 1 13.242188,12.171875 Z" />
+  <path
+     d="m 21,8 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z"
+     fill="#fafafa"
      id="path4"
-     style="fill:#ffffff"
-     sodipodi:nodetypes="cccc" />
+     style="fill:#ffff00" />
   <path
-     id="path825"
-     style="opacity:0.7;fill:#80a3fa;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     d="M 3 8 L 3 18 L 12 18 L 12 13.386719 A 5.5 5.5 0 0 1 9 8.5 A 5.5 5.5 0 0 1 9.0371094 8 L 3 8 z " />
+     id="path5"
+     style="opacity:0.8;fill:#0000ff;fill-rule:evenodd"
+     d="M 14.992188,8 A 0.46684355,0.46684355 0 0 0 14.669922,8.1367188 L 8.1367188,14.669922 a 0.46684355,0.46684355 0 0 0 0,0.660156 l 6.5332032,6.533203 a 0.46684355,0.46684355 0 0 0 0.660156,0 l 6.533203,-6.533203 a 0.46684355,0.46684355 0 0 0 0,-0.660156 L 15.330078,8.1367188 A 0.46684355,0.46684355 0 0 0 14.992188,8 Z M 15,9 l 6,6 -6,6 -6,-6 z" />
   <path
+     d="m 15,9 -6,6 6,6 6,-6 z"
+     fill="#fafafa"
      id="path6"
-     style="fill:#80a3fa;fill-opacity:1"
-     d="M 3 8 L 3 18 L 12 18 L 12 13.386719 A 5.5 5.5 0 0 1 9 8.5 A 5.5 5.5 0 0 1 9.0371094 8 L 3 8 z " />
+     style="fill:#ffff00;fill-rule:evenodd" />
 </svg>

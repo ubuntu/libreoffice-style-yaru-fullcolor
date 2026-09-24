@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_formatpaintbrush.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_formatpaintbrush.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -38,27 +38,42 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      id="namedview6"
-     showgrid="false"
-     inkscape:zoom="19.666667"
-     inkscape:cx="7.5114662"
-     inkscape:cy="11.861576"
+     showgrid="true"
+     inkscape:zoom="27.812867"
+     inkscape:cx="11.469511"
+     inkscape:cy="12.889717"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <path
-     fill="#232629"
-     id="path817"
-     d="m11 4v7h-4v2h10v-2h-4v-7zm-4 10c0 1 .0002812 3-3 5.945312v.054688h11c2-2 2-4 2-6z"
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.7;stroke-linejoin:round;stroke-linecap:round" />
+     id="path821"
+     style="fill:#0000ff;fill-opacity:1;opacity:0.8"
+     d="m 13,3 c -0.552285,0 -1,0.4477153 -1,1 v 8 H 8 v 1 H 18 V 12 H 14 V 4 C 14,3.4477153 13.552285,3 13,3 Z"
+     sodipodi:nodetypes="ssccccccss" />
   <path
-     style="fill:#b3b3b3;fill-opacity:1"
-     d="m 11,4 v 7 H 7 v 2 H 17 V 11 H 13 V 4 Z"
-     id="path821" />
-  <path
-     style="fill:#fa9381;fill-opacity:1"
-     d="m 7,14 c 0,1 2.812e-4,3 -3,5.945312 V 20 h 11 c 2,-2 2,-4 2,-6 z"
-     id="path2" />
+     style="fill:#00ffff;fill-opacity:1"
+     d="m 8,14 c 0,1 -0.299719,4 -3.3,6.945312 V 21 h 11 c 2,-2 2.3,-5 2.3,-7 z"
+     id="path2"
+     sodipodi:nodetypes="cccccc" />
 </svg>

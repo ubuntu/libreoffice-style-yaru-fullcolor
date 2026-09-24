@@ -6,7 +6,7 @@
    version="1.1"
    id="svg70"
    sodipodi:docname="choosecontrols.svg"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/choosecontrols.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -41,20 +41,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview72"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="5.2973084"
+     inkscape:cx="5.3212782"
      inkscape:cy="12.632043"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg70"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid909" />
+       id="grid909"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -149,10 +156,10 @@
      height="2.9104166"
      width="2.9104168"
      id="rect894"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:0.8;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      ry="0.26458332" />
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      id="rect892"
      width="2.3812494"
      height="2.3812499"
@@ -160,7 +167,7 @@
      y="1.3229167" />
   <rect
      ry="0.26458332"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:0.8;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      id="rect896"
      width="2.9104164"
      height="2.9104164"
@@ -172,15 +179,15 @@
      height="2.3812494"
      width="2.3812494"
      id="rect898"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498" />
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498" />
   <path
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 5.9531251,1.8520833 6.6145834,3.175 H 5.2916668"
      id="path900"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <circle
-     style="opacity:1;fill:#00ffff;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.72760433;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#0ff;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.72760433;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      id="path904"
      cx="2.5135417"
      cy="2.5135417"
@@ -190,14 +197,14 @@
      inkscape:connector-curvature="0"
      id="path4638"
      d="M 5.9531251,6.6145834 6.6145834,5.2916667 H 5.2916668"
-     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <rect
      y="4.4979172"
      x="1.0583334"
      height="2.9104164"
      width="2.9104164"
      id="rect4640"
-     style="opacity:1;fill:#00ffff;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
+     style="opacity:1;fill:#0ff;fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98705498"
      ry="0.26458332" />
   <path
      sodipodi:nodetypes="ccccccc"

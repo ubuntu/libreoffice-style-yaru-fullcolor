@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="32"
    viewBox="0 0 32 32"
    width="32"
-   version="1.1"
+   version="2.0"
    id="svg6"
    sodipodi:docname="heading1parastyle.svg"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/heading1parastyle.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   standalone="no"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -26,37 +26,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient848">
-      <stop
-         style="stop-color:#151515;stop-opacity:1"
-         offset="0"
-         id="stop844" />
-      <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
-         offset="1"
-         id="stop846" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient848"
-       id="linearGradient850"
-       x1="10"
-       y1="5"
-       x2="10"
-       y2="25"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.00003)" />
-  </defs>
+     id="defs10" />
   <sodipodi:namedview
-     pagecolor="#808080"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -65,51 +42,50 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1048"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="15.785814"
-     inkscape:cy="16.537924"
+     inkscape:zoom="18.317403"
+     inkscape:cx="-1.1191543"
+     inkscape:cy="15.913828"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid822" />
+       id="grid822"
+       originx="0.000000"
+       originy="0.000000"
+       spacingy="1.000000"
+       spacingx="1.000000"
+       units="px" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path826"
-     stroke-width="1.33333"
-     fill="#232629"
-     d="m 4.00003,5 -10e-8,20 H 6.00003 L 6,15.99997 H 16.99997 L 17,25 h 2.00003 V 5 H 17 l 1e-6,9 H 6.00003 l 1e-7,-9 z"
-     sodipodi:nodetypes="ccccccccccccc" />
-  <path
-     d="m 4.00003,5 -10e-8,20 H 6.00003 L 6,15.99997 H 16.99997 L 17,25 h 2.00003 V 5 H 17 l 1e-6,9 H 6.00003 l 1e-7,-9 z"
-     fill="#232629"
-     stroke-width="1.33333"
-     id="path4"
-     style="fill:url(#linearGradient850);fill-opacity:1"
-     sodipodi:nodetypes="ccccccccccccc" />
+     d="M 3.9999798,25.000003 V 5.0000226 h 2.25108 V 13.571443 H 16.72724 V 5.0000226 h 2.25108 V 25.000003 h -2.25108 v -9.49494 H 6.2510598 v 9.49494 z"
+     id="text1"
+     style="font-size:28.86px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:none;fill:#0000ff;stroke-width:2.31842;stroke-linecap:round;stroke-linejoin:round"
+     aria-label="H" />
   <rect
-     style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
+     style="opacity:1;fill:#0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
      id="rect842"
      width="1"
      height="6"
      x="25"
      y="22" />
   <rect
-     style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
+     style="opacity:1;fill:#0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
      id="rect844"
      width="5"
      height="1"
      x="23"
      y="21" />
   <rect
-     style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
+     style="opacity:1;fill:#0ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round"
      id="rect846"
      width="5"
      height="1"

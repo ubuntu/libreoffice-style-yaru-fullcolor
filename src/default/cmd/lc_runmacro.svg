@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="lc_runmacro.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_runmacro.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -38,37 +38,42 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="-2.7711864"
-     inkscape:cy="8.3644066"
+     inkscape:cx="6.2033897"
+     inkscape:cy="9.6355931"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
+  <path
+     id="path2"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="M 12 2 C 6.4889971 2 2 6.4889971 2 12 C 2 17.511003 6.4889971 22 12 22 C 17.511003 22 22 17.511003 22 12 C 22 6.4889971 17.511003 2 12 2 z " />
   <circle
-     r="9"
-     cy="12"
-     cx="12"
-     id="circle823"
-     style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path821"
      cx="12"
      cy="12"
      r="9" />
   <path
-     style="fill:#1a7fd4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 9,8 v 8 l 7.5,-4 z"
-     id="path823"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
+     d="M 9,7.4997196 V 16.50028 c 0,0 4.750046,-2.124881 8,-4.500279 C 13.750046,9.6246021 9,7.4997196 9,7.4997196 Z"
+     fill="#808080"
+     overflow="visible"
+     id="path1"
+     style="fill:#00ffff;stroke-width:0.750047" />
 </svg>
