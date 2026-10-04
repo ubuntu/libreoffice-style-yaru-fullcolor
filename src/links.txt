@@ -2564,3 +2564,9 @@ cmd/sc_borderdialog-more.xxx sfx2/res/symphony/open_more.xxx
 cmd/sc_textwrap-more.xxx sfx2/res/symphony/open_more.xxx
 cmd/sc_formatarea-more.xxx sfx2/res/symphony/open_more.xxx
 cmd/sc_formatline-more.xxx sfx2/res/symphony/open_more.xxx
+
+# Yaru specific
+
+cmd/32/librelogo-home.svg cmd/32/firstpage.svg
+cmd/lc_librelogo-home.svg cmd/lc_firstpage.svg
+cmd/sc_librelogo-home.svg cmd/sc_firstpage.svg

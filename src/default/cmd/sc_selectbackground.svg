@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_selectbackground.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="7.74222"
-     inkscape:cy="6.7235069"
+     inkscape:zoom="29.5"
+     inkscape:cx="9.5762712"
+     inkscape:cy="10.254237"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -77,12 +77,18 @@
      style="fill:#ffff00"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     id="path3"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
-     d="M 5.7070312 2 C 5.0999551 2.0016067 4.5942443 2.0142085 4.1914062 2.1015625 L 3.0683594 3.2246094 C 3.022858 3.4421363 3 3.6983335 3 4 L 3 4.7070312 L 5.7070312 2 z M 7.2929688 2 L 3 6.2929688 L 3 7.7070312 L 8.7070312 2 L 7.2929688 2 z M 10.146484 2.1464844 L 3 9.2929688 L 3 10.707031 L 10.853516 2.8535156 L 10.146484 2.1464844 z M 11.646484 3.6464844 L 3.0078125 12.285156 C 3.0354344 12.783454 3.138297 13.137917 3.3183594 13.388672 L 12.353516 4.3535156 L 11.646484 3.6464844 z M 13 5.2929688 L 4.3632812 13.929688 C 4.7350243 13.988172 5.1833193 13.998619 5.7070312 14 L 13 6.7070312 L 13 5.2929688 z M 13 8.2929688 L 7.2929688 14 L 8.7070312 14 L 13 9.7070312 L 13 8.2929688 z M 13 11.292969 L 10.292969 14 C 10.900016 13.998395 11.405754 13.985761 11.808594 13.898438 L 12.931641 12.775391 C 12.977116 12.557904 13 12.301579 13 12 L 13 11.292969 z " />
-  <path
      inkscape:connector-curvature="0"
      d="M 9.9999998,5 V 2 L 13,5 Z"
      id="path4"
      style="opacity:0.5;fill:#0000ff;fill-opacity:1" />
+  <path
+     id="path4156-2-1"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881;marker:none;enable-background:accumulate"
+     d="M 7 8.5 L 4.5449219 13 L 11.445312 13 L 9.5 9.5 L 8.5 11 L 7 8.5 z " />
+  <circle
+     style="fill:#00ffff;stroke-width:2;stroke-linejoin:round"
+     id="path1"
+     cx="10"
+     cy="7"
+     r="1" />
 </svg>

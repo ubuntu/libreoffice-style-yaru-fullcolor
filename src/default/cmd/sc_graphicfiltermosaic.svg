@@ -4,7 +4,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="sc_graphicfiltermosaic.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,39 +35,369 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="4.6141714"
-     inkscape:cy="8.1616902"
+     inkscape:zoom="20.85965"
+     inkscape:cx="6.4238853"
+     inkscape:cy="7.6463411"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid896" />
+       id="grid896"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <path
-     id="path6"
-     style="fill:#fdbc4b;fill-opacity:1"
-     d="m 4,12 v 2 h 2 v -2 z m 6,-2 H 8 v 2 h 2 z m 0,-2 v 2 h 2 V 8 Z M 6,6 V 8 H 8 V 6 Z m 4,-2 v 2 h 2 V 4 Z M 8,2 v 2 h 2 V 2 Z M 2,2 V 4 H 4 V 2 Z" />
-  <path
-     id="path894"
-     style="fill:#2ecc71;fill-opacity:1"
-     d="m 6,12 v 2 h 2 v -2 z m 4,-2 v 2 h 2 V 10 Z M 2,8 v 2 H 4 V 8 Z M 6,4 V 6 H 8 V 4 Z m 6,2 h -2 v 2 h 2 z m 0,-2 v 2 h 2 V 4 Z M 10,2 v 2 h 2 V 2 Z" />
-  <path
-     id="path898"
-     style="fill:#77216f;fill-opacity:1"
-     d="m 12,12 v 2 h 2 V 12 Z M 2,12 v 2 H 4 V 12 Z M 12,8 v 2 h 2 V 8 Z M 8,10 H 6 v 2 H 8 Z M 8,8 v 2 h 2 V 8 Z M 4,6 V 8 H 6 V 6 Z M 2,4 V 6 H 4 V 4 Z M 6,2 V 4 H 8 V 2 Z" />
-  <path
-     id="path900"
-     style="fill:#ff0000;fill-opacity:1"
-     d="m 10,12 v 2 h 2 v -2 z m 2,-2 v 2 h 2 V 10 Z M 6,10 H 4 v 2 H 6 Z M 6,8 v 2 H 8 V 8 Z m 6,-2 v 2 h 2 V 6 Z M 2,6 V 8 H 4 V 6 Z M 8,4 v 2 h 2 V 4 Z M 4,2 V 4 H 6 V 2 Z" />
-  <path
-     id="path902"
-     style="fill:#e95420;fill-opacity:1.0"
-     d="m 8,12 v 2 h 2 V 12 Z M 4,10 H 2 v 2 H 4 Z M 4,8 v 2 H 6 V 8 Z M 8,6 v 2 h 2 V 6 Z M 4,4 V 6 H 6 V 4 Z m 8,-2 v 2 h 2 V 2 Z" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect3"
+     width="2"
+     height="2"
+     x="1"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect4"
+     width="2"
+     height="2"
+     x="3"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect5"
+     width="2"
+     height="2"
+     x="5"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect6"
+     width="2"
+     height="2"
+     x="7"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect7"
+     width="2"
+     height="2"
+     x="9"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect8"
+     width="2"
+     height="2"
+     x="11"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect9"
+     width="2"
+     height="2"
+     x="13"
+     y="1" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect10"
+     width="2"
+     height="2"
+     x="1"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect11"
+     width="2"
+     height="2"
+     x="3"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect12"
+     width="2"
+     height="2"
+     x="5"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect13"
+     width="2"
+     height="2"
+     x="7"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect14"
+     width="2"
+     height="2"
+     x="9"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect15"
+     width="2"
+     height="2"
+     x="11"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect16"
+     width="2"
+     height="2"
+     x="13"
+     y="3" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect17"
+     width="2"
+     height="2"
+     x="1"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect18"
+     width="2"
+     height="2"
+     x="3"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect19"
+     width="2"
+     height="2"
+     x="5"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect20"
+     width="2"
+     height="2"
+     x="7"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect21"
+     width="2"
+     height="2"
+     x="9"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect22"
+     width="2"
+     height="2"
+     x="11"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect23"
+     width="2"
+     height="2"
+     x="13"
+     y="5" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect24"
+     width="2"
+     height="2"
+     x="1"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect25"
+     width="2"
+     height="2"
+     x="3"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect26"
+     width="2"
+     height="2"
+     x="5"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect27"
+     width="2"
+     height="2"
+     x="7"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect28"
+     width="2"
+     height="2"
+     x="9"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect29"
+     width="2"
+     height="2"
+     x="11"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect30"
+     width="2"
+     height="2"
+     x="13"
+     y="7" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect31"
+     width="2"
+     height="2"
+     x="1"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect32"
+     width="2"
+     height="2"
+     x="3"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect33"
+     width="2"
+     height="2"
+     x="5"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect34"
+     width="2"
+     height="2"
+     x="7"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect35"
+     width="2"
+     height="2"
+     x="9"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect36"
+     width="2"
+     height="2"
+     x="11"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect37"
+     width="2"
+     height="2"
+     x="13"
+     y="9" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect38"
+     width="2"
+     height="2"
+     x="1"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect39"
+     width="2"
+     height="2"
+     x="3"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect40"
+     width="2"
+     height="2"
+     x="5"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect41"
+     width="2"
+     height="2"
+     x="7"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect42"
+     width="2"
+     height="2"
+     x="9"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect43"
+     width="2"
+     height="2"
+     x="11"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect44"
+     width="2"
+     height="2"
+     x="13"
+     y="11" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect45"
+     width="2"
+     height="2"
+     x="1"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect46"
+     width="2"
+     height="2"
+     x="3"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect47"
+     width="2"
+     height="2"
+     x="5"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect48"
+     width="2"
+     height="2"
+     x="7"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect49"
+     width="2"
+     height="2"
+     x="9"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round;opacity:0.25"
+     id="rect50"
+     width="2"
+     height="2"
+     x="11"
+     y="13" />
+  <rect
+     style="fill:#0000ff;stroke-width:2;stroke-linejoin:round"
+     id="rect51"
+     width="2"
+     height="2"
+     x="13"
+     y="13" />
 </svg>
