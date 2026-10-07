@@ -62,7 +62,7 @@
   </sodipodi:namedview>
   <path
      id="path4237-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.999802"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.999802"
      d="M 5.9941406 3.9726562 C 4.7360506 3.9877363 3.81527 3.944245 3.0625 4.359375 C 2.68614 4.566935 2.3892894 4.9168698 2.2246094 5.3554688 C 2.0599004 5.7940797 2 6.3150563 2 6.9726562 L 2 8.4394531 L 2 16 C 2 16.657608 2.0600704 17.178517 2.2246094 17.617188 C 2.3892794 18.055846 2.68613 18.407574 3.0625 18.615234 C 3.81525 19.0306 4.7359506 18.9855 5.9941406 19 L 5.9980469 19 L 8.5273438 19 L 10.582031 17.972656 C 8.7263015 17.970509 6.241415 17.963495 4.9375 17.953125 C 4.425589 17.941115 3.7545616 17.97395 3.3535156 17.548828 C 2.9324186 17.009045 3.066922 16.280295 3.03125 15.644531 C 3.01938 13.200207 3.0031444 8.7074177 3.0527344 6.2617188 C 3.1020144 5.8596787 3.2218061 5.3983199 3.6269531 5.2167969 C 4.2951221 4.9226999 5.0541903 5.0492717 5.7539062 5.0117188 C 7.5083132 4.9999187 11.261186 4.9989 13.015625 5 C 14.572206 5.0108 18.12583 4.9885425 19.675781 5.0390625 C 20.13701 5.0817325 20.692879 5.2444989 20.832031 5.7480469 C 21.051025 6.3833929 20.939182 7.0823318 20.976562 7.7304688 C 20.980921 9.0140188 20.987099 10.930353 20.984375 12.771484 L 22 12.263672 L 22 8.4609375 L 22 6.9726562 C 22 6.3150562 21.940061 5.7941388 21.775391 5.3554688 C 21.610731 4.9168088 21.31387 4.5650819 20.9375 4.3574219 C 20.18475 3.9420559 19.264059 3.9871563 18.005859 3.9726562 L 18.001953 3.9726562 L 5.9960938 3.9726562 L 5.9941406 3.9726562 z M 21 17.236328 L 20.773438 17.349609 C 20.66596 17.56024 20.502712 17.732115 20.257812 17.806641 C 20.037376 17.885092 19.814386 17.922975 19.589844 17.941406 L 19.587891 17.941406 L 17.472656 19 L 18.003906 19 L 18.005859 19 C 19.263959 18.984931 20.18478 19.028412 20.9375 18.613281 C 20.958586 18.601652 20.979422 18.588685 21 18.576172 L 21 17.236328 z " />
   <path
      inkscape:connector-curvature="0"
@@ -71,26 +71,26 @@
      style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      sodipodi:nodetypes="cccccccscccccccc" />
   <path
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#00ffff;stroke-linecap:square;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ff00ff;stroke-linecap:square;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
      d="M 24,12.382813 4.7631931,22 H 24 Z m -2,3.234375 V 20 h -8.763672 z"
      id="path827"
      sodipodi:nodetypes="cccccccc" />
   <rect
-     style="opacity:0.5;fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.5;fill:#000080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect1"
      width="14"
      height="2"
      x="5"
      y="7" />
   <rect
-     style="opacity:1;fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#000080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect2"
      width="12"
      height="1"
      x="5"
      y="11" />
   <rect
-     style="opacity:1;fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#000080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      id="rect3"
      width="8"
      height="1"
@@ -98,6 +98,6 @@
      y="13" />
   <path
      id="rect4"
-     style="opacity:1;fill:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#000080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 5 15 L 5 16 L 14.529297 16 L 15 15.763672 L 15 15 L 5 15 z " />
 </svg>

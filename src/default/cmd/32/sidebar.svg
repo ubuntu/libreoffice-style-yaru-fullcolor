@@ -69,13 +69,13 @@
      d="M 5,6 C 4.437351,6 4,6.437351 4,7 v 18 c 0,0.562649 0.437351,1 1,1 h 22 c 0.562649,0 1,-0.437351 1,-1 V 7 C 28,6.437351 27.562649,6 27,6 Z"
      sodipodi:nodetypes="sssssssss" />
   <path
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 5,5 C 3.900649,5 3,5.900649 3,7 v 18 c 0,1.099351 0.900649,2 2,2 h 22 c 1.099351,0 2,-0.900649 2,-2 V 7 C 29,5.900649 28.099351,5 27,5 Z m 0,1 h 22 c 0.562649,0 1,0.437351 1,1 v 18 c 0,0.562649 -0.437351,1 -1,1 H 5 C 4.437351,26 4,25.562649 4,25 V 7 C 4,6.437351 4.437351,6 5,6 Z"
      id="path13"
      sodipodi:nodetypes="ssssssssssssssssss" />
   <path
      id="path14"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000080;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 5,5 C 3.900649,5 3,5.900649 3,7 V 8 H 29 V 7 C 29,5.900649 28.099351,5 27,5 Z"
      sodipodi:nodetypes="ssccsss" />
   <path
@@ -95,6 +95,6 @@
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect1"
-     style="fill:#00ffff;stroke-width:2.19089;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke-width:2.19089;stroke-linecap:round;stroke-linejoin:round"
      d="M 22 8 L 22 26 L 27 26 C 27.562649 26 28 25.562649 28 25 L 28 8 L 22 8 z " />
 </svg>

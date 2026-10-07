@@ -68,7 +68,7 @@
      sodipodi:nodetypes="ssccccccccscscccccccccccsscs" />
   <path
      id="path2"
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1"
      d="M 4 1 C 2 1 1 1 1 3 L 1 13 C 1 15 2 15 4 15 L 6 15 L 6 14 L 5 14 L 4 14 C 3.0000001 14 2 14 2 13 L 2 11 L 4 11 L 4 10 L 2 10 L 2 6 L 4 6 L 4 5 L 2 5 L 2 3 C 2 2 3.0000001 2 4 2 L 5 2 L 6 2 L 10 2 L 11 2 L 12 2 C 13 2 14 2 14 3 L 14 5 L 12 5 L 12 6 L 14 6 L 15 6 L 15 3 C 15 1 14 1 12 1 L 11 1 L 10 1 L 4 1 z " />
   <path
      id="rect2"
@@ -84,18 +84,18 @@
      transform="scale(1,-1)" />
   <path
      id="rect14"
-     style="opacity:0.2;fill:#00ff00;stroke:none;stroke-width:2"
+     style="opacity:0.2;fill:#0f0;stroke:none;stroke-width:2"
      d="M 5 -6 L 5 -10 L 6 -10 L 6 -6 L 5 -6 z M 5 -11 L 5 -14 L 6 -14 L 6 -11 L 5 -11 z "
      transform="scale(1,-1)" />
   <path
      id="path1"
-     style="fill:#00ff00;stroke:none;stroke-width:2"
+     style="fill:#0f0;stroke:none;stroke-width:2"
      d="M 4 6 L 4 10 L 4 14 L 4 15 L 6 15 L 6 14 L 5 14 L 5 11 L 6 11 L 6 10 L 5 10 L 5 6 L 4 6 z " />
   <path
      d="m 7,7 h 9 v 9 H 7 Z"
      fill="#3a3a38"
      id="path10"
-     style="fill:#0000ff" />
+     style="fill:#000080" />
   <path
      d="m 8,8 h 7 v 7 H 8 Z"
      fill="#fafafa"
@@ -105,5 +105,5 @@
      d="m 12,9 -0.400391,1 H 9 v 1 h 2.199219 l -0.398438,1 H 9 v 1 h 1.400391 L 10,14 h 1 l 0.400391,-1 H 14 v -1 h -2.199219 l 0.398438,-1 H 14 V 10 H 12.599609 L 13,9 Z"
      fill="#797774"
      id="path12"
-     style="fill:#00ffff" />
+     style="fill:#ff00ff" />
 </svg>

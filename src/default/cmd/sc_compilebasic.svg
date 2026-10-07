@@ -53,7 +53,7 @@
 
 /&gt;<path
    id="path2"
-   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
    d="M 8 1 C 4.1458514 1 1 4.1458514 1 8 C 1 11.854149 4.1458514 15 8 15 C 9.1547719 15 10.244991 14.717999 11.207031 14.21875 L 10.677734 13.369141 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 A 6 6 0 0 1 13.65625 6 L 14 6 A 1.0001 1.0001 0 0 1 14.822266 6.4296875 C 14.106149 3.3263359 11.314874 1 8 1 z " />
 <circle
    style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.66667;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -66,10 +66,10 @@
    fill="#808080"
    overflow="visible"
    id="path1"
-   style="fill:#00ff00;stroke-width:0.500031" />
+   style="fill:#0f0;stroke-width:0.500031" />
 <path
    id="rect839"
-   style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.556298;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    d="m 13,7 v 5 h -2 l 2.5,4 2.5,-4 H 14 V 7 Z"
    sodipodi:nodetypes="cccccccc" />
 </svg>

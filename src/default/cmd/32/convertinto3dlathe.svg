@@ -66,9 +66,9 @@
          offset="0"
          stop-color="#b3b3b3"
          id="stop2-5"
-         style="stop-color:#0000ff;stop-opacity:0;" />
+         style="stop-color:#000080;stop-opacity:0;" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0;"
+         style="stop-color:#000080;stop-opacity:0;"
          id="stop829-6"
          stop-color="#b3b3b3"
          offset="0.29166669" />
@@ -76,7 +76,7 @@
          offset="1"
          stop-color="#232629"
          id="stop4-2"
-         style="stop-color:#0000ff;stop-opacity:0.75;" />
+         style="stop-color:#000080;stop-opacity:0.75;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -136,7 +136,7 @@
   </linearGradient>
   <path
      id="path2"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;enable-background:accumulate;stop-color:#000000"
      d="M 16 2.2675781 L 3.7324219 19.615234 L 3.71875 19.636719 C 3.2680113 20.346869 3 21.157414 3 22 C 3 24.197275 4.7148082 25.959935 7.0683594 27.136719 C 9.4219105 28.313502 12.551179 29 16 29 C 17.903107 29 19.707991 28.791356 21.339844 28.40625 A 5.5 5.5 0 0 1 21.080078 27.4375 C 19.537299 27.798498 17.815895 28 16 28 C 9.372583 28 4 25.31365 4 22 C 4 21.3667 4.1988115 20.744875 4.5625 20.171875 L 16 4 L 27.25 19.9375 C 27.539382 20.332715 27.756615 20.746837 27.880859 21.175781 A 5.5 5.5 0 0 0 27.818359 21.164062 A 5.5 5.5 0 0 1 28.978516 21.589844 C 28.88971 20.767953 28.54048 20.008745 28.058594 19.349609 L 16 2.2675781 z M 27.177734 21.042969 A 5.5 5.5 0 0 1 27.361328 21.076172 A 5.5 5.5 0 0 0 27.177734 21.042969 z " />
   <path
      id="path7"
@@ -147,7 +147,7 @@
      style="fill:url(#a-3)"
      d="M 16 4 L 4.5625 20.171875 C 4.1988115 20.744875 4 21.3667 4 22 C 4 25.31365 9.372583 28 16 28 C 17.815928 28 19.537277 27.79851 21.080078 27.4375 A 5.5 5.5 0 0 1 21 26.5 A 5.5 5.5 0 0 1 26.5 21 A 5.5 5.5 0 0 1 27.880859 21.175781 C 27.756615 20.746837 27.539382 20.332715 27.25 19.9375 L 16 4 z " />
   <circle
-     style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2.57143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.57143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path850"
      cx="26.5"
      cy="26.5"

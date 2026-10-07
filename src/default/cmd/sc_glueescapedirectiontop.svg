@@ -55,7 +55,7 @@
      id="svg8">
     <path
        id="path1"
-       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;fill-rule:evenodd;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
        d="M 2,1 A 1.0001,1.0001 0 0 0 1,2 v 12 a 1.0001,1.0001 0 0 0 1,1 h 12 a 1.0001,1.0001 0 0 0 1,-1 V 2 A 1.0001,1.0001 0 0 0 14,1 Z M 2,2 H 14 V 14 H 2 Z" />
     <rect
        style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -69,11 +69,11 @@
      d="M 8,4 6,6 H 7 V 9 H 9 V 6 h 1 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#00ffff"
+     style="fill:#ff00ff"
      sodipodi:nodetypes="cccccccc" />
   <path
      d="m8 8c-1.1045692 0-2 .8954028-2 2 0 1.104597.8954308 2 2 2 1.10457 0 2-.895403 2-2 0-1.1045972-.89543-2-2-2zm0 1c.552285 0 1 .4477014 1 1 0 .552299-.447715 1-1 1-.5522842 0-1-.447701-1-1 0-.5522986.4477158-1 1-1z"
-     fill="#0ff"
+     fill="#ff00ff"
      id="path4"
-     style="fill:#0000ff" />
+     style="fill:#000080" />
 </svg>

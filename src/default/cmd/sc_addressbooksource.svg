@@ -83,7 +83,7 @@
   </sodipodi:namedview>
   <path
      id="path3"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#0000ff"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#000080"
      d="M 6 1 C 5 1 4.1605053 0.92658331 3.3027344 1.3554688 C 2.8738489 1.5699114 2.4821774 1.9678352 2.2734375 2.4375 C 2.0646976 2.9071648 2 3.4166667 2 4 L 2 7.40625 L 2 12 C 2 12.583333 2.064698 13.092835 2.2734375 13.5625 C 2.4821774 14.032165 2.8738489 14.430089 3.3027344 14.644531 C 4.1605053 15.073417 5 15 6 15 L 10 15 C 11 15 11.839495 15.07342 12.697266 14.644531 C 13.126151 14.430089 13.517824 14.032165 13.726562 13.5625 C 13.935303 13.092835 14 12.583333 14 12 L 14 4 C 14 3.4166667 13.935302 2.9071648 13.726562 2.4375 C 13.517823 1.9678352 13.126151 1.5699115 12.697266 1.3554688 C 11.839495 0.92658331 11 1 10 1 L 6 1 z M 6 2 L 10 2 C 12 2 13 2 13 4 L 13 12 C 13 14 12 14 10 14 L 6 14 C 4 14 3 14 3 12 L 3 7.40625 L 3 4 C 3 2 4 2 6 2 z " />
   <path
      sodipodi:nodetypes="cccccccccc"
@@ -98,19 +98,19 @@
      style="opacity:0;fill:#28170b"
      sodipodi:nodetypes="cccccccccc" />
   <ellipse
-     style="fill:none;stroke:#00ffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="path1"
      cx="8"
      cy="6.4968357"
      rx="1.5"
      ry="1.9989452" />
   <path
-     style="fill:none;stroke:#00ffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+     style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
      d="m 5.5,12 c 0,-1 0.55,-1.502109 1.55,-1.502109 h 1.9 C 9.95,10.497891 10.5,11 10.5,12"
      id="path3-6"
      sodipodi:nodetypes="ccsc" />
   <path
      id="rect1"
-     style="fill:#00ffff;stroke-linecap:square;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke-linecap:square;stroke-linejoin:round"
      d="M 12 2.1503906 L 12 13.849609 C 12.666667 13.643342 13 13.154701 13 12 L 13 4 C 13 2.8452995 12.666667 2.356658 12 2.1503906 z " />
 </svg>

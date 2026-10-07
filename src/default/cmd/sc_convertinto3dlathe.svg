@@ -65,9 +65,9 @@
          offset="0"
          stop-color="#b3b3b3"
          id="stop2-6"
-         style="stop-color:#0000ff;stop-opacity:0;" />
+         style="stop-color:#000080;stop-opacity:0;" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0;"
+         style="stop-color:#000080;stop-opacity:0;"
          id="stop829-7"
          stop-color="#b3b3b3"
          offset="0.33333334" />
@@ -75,7 +75,7 @@
          offset="1"
          stop-color="#232629"
          id="stop4-5"
-         style="stop-color:#0000ff;stop-opacity:0.75;" />
+         style="stop-color:#000080;stop-opacity:0.75;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -134,7 +134,7 @@
   </linearGradient>
   <path
      id="path3"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 8 1 A 1.0001 1.0001 0 0 0 7.1835938 1.421875 L 1.4648438 9.5078125 A 1.0001 1.0001 0 0 0 1.4375 9.5507812 C 1.168605 9.9744313 1 10.474063 1 11 C 1 12.368863 2.0427817 13.381738 3.3105469 14.015625 C 4.578312 14.649512 6.2080363 15 8 15 C 8.2516153 15 8.4994756 14.99215 8.7441406 14.978516 A 4.5 4.5 0 0 1 8.15625 13.654297 A 4.5 4.5 0 0 0 8.2558594 13.998047 C 8.1708376 13.999834 8.0859008 14 8 14 C 4.6863001 14 2 12.656821 2 11 C 2 10.683351 2.0994062 10.372435 2.28125 10.085938 L 8 2 L 12.240234 8.0078125 A 4.5 4.5 0 0 1 12.5 8 A 4.5 4.5 0 0 1 13.544922 8.1230469 L 8.8164062 1.4238281 A 1.0001 1.0001 0 0 0 8 1 z M 8.0488281 13.128906 A 4.5 4.5 0 0 0 8.1191406 13.529297 A 4.5 4.5 0 0 1 8.0488281 13.128906 z " />
   <path
      id="path7"
@@ -145,7 +145,7 @@
      style="fill:url(#a-3)"
      d="M 8 2 L 2.28125 10.085938 C 2.0994062 10.372436 2 10.683351 2 11 C 2 12.656821 4.6863001 14 8 14 C 8.0859008 14 8.1708376 13.999834 8.2558594 13.998047 A 4.5 4.5 0 0 1 8 12.5 A 4.5 4.5 0 0 1 12.240234 8.0078125 L 8 2 z " />
   <circle
-     style="opacity:1;vector-effect:none;fill:#0ff;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
      cy="12.5"
      cx="12.5"

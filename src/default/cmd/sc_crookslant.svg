@@ -62,7 +62,7 @@
 
 /&gt;<path
    id="path6"
-   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#0000ff;opacity:0.8"
+   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#000080;opacity:0.8"
    d="M 2 1 A 1.0001 1.0001 0 0 0 1 2 L 1 11.0625 L 1 11.5 L 1 12.09375 A 1.0001 1.0001 0 0 0 1.9550781 13.091797 C 6.7473481 13.308683 8.8827914 13.942778 13.792969 14.978516 A 1.0001 1.0001 0 0 0 15 14 L 15 4.09375 L 15 2.96875 L 15 2.9375 A 1.0001 1.0001 0 0 0 14.21875 1.9609375 C 10.830629 1.1991124 7.8726653 1 2 1 z " />
 <path
    d="M 2,2 V 11.0625 11.5 12.09375 C 6.8678397,12.314056 9.1130185,12.969155 14,14 V 4.09375 2.96875 2.9375 C 10.69529,2.19443 7.85051,2 2,2 Z"
@@ -71,6 +71,6 @@
 <path
    d="M 6,5 4,7 6,9 V 7.5 c 1.54012,0.00831 2.709585,0.377685 4,1 V 10 L 12,8 10,6 V 7.5 C 8.72868,6.9266838 8.0313013,6.5086498 6,6.5 Z"
    id="path1"
-   style="fill:#00ffff"
+   style="fill:#ff00ff"
    sodipodi:nodetypes="ccccccccccc" />
 </svg>

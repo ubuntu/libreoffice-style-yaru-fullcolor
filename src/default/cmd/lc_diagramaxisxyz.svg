@@ -85,35 +85,35 @@
      y="3" />
   <path
      id="rect1"
-     style="fill:#0000ff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#000080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="m 12,4 v 11 h 2 V 4 Z m 4,6 v 5 h 2 v -5 z"
      sodipodi:nodetypes="cccccccccc" />
   <path
      id="rect3"
-     style="opacity:1;fill:#0000ff;stroke-width:2"
+     style="opacity:1;fill:#000080;stroke-width:2"
      d="M 8,2 V 16 H 22 V 15 H 9 V 2 Z"
      sodipodi:nodetypes="ccccccc" />
   <path
-     style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linejoin:round"
+     style="fill:none;stroke:#000080;stroke-width:1;stroke-linejoin:round"
      d="m 8.5,15.5 -7,7"
      id="path1"
      sodipodi:nodetypes="cc" />
   <rect
-     style="fill:#00ffff;stroke:none;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke:none;stroke-linejoin:round"
      id="rect4"
      width="1"
      height="12"
      x="6"
      y="3" />
   <rect
-     style="fill:#00ffff;stroke:none;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke:none;stroke-linejoin:round"
      id="rect5"
      width="12"
      height="1"
      x="9"
      y="17" />
   <path
-     style="fill:none;stroke:#00ffff;stroke-linejoin:round"
+     style="fill:none;stroke:#ff00ff;stroke-linejoin:round"
      d="M 6.5,14.5 1,20"
      id="path5" />
 </svg>

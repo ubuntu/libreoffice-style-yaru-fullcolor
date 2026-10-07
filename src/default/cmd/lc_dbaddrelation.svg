@@ -52,7 +52,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
   <circle
-     style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#0f0;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
      cy="19.5"
      cx="19.5"
@@ -70,7 +70,7 @@
      height="7"
      width="7"
      id="rect819"
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      transform="rotate(-90)" />
   <rect
      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -82,7 +82,7 @@
      transform="rotate(-90)" />
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#ff00ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 14 2 A 1.0001 1.0001 0 0 0 13 3 L 13 10 A 1.0001 1.0001 0 0 0 14 11 L 21 11 A 1.0001 1.0001 0 0 0 22 10 L 22 3 A 1.0001 1.0001 0 0 0 21 2 L 14 2 z " />
   <rect
      y="14"
@@ -98,7 +98,7 @@
      height="7"
      width="7"
      id="rect827"
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      transform="rotate(-90)" />
   <rect
      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -111,7 +111,7 @@
   <path
      id="rect831"
      d="M 7,14.000001 H 8 V 10 H 7 Z m 3,1 h 6 1 V 10 h -1 v 4.000001 h -6 z"
-     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2.82843;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.82843;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <rect
      y="14"
@@ -119,6 +119,6 @@
      height="7"
      width="7"
      id="rect1"
-     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
      transform="rotate(-90)" />
 </svg>

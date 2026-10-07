@@ -64,7 +64,7 @@
 
 /&gt;<path
    id="rect9566"
-   style="opacity:0.8;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    d="M 7 1 C 6.446 1 6 1.446 6 2 L 4 2 C 2.8919998 2 2 2.892 2 4 L 2 13 C 2 14.108 2.8919998 15 4 15 L 7 15 L 9.2558594 15 L 8.3769531 14.267578 A 1.0001 1.0001 0 0 1 8.3730469 12.736328 L 11.355469 10.220703 A 1.0001 1.0001 0 0 1 13 10.980469 L 13.003906 11.96875 C 13.374662 11.96284 13.782585 11.960086 13.9375 11.941406 C 13.94204 11.911486 13.937188 11.956892 13.960938 11.671875 C 13.990597 11.316039 13.9984 10.710739 14 9.9824219 L 14 6 L 14 4 C 14 2.892001 13.108 2 12 2 L 10 2 C 10 1.4459999 9.554 1 9 1 L 7 1 z " />
 <rect
    style="vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -84,7 +84,7 @@
    rx="1" />
 <path
    id="rect1-7"
-   style="opacity:0.5;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="opacity:0.5;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    d="M 4 3 C 3.446 3 3 3.446 3 4 L 3 13 C 3 13.554 3.446 14 4 14 L 8.1523438 14 A 1.0001 1.0001 0 0 1 8.3730469 12.736328 L 11.355469 10.220703 A 1.0001 1.0001 0 0 1 13 10.980469 L 13 4 C 13 3.446 12.554 3 12 3 L 4 3 z " />
 <rect
    style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
@@ -95,6 +95,6 @@
    y="2.9999998" />
 <path
    id="path833-7"
-   style="fill:#0ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="M 15 9.984375 C 14.9984 10.716842 14.992501 11.330026 14.957031 11.755859 C 14.913211 12.281705 14.818062 12.561594 14.726562 12.683594 C 14.635063 12.805594 14.52025 12.874676 14.162109 12.927734 C 13.803969 12.980794 13.251953 12.984375 12.501953 12.984375 L 12.007812 12.984375 L 12 10.984375 L 9.0175781 13.5 L 12.017578 16 L 12.009766 13.984375 L 12.501953 13.984375 C 13.251953 13.984375 13.824938 13.987976 14.310547 13.916016 C 14.796155 13.844076 15.243844 13.663156 15.527344 13.285156 C 15.810844 12.907156 15.903195 12.437045 15.953125 11.837891 C 15.993645 11.351685 15.99884 10.723317 16 9.984375 L 15 9.984375 z " />
 </svg>

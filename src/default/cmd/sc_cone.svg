@@ -72,9 +72,9 @@
        offset="0"
        stop-color="#b3b3b3"
        id="stop2"
-       style="stop-color:#0000ff;stop-opacity:0;" />
+       style="stop-color:#000080;stop-opacity:0;" />
     <stop
-       style="stop-color:#0000ff;stop-opacity:0;"
+       style="stop-color:#000080;stop-opacity:0;"
        id="stop829"
        stop-color="#b3b3b3"
        offset="0.33333334" />
@@ -82,7 +82,7 @@
        offset="1"
        stop-color="#232629"
        id="stop4"
-       style="stop-color:#0000ff;stop-opacity:0.75;" />
+       style="stop-color:#000080;stop-opacity:0.75;" />
   </linearGradient>
   <path
      id="path825"
@@ -90,7 +90,7 @@
      opacity=".986928"
      fill="url(#a)"
      d="m8 2-5.71875 8.085938c-.1818438.286499-.28125.597413-.28125.914062 0 1.656821 2.6863001 3 6 3 3.3137 0 6-1.343179 6-3 0-.362399-.139465-.709576-.375-1.03125z"
-     style="fill:#0000ff;stroke:#0000ff;opacity:0.8;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+     style="fill:#000080;stroke:#000080;opacity:0.8;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
   <path
      d="m8 2-5.71875 8.085938c-.1818438.286499-.28125.597413-.28125.914062 0 1.656821 2.6863001 3 6 3 3.3137 0 6-1.343179 6-3 0-.362399-.139465-.709576-.375-1.03125z"
      fill="url(#a)"

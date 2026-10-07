@@ -99,14 +99,14 @@
          offset="1"
          stop-color="#b3b3b3"
          id="stop4-3"
-         style="stop-color:#0000ff;stop-opacity:1;" />
+         style="stop-color:#000080;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <path
      id="path825"
      fill="url(#0)"
      d="m16.40625 4l-4 4-1.09375 1.09375-3.3125 3.28125v.03125l-.6875.6875-3.3125 3.28125v1.625l2 2h1.625l3.96875-4 1.125-1.125 3.28125-3.28125.71875-.71875 3.28125-3.28125v-1.59375l-2-2h-1.59375"
-     style="fill:#0000ff;stroke:#0000ff;opacity:0.8;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+     style="fill:#000080;stroke:#000080;opacity:0.8;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
   <path
      d="M 16.40625,4 4,16.375 V 18 l 2,2 H 7.625 C 7.6871223,20.003187 20,7.59375 20,7.59375 V 6 L 18,4 Z"
      fill="url(#a)"

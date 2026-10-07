@@ -83,18 +83,18 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="csssscc" />
 <path
-   style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#0000ff;fill-opacity:1;stroke-width:1.41421366;marker:none"
+   style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#000080;fill-opacity:1;stroke-width:1.41421366;marker:none"
    d="m 6,12 v 1 h 4 v -1 z"
    id="path2005"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccccc" />
 <path
    id="rect824"
-   style="opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="M 6 1 C 4.892 1 4 1.892 4 3 L 4 5 L 3 5 C 1.892 5 1 5.892 1 7 L 1 11 C 1 12.108 1.892 13 3 13 L 4 13 C 4 14.108 4.892 15 6 15 L 10 15 C 11.108 15 12 14.108 12 13 L 13 13 C 14.108 13 15 12.108 15 11 L 15 7 C 15 5.892 14.108 5 13 5 L 12 5 L 12 3 C 12 1.892 11.108 1 10 1 L 6 1 z M 6 2 L 10 2 C 10.554 2 11 2.446 11 3 L 11 5 L 5 5 L 5 3 C 5 2.446 5.446 2 6 2 z M 3 6 L 13 6 C 13.554 6 14 6.446 14 7 L 14 11 C 14 11.554 13.554 12 13 12 L 12 12 L 12 9 L 4 9 L 4 12 L 3 12 C 2.446 12 2 11.554 2 11 L 2 7 C 2 6.446 2.446 6 3 6 z M 5 10 L 11 10 L 11 12 L 11 13 C 11 13.554 10.554 14 10 14 L 6 14 C 5.446 14 5 13.554 5 13 L 5 12 L 5 10 z " />
 <path
    id="path1"
-   style="opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="opacity:0.5;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="m 3,6 c -0.069249,0 -0.1359584,0.00625 -0.2011719,0.019531 -0.032607,0.00664 -0.066306,0.015681 -0.097656,0.025391 C 2.3249662,6.1614423 2.046694,6.4921126 2.0058594,6.8964844 2.0024563,6.9301841 2.000001,6.9653739 2,7 v 4 c 0,0.415491 0.2502318,0.770463 0.609375,0.921875 0.029929,0.01262 0.060447,0.02349 0.091797,0.0332 C 2.7952237,11.984212 2.896126,11.999997 3,12 H 4 V 9 h 8 v 3 h 1 c 0.554,0 1,-0.446 1,-1 V 7 C 14,6.446 13.554,6 13,6 Z"
    sodipodi:nodetypes="sssscssscccccsssss" />
 </svg>

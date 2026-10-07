@@ -68,14 +68,14 @@
      x="3"
      y="8" />
   <path
-     style="fill:#0000ff;fill-opacity:1"
+     style="fill:#000080;fill-opacity:1"
      d="M 6,3 V 6 H 7 V 4 h 7 V 3 Z"
      id="path2" />
   <path
      d="m 6,9 v 2 H 4 v 1 h 2 v 2 H 7 V 12 H 9 V 11 H 7 V 9 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#00ff00"
+     style="fill:#0f0"
      sodipodi:nodetypes="ccccccccccccc" />
   <rect
      style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -94,12 +94,12 @@
      id="rect849"
      style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1"
      d="m 15.000001,1.906249 v 4.09375 h 6 v -4.09375 z m 1,1 h 4 v 2 h -4 z"
      id="path827"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1"
      d="M 15,16.90625 V 21 h 6 v -4.09375 z m 1,1 h 4 v 2 h -4 z"
      id="path823"
      inkscape:connector-curvature="0" />
@@ -107,7 +107,7 @@
      d="m 15.000001,6.8593735 v 4.0937515 h 6 V 6.8593735 Z m 1,1 h 4 v 2.000001 h -4 z"
      id="path4-8"
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#0000ff"
+     style="opacity:0.8;fill:#000080"
      sodipodi:nodetypes="cccccccccc" />
   <rect
      ry="0"
@@ -119,10 +119,10 @@
      style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="rect1"
-     style="fill:#00ff00;stroke:none;stroke-width:2;stroke-linecap:square"
+     style="fill:#0f0;stroke:none;stroke-width:2;stroke-linecap:square"
      d="m 2,7 v 9 h 9 V 7 Z m 1,1 h 7 v 7 H 3 Z" />
   <path
-     style="fill:#0000ff;fill-opacity:1"
+     style="fill:#000080;fill-opacity:1"
      d="m 6,20 v -3 h 1 v 2 h 7 v 1 z"
      id="path3" />
   <rect
@@ -137,6 +137,6 @@
      d="M 15.000001,11.906249 V 16 h 6 v -4.093751 z m 1,1 h 4 v 2.000001 h -4 z"
      id="path5"
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#0000ff"
+     style="opacity:0.8;fill:#000080"
      sodipodi:nodetypes="cccccccccc" />
 </svg>

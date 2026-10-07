@@ -62,20 +62,20 @@
        units="px" />
   </sodipodi:namedview>
   <path
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
      d="M 4,13 H 19 V 28 H 4 Z"
      id="path3" />
   <path
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
      d="M 28,12.5 A 8.5,8.5 0 0 1 19.5,21 8.5,8.5 0 0 1 11,12.5 8.5,8.5 0 0 1 19.5,4 8.5,8.5 0 0 1 28,12.5 Z"
      id="path5" />
   <path
      id="path6"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#00ffff;opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#ff00ff;opacity:1"
      d="M 19.5 3 C 14.26514 3 10 7.2651395 10 12.5 C 10 17.73486 14.26514 22 19.5 22 C 24.73486 22 29 17.73486 29 12.5 C 29 7.2651395 24.73486 3 19.5 3 z M 19.5 4 A 8.5 8.5 0 0 1 28 12.5 A 8.5 8.5 0 0 1 19.5 21 A 8.5 8.5 0 0 1 11 12.5 A 8.5 8.5 0 0 1 19.5 4 z " />
   <path
      id="path4"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#00ffff;opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#ff00ff;opacity:1"
      d="M 4 12 A 1.0001 1.0001 0 0 0 3 13 L 3 28 A 1.0001 1.0001 0 0 0 4 29 L 19 29 A 1.0001 1.0001 0 0 0 20 28 L 20 13 A 1.0001 1.0001 0 0 0 19 12 L 4 12 z M 4 13 L 19 13 L 19 28 L 4 28 L 4 13 z " />
   <path
      id="path7"
@@ -84,7 +84,7 @@
      sodipodi:nodetypes="cccc" />
   <path
      id="path8"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 10.013672,12 C 10.005026,12.165599 10,12.332302 10,12.5 c 0,0.167698 0.005,0.334401 0.01367,0.5 C 10.266265,17.83815 14.16185,21.733735 19,21.986328 19.165599,21.994974 19.332302,22 19.5,22 c 0.167698,0 0.334401,-0.005 0.5,-0.01367 V 20.984375 13 c -5.5e-5,-0.552262 -0.447738,-0.999945 -1,-1 h -7.984375 z m 1.001953,1 H 19 v 7.984375 C 14.699873,20.730552 11.269448,17.300127 11.015625,13 Z"
      sodipodi:nodetypes="cscsscccccccccc" />
 </svg>

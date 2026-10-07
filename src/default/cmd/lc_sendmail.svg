@@ -62,7 +62,7 @@
        units="px" />
   </sodipodi:namedview>
   <path
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99980211"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.99980211"
      d="m 5.9941407,3.9614254 c -1.2582,0.0145 -2.1788906,-0.030604 -2.9316406,0.3847656 -0.37637,0.20766 -0.6732306,0.5593869 -0.8378906,0.9980469 -0.16467,0.43867 -0.2246094,0.9595875 -0.2246094,1.6171875 v 1.4882812 8.5892814 c 0,0.65761 0.059899,1.178577 0.2246094,1.617188 0.16468,0.43861 0.4615306,0.788523 0.8378906,0.996093 0.75272,0.41513 1.6735406,0.371649 2.9316406,0.386719 h 0.00195 12.0058593 0.0039 c 1.25819,-0.0145 2.178891,0.0306 2.931641,-0.384766 0.37637,-0.20766 0.673221,-0.559386 0.837891,-0.998046 C 21.939921,18.217505 22,17.696598 22,17.038988 V 8.4282224 6.9614255 C 22,6.3038254 21.9401,5.7828479 21.775391,5.3442379 21.610711,4.9056379 21.31386,4.5557041 20.9375,4.3481442 20.18478,3.9330142 19.263949,3.9765054 18.005859,3.9614254 h -0.002 H 5.998 Z"
      id="path4237-1"
      inkscape:connector-curvature="0"
@@ -76,7 +76,7 @@
   <g
      id="g930"
      transform="matrix(1.25,0,0,1.25,2,2)"
-     style="fill:#00ffff">
+     style="fill:#ff00ff">
     <path
        d="M 2.537,4.578 2.252,5.016 8.125,9.236 14,5 13.715,4.578 8.125,7.951 Z"
        fill="#808080"
@@ -88,6 +88,6 @@
        word-spacing="0"
        id="path2"
        sodipodi:nodetypes="ccccccc"
-       style="fill:#00ffff" />
+       style="fill:#ff00ff" />
   </g>
 </svg>

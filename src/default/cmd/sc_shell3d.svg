@@ -86,9 +86,9 @@
        offset="0"
        stop-color="#b3b3b3"
        id="stop2"
-       style="stop-color:#0000ff;stop-opacity:0;" />
+       style="stop-color:#000080;stop-opacity:0;" />
     <stop
-       style="stop-color:#0000ff;stop-opacity:0;"
+       style="stop-color:#000080;stop-opacity:0;"
        id="stop831"
        stop-color="#b3b3b3"
        offset="0.39999998" />
@@ -96,7 +96,7 @@
        offset="1"
        stop-color="#232629"
        id="stop4"
-       style="stop-color:#0000ff;stop-opacity:0.5;" />
+       style="stop-color:#000080;stop-opacity:0.5;" />
   </linearGradient>
   <path
      id="path825"
@@ -104,7 +104,7 @@
      fill-rule="evenodd"
      fill="url(#a)"
      d="m8 3c-3.2100023 0-5.8156373 2.8059689-5.9765625 6.328125-.0204825.1119997-.0234375.2228076-.0234375.3378906 0 1.8409114 2.6862915 3.3339844 6 3.3339844 3.313709 0 6-1.493073 6-3.3339844 0-.115083-.002925-.2258909-.023438-.3378906-.160925-3.5221561-2.76656-6.328125-5.976562-6.328125z"
-     style="fill:#0000ff;stroke:#0000ff;opacity:0.8;stroke-width:2.00000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+     style="fill:#000080;stroke:#000080;opacity:0.8;stroke-width:2.00000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
   <path
      d="m8 3c-3.2100023 0-5.8156373 2.8059689-5.9765625 6.328125-.0204825.1119997-.0234375.2228076-.0234375.3378906 0 1.8409114 2.6862915 3.3339844 6 3.3339844 3.313709 0 6-1.493073 6-3.3339844 0-.115083-.002925-.2258909-.023438-.3378906-.160925-3.5221561-2.76656-6.328125-5.976562-6.328125z"
      fill="url(#a)"

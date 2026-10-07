@@ -70,18 +70,18 @@
      y="5" />
   <path
      id="rect1"
-     style="fill:#0000ff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#000080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 7,8 V 19 H 9 V 8 Z m 8,3 v 8 h 2 v -8 z m -4,3 v 5 h 2 v -5 z"
      sodipodi:nodetypes="ccccccccccccccc" />
   <rect
-     style="fill:#00ffff;stroke-width:2"
+     style="fill:#ff00ff;stroke-width:2"
      id="rect4"
      width="1"
      height="10"
      x="1"
      y="7" />
   <rect
-     style="fill:#00ffff;stroke-width:2"
+     style="fill:#ff00ff;stroke-width:2"
      id="rect5"
      width="12"
      height="1"
@@ -89,6 +89,6 @@
      y="21" />
   <path
      id="rect3"
-     style="fill:#0000ff;stroke-width:2;opacity:1"
+     style="fill:#000080;stroke-width:2;opacity:1"
      d="M 3 3 L 3 19 L 2 19 L 2 20 L 3 20 L 3 21 L 4 21 L 4 20 L 22 20 L 22 19 L 4 19 L 4 3 L 3 3 z " />
 </svg>

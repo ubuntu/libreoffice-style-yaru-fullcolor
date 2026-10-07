@@ -63,7 +63,7 @@
 
 /&gt;<path
    id="path6"
-   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
    d="M 8.828125 1 L 9.828125 2 L 12 2 L 15 5 L 15 12 C 15 14 14 14 12 14 L 11.626953 14 C 11.450672 14.385919 11.206971 14.722249 10.914062 15 L 12 15 C 13 15 13.839495 15.07342 14.697266 14.644531 C 15.126151 14.430089 15.517824 14.032165 15.726562 13.5625 C 15.935303 13.092835 16 12.583333 16 12 L 16 5 C 15.999949 4.734801 15.894567 4.4804805 15.707031 4.2929688 L 12.707031 1.2929688 C 12.519519 1.1054326 12.265199 1.0000511 12 1 L 9 1 C 8.9419697 1 8.8851093 1.000382 8.828125 1 z M 5.0917969 3 C 5.024463 3.3106965 5 3.6413972 5 4 L 5 12 C 5 12.358603 5.024463 12.689303 5.0917969 13 L 6.1269531 13 C 6.0418342 12.740079 6 12.412599 6 12 L 6 4 C 6 3.5874011 6.0418342 3.259921 6.1269531 3 L 5.0917969 3 z " />
 <path
    inkscape:connector-curvature="0"
@@ -75,11 +75,11 @@
    inkscape:connector-curvature="0"
    d="M 12,5 V 2 l 3,3 z"
    id="path8"
-   style="opacity:0.5;fill:#0000ff;fill-opacity:1"
+   style="opacity:0.5;fill:#000080;fill-opacity:1"
    sodipodi:nodetypes="cccc" />
 <path
    id="path3"
-   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
    d="m 4.0000001,1 c -1,0 -1.8394947,-0.0734167 -2.6972656,0.3554688 C 0.873849,1.5699114 0.4821775,1.9678352 0.2734376,2.4375 0.0646977,2.9071648 1e-7,3.4166667 1e-7,4 v 8 c 0,0.583333 0.064698,1.092835 0.2734375,1.5625 0.2087399,0.469665 0.6004114,0.867589 1.0292969,1.082031 C 2.1605054,15.073417 3.0000001,15 4.0000001,15 h 3.0000001 c 1,0 1.839495,0.07342 2.6972659,-0.355469 C 10.126151,14.430089 10.517824,14.032165 10.726562,13.5625 10.935303,13.092835 11,12.583333 11,12 V 5 C 10.999949,4.734801 10.894567,4.4804805 10.707031,4.2929688 l -2.9999998,-3 C 7.5195195,1.1054326 7.2651991,1.0000511 7.0000002,1 Z m 0,1 H 7.0000002 L 10,5 v 7 c 0,2 -0.9999999,2 -2.9999998,2 H 4.0000001 c -2,0 -3,0 -3,-2 V 4 c 0,-2 1,-2 3,-2 z"
    sodipodi:nodetypes="ssssssssssssccccssccssssss" />
 <path
@@ -92,6 +92,6 @@
    inkscape:connector-curvature="0"
    d="M 7,5 V 2 l 3,3 z"
    id="path4"
-   style="opacity:0.5;fill:#0000ff;fill-opacity:1"
+   style="opacity:0.5;fill:#000080;fill-opacity:1"
    sodipodi:nodetypes="cccc" />
 </svg>

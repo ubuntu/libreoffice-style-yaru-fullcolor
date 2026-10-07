@@ -71,7 +71,7 @@
      d="m 3,6 1e-6,0.9999991 -1.0000009,8e-7 L 2,8.0000001 H 3 V 9 l 0.9999992,1.7e-6 L 4,8 l 0.9999996,5e-7 L 5,7 4.000001,6.999999 4,6 Z"
      id="path4-88"
      inkscape:connector-curvature="0"
-     style="fill:#00ff00;fill-opacity:1"
+     style="fill:#0f0;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccc" />
   <rect
      ry="0"
@@ -83,11 +83,11 @@
      style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path823"
-     style="fill:#0000ff;fill-opacity:1;opacity:0.8"
+     style="fill:#000080;fill-opacity:1;opacity:0.8"
      d="M 9 0 L 9 5 L 9 10 L 9 15 L 15 15 L 15 10 L 15 5 L 15 0 L 9 0 z M 10 1 L 14 1 L 14 4 L 10 4 L 10 1 z M 10 6 L 14 6 L 14 9 L 10 9 L 10 6 z M 10 11 L 14 11 L 14 14 L 10 14 L 10 11 z " />
   <path
      id="rect2"
-     style="fill:#0000ff;stroke-width:2;stroke-linecap:square"
+     style="fill:#000080;stroke-width:2;stroke-linecap:square"
      d="M 3,1 V 2 3 H 4 V 2 H 8 V 1 Z m 0,11 v 1 1 H 8 V 13 H 4 v -1 z"
      sodipodi:nodetypes="cccccccccccccccc" />
   <rect
@@ -108,6 +108,6 @@
      style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="rect8"
-     style="opacity:0.8;fill:#00ff00;stroke-width:2;stroke-linecap:square"
+     style="opacity:0.8;fill:#0f0;stroke-width:2;stroke-linecap:square"
      d="M 0 4 L 0 5 L 0 10 L 0 11 L 7 11 L 7 10 L 7 5 L 7 4 L 0 4 z M 1 5 L 6 5 L 6 10 L 1 10 L 1 5 z " />
 </svg>

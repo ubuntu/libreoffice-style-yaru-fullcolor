@@ -68,11 +68,11 @@
    inkscape:connector-curvature="0"
    id="path1993"
    d="M 7.983344,1.9886102 C 6.426763,1.9994062 3.873379,1.9768582 2.323428,2.0273852 1.862199,2.0700532 1.30724,2.2338046 1.168088,2.737352 0.949094,3.3726984 1.059674,4.0711392 1.022292,4.7192763 c -0.0078,2.2970841 -0.02297,5.6350027 0.02152,7.9243547 0.0391,0.461928 0.202551,1.012665 0.698756,1.163665 0.632456,0.225082 1.284144,0.12274 1.935974,0.154299 1.424235,0.0068 3.850538,0.01102 5.276395,0.01131 1.704531,3.49e-4 2.408363,-0.005 4.107165,-0.01851 0.511911,-0.01201 1.183699,0.01993 1.584745,-0.405191 0.421097,-0.539783 0.287073,-1.268022 0.322745,-1.903787 0.01187,-2.444323 0.02769,-5.9496696 -0.0219,-8.3953691 C 14.898416,2.8480076 14.7777,2.3870958 14.372553,2.2055727 13.704384,1.9114753 12.946348,2.0375538 12.246632,2 10.492225,1.9881974 9.737783,1.9875156 7.983344,1.9886102 Z"
-   style="vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   style="vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    sodipodi:nodetypes="cccccccsccccccc" />
 <path
    id="path2"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.999802"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.999802"
    d="M 3.9941406 0.9609375 C 2.7359406 0.9754375 1.81525 0.93033355 1.0625 1.3457031 C 0.68613 1.5533631 0.38926938 1.90509 0.22460938 2.34375 C 0.059939365 2.78242 -0.02699685 3.3038919 0 3.9609375 L 0 5.4492188 L 0 12 C 0 12.65761 0.059900375 13.178576 0.22460938 13.617188 C 0.38928936 14.055797 0.68614 14.405712 1.0625 14.613281 C 1.1337077 14.652553 1.2068904 14.687249 1.28125 14.71875 L 2.0976562 13.902344 C 1.9783108 13.880142 1.8603393 13.848688 1.7421875 13.806641 C 1.2459825 13.655641 1.0820687 13.106459 1.0429688 12.644531 C 0.99847875 10.355179 1.0136844 7.0158341 1.0214844 4.71875 C 1.0588664 4.0706129 0.94897465 3.3736276 1.1679688 2.7382812 C 1.3071206 2.2347339 1.8629897 2.0700117 2.3242188 2.0273438 C 3.8741698 1.9768167 6.4258409 1.9990772 7.9824219 1.9882812 C 9.7368609 1.9871868 10.491687 1.9881974 12.246094 2 C 12.795683 2.0294966 13.381626 1.9580009 13.931641 2.0683594 L 14.746094 1.2539062 C 14.029154 0.93976486 13.159542 0.97476603 12.005859 0.9609375 L 12.003906 0.9609375 L 3.9980469 0.9609375 L 3.9941406 0.9609375 z " />
 <path
    id="path3"
@@ -86,6 +86,6 @@
    r="4" />
 <path
    id="path1"
-   style="opacity:1;fill:#0000ff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   style="opacity:1;fill:#000080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
    d="M 8 4 A 4 4 0 0 0 4 8 A 4 4 0 0 0 5.171875 10.828125 L 10.828125 5.171875 A 4 4 0 0 0 8 4 z " />
 </svg>

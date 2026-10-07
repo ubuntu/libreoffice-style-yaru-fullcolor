@@ -95,7 +95,7 @@
   </defs>
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 8,3 C 7,3 6.1605052,2.9265833 5.3027344,3.3554688 4.8738489,3.5699113 4.4821774,3.9678353 4.2734375,4.4375 4.0646976,4.9071647 4,5.4166667 4,6 v 12 c 0,0.583333 0.064698,1.092835 0.2734375,1.5625 0.2087399,0.469665 0.6004114,0.867589 1.0292969,1.082031 C 6.1605053,21.073417 7,21 8,21 h 8 c 1,0 1.839495,0.07342 2.697266,-0.355469 0.428885,-0.214442 0.820558,-0.612366 1.029296,-1.082031 C 19.935303,19.092835 20,18.583333 20,18 V 9.40625 8 A 1.0001,1.0001 0 0 0 19.707031,7.2929688 l -1,-1 -2,-2 -1,-1 A 1.0001,1.0001 0 0 0 15,3 Z m 0,1 h 7 l 1,1 2,2 1,1 V 9.40625 18 c 0,2 -1,2 -3,2 H 8 C 6,20 5,20 5,18 V 6 C 5,4.0000001 6,4 8,4 Z" />
   <path
      inkscape:connector-curvature="0"
@@ -107,5 +107,5 @@
      inkscape:connector-curvature="0"
      d="M 15,7.9999998 V 3.9999999 l 4,3.9999999 z"
      id="path4"
-     style="opacity:0.5;fill:#0000ff;fill-opacity:1" />
+     style="opacity:0.5;fill:#000080;fill-opacity:1" />
 </svg>

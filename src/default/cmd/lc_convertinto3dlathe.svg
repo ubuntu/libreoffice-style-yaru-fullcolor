@@ -45,15 +45,15 @@
        inkscape:collect="always"
        id="linearGradient839">
       <stop
-         style="stop-color:#0000ff;stop-opacity:0;"
+         style="stop-color:#000080;stop-opacity:0;"
          offset="0"
          id="stop835" />
       <stop
          id="stop845"
          offset="0.3125"
-         style="stop-color:#0000ff;stop-opacity:0;" />
+         style="stop-color:#000080;stop-opacity:0;" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0.75;"
+         style="stop-color:#000080;stop-opacity:0.75;"
          offset="1"
          id="stop837" />
     </linearGradient>
@@ -114,7 +114,7 @@
   </linearGradient>
   <path
      id="path3"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 12 3 A 1.0001 1.0001 0 0 0 11.183594 3.421875 L 3.5585938 14.203125 A 1.0001 1.0001 0 0 0 3.53125 14.246094 C 3.2017619 14.76521 3 15.368514 3 16 C 3 17.645 4.2667909 18.907804 5.8964844 19.722656 C 7.5261779 20.537508 9.655748 21 12 21 C 13.112779 21 14.17658 20.895861 15.162109 20.699219 A 4.5 4.5 0 0 1 15 19.5 A 4.5 4.5 0 0 0 15.003906 19.708984 C 14.076167 19.89711 13.062741 20 12 20 C 7.581722 20 4 18.2091 4 16 C 4 15.5778 4.132541 15.16325 4.375 14.78125 L 12 4 L 19.5 14.625 C 19.591071 14.749378 19.672118 14.876097 19.740234 15.005859 A 4.5 4.5 0 0 0 19.5 15 A 4.5 4.5 0 0 1 20.894531 15.220703 C 20.775569 14.786252 20.564436 14.387234 20.306641 14.035156 L 12.816406 3.4238281 A 1.0001 1.0001 0 0 0 12 3 z " />
   <path
      id="path7"
@@ -125,7 +125,7 @@
      style="fill:url(#linearGradient841);fill-opacity:1"
      d="M 12 4 L 4.375 14.78125 C 4.132541 15.16325 4 15.5778 4 16 C 4 18.2091 7.581722 20 12 20 C 13.062741 20 14.076167 19.89711 15.003906 19.708984 A 4.5 4.5 0 0 1 15 19.5 A 4.5 4.5 0 0 1 19.5 15 A 4.5 4.5 0 0 1 19.740234 15.005859 C 19.672118 14.876097 19.591071 14.749378 19.5 14.625 L 12 4 z " />
   <circle
-     style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
      cy="19.5"
      cx="19.5"

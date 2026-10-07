@@ -64,10 +64,10 @@
    color="#000000"
    fill="#808080"
    id="g2"
-   style="fill:#0000ff">
+   style="fill:#000080">
   <path
      d="M 4.994,3 C 3.736,3.015 2.815,2.97 2.063,3.385 1.6736148,3.6071175 1.376414,3.9610631 1.225,4.383 1.06,4.82 0.9992116,5.3430005 1,6 l 0.006,5 c 7.896e-4,0.658 0.06,1.179 0.225,1.617 0.164,0.439 0.461,0.79 0.838,0.998 C 2.821,14.031 3.742,13.985 5,14 h 6.006 c 1.258,-0.015 2.179,0.03 2.932,-0.385 0.389385,-0.222117 0.686586,-0.576063 0.838,-0.998 C 14.94,12.179 15.000788,11.657 15,11 L 14.994,6 C 14.99321,5.3420005 14.934,4.821 14.769,4.383 14.617586,3.9610631 14.320385,3.6071175 13.931,3.385 13.179,2.969 12.258,3.015 11,3 l -0.006,1 c 1.259,0.015 2.087,0.06 2.453,0.262 0.184,0.1 0.29,0.212 0.387,0.472 0.097,0.26 0.15929,0.6740004 0.16,1.266 L 14,11 c 7.1e-4,0.592 -0.063,1.006 -0.16,1.266 -0.098,0.26 -0.203,0.371 -0.387,0.472 C 13.087,12.94 12.259,12.985 11,13 H 5.006 C 3.747,12.985 2.916,12.94 2.551,12.738 2.368,12.638 2.264,12.526 2.166,12.266 2.069,12.006 2.0067104,11.592 2.006,11 L 2,6 C 1.9992896,5.4080004 2.063,4.994 2.16,4.734 2.258,4.474 2.362,4.363 2.545,4.262 2.91,4.06 3.74,4.015 5,4 H 6.5 V 3 H 4.998 Z"
-     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#0000ff;marker:none"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#000080;marker:none"
      font-weight="400"
      font-family="sans-serif"
      white-space="normal"
@@ -76,7 +76,7 @@
      sodipodi:nodetypes="cccssccccccsscccccsssccccccssccccccc" />
   <path
      d="M 5,1 5.001,6 C 5.761,5.652 6.536,5.263 7.324,4.834 8.0900657,4.4118395 8.8433991,3.966976 9.583,3.5 8.858,3.051 8.105,2.611 7.323,2.18 6.5607388,1.7633394 5.7860514,1.3698262 5,1 Z"
-     style="fill:#0000ff;marker:none"
+     style="fill:#000080;marker:none"
      overflow="visible"
      id="path2"
      sodipodi:nodetypes="cccccc" />

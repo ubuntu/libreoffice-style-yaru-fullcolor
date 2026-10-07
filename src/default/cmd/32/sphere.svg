@@ -75,17 +75,17 @@
        offset="0"
        stop-color="#b3b3b3"
        id="stop2"
-       style="stop-color:#0000ff;stop-opacity:0;" />
+       style="stop-color:#000080;stop-opacity:0;" />
     <stop
        id="stop829"
        stop-color="#b3b3b3"
        offset="0.29166678"
-       style="stop-color:#0000ff;stop-opacity:0;" />
+       style="stop-color:#000080;stop-opacity:0;" />
     <stop
        offset="1"
        stop-color="#232629"
        id="stop4"
-       style="stop-color:#0000ff;stop-opacity:0.5;" />
+       style="stop-color:#000080;stop-opacity:0.5;" />
   </radialGradient>
   <path
      id="path825"
@@ -93,7 +93,7 @@
      fill-rule="evenodd"
      fill="url(#a)"
      d="m16 4a12 12.000013 0 0 0 -12 12 12 12.000013 0 0 0 12 12 12 12.000013 0 0 0 12-12 12 12.000013 0 0 0 -12-12z"
-     style="fill:#0000ff;stroke:#0000ff;opacity:0.8;stroke-width:1.99999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
+     style="fill:#000080;stroke:#000080;opacity:0.8;stroke-width:1.99999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round" />
   <path
      d="m16 4a12 12.000013 0 0 0 -12 12 12 12.000013 0 0 0 12 12 12 12.000013 0 0 0 12-12 12 12.000013 0 0 0 -12-12z"
      fill="url(#a)"

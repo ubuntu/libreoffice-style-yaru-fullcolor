@@ -132,7 +132,7 @@
      style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="rect861"
-     style="opacity:0.5;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 5 -3 L 7 -3 L 7 -4 L 5 -4 L 5 -3 z M 6 -20 L 8 -20 L 8 -21 L 6 -21 L 6 -20 z M 8 -3 L 10 -3 L 10 -4 L 8 -4 L 8 -3 z M 9 -20 L 11 -20 L 11 -21 L 9 -21 L 9 -20 z M 11 -3 L 13 -3 L 13 -4 L 11 -4 L 11 -3 z M 12 -20 L 14 -20 L 14 -21 L 12 -21 L 12 -20 z M 14 -3 L 16 -3 L 16 -4 L 14 -4 L 14 -3 z M 15 -20 L 17 -20 L 17 -21 L 15 -21 L 15 -20 z M 17 -3 L 19 -3 L 19 -4 L 17 -4 L 17 -3 z "
      transform="rotate(90)" />
   <rect
@@ -175,12 +175,12 @@
      style="opacity:0.8;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      d="M 3.0000005,3 V 5 H 21 V 3 Z"
-     fill="#0ff"
+     fill="#ff00ff"
      id="path2-0"
      sodipodi:nodetypes="ccccc" />
   <path
      d="m 3.0000005,19 v 2 H 21 v -2 z"
-     fill="#0ff"
+     fill="#ff00ff"
      id="path845"
      sodipodi:nodetypes="ccccc" />
 </svg>

@@ -68,20 +68,20 @@
      transform="rotate(90)" />
   <path
      id="path2"
-     style="fill:#0000ff;opacity:0.8;fill-opacity:1"
+     style="fill:#000080;opacity:0.8;fill-opacity:1"
      d="M 3 1 C 0.99999995 1 1 2 1 4 L 1 12 C 1 14 0.99999995 15 3 15 L 4 15 L 8 15 A 5 5 0 0 1 7.4179688 14 L 4 14 L 3 14 C 2 14 2 13 2 12 L 2 11 L 5 11 L 5 10 L 2 10 L 2 6 L 5 6 L 5 5 L 2 5 L 2 4 C 2 3 2 2 3 2 L 4 2 L 12 2 L 13 2 C 14 2 14 3 14 4 L 14 5 L 11 5 L 11 6 L 14 6 L 14 7.4179688 A 5 5 0 0 1 15 8 L 15 4 C 15 2 15 1 13 1 L 12 1 L 4 1 L 3 1 z " />
   <path
      id="rect837"
-     style="fill:#00ffff;opacity:1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ff00ff;opacity:1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 1 -5 L 15 -5 L 15 -8 A 5 5 0 0 1 14 -7.4179688 L 14 -6 L 11 -6 L 11 -7.1015625 A 5 5 0 0 1 10 -7.4179688 L 10 -6 L 6 -6 L 6 -10 L 7.4179688 -10 A 5 5 0 0 1 7.1015625 -11 L 1 -11 L 1 -5 z M 2 -6 L 2 -10 L 5 -10 L 5 -6 L 2 -6 z "
      transform="rotate(90)" />
   <path
      id="rect839"
-     style="fill:#00ffff;opacity:0.2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ff00ff;opacity:0.2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
      d="M 2 -6 L 14 -6 L 14 -7.4179688 A 5 5 0 0 1 12 -7 A 5 5 0 0 1 7.4179688 -10 L 2 -10 L 2 -6 z "
      transform="rotate(90)" />
   <circle
-     style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path831"
      cx="12"
      cy="12"
@@ -96,6 +96,6 @@
      d="m 11.999999,9.9999996 c -1.104569,0 -1.9999998,0.8954314 -1.9999998,2.0000004 0,1.10457 0.8954308,2 1.9999998,2 1.104569,0 2,-0.89543 2,-2 0.02896,-0.194894 0.02896,-0.392997 0,-0.587891 -0.174008,0.38903 -0.57545,0.625034 -1,0.587891 -0.552285,0 -1,-0.447715 -1,-1 -0.03682,-0.425027 0.200048,-0.826612 0.589844,-1.0000004 -0.195534,-0.02915 -0.39431,-0.02915 -0.589844,0 z"
      id="path2-3"
      inkscape:connector-curvature="0"
-     style="fill:#0000ff"
+     style="fill:#000080"
      sodipodi:nodetypes="csscccccc" />
 </svg>

@@ -17,7 +17,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <path
      id="rect861"
-     style="fill:#0000ff;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#000080;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
      d="M 2 0 L 2 -1 L 14 -1 L 14 0 L 2 0 z M 2 -2 L 2 -3 L 14 -3 L 14 -2 L 2 -2 z M 2 -10 L 2 -11 L 14 -11 L 14 -10 L 2 -10 z M 2 -12 L 2 -13 L 14 -13 L 14 -12 L 2 -12 z M 2 -14 L 2 -15 L 14 -15 L 14 -14 L 2 -14 z "
      transform="scale(1,-1)" />
   <metadata
@@ -71,6 +71,6 @@
      d="M 5,9 8,6 11,9 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#0ff;fill-opacity:1"
+     style="fill:#ff00ff;fill-opacity:1"
      sodipodi:nodetypes="cccc" />
 </svg>

@@ -63,7 +63,7 @@
   </sodipodi:namedview>
   <path
      id="path4237-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.999802"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.999802"
      d="M 7.0117188 2.9726562 C 5.7535187 2.9871562 4.8328281 2.9420559 4.0800781 3.3574219 C 3.7037081 3.5650819 3.4068475 3.9168088 3.2421875 4.3554688 C 3.0775175 4.7941388 3.0175781 5.3150563 3.0175781 5.9726562 L 3.0175781 7.4609375 L 3.0175781 25.972656 C 3.0175781 26.630265 3.0774785 27.151233 3.2421875 27.589844 C 3.4068675 28.028455 3.7037181 28.378369 4.0800781 28.585938 C 4.8327981 29.001068 5.7536188 28.957587 7.0117188 28.972656 L 7.0136719 28.972656 L 20.720703 28.972656 L 20.40625 28.214844 C 20.145063 27.584284 20.482735 26.765095 21.113281 26.503906 L 21.123047 26.5 L 21.109375 26.494141 C 20.467809 26.228395 20.132684 25.422821 20.398438 24.78125 L 20.970703 23.400391 C 21.236447 22.758811 22.042028 22.425653 22.683594 22.691406 L 22.695312 22.695312 L 22.693359 22.689453 C 22.432171 22.05889 22.771799 21.239705 23.402344 20.978516 L 24.787109 20.40625 C 25.417663 20.145069 26.234958 20.482729 26.496094 21.113281 L 26.5 21.121094 L 26.503906 21.109375 C 26.703215 20.6282 27.208375 20.318955 27.71875 20.306641 C 27.888875 20.302536 28.058359 20.332 28.21875 20.398438 L 29.017578 20.728516 L 29.017578 7.4394531 L 29.017578 5.9726562 C 29.017578 5.3150562 28.957678 4.7940787 28.792969 4.3554688 C 28.628289 3.9168687 28.331438 3.566935 27.955078 3.359375 C 27.202308 2.944245 26.281527 2.9877362 25.023438 2.9726562 L 25.019531 2.9726562 L 7.0136719 2.9726562 L 7.0117188 2.9726562 z " />
   <path
      inkscape:connector-curvature="0"
@@ -80,9 +80,9 @@
      height="3"
      width="3"
      id="rect832"
-     style="vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect836"
      width="3"
      height="3"
@@ -100,30 +100,30 @@
      height="3"
      width="3"
      id="rect840"
-     style="vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:3.23077;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      id="rect1"
      width="11"
      height="1"
      x="13"
      y="8" />
   <rect
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      id="rect2"
      width="11"
      height="1"
      x="13"
      y="10" />
   <rect
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      id="rect3"
      width="11"
      height="1"
      x="13"
      y="14" />
   <rect
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      id="rect4"
      width="11"
      height="1"
@@ -131,11 +131,11 @@
      y="16" />
   <path
      id="rect5"
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      d="M 13 20 L 13 21 L 23.353516 21 C 23.369506 20.99247 23.385955 20.985304 23.402344 20.978516 L 24 20.732422 L 24 20 L 13 20 z " />
   <path
      id="rect6"
-     style="fill:#0000ff;stroke-width:2"
+     style="fill:#000080;stroke-width:2"
      d="M 13 22 L 13 23 L 21.242188 23 C 21.610028 22.634517 22.194108 22.488649 22.683594 22.691406 L 22.695312 22.695312 L 22.693359 22.689453 C 22.603233 22.471869 22.584782 22.231826 22.625 22 L 13 22 z " />
   <g
      id="g915"

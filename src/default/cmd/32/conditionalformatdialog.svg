@@ -67,7 +67,7 @@
      d="M 7 5 C 6.0625 5 5.125244 5.000244 5.0117188 5.8242188 C 5.0041504 5.8791504 5 5.9375 5 6 L 5 6.5 L 5 7 L 5 8 L 23 8 L 23 5 L 11 5 L 7 5 z M 24 5 L 24 8 L 27 8 L 27 7 L 27 6.5 L 27 6 C 27 5 26 5 25 5 L 24 5 z M 5 9 L 5 11 L 5 12 L 23 12 L 23 9 L 5 9 z M 24 9 L 24 12 L 27 12 L 27 11 L 27 9 L 24 9 z M 5 13 L 5 15 L 5 16 L 23 16 L 23 13 L 5 13 z M 24 13 L 24 16 L 27 16 L 27 15 L 27 13 L 24 13 z M 5 17 L 5 19 L 5 20 L 18 20 L 18 21 L 5 21 L 5 23 L 5 24 L 18 24 L 18 25 L 5 25 L 5 26 C 5 27 6 27 7 27 L 11 27 L 18.798828 27 L 25 27 C 26 27 27 27 27 26 L 27 25 L 27 24 L 27 23 L 27 20 L 27 19 L 27 18.015625 L 27 17 L 24 17 L 24 18 L 23 18 L 23 17 L 5 17 z M 23 19 L 24 19 L 24 20 L 25.53125 20 L 25.068359 20.925781 L 19.798828 20.925781 C 19.664811 20.925795 19.53672 20.952169 19.419922 21 L 19 21 L 19 20 L 23 20 L 23 19 z " />
   <path
      id="path2"
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1"
      d="M 7 4 C 5 4 4 4 4 6 L 4 26 C 4 28 5 28 7 28 L 18 28 L 18 27 L 13 27 L 12 27 L 11 27 L 7 27 C 6 27 5 27 5 26 L 5 25 L 18 25 L 18 24 L 5 24 L 5 23 L 5 21 L 18 21 L 18 20 L 5 20 L 5 19 L 5 17 L 23 17 L 23 18 L 24 18 L 24 17 L 27 17 L 27 18 L 28 18 L 28 6 C 28 4 27 4 25 4 L 7 4 z M 7 5 L 11 5 L 12 5 L 13 5 L 19 5 L 20 5 L 21 5 L 23 5 L 23 8 L 5 8 L 5 7 L 5 6.5 L 5 6 C 5 5 6 5 7 5 z M 24 5 L 25 5 C 26 5 27 5 27 6 L 27 6.5 L 27 7 L 27 8 L 24 8 L 24 5 z M 5 9 L 23 9 L 23 12 L 5 12 L 5 11 L 5 9 z M 24 9 L 27 9 L 27 11 L 27 12 L 24 12 L 24 9 z M 5 13 L 23 13 L 23 16 L 5 16 L 5 15 L 5 13 z M 24 13 L 27 13 L 27 15 L 27 16 L 24 16 L 24 13 z " />
   <path
      id="rect22"
@@ -80,12 +80,12 @@
      d="M 9 21 L 9 24 L 18 24 L 18 21 L 9 21 z " />
   <path
      id="rect24"
-     style="opacity:0.2;fill:#00ff00;stroke-width:2"
+     style="opacity:0.2;fill:#0f0;stroke-width:2"
      d="m 9,17 h 5 v 3 H 9 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect25"
-     style="opacity:0.2;fill:#00ff00;stroke-width:2"
+     style="opacity:0.2;fill:#0f0;stroke-width:2"
      d="m 9,13 h 9 v 3 H 9 Z"
      sodipodi:nodetypes="ccccc" />
   <path
@@ -108,7 +108,7 @@
      d="M 8 20 L 8 27 L 8 28 L 13 28 L 13 27 L 13 25 L 18 25 L 18 24 L 9 24 L 9 21 L 14 21 L 15 21 L 18 21 L 18 20 L 15 20 L 14 20 L 9 20 L 8 20 z M 9 25 L 12 25 L 12 27 L 9 27 L 9 25 z " />
   <path
      id="path4"
-     style="fill:#00ff00;stroke:none;stroke-width:2"
+     style="fill:#0f0;stroke:none;stroke-width:2"
      d="m 8,12 v 8 h 1 v -3 h 5 v 3 h 1 v -3 h 3 1 V 13 12 H 13 12 9 Z m 1,1 h 4 5 v 3 H 9 Z" />
   <path
      d="M 20,20 H 30 V 30 H 20 Z"
@@ -119,33 +119,33 @@
      fill="#3a3a38"
      id="g5"
      transform="translate(8,8)"
-     style="fill:#0000ff">
+     style="fill:#000080">
     <path
        d="m 12,11 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 H 22 V 22 H 12 Z"
        id="path5"
-       style="fill:#0000ff" />
+       style="fill:#000080" />
   </g>
   <g
      id="path6"
-     style="opacity:1;fill:#00ffff">
+     style="opacity:1;fill:#ff00ff">
     <path
-       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
        d="m 26.499573,21.49996 -3,7"
        id="path7" />
     <path
-       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;fill:#00ffff"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;fill:#ff00ff"
        d="m 26.236328,20.84375 -0.197266,0.458984 -3,7 -0.195312,0.458985 0.917969,0.394531 0.197265,-0.458984 3,-7 0.197266,-0.458985 z"
        id="path8" />
   </g>
   <rect
-     style="fill:#00ffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round"
      id="rect6"
      width="8"
      height="1"
      x="21"
      y="23" />
   <rect
-     style="fill:#00ffff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round"
+     style="fill:#ff00ff;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round"
      id="rect7"
      width="8"
      height="1"

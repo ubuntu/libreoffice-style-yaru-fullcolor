@@ -62,7 +62,7 @@
   </sodipodi:namedview>
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 17,3 A 1.0001,1.0001 0 0 0 16,2 H 8 A 1.0001,1.0001 0 0 0 7,3 v 18 a 1.0001,1.0001 0 0 0 1,1 h 8 a 1.0001,1.0001 0 0 0 1,-1 z M 16,3 V 21 H 8 V 3 Z" />
   <rect
      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -76,9 +76,9 @@
      inkscape:connector-curvature="0"
      id="path900"
      d="m 12,5 2,4 h -4"
-     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 12,19 -2,-4 h 4"
      id="path926"
      inkscape:connector-curvature="0"
@@ -89,5 +89,5 @@
      height="2"
      width="8"
      id="rect836"
-     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.5" />
+     style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.5" />
 </svg>

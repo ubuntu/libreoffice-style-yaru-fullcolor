@@ -34,15 +34,15 @@
        id="linearGradient3"
        inkscape:collect="always">
       <stop
-         style="stop-color:#0000ff;stop-opacity:0.50347513;"
+         style="stop-color:#000080;stop-opacity:0.50347513;"
          offset="0"
          id="stop3" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0.20082384;"
+         style="stop-color:#000080;stop-opacity:0.20082384;"
          offset="0.65692461"
          id="stop7" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0;"
+         style="stop-color:#000080;stop-opacity:0;"
          offset="1"
          id="stop5" />
     </linearGradient>
@@ -159,7 +159,7 @@
   </radialGradient>
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 8 1 C 4.145849 0.99999987 0.99999672 4.145849 1 8 C 0.99999692 11.854151 4.1458491 15 8 15 L 8 10 C 6.883585 10 5.999999 9.116415 6 8 C 5.9999991 6.8835851 6.8835851 5.9999999 8 6 L 8 1 z " />
   <path
      id="path5"
@@ -171,7 +171,7 @@
      d="M 8 2 A 6 6 0 0 0 2 8 A 6 6 0 0 0 8 14 L 8 11 A 3 3 0 0 1 5 8 A 3 3 0 0 1 8 5 L 8 2 z " />
   <path
      id="path9"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 8,15 c 3.854151,0 7.000003,-3.145849 7,-7 3e-6,-3.854151 -3.145849,-7 -7,-7 v 5 c 1.116415,0 2.000001,0.883585 2,2 10e-7,1.1164149 -0.8835851,2 -2,2 z" />
   <path
      id="path10"

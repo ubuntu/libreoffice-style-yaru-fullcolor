@@ -89,7 +89,7 @@
   </sodipodi:namedview>
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 7 3 C 6 3 5.1605053 2.9265833 4.3027344 3.3554688 C 3.8738489 3.5699113 3.4821774 3.9678352 3.2734375 4.4375 C 3.0646976 4.9071648 3 5.4166667 3 6 L 3 16 C 3 16.583333 3.064698 17.092835 3.2734375 17.5625 C 3.4821774 18.032165 3.8738489 18.430089 4.3027344 18.644531 C 5.1605053 19.073417 6 19 7 19 L 9.0097656 19 L 9.0097656 18 L 7 18 C 5 18 4 18 4 16 L 4 6 C 4 4 5 4 7 4 L 9 4 L 12 6 L 17 6 C 19 6 20 6 20 8 L 20 9.7636719 C 20.561255 10.264397 20.935968 10.971783 21 11.759766 L 21 8 C 21 7.4166667 20.935302 6.9071648 20.726562 6.4375 C 20.517823 5.9678352 20.126151 5.5699116 19.697266 5.3554688 C 18.839495 4.9265833 18 5 17 5 L 12.302734 5 L 9.5546875 3.1679688 A 1.0001 1.0001 0 0 0 9 3 L 7 3 z " />
   <path
      style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -99,10 +99,10 @@
      sodipodi:nodetypes="ccccccccccc" />
   <path
      id="path2"
-     style="opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="opacity:0.5;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 7 4 C 5 4 4 4 4 6 L 4 16 C 4 18 5 18 7 18 L 9.0097656 18 L 9.0097656 12 C 9.0097656 10.355297 10.365063 9 12.009766 9 L 18.009766 9 C 18.770143 9 19.468664 9.2896389 20 9.7636719 L 20 8 C 20 6 19 6 17 6 L 12 6 L 9 4 L 7 4 z " />
   <rect
-     style="opacity:0.8;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2081"
      width="10"
      height="11"
@@ -121,6 +121,6 @@
      ry="1" />
   <path
      id="rect2098"
-     style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 12,13 v 1 h 6 v -1 z m 0,2 v 1 h 6 v -1 z m 0,2 v 1 h 3 v -1 z" />
 </svg>

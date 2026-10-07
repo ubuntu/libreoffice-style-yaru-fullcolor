@@ -62,7 +62,7 @@
   </sodipodi:namedview>
   <path
      id="path4237-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.999802"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.999802"
      d="M 6.9941406,5.9726562 C 5.7359406,5.9871563 4.81525,5.9420559 4.0625,6.3574219 3.68613,6.5650819 3.3892694,6.9168087 3.2246094,7.3554688 3.0599394,7.7941388 3,8.3150563 3,8.9726562 v 1.4882818 12.567509 c 0,0.65761 0.0599,1.178576 0.2246094,1.617187 0.16468,0.438611 0.4615306,0.788525 0.8378906,0.996094 0.75272,0.41513 1.6735406,0.371649 2.9316406,0.386719 h 0.00195 18.0058594 0.0039 c 1.25819,-0.0145 2.178891,0.0306 2.931641,-0.384766 0.37637,-0.20766 0.673221,-0.559387 0.837891,-0.998047 C 28.93993,24.206963 29,23.686058 29,23.028447 V 10.439453 8.9726562 C 29,8.3150563 28.9401,7.7940788 28.775391,7.3554688 28.610711,6.9168687 28.31386,6.566935 27.9375,6.359375 27.18473,5.944245 26.263949,5.9877363 25.005859,5.9726562 h -0.002 H 6.9980469 Z M 11.982422,7 c 1.754439,-0.00109 11.509265,-8.12e-5 13.263672,0.011719 0.699716,0.037554 1.458784,-0.08902 2.126953,0.2050781 0.405147,0.181523 0.524939,0.6428818 0.574219,1.0449219 0.04959,2.4457 0.03335,11.966936 0.02148,14.411259 -0.03567,0.635766 0.09883,1.364514 -0.322266,1.904297 -0.401046,0.425121 -1.072073,0.392287 -1.583984,0.404297 -1.698802,0.01351 -11.402891,0.01793 -13.107422,0.01758 -1.425857,-2.9e-4 -4.8531086,-0.003 -6.2773436,-0.0098 -0.65183,-0.03156 -1.3030909,0.07079 -1.9355469,-0.154297 C 4.2459825,24.684088 4.0820688,24.132954 4.0429688,23.671025 3.9984787,21.381673 4.0136844,12.027554 4.0214844,9.7304688 4.0588664,9.0823318 3.9489748,8.3833929 4.1679688,7.7480469 4.3071207,7.2444999 4.8629897,7.0817325 5.3242188,7.0390625 6.8741698,6.9885425 10.425841,7.0108 11.982422,7 Z"
      sodipodi:nodetypes="cccscsccccccccscscccccccccccccsccccccc" />
   <path
@@ -73,18 +73,18 @@
      sodipodi:nodetypes="cccccccscccccccc" />
   <path
      id="rect1"
-     style="fill:#0000ff;stroke:none;stroke-width:4;stroke-linejoin:round"
+     style="fill:#000080;stroke:none;stroke-width:4;stroke-linejoin:round"
      d="m 20.259766,11 -2.800782,2 H 25 v -2 z m -5.59961,4 -1.40039,1 H 25 v -1 z m -2.800781,2 -1.400391,1 H 25 V 17 Z M 9.0605469,19 7.6601562,20 H 25 V 19 Z M 7,21 v 1 h 18 v -1 z"
      sodipodi:nodetypes="ccccccccccccccccccccccccc" />
   <g
      id="path5"
      style="opacity:1">
     <path
-       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000080;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
        d="M 25,7 4,22"
        id="path6" />
     <path
-       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#0000ff;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000080;stroke-linecap:square;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
        d="m 25.117187,6.3027344 -0.408203,0.2910156 -20.9999996,15 -0.40625,0.289062 0.5800781,0.814454 0.4082031,-0.291016 21.0000004,-15 0.40625,-0.2890625 z"
        id="path7" />
   </g>

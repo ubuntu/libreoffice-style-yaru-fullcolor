@@ -54,7 +54,7 @@
      inkscape:deskcolor="#d1d1d1" />
   <path
      id="path10"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m -0.00177577,5.9939635 0.00390625,-1 c 0.0046285,-0.99767 -0.06913873,-1.834304 0.35742188,-2.691406 0.21328029,-0.428551 0.61058068,-0.822042 1.08007814,-1.03125 0.4694974,-0.209208 0.979165,-0.27343798 1.5625,-0.27343798 V 4.9978695 h 4 c -0.6567404,0 -1.322995,0.07163 -1.96875,0.359375 C 4.3296472,5.6708275 3.7902208,6.2038107 3.4650211,6.857245 2.9023195,7.9879 3.0065183,9.0442726 3.0021305,9.9900575 v 0.00781 h -0.00391 C 2.414881,9.9978675 1.9036098,9.9327095 1.4337711,9.72443 0.9639324,9.51615 0.56539353,9.1263021 0.34978673,8.6970863 -0.08142677,7.8386532 -0.00642587,6.9962702 -0.00177577,5.993961 Z M 11.00213,1.5310735 c 0.27527,0.209497 0.501973,0.479887 0.646484,0.767578 0.279857,0.557129 0.347766,1.107501 0.359375,1.699218 H 11.00213 Z" />
   <path
      style="fill:#ffff00"
@@ -72,15 +72,15 @@
      transform="matrix(0,1,1,0,0,0)" />
   <path
      id="rect16"
-     style="opacity:0.2;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.2;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 5.0021305,0.99786952 H 9.0060367 V 3.9978695 h -0.00391 c -0.730103,7.3e-5 -1.3773416,0.405189 -1.7265625,1 H 7.0021305 c -0.6567404,0 -1.322995,0.07163 -1.96875,0.359375 -0.010238,0.0046 -0.021081,0.009 -0.03125,0.01367 z" />
   <path
      id="path12"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 4.0021305,0.99786952 a 1.0001,1.0001 0 0 1 1,-1 h 4.0039062 a 1.0001,1.0001 0 0 1 0.9999993,1 V 3.9978695 H 9.0060367 V 0.99786952 H 5.0021305 V 1.9978695 h 2 v 1 h -2 v 2 h 2 c -0.6567404,0 -1.322995,0.07163 -1.96875,0.359375 -0.3998443,0.178171 -0.7466464,0.42684 -1.03125,0.7285161 z" />
   <path
      id="path18"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 3.9982243,10.993964 0.00391,-1.0000002 C 4.0067643,8.9962939 3.9329953,8.1596598 4.3595562,7.3025575 4.5728365,6.8740064 4.9701369,6.4805151 5.4396343,6.2713075 5.9089603,6.0621763 6.4190661,5.9979169 7.0021343,5.99787 v 9 h -0.00391 c -0.5833394,0 -1.0946107,-0.06516 -1.5644494,-0.273438 C 4.9639362,14.516152 4.5653973,14.126305 4.3497905,13.697089 3.9185771,12.838656 3.993578,11.996273 3.9982281,10.993964 Z M 15.00213,6.5310731 c 0.275558,0.209566 0.501861,0.479665 0.646484,0.7675781 0.431205,0.8584303 0.358166,1.7008169 0.353516,2.7031248 l -0.0039,1 c -0.0046,0.997665 0.06718,1.834306 -0.359375,2.691406 -0.141947,0.285202 -0.364743,0.555463 -0.636725,0.765626 z" />
   <path
      style="fill:#ffff00"
@@ -97,7 +97,7 @@
      y="9.0027695"
      transform="matrix(0,1,1,0,0,0)" />
   <rect
-     style="opacity:0.2;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.2;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect20"
      width="9"
      height="4.0041199"
@@ -106,6 +106,6 @@
      transform="matrix(0,1,1,0,0,0)" />
   <path
      id="path20"
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 8.0021305,5.99787 a 1.0001,1.0001 0 0 1 1,-1.0000005 h 4.0039055 a 1.0001,1.0001 0 0 1 1,1.0000005 v 9 a 1.0001,1.0001 0 0 1 -1,1 H 9.0021305 a 1.0001,1.0001 0 0 1 -1,-1 z m 1,0 v 1 H 11.00213 v 1 H 9.0021305 v 2 H 11.00213 v 1 H 9.0021305 v 2 H 11.00213 v 1 H 9.0021305 v 1 h 4.0039055 v -9 z" />
 </svg>

@@ -62,7 +62,7 @@
 
 /&gt;<path
    id="path1"
-   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#0000ff"
+   style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;fill:#000080"
    d="M 4 0.00390625 C 3 0.00390625 2.1605053 -0.06951046 1.3027344 0.359375 C 0.87384888 0.57381773 0.48217738 0.97174159 0.2734375 1.4414062 C 0.06469762 1.911071 0 2.4205728 0 3.0039062 L 0 11.003906 C 0 11.58724 0.06469761 12.096741 0.2734375 12.566406 C 0.48217739 13.036071 0.8738489 13.433994 1.3027344 13.648438 C 1.8598703 13.927005 2.4092961 13.993351 3 14.005859 L 3 5 L 12 5 L 12 4.0039062 A 1.0001 1.0001 0 0 0 11.707031 3.296875 L 8.7070312 0.296875 A 1.0001 1.0001 0 0 0 8 0.00390625 L 4 0.00390625 z " />
 <path
    inkscape:connector-curvature="0"
@@ -74,10 +74,10 @@
    inkscape:connector-curvature="0"
    d="M 7.9999998,4.0047588 V 1.0047587 L 11,4.0047588 Z"
    id="path4"
-   style="fill:#0000ff;fill-opacity:1;opacity:0.5" />
+   style="fill:#000080;fill-opacity:1;opacity:0.5" />
 <path
    id="path5"
-   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
+   style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;opacity:1"
    d="M 6.7773438 6 C 5.2557521 6 4 7.255752 4 8.7773438 L 4 13.222656 C 4 14.744248 5.2557521 16 6.7773438 16 L 13.222656 16 C 14.744248 16 16 14.744248 16 13.222656 L 16 8.7773438 C 16 7.255752 14.744248 6 13.222656 6 L 6.7773438 6 z " />
 <rect
    style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2.03724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -89,6 +89,6 @@
    ry="1.7777778" />
 <path
    id="path3"
-   style="font-size:15px;font-family:Ubuntu;letter-spacing:0;word-spacing:0;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;vector-effect:none;fill:#00ffff;stroke:none;stroke-width:0.208333;enable-background:accumulate;stop-color:#000000"
+   style="font-size:15px;font-family:Ubuntu;letter-spacing:0;word-spacing:0;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke:none;stroke-width:0.208333;enable-background:accumulate;stop-color:#000000"
    d="M 5.9830733,8.5299475 5.6673175,9.0182292 10.091146,12.19694 14.518229,9.0052083 14.199218,8.5299475 10.091146,11.008789 Z" />
 </svg>

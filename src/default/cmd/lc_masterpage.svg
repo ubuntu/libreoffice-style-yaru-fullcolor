@@ -53,7 +53,7 @@
      inkscape:deskcolor="#d1d1d1" />
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#00ffff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#ff00ff;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 8 3 C 7 3 6.1605052 2.9265832 5.3027344 3.3554688 C 4.873849 3.5699113 4.4821773 3.9678353 4.2734375 4.4375 C 4.0646977 4.9071647 4 5.4166667 4 6 L 4 18 C 4 18.583333 4.064698 19.092835 4.2734375 19.5625 C 4.4821773 20.032165 4.873849 20.430088 5.3027344 20.644531 C 6.1605052 21.073417 7 21 8 21 L 16 21 C 17 21 17.839495 21.07342 18.697266 20.644531 C 19.126151 20.430089 19.517824 20.032165 19.726562 19.5625 C 19.935303 19.092835 20 18.583333 20 18 L 20 9.40625 L 20 8 A 1.0001 1.0001 0 0 0 19.707031 7.2929688 L 18.707031 6.2929688 L 16.707031 4.2929688 L 15.707031 3.2929688 A 1.0001 1.0001 0 0 0 15 3 L 8 3 z M 8 4 L 15 4 L 16 5 L 18 7 L 19 8 L 19 9.40625 L 19 18 C 19 20 18 20 16 20 L 8 20 C 6 20 5 20 5 18 L 5 6 C 5 4 6 4 8 4 z " />
   <path
      inkscape:connector-curvature="0"
@@ -65,11 +65,11 @@
      inkscape:connector-curvature="0"
      d="m 7.9999998,20 c -2,0 -2.9999996,0 -2.9999996,-2 V 6.0000001 c 0,-2 0.9999996,-2 2.9999996,-2 H 15 l 1,1 L 18,7 19,8 V 9.40625 18 c 0,2 -1,2 -3,2 z"
      id="path3"
-     style="fill:#00ffff;fill-opacity:1;opacity:0.2"
+     style="fill:#ff00ff;fill-opacity:1;opacity:0.2"
      sodipodi:nodetypes="cccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      d="M 15,7.9999999 V 4.0000001 L 19,8 Z"
      id="path4"
-     style="fill:#00ffff;fill-opacity:1;opacity:0.5" />
+     style="fill:#ff00ff;fill-opacity:1;opacity:0.5" />
 </svg>

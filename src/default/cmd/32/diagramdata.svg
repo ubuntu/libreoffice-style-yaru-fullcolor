@@ -69,20 +69,20 @@
      d="M 4,26 V 6 C 4,4 5,4 7,4 h 18 c 2,0 3,0 3,2 v 20 c 0,2 -1,2 -3,2 H 7 C 5,28 4,28 4,26 Z m 1,0 c 0,1 1,1 2,1 h 5 V 25 H 5 Z m 8,1 h 6 v -2 h -6 z m 7,0 h 5 c 1,0 2,0 2,-1 V 25 H 20 Z M 5,24 h 7 V 21 H 5 Z m 8,0 h 6 v -3 h -6 z m 7,0 h 7 V 21 H 20 Z M 5,20 h 7 V 17 H 5 Z m 8,0 h 6 v -3 h -6 z m 7,0 h 7 V 17 H 20 Z M 5,16 h 7 V 13 H 5 Z m 8,0 h 6 v -3 h -6 z m 7,0 h 7 V 13 H 20 Z M 5,12 h 7 V 9 H 5 Z m 8,0 h 6 V 9 h -6 z m 7,0 h 7 V 9 H 20 Z M 5,8 h 7 V 5 H 7 C 6,5 5,5 5,6 Z m 8,0 h 6 V 5 h -6 z m 7,0 h 7 V 6 C 27,5 26,5 25,5 h -5 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#0000ff;fill-opacity:1"
+     style="opacity:0.8;fill:#000080;fill-opacity:1"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
      id="path1"
-     style="opacity:0.8;fill:#00ffff;fill-opacity:1"
+     style="opacity:0.8;fill:#ff00ff;fill-opacity:1"
      d="M 7 4 C 5 4 4 4 4 6 L 4 9 L 5 9 L 12 9 L 13 9 L 19 9 L 20 9 L 27 9 L 28 9 L 28 6 C 28 4 27 4 25 4 L 7 4 z M 7 5 L 12 5 L 12 8 L 5 8 L 5 6 C 5 5 6 5 7 5 z M 13 5 L 19 5 L 19 8 L 13 8 L 13 5 z M 20 5 L 25 5 C 26 5 27 5 27 6 L 27 8 L 20 8 L 20 5 z " />
   <path
      id="path3"
-     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
      d="M 5,8 V 6 C 5,5 6,5 7,5 h 5 v 3 z m 8,0 V 5 h 6 v 3 z m 7,0 V 5 h 5 c 1,0 2,0 2,1 v 2 z"
      sodipodi:nodetypes="cssccccccccccsscc" />
   <path
      id="path4"
-     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
+     style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2"
      d="M 7,27 C 6,27 5,27 5,26 v -1 h 7 v 2 z M 5,24 v -3 h 7 v 3 z m 0,-4 v -3 h 7 v 3 z m 0,-4 v -3 h 7 v 3 z M 5,12 V 9 h 7 v 3 z"
      sodipodi:nodetypes="sscccscccccccccccccccccccc" />
 </svg>

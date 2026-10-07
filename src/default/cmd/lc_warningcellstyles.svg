@@ -61,7 +61,7 @@
        units="px" />
   </sodipodi:namedview>
   <path
-     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ffff00;stroke-width:2;stroke:#0000ff;opacity:0.8"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ffff00;stroke-width:2;stroke:#000080;opacity:0.8"
      d="m 11.983773,3.000305 a 0.68388319,0.68388319 0 0 1 0.624355,0.3627072 L 21.603822,19.97556 C 21.884851,20.493317 21.581672,21 20.998849,21 H 3.0019225 C 2.4177145,21 2.1159199,20.493317 2.3955645,19.97556 L 11.396796,3.3630122 A 0.68249881,0.68249881 0 0 1 11.983773,3.000305 Z"
      id="path2" />
   <path
@@ -70,6 +70,6 @@
      id="path3" />
   <path
      id="path2-4"
-     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#00ffff;stroke-width:1.33311"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ff00ff;stroke-width:1.33311"
      d="M 11 6 L 11 9.5488281 C 11 10.605983 11.040576 11.571599 11.115234 12.439453 C 11.191224 13.29531 11.285124 14.150003 11.398438 15.005859 L 12.601562 15.009766 C 12.714877 14.15391 12.810112 13.297263 12.884766 12.441406 C 12.960756 11.573541 13 10.607937 13 9.5507812 L 13 6.0019531 L 11 6 z M 12.001953 16.667969 A 1.3331093 1.3331093 0 0 0 10.669922 18 C 10.669922 18.375937 10.827501 18.714405 11.078125 18.957031 C 11.304754 19.208988 11.611352 19.333984 12.001953 19.333984 C 12.392554 19.333984 12.701105 19.208988 12.927734 18.957031 A 1.3251106 1.3251106 0 0 0 13.335938 18 A 1.3331093 1.3331093 0 0 0 12.003906 16.667969 L 12.001953 16.667969 z " />
 </svg>

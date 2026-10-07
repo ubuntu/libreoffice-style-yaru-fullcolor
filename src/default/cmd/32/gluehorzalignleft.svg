@@ -64,7 +64,7 @@
      id="svg8-3">
     <path
        id="path1"
-       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;fill-rule:evenodd;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
        d="M 4,3 A 1.0001,1.0001 0 0 0 3,4 v 24 a 1.0001,1.0001 0 0 0 1,1 h 24 a 1.0001,1.0001 0 0 0 1,-1 V 4 A 1.0001,1.0001 0 0 0 28,3 Z M 4,4 H 28 V 28 H 4 Z" />
     <rect
        y="4"
@@ -78,11 +78,11 @@
      d="m 4,15 v 2 h 8 v -2 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#00ffff"
+     style="fill:#ff00ff"
      sodipodi:nodetypes="ccccc" />
   <path
      d="m16 11a5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0 -5-5zm0 1a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4-4 4 4 0 0 1 4-4z"
-     fill="#0ff"
+     fill="#ff00ff"
      id="path6"
-     style="fill:#0000ff" />
+     style="fill:#000080" />
 </svg>

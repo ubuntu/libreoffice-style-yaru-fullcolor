@@ -78,7 +78,7 @@
   </sodipodi:namedview>
   <path
      id="path2"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="M 11.5,3 C 6.8174243,3 3,6.8174243 3,11.5 3,16.182576 6.8174243,20 11.5,20 16.182576,20 20,16.182576 20,11.5 20,6.8174243 16.182576,3 11.5,3 Z m 0,1 A 7.5,7.5 0 0 1 19,11.5 7.5,7.5 0 0 1 11.5,19 7.5,7.5 0 0 1 4,11.5 7.5,7.5 0 0 1 11.5,4 Z" />
   <circle
      style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
@@ -88,11 +88,11 @@
      r="7.5" />
   <path
      id="path1"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#0000ff;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linecap:round;enable-background:accumulate;stop-color:#000000"
      d="m 18.199219,17.199219 a 1,1 0 0 0 -0.707031,0.292969 1,1 0 0 0 0,1.414062 l 2.800781,2.800781 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 18.90625,17.492188 a 1,1 0 0 0 -0.707031,-0.292969 z" />
   <path
      id="rect1"
-     style="fill:none;stroke:#00ffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      d="m 10.5,7.5 h -1 c -1.108,0 -2,0.669 -2,1.5 v 1.5 m 8,0 V 9 c 0,-0.831 -0.892,-1.5 -2,-1.5 h -1 m -5,5 V 14 c 0,0.831 0.892,1.5 2,1.5 h 1 m 2,0 h 1 c 1.108,0 2,-0.669 2,-1.5 v -1.5"
      sodipodi:nodetypes="cssccssccssccssc" />
 </svg>
