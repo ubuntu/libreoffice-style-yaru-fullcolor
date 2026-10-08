@@ -1,0 +1,16 @@
+# Dummy colors map
+#
+# Follow this structure:
+# dummy_color color
+
+# Special colors
+f0f accent
+ff0 bg_color
+000080 txt_color
+
+# red
+f00 c7162b
+# green
+0f0 12a929
+# blue
+00f 19b6ee

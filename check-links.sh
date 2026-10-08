@@ -27,25 +27,12 @@ then
 fi
 
 ###################################################
-# POPULATE ACCENT COLORS
+# POPULATE VARIANTS COLORS
 ###################################################
 
-accents=( "default" )
+source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
-while read line; do
-    if [ "$line" = "" ] || [[ "$line" =~ ^#.*  ]]
-    then
-        continue
-    fi
-
-    IFS=' '
-    read -ra splitedline <<< "$line"
-    if [[ ${#splitedline[@]} > 2 ]] || [[ ${#splitedline[@]} < 2 ]]; then
-        echo "Error line $n: Malformed line '$line'"
-    else
-        accents+=( ${splitedline[0]} )
-    fi
-done < "src/accents.txt"
+load_variants || exit 1
 
 ###################################################
 # FUNCTIONS
@@ -128,10 +115,11 @@ if [[ ${errors} > 0 ]]; then
     echo -e "\n=> $errors error(s) found\n"
     exit 1
 else
-    for accent in "${accents[@]}"; do
-        resources=(
-            "build/${accent}/svg"
-            "build/${accent}/png"
+    for variant in "${variants[@]}"; do
+        read -r variant_name _ <<< "$variant"
+        resources+=(
+            "build/${variant_name}/svg"
+            "build/${variant_name}/png"
         )
     done
 

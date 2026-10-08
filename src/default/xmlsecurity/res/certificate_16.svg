@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/xmlsecurity/res/certificate_16.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1.1 (50ffc5b540, 2022-01-11)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,37 +38,40 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="7.4306136"
-     inkscape:cy="-7.8620686"
-     inkscape:window-x="1920"
+     inkscape:zoom="29.5"
+     inkscape:cx="8.7457627"
+     inkscape:cy="5.6440678"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      id="path4237-1"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99980211"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.8;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.99980211"
      d="M 4.9941406 1 C 3.7359405 1.0145 2.81525 0.96939962 2.0625 1.3847656 C 1.68613 1.5924256 1.3892694 1.9441525 1.2246094 2.3828125 C 1.0599394 2.8214825 1 3.3424 1 4 L 1 5.4882812 L 1 12 C 1 12.657609 1.0599004 13.178575 1.2246094 13.617188 C 1.3892894 14.055798 1.68614 14.405712 2.0625 14.613281 C 2.81522 15.028412 3.7360406 14.984931 4.9941406 15 L 4.9960938 15 L 9 15 L 9 11.521484 C 8.4016108 10.80732 8.00115 9.9453109 8 9.0019531 A 1.0001 1.0001 0 0 0 8 9 C 8 6.8027078 9.8027078 5 12 5 C 13.191031 5 14.265094 5.5301748 15 6.3652344 L 15 5.4667969 L 15 4 C 15 3.3424 14.9401 2.8214235 14.775391 2.3828125 C 14.610711 1.9442135 14.31386 1.5942787 13.9375 1.3867188 C 13.18473 0.97158876 12.263949 1.01508 11.005859 1 L 11.003906 1 L 4.9980469 1 L 4.9941406 1 z " />
   <path
      id="path1993"
-     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 5.9824219 2.0273438 C 4.4258409 2.0381438 4.8741698 2.0158863 3.3242188 2.0664062 C 2.8629898 2.1090763 2.3071208 2.2718426 2.1679688 2.7753906 C 1.9489748 3.4107366 2.0608195 4.1096755 2.0234375 4.7578125 C 2.0156375 7.0548965 2.0004319 10.353226 2.0449219 12.642578 C 2.0840219 13.104507 2.2459825 13.655641 2.7421875 13.806641 C 3.3746435 14.031724 4.0278575 13.929379 4.6796875 13.960938 C 6.1039225 13.967738 5.5292211 13.972366 6.9550781 13.972656 C 7.637282 13.972796 8.3182932 13.970594 9 13.96875 L 9 11.521484 C 8.4016108 10.80732 8.00115 9.9453109 8 9.0019531 A 1.0001 1.0001 0 0 0 8 9 C 8 6.8027078 9.8027078 5 12 5 C 12.715673 5 13.389356 5.1915644 13.972656 5.5253906 C 13.967488 4.7324769 13.961038 3.9683009 13.947266 3.2890625 C 13.897986 2.8870225 13.778194 2.4256636 13.373047 2.2441406 C 12.704878 1.9500436 11.94581 2.0766155 11.246094 2.0390625 C 9.4916876 2.0272625 7.7368609 2.0262437 5.9824219 2.0273438 z " />
+     style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 5.9824219,2.0273438 c -1.556581,0.0108 -1.1082521,-0.011458 -2.6582031,0.039062 -0.4612293,0.04267 -1.0170982,0.2054364 -1.15625,0.7089844 -0.2189943,0.635346 -0.1071493,1.3342849 -0.1445313,1.9824219 -0.0078,2.297084 -0.023006,5.5954135 0.021484,7.8847655 0.0391,0.461929 0.2010606,1.013063 0.6972656,1.164063 0.632456,0.225083 1.28567,0.122738 1.9375,0.154297 3.0975849,0.01933 6.1953185,0.0078 9.2929685,0.0078 V 3.796875 h -0.01563 C 13.954469,3.6232444 13.9506,3.4535311 13.947266,3.2890625 13.897986,2.8870225 13.778194,2.4256636 13.373047,2.2441406 12.704878,1.9500436 11.94581,2.0766155 11.246094,2.0390625 9.491687,2.0272625 7.7368609,2.0262436 5.9824219,2.0273438 Z"
+     sodipodi:nodetypes="cccccccccccccc" />
   <path
      id="rect842"
-     style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 10 12.458984 L 10 16 L 12 14 L 14 16 L 14 12.458984 C 13.410446 12.802579 12.7269 13 12 13 C 11.2731 13 10.589554 12.802579 10 12.458984 z " />
   <circle
-     style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path840"
      cx="12"
      cy="9"
      r="3" />
   <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path852"
      cx="12"
      cy="9"

@@ -34,7 +34,6 @@
 +cmd/32/auditingfillmode
 +cmd/32/autoredactdoc
 +cmd/32/availabletoolbars
-+cmd/32/basicshapes.sinusoid
 +cmd/32/bezieredge
 +cmd/32/break
 -cmd/32/ca/bold
@@ -57,7 +56,6 @@
 +cmd/32/commonalignend
 +cmd/32/commonalignstart
 +cmd/32/conddateformatdialog
-+cmd/32/connect
 +cmd/32/connectorcircles
 +cmd/32/connectorcurvecircles
 +cmd/32/connectorlinescircles
@@ -479,7 +477,6 @@
 +cmd/lc_commonalignstart
 +cmd/lc_conddateformatdialog
 +cmd/lc_connectorcircles
-+cmd/lc_connectorcurvecircles
 +cmd/lc_connectorlinescircles
 +cmd/lc_datepickerformfield
 +cmd/lc_deleteallbreaks
@@ -708,8 +705,6 @@
 +help/tip_small
 +help/warning
 +help/warning_small
-+reportdesign/res/sx12452
-+reportdesign/res/sx12453
 +res/ballgreen_7
 +res/ballred_7
 +res/basobj2
