@@ -4,7 +4,7 @@
    version="2.0"
    id="svg4"
    sodipodi:docname="sc_formatline.svg"
-   inkscape:version="1.5-dev (23acc5f795, 2026-06-29)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_formatline.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,14 +38,14 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1048"
+   inkscape:window-height="1011"
    id="namedview6"
    showgrid="true"
-   inkscape:zoom="41.7193"
-   inkscape:cx="2.840412"
-   inkscape:cy="6.8193858"
+   inkscape:zoom="20.85965"
+   inkscape:cx="-8.4133722"
+   inkscape:cy="1.6059713"
    inkscape:window-x="0"
-   inkscape:window-y="32"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:showpageshadow="2"
@@ -56,37 +56,74 @@
      id="grid817"
      originx="0.000000"
      originy="0.000000"
-     spacingy="16.000000"
-     spacingx="16.000000"
-     units="px" />
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="true" />
 </sodipodi:namedview>
 
+
 /&gt;<path
-   d="m 2,13 v 1 h 12 v -1 z"
+   d="m 2,12 v 1 h 12 v -1 z"
    id="path2"
    inkscape:connector-curvature="0"
    style="fill:#ff00ff"
    sodipodi:nodetypes="ccccc" />
 <g
-   style="display:inline;stroke-width:27.20000267;enable-background:new"
-   transform="matrix(0.03109233,0.03109234,-0.03372203,0.03372202,-4.8911173,-22.902024)"
+   style="display:inline;stroke-width:27.2;enable-background:new"
+   transform="matrix(0.03109233,0.03109234,-0.03372203,0.03372202,-0.89111728,-22.902024)"
    id="g1151">
   <path
-     style="fill:#fec589;fill-opacity:1;stroke:none;stroke-width:27.20000267"
+     style="fill:#fec589;fill-opacity:1;stroke:none;stroke-width:27.2"
      d="m 688.00003,319.35584 -32,81.13762 -31.99999,-81.13762 v -11.06422 h 63.99999 z"
      id="path1145"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:27.20000267;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:27.2;marker:none;enable-background:accumulate"
      d="m 645.81253,374.67694 10.1875,25.81651 10.1875,-25.81651 c 0.0102,0.17481 -20.375,0 -20.375,0 z"
      id="path1147"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#2f5fdd;fill-opacity:1;stroke:none;stroke-width:27.20000267"
+     style="fill:#2f5fdd;fill-opacity:1;stroke:none;stroke-width:27.2"
      d="m 624.00004,319.35583 c 0,0 65.02041,1.58617 63.99999,0 V 127.90048 h -63.99999 z"
      id="path1149"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
 </g>
+<rect
+   style="fill:#ff00ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+   id="rect1"
+   width="3"
+   height="1"
+   x="2"
+   y="10" />
+<rect
+   style="fill:#ff00ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+   id="rect2"
+   width="2"
+   height="1"
+   x="2"
+   y="14" />
+<rect
+   style="fill:#ff00ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+   id="rect3"
+   width="2"
+   height="1"
+   x="5"
+   y="14" />
+<rect
+   style="fill:#ff00ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+   id="rect4"
+   width="2"
+   height="1"
+   x="8"
+   y="14" />
+<rect
+   style="fill:#ff00ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+   id="rect5"
+   width="2"
+   height="1"
+   x="11"
+   y="14" />
 </svg>

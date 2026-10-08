@@ -2567,6 +2567,10 @@ cmd/sc_formatline-more.xxx sfx2/res/symphony/open_more.xxx
 
 # Yaru specific
 
-cmd/32/librelogo-home.svg cmd/32/firstpage.svg
-cmd/lc_librelogo-home.svg cmd/lc_firstpage.svg
-cmd/sc_librelogo-home.svg cmd/sc_firstpage.svg
+cmd/32/librelogo-home.xxx cmd/32/firstpage.xxx
+cmd/lc_librelogo-home.xxx cmd/lc_firstpage.xxx
+cmd/sc_librelogo-home.xxx cmd/sc_firstpage.xxx
+
+cmd/32/testmode.xxx cmd/32/watchwindow.xxx
+cmd/lc_testmode.xxx cmd/lc_watchwindow.xxx
+cmd/sc_testmode.xxx cmd/sc_watchwindow.xxx

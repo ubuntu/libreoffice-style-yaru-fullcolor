@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg4"
    sodipodi:docname="formatline.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/formatline.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -80,49 +80,106 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-4.4905716"
-     inkscape:cy="12.44327"
+     inkscape:cx="6.9152542"
+     inkscape:cy="21.59322"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4">
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid817" />
+       id="grid817"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="ccccc"
-     style="fill:#000080;stroke:#000080;opacity:0.8;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
-     inkscape:connector-curvature="0"
-     id="path847"
-     d="m 4,26 v 2 h 24 v -2 z" />
-  <path
-     d="m 4,26 v 2 h 24 v -2 z"
+     d="m 4,22 v 1 h 6 v -1 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff"
+     style="fill:#ff00ff;stroke-width:0.353554"
      sodipodi:nodetypes="ccccc" />
   <g
-     style="display:inline;stroke-width:9.7142868;enable-background:new"
-     transform="matrix(0.04974776,0.04974776,-0.05395526,0.05395526,-7.0258033,-31.243261)"
+     style="display:inline;stroke-width:9.71429;enable-background:new"
+     transform="matrix(0.04974776,0.04974776,-0.05395526,0.05395526,-0.02580329,-31.243261)"
      id="g1135">
     <path
-       style="fill:#fee1c2;fill-opacity:1;stroke:none;stroke-width:9.7142868"
+       style="fill:#fee1c2;fill-opacity:1;stroke:none;stroke-width:9.71429"
        d="m 702.21881,319.35584 -46.21878,81.13762 -46.21383,-81.13762 0.44418,-28.63468 h 92.43261 z"
        id="path1129"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.66852188;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.6685;marker:none;enable-background:accumulate"
        d="m 641.30138,374.67695 14.69865,25.81651 14.69864,-25.81651 c 0,0 1.12026,-2.76606 -1.73934,-2.76606 -2.85961,0 -5.69434,3.68807 -5.69434,3.68807 0,0 -1.49371,-4.61009 -7.23393,-4.61009 -5.74023,0 -7.23394,4.61009 -7.23394,4.61009 0,0 -2.89678,-3.68807 -5.7824,-3.68807 -2.88562,0 -1.71334,2.76606 -1.71334,2.76606 z"
        id="path1131"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccczczczc" />
     <path
-       style="fill:url(#linearGradient4400);fill-opacity:1;stroke:none;stroke-width:9.7142868"
+       style="fill:url(#linearGradient4400);fill-opacity:1;stroke:none;stroke-width:9.71429"
        d="m 609.7862,306.2504 c 0,-7.37615 28.42768,-3.68808 28.42768,7.37614 0,-18.44036 35.53461,-18.44036 35.53461,0 0,-11.06422 28.47032,-14.75229 28.47032,-7.37614 V 67.928881 H 609.7862 Z"
        id="path1133"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
   </g>
+  <path
+     d="m 4,24 v 2 h 24 v -2 z"
+     id="path1"
+     inkscape:connector-curvature="0"
+     style="fill:#ff00ff;stroke-width:1"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect1"
+     width="2"
+     height="2"
+     x="4"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect2"
+     width="2"
+     height="2"
+     x="8"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect3"
+     width="2"
+     height="2"
+     x="12"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect4"
+     width="2"
+     height="2"
+     x="16"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect5"
+     width="2"
+     height="2"
+     x="20"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+     id="rect6"
+     width="2"
+     height="2"
+     x="24"
+     y="27" />
+  <rect
+     style="fill:#ff00ff;stroke:none;stroke-width:1.41421;stroke-linecap:square;stroke-linejoin:round"
+     id="rect7"
+     width="1"
+     height="2"
+     x="27"
+     y="27" />
 </svg>
