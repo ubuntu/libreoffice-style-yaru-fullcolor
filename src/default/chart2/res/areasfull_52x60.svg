@@ -84,7 +84,7 @@
   </linearGradient>
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path12" />
   <path
      d="m 7,4 v 6 15 l 20,-6 25,12 v -21 -6 z"
@@ -98,14 +98,14 @@
      style="fill:#ff00ff;fill-opacity:1" />
   <path
      d="m 3,45 h 52 v 1 h -52 z"
-     fill="#232629"
+     fill="#000080"
      id="path18" />
   <path
      d="m 6,3 h 1 v 46 h -1 z"
-     fill="#232629"
+     fill="#000080"
      id="path20" />
   <g
-     fill="#ffffff"
+     fill="#ffff00"
      id="g28"
      transform="translate(0,-1000.3622)">
     <path
@@ -123,5 +123,5 @@
      d="m 7,25 20,-6 25,12 v 15 h -45 z"
      fill="url(#b)"
      id="path39"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
 </svg>

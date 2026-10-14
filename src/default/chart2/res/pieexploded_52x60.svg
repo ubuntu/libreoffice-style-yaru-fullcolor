@@ -82,7 +82,7 @@
   </radialGradient>
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path12" />
   <path
      d="m 30,3 c -12.70255,0 -23,10.2975 -23,23 0.0123,5.7492 2.17724,11.2853 6.06836,15.5176 l 16.22461,-16.2246 0.70703,-0.685 0.70703,0.685 16.21875,16.2187 c 3.89188,-4.2299 6.05888,-9.7638 6.07422,-15.5117 0,-12.7025 -10.29745,-23 -23,-23 z"
@@ -100,5 +100,5 @@
      fill="url(#b)"
      fill-rule="evenodd"
      id="path52"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
 </svg>

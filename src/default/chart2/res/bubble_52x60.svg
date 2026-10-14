@@ -121,15 +121,15 @@
      gradientTransform="translate(0,-1000.3622)" />
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path18" />
   <path
      d="m 3,45 h 52 v 1 h -52 z"
-     fill="#232629"
+     fill="#000080"
      id="path20" />
   <path
      d="m 6,3 h 1 v 46 h -1 z"
-     fill="#232629"
+     fill="#000080"
      id="path22" />
   <circle
      cx="15.5"
@@ -179,19 +179,19 @@
      fill="url(#b)"
      r="4.5"
      id="circle63"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <circle
      cx="31"
      cy="35.999981"
      fill="url(#c)"
      r="6"
      id="circle65"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <circle
      cx="49"
      cy="11.999983"
      fill="url(#d)"
      r="3"
      id="circle67"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
 </svg>

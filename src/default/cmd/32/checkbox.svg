@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="checkbox.svg"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/checkbox.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,22 +38,38 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.16949153"
-     inkscape:cy="11.288136"
+     inkscape:zoom="10.429825"
+     inkscape:cx="26.941967"
+     inkscape:cy="4.6501259"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid825" />
+       id="grid825"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
+  <path
+     d="M 7.6428568,2.9999995 A 4.6540001,4.6540001 0 0 0 2.9999995,7.6428568 V 24.357143 C 2.9999995,26.912571 5.0874282,29 7.6428568,29 H 24.357143 C 26.912571,29 29,26.912571 29,24.357143 V 7.6428568 C 29,5.0874282 26.912571,2.9999995 24.357143,2.9999995 Z m 0,1.8571429 H 24.357143 c 1.559999,0 2.785714,1.2257144 2.785714,2.7857144 V 24.357143 c 0,1.559999 -1.225715,2.785714 -2.785714,2.785714 H 7.6428568 c -1.56,0 -2.7857144,-1.225715 -2.7857144,-2.785714 V 7.6428568 c 0,-1.56 1.2257144,-2.7857144 2.7857144,-2.7857144 z"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;display:inline;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-opacity:1;stroke-width:1;marker:none"
+     color="#000000"
+     font-weight="400"
+     font-family="sans-serif"
+     overflow="visible"
+     fill="#474747"
+     id="path2" />
   <rect
      y="3"
      x="3"
@@ -63,9 +79,8 @@
      style="opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.84615;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
      ry="3"
      rx="3" />
-  <polygon
-     transform="matrix(1.9747689,0,0,1.9702466,1.7964474,1.2985444)"
-     id="path6712"
-     points="11.750009,4.9627786 11.050299,4.1734886 11.050299,4.1734486 10.984399,4.2311486 6.2496486,8.3783686 3.4740786,5.9974286 2.6350186,6.9463086 6.2503386,10.750019 "
-     style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.627622" />
+  <path
+     style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:square"
+     d="M 23.112207,9.2094311 25.15473,11.251954 13.635856,22.770828 6.7070425,15.83919 8.7495654,13.796666 13.635856,18.682939 Z"
+     id="path1489" />
 </svg>

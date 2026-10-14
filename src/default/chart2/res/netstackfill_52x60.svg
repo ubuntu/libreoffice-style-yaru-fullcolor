@@ -82,7 +82,7 @@
   </radialGradient>
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path12" />
   <path
      d="m 29.500001,7.9347 -19.5800791,10.3047 0.095703,0.3808 6.09375,24.3789 h 26.781251 l 6.189452,-24.7597 z"
@@ -101,10 +101,10 @@
      fill="url(#b)"
      fill-rule="evenodd"
      id="path110"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 29,6 v 22.6328 l -19.167969,-11.0664 -0.4999999,0.8672 19.1679689,11.0664 v 0.293 l -15.617188,15.6172 0.707032,0.707 15.910156,-15.9102 15.910156,15.9102 0.707032,-0.707 -15.617188,-15.6172 v -0.293 l 19.167969,-11.0664 -0.5,-0.8672 -19.167969,11.0664 v -22.6328 z"
-     fill="#232629"
+     fill="#000080"
      id="path18" />
   <g
      fill="#e95420"
@@ -130,7 +130,7 @@
   </g>
   <path
      d="m 19,23 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path30" />
   <path
      d="m 47,17 h 3 v 3 h -3 z"
@@ -139,7 +139,7 @@
      style="fill:#ff00ff" />
   <path
      d="m 48,18 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path34" />
   <path
      d="m 41,41 h 3 v 3 h -3 z"
@@ -148,7 +148,7 @@
      style="fill:#ff00ff" />
   <path
      d="m 42,42 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path38" />
   <path
      d="m 15,41 h 3 v 3 h -3 z"
@@ -157,7 +157,7 @@
      style="fill:#ff00ff" />
   <path
      d="m 16,42 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path42" />
   <path
      d="m 9,17 h 3 v 3 h -3 z"
@@ -166,7 +166,7 @@
      style="fill:#ff00ff" />
   <path
      d="m 10,18 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path46" />
   <path
      d="m 28,7 h 3 v 3 h -3 z"
@@ -175,7 +175,7 @@
      style="fill:#ff00ff" />
   <path
      d="m 29,8 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path50" />
   <g
      fill="#e95420"
@@ -201,7 +201,7 @@
   </g>
   <path
      d="m 29,14 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path62" />
   <g
      fill="#e95420"
@@ -227,7 +227,7 @@
   </g>
   <path
      d="m 43,21 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path74" />
   <g
      fill="#e95420"
@@ -253,7 +253,7 @@
   </g>
   <path
      d="m 38,38 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path86" />
   <g
      fill="#e95420"
@@ -279,13 +279,13 @@
   </g>
   <path
      d="m 22,36 h 1 v 1 h -1 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path98" />
   <g
      fill="#e95420"
      id="g174"
      transform="translate(0,-1000.3622)"
-     style="fill:#ffffff;opacity:0.4">
+     style="fill:#ffff00;opacity:0.4">
     <path
        d="m 19,1024.3622 h 1 v 1 h -1 z"
        id="path166"
@@ -307,7 +307,7 @@
      fill="#e95420"
      id="g184"
      transform="translate(0,-1000.3622)"
-     style="fill:#ffffff;opacity:0.4">
+     style="fill:#ffff00;opacity:0.4">
     <path
        d="m 29,1015.3622 h 1 v 1 h -1 z"
        id="path176"
@@ -329,7 +329,7 @@
      fill="#e95420"
      id="g194"
      transform="translate(0,-1000.3622)"
-     style="fill:#ffffff;opacity:0.4">
+     style="fill:#ffff00;opacity:0.4">
     <path
        d="m 43,1022.3622 h 1 v 1 h -1 z"
        id="path186"
@@ -351,7 +351,7 @@
      fill="#e95420"
      id="g204"
      transform="translate(0,-1000.3622)"
-     style="fill:#ffffff;opacity:0.4">
+     style="fill:#ffff00;opacity:0.4">
     <path
        d="m 38,1039.3622 h 1 v 1 h -1 z"
        id="path196"
@@ -373,7 +373,7 @@
      fill="#e95420"
      id="g214"
      transform="translate(0,-1000.3622)"
-     style="fill:#ffffff;opacity:0.4">
+     style="fill:#ffff00;opacity:0.4">
     <path
        d="m 22,1037.3622 h 1 v 1 h -1 z"
        id="path206"

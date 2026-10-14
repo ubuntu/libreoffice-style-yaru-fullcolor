@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_checkbox.svg"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_checkbox.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -37,22 +37,30 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview6"
    showgrid="true"
    inkscape:zoom="29.5"
-   inkscape:cx="0.3559322"
+   inkscape:cx="0.33898305"
    inkscape:cy="7.7457627"
    inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg4"
    inkscape:document-rotation="0"
-   inkscape:pagecheckerboard="0">
+   inkscape:pagecheckerboard="0"
+   inkscape:showpageshadow="2"
+   inkscape:deskcolor="#d1d1d1">
   <inkscape:grid
      type="xygrid"
-     id="grid825" />
+     id="grid825"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px" />
 </sodipodi:namedview>
+
 
 
 
@@ -65,9 +73,8 @@
    id="rect927"
    style="opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.71429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.987055"
    ry="1.5" />
-<polygon
-   transform="matrix(1.0970939,0,0,1.0945815,0.10913698,-0.16747578)"
-   id="path6712"
-   points="6.2496486,8.3783686 3.4740786,5.9974286 2.6350186,6.9463086 6.2503386,10.750019 11.750009,4.9627786 11.050299,4.1734886 11.050299,4.1734486 10.984399,4.2311486 "
-   style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.12972" />
+<path
+   style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:0.5;stroke-linecap:square"
+   d="M 11.82965,4.34354 12.92947,5.44336 6.727,11.64583 2.9961,7.91341 4.09592,6.81359 6.727,9.44466 Z"
+   id="path1489" />
 </svg>

@@ -109,10 +109,10 @@
      y2="1015.3622" />
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path16" />
   <g
-     fill="#232629"
+     fill="#000080"
      id="g24"
      transform="translate(0,-1000.3622)">
     <path
@@ -135,7 +135,7 @@
      d="m 7,28 a 4,7.5 0 0 0 -4,7.5 4,7.5 0 0 0 4,7.5 h 28 v -15 z"
      fill="url(#c)"
      id="path860"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 27,28 c -2.209139,0 -4,3.3579 -4,7.5 0,4.1421 1.790861,7.5 4,7.5 h 22 v -15 z"
      fill="url(#d)"
@@ -159,7 +159,7 @@
      d="m 7,8 a 4,7.5 0 0 0 -4,7.5 4,7.5 0 0 0 4,7.5 h 28 v -15 z"
      fill="url(#f)"
      id="path862"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 19,8 c -2.209139,0 -4,3.3579 -4,7.5 0,4.1421 1.790861,7.5 4,7.5 h 8 8 v -15 h -8 z"
      fill="url(#e)"
@@ -182,7 +182,7 @@
      ry="4"
      transform="rotate(90)"
      id="ellipse954"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.5" />
   <ellipse
      cx="15.499983"
      cy="-35"
@@ -191,5 +191,5 @@
      ry="4"
      transform="rotate(90)"
      id="ellipse956"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.5" />
 </svg>

@@ -344,6 +344,7 @@ cmd/32/insertobjectstarmath.svg cmd/32/insertmath.svg
 cmd/32/insertpagefooter.svg cmd/32/insertfooter.svg
 cmd/32/insertpageheader.svg cmd/32/insertheader.svg
 cmd/32/insertpagefield.svg cmd/32/insertpagenumberfield.svg
+cmd/32/insertpagenumber.svg cmd/32/insertpagenumberfield.svg
 cmd/32/insertpagesfield.svg cmd/32/insertpagecountfield.svg
 cmd/32/insertpagetitlefield.svg cmd/32/inserttitlefield.svg
 cmd/32/insertpatternfield.svg cmd/32/patternfield.svg
@@ -452,6 +453,7 @@ cmd/32/outlineup.svg cmd/32/moveup.svg
 cmd/32/pagedown.svg cmd/32/nextrecord.svg
 cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
 cmd/32/pagemode.svg cmd/32/showsinglepage.svg
+cmd/32/pagenumberwizard.svg cmd/32/insertpagenumberfield.svg
 cmd/32/pageup.svg cmd/32/prevrecord.svg
 cmd/32/paragraphmenu.svg cmd/32/paragraphdialog.svg
 cmd/32/pastespecialmenu.svg cmd/32/pastespecial.svg
@@ -1040,6 +1042,7 @@ cmd/lc_insertpagefooter.svg cmd/lc_insertfooter.svg
 cmd/lc_insertpageheader.svg cmd/lc_insertheader.svg
 cmd/lc_inserttopicfield.svg cmd/lc_drawcaption.svg
 cmd/lc_insertpagefield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertpagenumber.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_insertpagesfield.svg cmd/lc_insertpagecountfield.svg
 cmd/lc_insertpagetitlefield.svg cmd/lc_inserttitlefield.svg
 cmd/lc_insertpatternfield.svg cmd/lc_patternfield.svg
@@ -1140,6 +1143,7 @@ cmd/lc_outlineup.svg cmd/lc_moveup.svg
 cmd/lc_pagedown.svg cmd/lc_nextrecord.svg
 cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
 cmd/lc_pagemode.svg cmd/lc_showsinglepage.svg
+cmd/lc_pagenumberwizard.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_pageup.svg cmd/lc_prevrecord.svg
 cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
 cmd/lc_pastespecialmenu.svg cmd/lc_pastespecial.svg
@@ -1590,6 +1594,7 @@ cmd/sc_insertpagefooter.svg cmd/sc_insertfooter.svg
 cmd/sc_insertpageheader.svg cmd/sc_insertheader.svg
 cmd/sc_inserttopicfield.svg cmd/sc_drawcaption.svg
 cmd/sc_insertpagefield.svg cmd/sc_insertpagenumberfield.svg
+cmd/sc_insertpagenumber.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertpagesfield.svg cmd/sc_insertpagecountfield.svg
 cmd/sc_insertpagetitlefield.svg cmd/sc_inserttitlefield.svg
 cmd/sc_insertpatternfield.svg cmd/sc_patternfield.svg
@@ -1691,6 +1696,7 @@ cmd/sc_outlineup.svg cmd/sc_moveup.svg
 cmd/sc_pagedown.svg cmd/sc_nextrecord.svg
 cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
 cmd/sc_pagemode.svg cmd/sc_showsinglepage.svg
+cmd/sc_pagenumberwizard.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_pageup.svg cmd/sc_prevrecord.svg
 cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
 cmd/sc_pastespecialmenu.svg cmd/sc_pastespecial.svg

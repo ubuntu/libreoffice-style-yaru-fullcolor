@@ -109,11 +109,11 @@
      gradientTransform="translate(0,-1000.3622)" />
   <path
      d="m 0,-1e-4 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path16" />
   <path
      d="m 0,-1e-4 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path18" />
   <path
      d="m 14,37 -12,12"
@@ -122,11 +122,11 @@
      id="path20" />
   <path
      d="m 13,37 h 46 v 0.9874 h -46 z"
-     fill="#232629"
+     fill="#000080"
      id="path22" />
   <path
      d="m 13,2 h 1 v 36 h -1 z"
-     fill="#232629"
+     fill="#000080"
      id="path24" />
   <path
      d="m 11,5 c -1.656854,0 -3,2.6863 -3,6 0,3.3137 1.343146,6 3,6 h 32 v -12 z"
@@ -170,12 +170,12 @@
      d="m 7,10 a 3,6 0 0 0 -3,6 3,6 0 0 0 3,6 h 12 v -12 z"
      fill="url(#c)"
      id="path862"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 7,28 c -1.6568542,0 -3,2.6863 -3,6 0,3.3137 1.3431458,6 3,6 h 26 v -12 z"
      fill="url(#d)"
      id="path864"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <ellipse
      cx="15.999983"
      cy="-19"
@@ -202,7 +202,7 @@
      ry="3"
      transform="rotate(90)"
      id="ellipse920"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.5" />
   <ellipse
      cx="33.999981"
      cy="-33"
@@ -211,7 +211,7 @@
      ry="3"
      id="ellipse922"
      transform="rotate(90)"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.5" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.5" />
   <ellipse
      cx="10.999983"
      cy="-43"
@@ -220,7 +220,7 @@
      ry="3"
      transform="rotate(90)"
      id="ellipse996"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.2" />
   <ellipse
      cx="28.999983"
      cy="-51"
@@ -229,5 +229,5 @@
      ry="3"
      id="ellipse998"
      transform="rotate(90)"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.2" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.2" />
 </svg>

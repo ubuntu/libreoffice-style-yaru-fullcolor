@@ -109,7 +109,7 @@
      y2="1043.8622" />
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path16" />
   <path
      d="m 14,37 -12,12"
@@ -118,11 +118,11 @@
      id="path18" />
   <path
      d="m 13,37 h 46 v 0.9874 h -46 z"
-     fill="#232629"
+     fill="#000080"
      id="path20" />
   <path
      d="m 13,2 h 1 v 36 h -1 z"
-     fill="#232629"
+     fill="#000080"
      id="path22" />
   <path
      d="m 16,17 a 8,4 0 0 0 0,0.01367 8,4.5123385 0 0 0 0,0.01172 v 5.974609 1.998047 0.002 a 8,4 0 0 0 0,0.01367 8,4.5123385 0 0 0 0,0.01172 8,4.5123385 0 0 0 0,0.002 v 5.972656 a 8,4 0 0 0 0,0.01563 8,4.5123385 0 0 0 0,0.01172 v 1.972656 a 8,4 0 0 0 0,0.01367 8,4.5123385 0 0 0 0,0.01367 v 5.972656 0.002 a 8,4 0 0 0 0,0.01367 8,4.5123385 0 0 0 0,0.01172 h 0.002 a 8,4 0 0 0 7.998047,3.972656 8,4 0 0 0 7.998047,-3.974609 h 0.002 a 8,4.5123385 0 0 0 -0.002,-0.01367 8,4 0 0 0 0.002,-0.01172 v -5.974609 -0.02539 -1.974609 -0.02539 -5.974609 -0.02539 -2 -6 z"
@@ -164,12 +164,12 @@
      d="m 12.000012,37 v 8 a 8,4 0 0 0 0,0.014 8,4.5123385 0 0 0 0,0.012 h 0.002 a 8,4 0 0 0 7.998,3.974 8,4 0 0 0 7.998047,-3.9746 h 0.002 a 8,4.5123385 0 0 0 -0.002,-0.014 8,4 0 0 0 0.002,-0.012 v -8 h -16 z"
      fill="url(#c)"
      id="path861"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 34.998047,28.9746 v 8 a 8,4 0 0 0 0,0.014 8,4.5123385 0 0 0 0,0.012 v 7.9746 a 8,4 0 0 0 0,0.014 8,4.5123385 0 0 0 0,0.012 h 0.002 a 8,4 0 0 0 7.998047,3.9746 8,4 0 0 0 7.998047,-3.9746 h 0.002 a 8,4.5123385 0 0 0 -0.002,-0.014 8,4 0 0 0 0.002,-0.012 v -7.9746 -0.025 -8 h -16 z"
      fill="url(#d)"
      id="path863"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <ellipse
      cx="20.000011"
      cy="36.999981"
@@ -193,7 +193,7 @@
      rx="8"
      ry="4"
      id="ellipse919"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.6" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.6" />
   <ellipse
      cx="42.997997"
      cy="28.973982"
@@ -201,7 +201,7 @@
      rx="8"
      ry="4"
      id="ellipse921"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.6" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.6" />
   <ellipse
      cx="24.000011"
      cy="16.998396"
@@ -209,7 +209,7 @@
      rx="8"
      ry="4"
      id="ellipse995"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.3" />
   <ellipse
      cx="46.999855"
      cy="8.9983959"
@@ -217,5 +217,5 @@
      rx="8"
      ry="4"
      id="ellipse997"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.3" />
 </svg>

@@ -109,11 +109,11 @@
      gradientTransform="translate(0,-1000.3622)" />
   <path
      d="m 0,0 h 60 v 52 h -60 z"
-     fill="#ffffff"
+     fill="#ffff00"
      id="path16" />
   <path
      d="m 11,40.0062 h 46 v 0.9874 h -46 z"
-     fill="#232629"
+     fill="#000080"
      id="path18" />
   <path
      d="m 32,31 v 11 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -11 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
@@ -140,7 +140,7 @@
      id="path26" />
   <path
      d="m 11,3 h 1 v 38 h -1 z"
-     fill="#232629"
+     fill="#000080"
      id="path28" />
   <path
      d="m 10,21 v 6 9 6 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -6 -9 -6 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
@@ -164,12 +164,12 @@
      d="m 32,31 v 11 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -11 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
      fill="url(#c)"
      id="path859"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <path
      d="m 10,21 v 6 9 6 a 9.5,4 0 0 0 9.5,4 9.5,4 0 0 0 9.5,-4 v -6 -9 -6 a 9.5,4 0 0 1 -9.5,4 9.5,4 0 0 1 -9.5,-4 z"
      fill="url(#f)"
      id="path861"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.4" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.4" />
   <ellipse
      cx="41.5"
      cy="18.999983"
@@ -177,7 +177,7 @@
      rx="9.5"
      ry="4"
      id="ellipse953"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.3" />
   <ellipse
      cx="19.5"
      cy="8.9999828"
@@ -185,5 +185,5 @@
      rx="9.5"
      ry="4"
      id="ellipse955"
-     style="fill:#ffffff;fill-opacity:1;opacity:0.3" />
+     style="fill:#ffff00;fill-opacity:1;opacity:0.3" />
 </svg>
