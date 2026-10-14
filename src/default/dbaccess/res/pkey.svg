@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/dbaccess/res/pkey.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.1.1 (50ffc5b540, 2022-01-11)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,31 +38,41 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="42.909091"
-     inkscape:cx="3.0879237"
-     inkscape:cy="5.907839"
+     inkscape:cx="0.13983051"
+     inkscape:cy="4.6959746"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid819" />
+       id="grid819"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid1948"
        dotted="true"
        spacingx="0.5"
        spacingy="0.5"
-       empspacing="10" />
+       empspacing="10"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path2"
-     style="fill:#ff00ff;fill-opacity:1"
-     d="m 4.9785156,0.99804688 c -0.4838442,-2.6111e-4 -0.8641221,0.0171332 -1.2265625,0.16210932 -0.2416269,0.096651 -0.4743408,0.2924317 -0.5976562,0.5390626 -0.1233155,0.246631 -0.1542969,0.5091148 -0.1542969,0.8007812 0,0.2916664 0.030981,0.5541502 0.1542969,0.8007812 0.1233154,0.2466309 0.3560293,0.4424118 0.5976562,0.5390626 0.3674177,0.146967 0.7546556,0.1628504 1.2480469,0.1621093 v 5.4980469 c 0,0.2761 0.223858,0.5 0.5,0.5 0.276142,0 0.5,-0.2239 0.5,-0.5 v -0.5 h 1 v -1 h -1 v -0.5 -0.5 h 1 v -1 h -1 v -1.9980469 c 0.4933913,7.41e-4 0.8806292,-0.015142 1.2480469,-0.1621093 0.2416269,-0.096651 0.4743408,-0.2924317 0.5976562,-0.5390626 0.1233155,-0.2466309 0.1542969,-0.5091148 0.1542969,-0.8007812 0,-0.3058396 -0.049434,-0.5885998 -0.1953125,-0.8339844 -0.1458782,-0.2453846 -0.3871814,-0.4185031 -0.6308594,-0.5097656 -0.4873559,-0.18252494 -1.008868,-0.15625 -1.6738281,-0.15625 -0.1874998,0 -0.360203,-0.001866 -0.5214844,-0.001953 z m 0.5214844,1.00195312 c 0.6649601,0 1.1440557,0.026275 1.3242188,0.09375 0.090082,0.033737 0.099772,0.048119 0.1210937,0.083984 0.021321,0.035865 0.054687,0.1281057 0.054687,0.3222656 0,0.2083331 -0.031519,0.3208499 -0.048828,0.3554688 -0.017309,0.034619 -0.00335,0.026339 -0.074219,0.054687 -0.1417455,0.056698 -0.6269539,0.089844 -1.3769531,0.089844 -0.7499993,0 -1.2352076,-0.033145 -1.3769531,-0.089844 -0.070873,-0.028349 -0.056909,-0.020069 -0.074219,-0.054687 -0.017309,-0.034619 -0.048828,-0.1471357 -0.048828,-0.3554688 0,-0.2083331 0.031519,-0.32085 0.048828,-0.3554688 0.017309,-0.034619 0.00335,-0.026338 0.074219,-0.054687 0.1417455,-0.056698 0.6269532,-0.089844 1.3769531,-0.089844 z"
-     sodipodi:nodetypes="sssssscsssccccccccccsssssssssssscsscsscs" />
+     id="path3"
+     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ff00ff;stroke:none;stroke-width:0.999999;marker:none"
+     d="M 0,5.5 A 2.75,2.75 0 0 0 2.75,8.25 2.75,2.75 0 0 0 5.3125,6.4980469 l 0.6621094,-0.00195 0.984375,-0.8652344 0.4550781,0.4570312 0.5,-0.5019531 0.5,0.5019531 0.5,-0.5019531 1,1.0019531 L 11,5.5 10,4.4980469 5.3125,4.5019531 A 2.75,2.75 0 0 0 2.75,2.75 2.75,2.75 0 0 0 0,5.5 Z m 1,0 A 0.75,0.75 0 0 1 1.75,4.75 0.75,0.75 0 0 1 2.5,5.5 0.75,0.75 0 0 1 1.75,6.25 0.75,0.75 0 0 1 1,5.5 Z" />
 </svg>
