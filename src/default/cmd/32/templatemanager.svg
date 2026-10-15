@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="templatemanager.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/templatemanager.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -38,148 +38,46 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="-2.1875"
-     inkscape:cy="21.1875"
+     inkscape:zoom="16"
+     inkscape:cx="10.96875"
+     inkscape:cy="17.84375"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid825" />
+       id="grid825"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     sodipodi:nodetypes="ccccccccc"
-     style="opacity:0.7;fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path815"
-     d="M 10,28 C 8,28 6,27 6,25 V 7 C 6,5 8,4 10,4 h 9 l 7,7 v 14 c 0,2 -2,3 -4,3 z"
-     inkscape:connector-curvature="0" />
+     id="path3"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;enable-background:accumulate;stop-color:#000000"
+     d="M 10 3 C 8.8333333 3 7.6586587 3.2757379 6.6953125 3.9179688 C 5.7319663 4.5601996 5 5.6666667 5 7 L 5 25 C 5 26.091029 5.4893748 27.030328 6.1953125 27.6875 L 27 18.378906 L 27 10.585938 L 19.414062 3 L 10 3 z " />
   <path
      inkscape:connector-curvature="0"
      d="M 10,28 C 8,28 6,27 6,25 V 7 C 6,5 8,4 10,4 h 9 l 7,7 v 14 c 0,2 -2,3 -4,3 z"
      id="path2"
-     style="fill:#ffffff"
+     style="fill:#ffff00"
      sodipodi:nodetypes="ccccccccc" />
   <path
      inkscape:connector-curvature="0"
      d="M 19,11 V 4 l 7,7 z"
      id="path4"
-     style="fill:#6d6d6d;fill-opacity:1" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect34"
-     width="1"
-     height="1"
-     x="7"
-     y="9" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect36"
-     width="3"
-     height="1"
-     x="3"
-     y="9" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect344"
-     width="1"
-     height="1"
-     x="7"
-     y="11" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect346"
-     width="3"
-     height="1"
-     x="3"
-     y="11" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect348"
-     width="1"
-     height="1"
-     x="7"
-     y="13" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect350"
-     width="3"
-     height="1"
-     x="3"
-     y="13" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect352"
-     width="1"
-     height="1"
-     x="7"
-     y="15" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect354"
-     width="3"
-     height="1"
-     x="3"
-     y="15" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect356"
-     width="1"
-     height="1"
-     x="7"
-     y="17" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect358"
-     width="3"
-     height="1"
-     x="3"
-     y="17" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect360"
-     width="1"
-     height="1"
-     x="7"
-     y="19" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect362"
-     width="3"
-     height="1"
-     x="3"
-     y="19" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect364"
-     width="1"
-     height="1"
-     x="7"
-     y="21" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect366"
-     width="3"
-     height="1"
-     x="3"
-     y="21" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect368"
-     width="1"
-     height="1"
-     x="7"
-     y="23" />
-  <rect
-     style="fill:#6d6d6d;fill-rule:evenodd;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round"
-     id="rect370"
-     width="3"
-     height="1"
-     x="3"
-     y="23" />
+     style="fill:#000080;fill-opacity:1;opacity:0.5" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:square;enable-background:accumulate;stop-color:#000000"
+     d="M 31,17.685547 3.5,29.988044 31,30 Z m -3,4.628906 V 27 H 17.527344 Z"
+     id="path1"
+     sodipodi:nodetypes="cccccccc" />
 </svg>
