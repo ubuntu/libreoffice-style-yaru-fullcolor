@@ -1988,6 +1988,8 @@ res/lx03126.svg cmd/32/dbviewtables.svg
 res/lx03127.svg res/ots_32.svg
 res/lx03130.svg res/lx03123.svg
 res/lx03137.svg res/lx03125.svg
+res/lx03139.png cmd/lc_newhtmldoc.png
+res/lx03139_32.png cmd/32/newhtmldoc.png
 res/lx03140.svg res/lx03125.svg
 res/lx03144.svg res/odf_32.svg
 res/lx03145.svg res/odf_32.svg
@@ -2082,18 +2084,18 @@ res/sx03123.svg res/odp_16.svg
 res/sx03126.svg cmd/sc_dbviewtables.svg
 res/sx03127.svg res/ots_16.svg
 res/sx03130.svg res/odp_16.svg
-res/sx03137.svg res/sx03125.svg
+res/sx03137.svg cmd/sc_selectbackground.svg
 res/sx03139.svg cmd/sc_browseview.svg
-res/sx03140.svg res/sx03125.svg
+res/sx03140.svg cmd/sc_selectbackground.svg
 res/sx03144.svg res/odf_16.svg
 res/sx03145.svg res/odf_16.svg
-res/sx03152.svg res/sx03125.svg
-res/sx03153.svg res/sx03125.svg
-res/sx03154.svg res/sx03125.svg
-res/sx03155.svg res/sx03125.svg
+res/sx03152.svg cmd/sc_selectbackground.svg
+res/sx03153.svg cmd/sc_selectbackground.svg
+res/sx03154.svg cmd/sc_selectbackground.svg
+res/sx03155.svg cmd/sc_selectbackground.svg
 res/sx03156.svg res/odt_16.svg
-res/sx03158.svg res/sx03125.svg
-res/sx03160.svg res/sx03125.svg
+res/sx03158.svg cmd/sc_selectbackground.svg
+res/sx03160.svg cmd/sc_selectbackground.svg
 res/sx03162.svg res/odt_16.svg
 res/sx03163.svg res/odt_16.svg
 res/sx03164.svg cmd/sc_open.svg
@@ -2104,7 +2106,7 @@ res/sx03189.svg cmd/sc_open.svg
 res/sx03202.svg cmd/sc_dbviewqueries.svg
 res/sx03217.svg res/odg_16.svg
 res/sx03218.svg res/odg_16.svg
-res/sx03219.svg res/sx03125.svg
+res/sx03219.svg cmd/sc_selectbackground.svg
 res/sx03220.svg res/odg_16.svg
 res/sx03221.svg res/odg_16.svg
 res/sx03222.svg res/odg_16.svg
@@ -2580,3 +2582,9 @@ cmd/sc_librelogo-home.svg cmd/sc_firstpage.svg
 cmd/32/testmode.svg cmd/32/watchwindow.svg
 cmd/lc_testmode.svg cmd/lc_watchwindow.svg
 cmd/sc_testmode.svg cmd/sc_watchwindow.svg
+
+res/hlmailtp.svg cmd/32/sendmail.svg
+res/lx03125.svg cmd/32/selectbackground.svg
+res/newdoc.svg cmd/32/showsinglepage.svg
+res/script.svg cmd/sc_insertscript.svg
+res/sx03125.svg cmd/sc_selectbackground.svg

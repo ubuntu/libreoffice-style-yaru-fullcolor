@@ -1988,6 +1988,8 @@ res/lx03126.png cmd/32/dbviewtables.png
 res/lx03127.png res/ots_32.png
 res/lx03130.png res/lx03123.png
 res/lx03137.png res/lx03125.png
+res/lx03139.png cmd/lc_newhtmldoc.png
+res/lx03139_32.png cmd/32/newhtmldoc.png
 res/lx03140.png res/lx03125.png
 res/lx03144.png res/odf_32.png
 res/lx03145.png res/odf_32.png
@@ -2082,18 +2084,18 @@ res/sx03123.png res/odp_16.png
 res/sx03126.png cmd/sc_dbviewtables.png
 res/sx03127.png res/ots_16.png
 res/sx03130.png res/odp_16.png
-res/sx03137.png res/sx03125.png
+res/sx03137.png cmd/sc_selectbackground.png
 res/sx03139.png cmd/sc_browseview.png
-res/sx03140.png res/sx03125.png
+res/sx03140.png cmd/sc_selectbackground.png
 res/sx03144.png res/odf_16.png
 res/sx03145.png res/odf_16.png
-res/sx03152.png res/sx03125.png
-res/sx03153.png res/sx03125.png
-res/sx03154.png res/sx03125.png
-res/sx03155.png res/sx03125.png
+res/sx03152.png cmd/sc_selectbackground.png
+res/sx03153.png cmd/sc_selectbackground.png
+res/sx03154.png cmd/sc_selectbackground.png
+res/sx03155.png cmd/sc_selectbackground.png
 res/sx03156.png res/odt_16.png
-res/sx03158.png res/sx03125.png
-res/sx03160.png res/sx03125.png
+res/sx03158.png cmd/sc_selectbackground.png
+res/sx03160.png cmd/sc_selectbackground.png
 res/sx03162.png res/odt_16.png
 res/sx03163.png res/odt_16.png
 res/sx03164.png cmd/sc_open.png
@@ -2104,7 +2106,7 @@ res/sx03189.png cmd/sc_open.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03217.png res/odg_16.png
 res/sx03218.png res/odg_16.png
-res/sx03219.png res/sx03125.png
+res/sx03219.png cmd/sc_selectbackground.png
 res/sx03220.png res/odg_16.png
 res/sx03221.png res/odg_16.png
 res/sx03222.png res/odg_16.png
@@ -2580,3 +2582,9 @@ cmd/sc_librelogo-home.png cmd/sc_firstpage.png
 cmd/32/testmode.png cmd/32/watchwindow.png
 cmd/lc_testmode.png cmd/lc_watchwindow.png
 cmd/sc_testmode.png cmd/sc_watchwindow.png
+
+res/hlmailtp.png cmd/32/sendmail.png
+res/lx03125.png cmd/32/selectbackground.png
+res/newdoc.png cmd/32/showsinglepage.png
+res/script.png cmd/sc_insertscript.png
+res/sx03125.png cmd/sc_selectbackground.png

@@ -1988,6 +1988,8 @@ res/lx03126.xxx cmd/32/dbviewtables.xxx
 res/lx03127.xxx res/ots_32.xxx
 res/lx03130.xxx res/lx03123.xxx
 res/lx03137.xxx res/lx03125.xxx
+res/lx03139.png cmd/lc_newhtmldoc.png
+res/lx03139_32.png cmd/32/newhtmldoc.png
 res/lx03140.xxx res/lx03125.xxx
 res/lx03144.xxx res/odf_32.xxx
 res/lx03145.xxx res/odf_32.xxx
@@ -2082,18 +2084,18 @@ res/sx03123.xxx res/odp_16.xxx
 res/sx03126.xxx cmd/sc_dbviewtables.xxx
 res/sx03127.xxx res/ots_16.xxx
 res/sx03130.xxx res/odp_16.xxx
-res/sx03137.xxx res/sx03125.xxx
+res/sx03137.xxx cmd/sc_selectbackground.xxx
 res/sx03139.xxx cmd/sc_browseview.xxx
-res/sx03140.xxx res/sx03125.xxx
+res/sx03140.xxx cmd/sc_selectbackground.xxx
 res/sx03144.xxx res/odf_16.xxx
 res/sx03145.xxx res/odf_16.xxx
-res/sx03152.xxx res/sx03125.xxx
-res/sx03153.xxx res/sx03125.xxx
-res/sx03154.xxx res/sx03125.xxx
-res/sx03155.xxx res/sx03125.xxx
+res/sx03152.xxx cmd/sc_selectbackground.xxx
+res/sx03153.xxx cmd/sc_selectbackground.xxx
+res/sx03154.xxx cmd/sc_selectbackground.xxx
+res/sx03155.xxx cmd/sc_selectbackground.xxx
 res/sx03156.xxx res/odt_16.xxx
-res/sx03158.xxx res/sx03125.xxx
-res/sx03160.xxx res/sx03125.xxx
+res/sx03158.xxx cmd/sc_selectbackground.xxx
+res/sx03160.xxx cmd/sc_selectbackground.xxx
 res/sx03162.xxx res/odt_16.xxx
 res/sx03163.xxx res/odt_16.xxx
 res/sx03164.xxx cmd/sc_open.xxx
@@ -2104,7 +2106,7 @@ res/sx03189.xxx cmd/sc_open.xxx
 res/sx03202.xxx cmd/sc_dbviewqueries.xxx
 res/sx03217.xxx res/odg_16.xxx
 res/sx03218.xxx res/odg_16.xxx
-res/sx03219.xxx res/sx03125.xxx
+res/sx03219.xxx cmd/sc_selectbackground.xxx
 res/sx03220.xxx res/odg_16.xxx
 res/sx03221.xxx res/odg_16.xxx
 res/sx03222.xxx res/odg_16.xxx
@@ -2580,3 +2582,9 @@ cmd/sc_librelogo-home.xxx cmd/sc_firstpage.xxx
 cmd/32/testmode.xxx cmd/32/watchwindow.xxx
 cmd/lc_testmode.xxx cmd/lc_watchwindow.xxx
 cmd/sc_testmode.xxx cmd/sc_watchwindow.xxx
+
+res/hlmailtp.xxx cmd/32/sendmail.xxx
+res/lx03125.xxx cmd/32/selectbackground.xxx
+res/newdoc.xxx cmd/32/showsinglepage.xxx
+res/script.xxx cmd/sc_insertscript.xxx
+res/sx03125.xxx cmd/sc_selectbackground.xxx
