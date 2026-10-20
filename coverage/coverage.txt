@@ -1162,6 +1162,7 @@ cmd/32/neutralcellstyle
 cmd/32/neutralcellstyles
 cmd/32/newarrangement
 cmd/32/newdoc
+cmd/32/newhtmldoc
 cmd/32/newrecord
 cmd/32/newwindow
 cmd/32/nextannotation
@@ -2845,6 +2846,7 @@ cmd/lc_neutralcellstyle
 cmd/lc_neutralcellstyles
 cmd/lc_newarrangement
 cmd/lc_newdoc
+cmd/lc_newhtmldoc
 cmd/lc_newrecord
 cmd/lc_newwindow
 cmd/lc_nextannotation
@@ -4345,6 +4347,7 @@ cmd/sc_neutralcellstyle
 cmd/sc_neutralcellstyles
 cmd/sc_newarrangement
 cmd/sc_newdoc
+cmd/sc_newhtmldoc
 cmd/sc_newrecord
 cmd/sc_newwindow
 cmd/sc_nextannotation
@@ -5045,6 +5048,7 @@ res/lx03129
 res/lx03130
 res/lx03137
 res/lx03139
+res/lx03139_32
 res/lx03140
 res/lx03144
 res/lx03145
@@ -5158,6 +5162,8 @@ res/ott_48_8
 res/plugin
 res/plus
 res/queries_32
+res/recentdoc_pin
+res/recentdoc_pin_highlighted
 res/recentdoc_remove
 res/recentdoc_remove_highlighted
 res/reload

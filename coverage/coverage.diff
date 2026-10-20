@@ -182,7 +182,6 @@
 +cmd/32/mergetable
 -cmd/32/morphing
 -cmd/32/navigatemenu
-+cmd/32/newhtmldoc
 +cmd/32/nobreak
 +cmd/32/notecellstyles
 +cmd/32/notevisible
@@ -479,7 +478,6 @@
 +cmd/lc_macroorganizer
 +cmd/lc_mergetable
 -cmd/lc_navigatemenu
-+cmd/lc_newhtmldoc
 +cmd/lc_nobreak
 +cmd/lc_notevisible
 +cmd/lc_objecttitledescription-drawingobjects
@@ -596,7 +594,6 @@
 +cmd/sc_macroorganizer
 +cmd/sc_mergetable
 -cmd/sc_navigatemenu
-+cmd/sc_newhtmldoc
 +cmd/sc_nobreak
 +cmd/sc_notevisible
 +cmd/sc_objecttitledescription-drawingobjects
@@ -714,7 +711,6 @@
 -res/lx03126
 +res/lx03131
 +res/lx03135
-+res/lx03139_32
 +res/lx03150
 -res/lx03162
 +res/lx03202
@@ -778,8 +774,6 @@
 +res/printeradmin_32
 +res/printeradmin_32_8
 +res/query
-+res/recentdoc_pin
-+res/recentdoc_pin_highlighted
 +res/sc05500
 +res/sc05678
 +res/sc10224
