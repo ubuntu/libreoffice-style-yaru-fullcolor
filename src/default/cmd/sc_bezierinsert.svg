@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
    sodipodi:docname="sc_bezierinsert.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_bezierinsert.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -42,38 +42,24 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="4.0058057"
-     inkscape:cy="9.1971751"
+     inkscape:cx="4.0149283"
+     inkscape:cy="9.1923882"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid838" />
+       id="grid838"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
-  <path
-     inkscape:connector-curvature="0"
-     d="m 0,4 h 16 l 4e-6,2 H 3.3777778e-6 Z"
-     id="path43"
-     style="fill:#1463a5;fill-opacity:1;stroke-width:0.91766304"
-     sodipodi:nodetypes="ccccc" />
-  <rect
-     y="1.9999919"
-     x="4.9999967"
-     height="6.0000081"
-     width="6"
-     id="rect832"
-     style="opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.87777779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     ry="0" />
-  <rect
-     y="2.9999919"
-     x="5.9999967"
-     height="4.0000076"
-     width="4"
-     id="rect834"
-     style="opacity:1;vector-effect:none;fill:#aee3f8;fill-opacity:1;stroke:none;stroke-width:0.71428573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     ry="0" />
   <circle
      style="opacity:1;vector-effect:none;fill:#0f0;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
@@ -87,4 +73,45 @@
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
      d="m 12,10 v 2 H 9.999999 v 1 H 12 v 2 h 1 v -2 h 2 v -1 h -2 v -2 z" />
+  <path
+     d="M 12.648438,0.62498743 8.2734375,5.0000173 h 0.7265624 v 0.687496 L 13.355469,1.3320236 Z M 5,8.2753936 0.27539062,12.999992 0.98242188,13.707028 5.6894531,9.0000046 H 5 Z"
+     fill="#3a3a38"
+     stroke-width="0.999999"
+     id="path1"
+     style="fill:#000080" />
+  <path
+     d="M 1.28e-6,11.000017 H 3.0000013 v 3 H 1.28e-6 Z"
+     id="path2"
+     style="fill:#000080" />
+  <path
+     d="m 11.000001,1.737e-5 h 3 V 3.0000174 h -3 z"
+     id="path3"
+     style="fill:#000080" />
+  <path
+     d="M 5,5.0000173 V 9.0000046 H 8.9999999 V 5.0000173 Z M 5.9999999,6.0000047 H 8 V 8.0000172 H 5.9999999 Z"
+     fill="#309048"
+     stroke-width="0.999999"
+     id="path4"
+     style="fill:#00ff00" />
+  <rect
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3"
+     width="1"
+     height="1"
+     x="12"
+     y="1" />
+  <rect
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     id="rect4"
+     width="1"
+     height="1"
+     x="1"
+     y="12" />
+  <rect
+     style="fill:#ffff00;stroke-linecap:round;stroke-linejoin:round"
+     id="rect5"
+     width="2"
+     height="2"
+     x="6"
+     y="6" />
 </svg>

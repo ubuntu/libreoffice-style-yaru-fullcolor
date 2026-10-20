@@ -61,7 +61,6 @@ cmd/32/basicshapes.png cmd/32/graphic.png
 cmd/32/basicshapes.quadrat.png cmd/32/square.png
 cmd/32/basicshapes.rectangle.png cmd/32/rect.png
 cmd/32/basicshapes.round-rectangle.png cmd/32/rect_rounded.png
-cmd/32/bezieredge.png cmd/32/bezierappend.png
 cmd/32/browsebackward cmd/lc_prevrecord.png
 cmd/32/browsebackward.png cmd/32/prevrecord.png
 cmd/32/browseforward.png cmd/32/nextrecord.png
@@ -802,7 +801,6 @@ cmd/lc_basicshapes.png cmd/lc_graphic.png
 cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
 cmd/lc_basicshapes.rectangle.png cmd/lc_rect.png
 cmd/lc_basicshapes.round-rectangle.png cmd/lc_rect_rounded.png
-cmd/lc_bezieredge.png cmd/lc_bezierappend.png
 cmd/lc_browsebackward cmd/lc_prevrecord.png
 cmd/lc_browsebackward.png cmd/lc_prevrecord.png
 cmd/lc_browseforward.png cmd/lc_nextrecord.png
@@ -1352,7 +1350,6 @@ cmd/sc_basicshapes.png cmd/sc_graphic.png
 cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
 cmd/sc_basicshapes.rectangle.png cmd/sc_rect.png
 cmd/sc_basicshapes.round-rectangle.png cmd/sc_rect_rounded.png
-cmd/sc_bezieredge.png cmd/sc_bezierappend.png
 cmd/sc_browsebackward cmd/lc_prevrecord.png
 cmd/sc_browsebackward.png cmd/sc_prevrecord.png
 cmd/sc_browseforward.png cmd/sc_nextrecord.png
@@ -2588,3 +2585,7 @@ res/lx03125.png cmd/32/selectbackground.png
 res/newdoc.png cmd/32/showsinglepage.png
 res/script.png cmd/sc_insertscript.png
 res/sx03125.png cmd/sc_selectbackground.png
+res/tipoftheday_c.png res/tipoftheday.png
+res/tipoftheday_d.png res/tipoftheday.png
+res/tipoftheday_i.png res/tipoftheday.png
+res/tipoftheday_w.png res/tipoftheday.png

@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="12.691968"
+     inkscape:cx="12.727922"
      inkscape:cy="12.062762"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -60,35 +60,57 @@
        spacingx="1"
        units="px" />
   </sodipodi:namedview>
-  <path
-     inkscape:connector-curvature="0"
-     d="m 3,11.000004 h 18 l 4e-6,2 H 3.0000038 Z"
-     id="path43"
-     style="fill:#ff00ff;fill-opacity:1;stroke-width:0.97332859"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="rect832"
-     style="opacity:0.8;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.77777779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 9 9 L 9 15 L 15 15 L 15 9 L 9 9 z M 10 10 L 14 10 L 14 14 L 10 14 L 10 10 z " />
-  <rect
-     y="9.9999962"
-     x="10"
-     height="4.0000076"
-     width="4"
-     id="rect834"
-     style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.71428573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     ry="0" />
   <circle
-     style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.49999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2644"
-     cy="18.5"
-     cx="18.5"
-     r="3.5" />
+     cy="26.162949"
+     cx="-1.3486991e-06"
+     r="3.5"
+     transform="rotate(-45)" />
   <path
      inkscape:connector-curvature="0"
      id="path1063"
      overflow="visible"
      font-weight="400"
      style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;marker:none"
-     d="m 19.914215,16.378679 -1.414214,1.414213 -1.414214,-1.414213 -0.707106,0.707106 1.414213,1.414214 -1.414213,1.414214 0.707106,0.707106 1.414214,-1.414213 1.414214,1.414213 0.707106,-0.707106 -1.414213,-1.414214 1.414213,-1.414214 z" />
+     d="m 16.378679,17.085785 1.414214,1.414214 -1.414215,1.414214 0.707107,0.707107 1.414214,-1.414215 1.414214,1.414214 0.707107,-0.707107 -1.414214,-1.414213 1.414214,-1.414214 -0.707107,-0.707107 -1.414214,1.414214 -1.414213,-1.414214 z" />
+  <path
+     d="m 19.130859,2.1621088 -6.83789,6.8378833 H 13 V 9.7070284 L 19.837891,2.869145 Z M 8.9999999,12.292943 2.1621094,19.130864 2.8691405,19.837901 9.7070312,12.999979 H 8.9999999 Z"
+     fill="#3a3a38"
+     id="path1"
+     style="fill:#000080;stroke-width:0.999999" />
+  <path
+     d="M 8.9999999,8.9999921 V 12.999979 H 13 V 8.9999921 Z M 9.9999997,9.9999795 H 12 V 11.999992 H 9.9999997 Z"
+     fill="#309048"
+     id="path2"
+     style="fill:#ff0000;stroke-width:0.999999" />
+  <path
+     d="m 17,2 h 3 v 3 h -3 z"
+     id="path3"
+     style="fill:#000080;stroke-width:0.999999" />
+  <path
+     d="m 2,17 h 3 v 3 H 2 Z"
+     id="path4"
+     style="fill:#000080;stroke-width:0.999999" />
+  <rect
+     style="fill:#ffff00;stroke-width:2;stroke-linejoin:round"
+     id="rect1"
+     width="1"
+     height="1"
+     x="3"
+     y="18" />
+  <rect
+     style="fill:#ffff00;stroke-width:2;stroke-linejoin:round"
+     id="rect2"
+     width="1"
+     height="1"
+     x="18"
+     y="3" />
+  <rect
+     style="fill:#ffff00;stroke-width:2;stroke-linejoin:round"
+     id="rect3"
+     width="2"
+     height="2"
+     x="10"
+     y="10" />
 </svg>

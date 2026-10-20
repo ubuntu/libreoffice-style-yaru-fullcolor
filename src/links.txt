@@ -61,7 +61,6 @@ cmd/32/basicshapes.xxx cmd/32/graphic.xxx
 cmd/32/basicshapes.quadrat.xxx cmd/32/square.xxx
 cmd/32/basicshapes.rectangle.xxx cmd/32/rect.xxx
 cmd/32/basicshapes.round-rectangle.xxx cmd/32/rect_rounded.xxx
-cmd/32/bezieredge.xxx cmd/32/bezierappend.xxx
 cmd/32/browsebackward cmd/lc_prevrecord.xxx
 cmd/32/browsebackward.xxx cmd/32/prevrecord.xxx
 cmd/32/browseforward.xxx cmd/32/nextrecord.xxx
@@ -802,7 +801,6 @@ cmd/lc_basicshapes.xxx cmd/lc_graphic.xxx
 cmd/lc_basicshapes.quadrat.xxx cmd/lc_square.xxx
 cmd/lc_basicshapes.rectangle.xxx cmd/lc_rect.xxx
 cmd/lc_basicshapes.round-rectangle.xxx cmd/lc_rect_rounded.xxx
-cmd/lc_bezieredge.xxx cmd/lc_bezierappend.xxx
 cmd/lc_browsebackward cmd/lc_prevrecord.xxx
 cmd/lc_browsebackward.xxx cmd/lc_prevrecord.xxx
 cmd/lc_browseforward.xxx cmd/lc_nextrecord.xxx
@@ -1352,7 +1350,6 @@ cmd/sc_basicshapes.xxx cmd/sc_graphic.xxx
 cmd/sc_basicshapes.quadrat.xxx cmd/sc_square.xxx
 cmd/sc_basicshapes.rectangle.xxx cmd/sc_rect.xxx
 cmd/sc_basicshapes.round-rectangle.xxx cmd/sc_rect_rounded.xxx
-cmd/sc_bezieredge.xxx cmd/sc_bezierappend.xxx
 cmd/sc_browsebackward cmd/lc_prevrecord.xxx
 cmd/sc_browsebackward.xxx cmd/sc_prevrecord.xxx
 cmd/sc_browseforward.xxx cmd/sc_nextrecord.xxx
@@ -2588,3 +2585,7 @@ res/lx03125.xxx cmd/32/selectbackground.xxx
 res/newdoc.xxx cmd/32/showsinglepage.xxx
 res/script.xxx cmd/sc_insertscript.xxx
 res/sx03125.xxx cmd/sc_selectbackground.xxx
+res/tipoftheday_c.xxx res/tipoftheday.xxx
+res/tipoftheday_d.xxx res/tipoftheday.xxx
+res/tipoftheday_i.xxx res/tipoftheday.xxx
+res/tipoftheday_w.xxx res/tipoftheday.xxx

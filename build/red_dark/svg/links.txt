@@ -61,7 +61,6 @@ cmd/32/basicshapes.svg cmd/32/graphic.svg
 cmd/32/basicshapes.quadrat.svg cmd/32/square.svg
 cmd/32/basicshapes.rectangle.svg cmd/32/rect.svg
 cmd/32/basicshapes.round-rectangle.svg cmd/32/rect_rounded.svg
-cmd/32/bezieredge.svg cmd/32/bezierappend.svg
 cmd/32/browsebackward cmd/lc_prevrecord.svg
 cmd/32/browsebackward.svg cmd/32/prevrecord.svg
 cmd/32/browseforward.svg cmd/32/nextrecord.svg
@@ -802,7 +801,6 @@ cmd/lc_basicshapes.svg cmd/lc_graphic.svg
 cmd/lc_basicshapes.quadrat.svg cmd/lc_square.svg
 cmd/lc_basicshapes.rectangle.svg cmd/lc_rect.svg
 cmd/lc_basicshapes.round-rectangle.svg cmd/lc_rect_rounded.svg
-cmd/lc_bezieredge.svg cmd/lc_bezierappend.svg
 cmd/lc_browsebackward cmd/lc_prevrecord.svg
 cmd/lc_browsebackward.svg cmd/lc_prevrecord.svg
 cmd/lc_browseforward.svg cmd/lc_nextrecord.svg
@@ -1352,7 +1350,6 @@ cmd/sc_basicshapes.svg cmd/sc_graphic.svg
 cmd/sc_basicshapes.quadrat.svg cmd/sc_square.svg
 cmd/sc_basicshapes.rectangle.svg cmd/sc_rect.svg
 cmd/sc_basicshapes.round-rectangle.svg cmd/sc_rect_rounded.svg
-cmd/sc_bezieredge.svg cmd/sc_bezierappend.svg
 cmd/sc_browsebackward cmd/lc_prevrecord.svg
 cmd/sc_browsebackward.svg cmd/sc_prevrecord.svg
 cmd/sc_browseforward.svg cmd/sc_nextrecord.svg
@@ -2588,3 +2585,7 @@ res/lx03125.svg cmd/32/selectbackground.svg
 res/newdoc.svg cmd/32/showsinglepage.svg
 res/script.svg cmd/sc_insertscript.svg
 res/sx03125.svg cmd/sc_selectbackground.svg
+res/tipoftheday_c.svg res/tipoftheday.svg
+res/tipoftheday_d.svg res/tipoftheday.svg
+res/tipoftheday_i.svg res/tipoftheday.svg
+res/tipoftheday_w.svg res/tipoftheday.svg
