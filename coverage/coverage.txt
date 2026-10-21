@@ -157,6 +157,7 @@ cmd/32/accepttrackedchange
 cmd/32/accepttrackedchanges
 cmd/32/accepttrackedchanges-more
 cmd/32/accepttrackedchangetonext
+cmd/32/actionmode
 cmd/32/adddatefield
 cmd/32/adddirect
 cmd/32/addfield
@@ -244,6 +245,7 @@ cmd/32/ar/undo
 cmd/32/assignlayout
 cmd/32/assignmacro
 cmd/32/attributepagesize
+cmd/32/auditingfillmode
 cmd/32/auditmenu
 cmd/32/autocontrolfocus
 cmd/32/autocorrectdlg
@@ -283,6 +285,7 @@ cmd/32/basicshapes.right-triangle
 cmd/32/basicshapes.ring
 cmd/32/basicshapes.round-quadrat
 cmd/32/basicshapes.round-rectangle
+cmd/32/basicshapes.sinusoid
 cmd/32/basicshapes.trapezoid
 cmd/32/basicstepinto
 cmd/32/basicstepout
@@ -341,6 +344,7 @@ cmd/32/chainframes
 cmd/32/changebezier
 cmd/32/changecasetolower
 cmd/32/changecasetoupper
+cmd/32/changedatabasefield
 cmd/32/changepicture
 cmd/32/changepolygon
 cmd/32/changesmenu
@@ -376,6 +380,7 @@ cmd/32/colorsettings
 cmd/32/colorview
 cmd/32/columnoperations
 cmd/32/columnwidth
+cmd/32/combine
 cmd/32/combobox
 cmd/32/commentchange
 cmd/32/commentchangetracking
@@ -391,16 +396,19 @@ cmd/32/comparedocuments
 cmd/32/compilebasic
 cmd/32/compressgraphic
 cmd/32/com.sun.star.deployment.ui.packagemanagerdialog
+cmd/32/conddateformatdialog
 cmd/32/conditionalformatdialog
 cmd/32/conditionalformatmenu
 cmd/32/cone
 cmd/32/config
 cmd/32/configuredialog
+cmd/32/connect
 cmd/32/connector
 cmd/32/connectorarrowend
 cmd/32/connectorarrows
 cmd/32/connectorarrowstart
 cmd/32/connectorcircleend
+cmd/32/connectorcircles
 cmd/32/connectorcircles
 cmd/32/connectorcirclestart
 cmd/32/connectorcurve
@@ -515,6 +523,7 @@ cmd/32/defineprintarea
 cmd/32/de/italic
 cmd/32/delete
 cmd/32/deleteallannotation
+cmd/32/deleteallbreaks
 cmd/32/deleteallnotes
 cmd/32/deleteannotation
 cmd/32/deletecell
@@ -581,6 +590,7 @@ cmd/32/drawtext
 cmd/32/dsbdocumentdatasource
 cmd/32/dsbeditdoc
 cmd/32/dsbinsertcolumns
+cmd/32/dsbinsertcontent
 cmd/32/dsbrowserexplorer
 cmd/32/duplicatepage
 cmd/32/duplicatesheet
@@ -604,12 +614,13 @@ cmd/32/ellipsecut
 cmd/32/ellipsecut_unfilled
 cmd/32/ellipsetoolbox
 cmd/32/ellipse_unfilled
-cmd/32/emojicontrol
 cmd/32/emphasischarstyle
 cmd/32/entergroup
 cmd/32/entirecell
 cmd/32/entirecolumn
 cmd/32/entirerow
+cmd/32/equalizeheight
+cmd/32/equalizewidth
 cmd/32/errorcellstyle
 cmd/32/es/bold
 cmd/32/es/italic
@@ -662,6 +673,7 @@ cmd/32/fa/romanlowliststyle
 cmd/32/fa/undo
 cmd/32/fieldmenu
 cmd/32/fieldnames
+cmd/32/fields
 cmd/32/filecontrol
 cmd/32/fillcolor
 cmd/32/filldown
@@ -781,6 +793,8 @@ cmd/32/fr/bold
 cmd/32/freeline
 cmd/32/freeline_unfilled
 cmd/32/freezepanes
+cmd/32/freezepanesfirstcolumn
+cmd/32/freezepanesfirstrow
 cmd/32/fr/underline
 cmd/32/fr/underlinedouble
 cmd/32/fr/underlinesimple
@@ -879,6 +893,7 @@ cmd/32/he/romanliststyle
 cmd/32/he/romanlowliststyle
 cmd/32/he/undo
 cmd/32/hfixedline
+cmd/32/hide
 cmd/32/hideallnotes
 cmd/32/hidenote
 cmd/32/hideslide
@@ -920,6 +935,7 @@ cmd/32/insertcaptiondialog
 cmd/32/insertcell
 cmd/32/insertcellsdown
 cmd/32/insertcellsright
+cmd/32/insertcolumnbreak
 cmd/32/insertcolumns
 cmd/32/insertcolumnsafter
 cmd/32/insertcolumnsbefore
@@ -965,6 +981,7 @@ cmd/32/inserthyperlink
 cmd/32/inserthyperlinkcontrol
 cmd/32/insertimagecontrol
 cmd/32/insertindexesentry
+cmd/32/insertlayer
 cmd/32/insertlistbox
 cmd/32/insertmasterpage
 cmd/32/insertmath
@@ -988,6 +1005,7 @@ cmd/32/insertpagecountfield
 cmd/32/insertpagefield
 cmd/32/insertpagefooter
 cmd/32/insertpageheader
+cmd/32/insertpagenumber
 cmd/32/insertpagenumberfield
 cmd/32/insertpagesfield
 cmd/32/insertpagetitlefield
@@ -1024,6 +1042,7 @@ cmd/32/insobjctrl
 cmd/32/inspectordeck
 cmd/32/interactivegradient
 cmd/32/interactivetransparence
+cmd/32/intersect
 cmd/32/italic
 cmd/32/it/bold
 cmd/32/it/italic
@@ -1105,6 +1124,7 @@ cmd/32/mediamute
 cmd/32/mediapause
 cmd/32/mediarepeat
 cmd/32/menubar
+cmd/32/merge
 cmd/32/mergecells
 cmd/32/mergecellsmenu
 cmd/32/mergedialog
@@ -1117,6 +1137,7 @@ cmd/32/modifyframe
 cmd/32/modifypage
 cmd/32/moduledialog
 cmd/32/morecontrols
+cmd/32/morphing
 cmd/32/move
 cmd/32/movedown
 cmd/32/movedownsubitems
@@ -1141,6 +1162,7 @@ cmd/32/neutralcellstyle
 cmd/32/neutralcellstyles
 cmd/32/newarrangement
 cmd/32/newdoc
+cmd/32/newhtmldoc
 cmd/32/newrecord
 cmd/32/newwindow
 cmd/32/nextannotation
@@ -1218,11 +1240,13 @@ cmd/32/outputqualityblackwhite
 cmd/32/outputqualitycolor
 cmd/32/outputqualitygrayscale
 cmd/32/overline
+cmd/32/pagecolumntype
 cmd/32/pagedialog
 cmd/32/pagedown
 cmd/32/pageformatdialog
 cmd/32/pagemargin
 cmd/32/pagemode
+cmd/32/pagenumberwizard
 cmd/32/pagesetup
 cmd/32/pageup
 cmd/32/paragraphdialog
@@ -1306,6 +1330,8 @@ cmd/32/rect_rounded_unfilled
 cmd/32/rect_unfilled
 cmd/32/recundo
 cmd/32/redactdoc
+cmd/32/redactedexportblack
+cmd/32/redactedexportwhite
 cmd/32/redactionpreviewexport
 cmd/32/redo
 cmd/32/refresh
@@ -1320,6 +1346,7 @@ cmd/32/removefilter
 cmd/32/removefiltersort
 cmd/32/removehyperlink
 cmd/32/removetableof
+cmd/32/renamemasterpage
 cmd/32/renameobject
 cmd/32/renamepage
 cmd/32/renameslide
@@ -1429,6 +1456,7 @@ cmd/32/showpropbrowser
 cmd/32/showruler
 cmd/32/showsinglepage
 cmd/32/showslide
+cmd/32/showtoolbar
 cmd/32/showtrackedchanges
 cmd/32/showtwopages
 cmd/32/showwhitespace
@@ -1502,6 +1530,7 @@ cmd/32/stylenewbyexample
 cmd/32/styleupdatebyexample
 cmd/32/stylewatercanmode
 cmd/32/subscript
+cmd/32/substract
 cmd/32/subtitleparastyle
 cmd/32/superscript
 cmd/32/sv/bold
@@ -1633,6 +1662,7 @@ cmd/32/viewdatasourcebrowser
 cmd/32/viewformasgrid
 cmd/32/viewsidebarstyles
 cmd/32/viewtrackchanges
+cmd/32/viewvaluehighlighting
 cmd/32/vruler
 cmd/32/vscrollbar
 cmd/32/warningcellstyles
@@ -1992,6 +2022,7 @@ cmd/lc_basicshapes.right-triangle
 cmd/lc_basicshapes.ring
 cmd/lc_basicshapes.round-quadrat
 cmd/lc_basicshapes.round-rectangle
+cmd/lc_basicshapes.sinusoid
 cmd/lc_basicshapes.trapezoid
 cmd/lc_basicstepinto
 cmd/lc_basicstepout
@@ -2046,6 +2077,7 @@ cmd/lc_chainframes
 cmd/lc_changebezier
 cmd/lc_changecasetolower
 cmd/lc_changecasetoupper
+cmd/lc_changedatabasefield
 cmd/lc_changepicture
 cmd/lc_changepolygon
 cmd/lc_changesmenu
@@ -2100,6 +2132,7 @@ cmd/lc_comparedocuments
 cmd/lc_compilebasic
 cmd/lc_compressgraphic
 cmd/lc_com.sun.star.deployment.ui.packagemanagerdialog
+cmd/lc_conddateformatdialog
 cmd/lc_conditionalformatdialog
 cmd/lc_conditionalformatmenu
 cmd/lc_cone
@@ -2112,12 +2145,14 @@ cmd/lc_connectorarrows
 cmd/lc_connectorarrowstart
 cmd/lc_connectorcircleend
 cmd/lc_connectorcircles
+cmd/lc_connectorcircles
 cmd/lc_connectorcirclestart
 cmd/lc_connectorcurve
 cmd/lc_connectorcurvearrowend
 cmd/lc_connectorcurvearrows
 cmd/lc_connectorcurvearrowstart
 cmd/lc_connectorcurvecircleend
+cmd/lc_connectorcurvecircles
 cmd/lc_connectorcurvecircles
 cmd/lc_connectorcurvecirclestart
 cmd/lc_connectorline
@@ -2231,6 +2266,7 @@ cmd/lc_definename
 cmd/lc_defineprintarea
 cmd/lc_delete
 cmd/lc_deleteallannotation
+cmd/lc_deleteallbreaks
 cmd/lc_deleteallnotes
 cmd/lc_deleteannotation
 cmd/lc_deletecell
@@ -2318,7 +2354,6 @@ cmd/lc_ellipsecut
 cmd/lc_ellipsecut_unfilled
 cmd/lc_ellipsetoolbox
 cmd/lc_ellipse_unfilled
-cmd/lc_emojicontrol
 cmd/lc_emphasischarstyle
 cmd/lc_entergroup
 cmd/lc_entirecell
@@ -2639,6 +2674,7 @@ cmd/lc_inserthyperlink
 cmd/lc_inserthyperlinkcontrol
 cmd/lc_insertimagecontrol
 cmd/lc_insertindexesentry
+cmd/lc_insertlayer
 cmd/lc_insertlinebreak
 cmd/lc_insertlistbox
 cmd/lc_insertmasterpage
@@ -2663,6 +2699,7 @@ cmd/lc_insertpagecountfield
 cmd/lc_insertpagefield
 cmd/lc_insertpagefooter
 cmd/lc_insertpageheader
+cmd/lc_insertpagenumber
 cmd/lc_insertpagenumberfield
 cmd/lc_insertpagesfield
 cmd/lc_insertpagetitlefield
@@ -2809,6 +2846,7 @@ cmd/lc_neutralcellstyle
 cmd/lc_neutralcellstyles
 cmd/lc_newarrangement
 cmd/lc_newdoc
+cmd/lc_newhtmldoc
 cmd/lc_newrecord
 cmd/lc_newwindow
 cmd/lc_nextannotation
@@ -2888,6 +2926,7 @@ cmd/lc_pagedown
 cmd/lc_pageformatdialog
 cmd/lc_pagemargin
 cmd/lc_pagemode
+cmd/lc_pagenumberwizard
 cmd/lc_pagesetup
 cmd/lc_pageup
 cmd/lc_paragraphdialog
@@ -3083,6 +3122,7 @@ cmd/lc_showrow
 cmd/lc_showruler
 cmd/lc_showsinglepage
 cmd/lc_showslide
+cmd/lc_showtoolbar
 cmd/lc_showtrackedchanges
 cmd/lc_showtwopages
 cmd/lc_showwhitespace
@@ -3479,6 +3519,7 @@ cmd/sc_basicshapes.right-triangle
 cmd/sc_basicshapes.ring
 cmd/sc_basicshapes.round-quadrat
 cmd/sc_basicshapes.round-rectangle
+cmd/sc_basicshapes.sinusoid
 cmd/sc_basicshapes.trapezoid
 cmd/sc_basicstepinto
 cmd/sc_basicstepout
@@ -3601,6 +3642,7 @@ cmd/sc_connectorarrowend
 cmd/sc_connectorarrows
 cmd/sc_connectorarrowstart
 cmd/sc_connectorcircleend
+cmd/sc_connectorcircles
 cmd/sc_connectorcircles
 cmd/sc_connectorcirclestart
 cmd/sc_connectorcurve
@@ -3810,7 +3852,6 @@ cmd/sc_ellipsecut
 cmd/sc_ellipsecut_unfilled
 cmd/sc_ellipsetoolbox
 cmd/sc_ellipse_unfilled
-cmd/sc_emojicontrol
 cmd/sc_emphasischarstyle
 cmd/sc_entergroup
 cmd/sc_entirecell
@@ -4159,11 +4200,11 @@ cmd/sc_insertpagecountfield
 cmd/sc_insertpagefield
 cmd/sc_insertpagefooter
 cmd/sc_insertpageheader
+cmd/sc_insertpagenumber
 cmd/sc_insertpagenumberfield
 cmd/sc_insertpagesfield
 cmd/sc_insertpagetitlefield
 cmd/sc_insertpatternfield
-cmd/sc_insertpivottable
 cmd/sc_insertplugin
 cmd/sc_insertpushbutton
 cmd/sc_insertreferencefield
@@ -4306,6 +4347,7 @@ cmd/sc_neutralcellstyle
 cmd/sc_neutralcellstyles
 cmd/sc_newarrangement
 cmd/sc_newdoc
+cmd/sc_newhtmldoc
 cmd/sc_newrecord
 cmd/sc_newwindow
 cmd/sc_nextannotation
@@ -4386,6 +4428,7 @@ cmd/sc_pagedown
 cmd/sc_pageformatdialog
 cmd/sc_pagemargin
 cmd/sc_pagemode
+cmd/sc_pagenumberwizard
 cmd/sc_pagesetup
 cmd/sc_pageup
 cmd/sc_paragraphdialog
@@ -4588,6 +4631,7 @@ cmd/sc_showrow
 cmd/sc_showruler
 cmd/sc_showsinglepage
 cmd/sc_showslide
+cmd/sc_showtoolbar
 cmd/sc_showtrackedchanges
 cmd/sc_showtwopages
 cmd/sc_showwhitespace
@@ -4944,6 +4988,8 @@ reportdesign/res/sx10928
 reportdesign/res/sx10929
 reportdesign/res/sx11047
 reportdesign/res/sx12452
+reportdesign/res/sx12452
+reportdesign/res/sx12453
 reportdesign/res/sx12453
 reportdesign/res/sx12454
 reportdesign/res/sx12464
@@ -5002,6 +5048,7 @@ res/lx03129
 res/lx03130
 res/lx03137
 res/lx03139
+res/lx03139_32
 res/lx03140
 res/lx03144
 res/lx03145
@@ -5115,6 +5162,8 @@ res/ott_48_8
 res/plugin
 res/plus
 res/queries_32
+res/recentdoc_pin
+res/recentdoc_pin_highlighted
 res/recentdoc_remove
 res/recentdoc_remove_highlighted
 res/reload
@@ -5352,6 +5401,7 @@ sd/res/foilh04
 sd/res/foilh06
 sd/res/foilh09
 sd/res/foiln01
+sd/res/foilnone
 sd/res/get1obj
 sd/res/getallob
 sd/res/graphic

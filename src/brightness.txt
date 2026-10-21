@@ -1,0 +1,7 @@
+# Brightness colors map
+#
+# Follow this structure:
+# name bg_color txt_color contrast_target
+
+default ffffff 232629 4.51
+dark 272727 ffffff 4.8

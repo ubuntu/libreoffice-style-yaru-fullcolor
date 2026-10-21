@@ -4,7 +4,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="lc_dsbinsertcontent.svg"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/lc_dsbinsertcontent.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -38,42 +38,56 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="12.242535"
-     inkscape:cy="13.752628"
+     inkscape:cx="16.98854"
+     inkscape:cy="15.118902"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid848" />
+       id="grid848"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path819"
-     style="fill:#f2cbf8;fill-opacity:1"
-     d="M 12 4 C 7.581722 4 4 4.8954258 4 6 L 4 10 L 4 18 C 4 19.1046 7.5817219 20 12 20 L 12 15 A 1.0001 1.0001 0 0 1 13 14 L 16 14 A 1.0001 1.0001 0 0 1 17 15 L 17 16 L 18 16 L 18 15 A 1.0001 1.0001 0 0 1 19 14 L 20 14 L 20 10 L 20 6 C 20 4.8954258 16.418278 4 12 4 z M 16 18 L 16 19 L 18.921875 19 C 18.947052 18.989131 18.975623 18.977794 19 18.966797 L 19 18 L 16 18 z " />
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.8;vector-effect:none;fill:#000080;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="m 8,3.0047756 c -1,0 -1.839495,-0.073417 -2.697266,0.3554688 C 4.873849,3.5746869 4.482177,3.9726109 4.273438,4.4422755 4.064698,4.9119402 4,5.4214422 4,6.0047755 V 18.004776 c 0,0.583333 0.0647,1.092835 0.273438,1.5625 0.208739,0.469665 0.600411,0.867589 1.029296,1.082031 C 6.160505,21.078193 7,21.004776 8,21.004776 h 8 c 1,0 1.839495,0.07342 2.697266,-0.355469 0.428885,-0.214442 0.820558,-0.612366 1.029296,-1.082031 C 19.935303,19.097611 20,18.588109 20,18.004776 V 9.4110256 8.0047756 A 1.0001,1.0001 0 0 0 19.707031,7.2977444 l -1,-1 -2,-2.0000001 -1,-0.9999999 A 1.0001,1.0001 0 0 0 15,3.0047756 Z m 0,1 h 7 l 1,0.9999999 2,2.0000001 1,1 v 1.40625 8.5937504 c 0,2 -1,2 -3,2 H 8 c -2,0 -3,0 -3,-2 V 6.0047755 C 5,4.0047757 6,4.0047756 8,4.0047756 Z" />
   <path
+     inkscape:connector-curvature="0"
+     d="m 8,20.004776 c -2,0 -3,0 -3,-2 V 6.0047753 C 5,4.0047755 6,4.0047755 8,4.0047755 h 7 l 1,0.9999998 2,2.0000001 1,1 v 1.4062501 8.5937505 c 0,2 -1,2 -3,2 z"
      id="path2"
-     style="fill:#8e03a3;fill-opacity:1"
-     d="M 12 4 C 7.581722 4 4 4.8954258 4 6 L 4 10 L 4 18 C 4 19.1046 7.5817219 20 12 20 L 12 19 C 8.134007 19 5 18.5523 5 18 L 5 14.9375 C 6.3529559 15.562421 8.958076 16 12 16 L 12 15 C 8.134007 15 5 14.5523 5 14 L 5 10.9375 C 6.3529559 11.562421 8.958076 12 12 12 C 15.041924 12 17.647043 11.562421 19 10.9375 L 19 14 L 20 14 L 20 10 L 20 6 C 20 4.8954258 16.418278 4 12 4 z M 12 5 C 15.865993 5 19 5.4477153 19 6 C 19 6.5522847 15.865993 7 12 7 C 8.134007 7 5 6.5522847 5 6 C 5 5.4477153 8.134007 5 12 5 z M 5 6.9375 C 6.3529559 7.5624199 8.958076 8 12 8 C 15.041924 8 17.647043 7.5624199 19 6.9375 L 19 10 C 19 10.5523 15.865993 11 12 11 C 8.134007 11 5 10.5523 5 10 L 5 9.0625 L 5 6.9375 z M 18.173828 14.470703 C 17.845545 14.558373 17.430102 14.637424 16.941406 14.707031 A 1.0001 1.0001 0 0 1 17 15 L 17 15.546875 C 17.361666 15.472063 17.694471 15.388021 18 15.298828 L 18 15 A 1.0001 1.0001 0 0 1 18.173828 14.470703 z M 19 18 C 19 18.339682 17.812144 18.639584 16 18.820312 L 16 19 L 18.927734 19 C 18.951827 18.98959 18.976641 18.979277 19 18.96875 L 19 18 z " />
+     style="fill:#ffff00"
+     sodipodi:nodetypes="cccccccccccc" />
   <path
-     d="m 15,17 v 3 h 5 v -3 z"
+     inkscape:connector-curvature="0"
+     d="M 15,8.0047754 V 4.0047755 l 4,3.9999999 z"
+     id="path4"
+     style="opacity:0.5;fill:#000080;fill-opacity:1" />
+  <path
+     d="m 9,13 v 3 h 6 v -3 z"
      id="path4-3"
      inkscape:connector-curvature="0"
-     style="fill:#00ffff;fill-opacity:1.0" />
+     style="fill:#ff00ff;fill-opacity:1;stroke-width:1.09545" />
   <path
-     style="fill:#00ffff;fill-opacity:1.0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 19,15 h 3 v 7 h -3 v -1 h 2 v -5 h -2 z"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 14,11 h 3 v 7 h -3 v -1 h 2 v -5 h -2 z"
      id="path850"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path858"
-     d="m 16,15 h -3 v 7 h 3 v -1 h -2 v -5 h 2 z"
-     style="fill:#00ffff;fill-opacity:1.0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     d="M 10,11 H 7 v 7 h 3 V 17 H 8 v -5 h 2 z"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

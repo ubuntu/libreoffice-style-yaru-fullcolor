@@ -4,7 +4,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="lc_graphicfiltermosaic.svg"
-   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,39 +35,170 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="27.812867"
-     inkscape:cx="11.775126"
+     inkscape:cx="11.793103"
      inkscape:cy="10.444806"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid968" />
+       id="grid968"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <path
-     id="path2"
-     style="fill:#e95420;fill-opacity:1.0"
-     d="m 13,14 v 3 h 3 V 14 Z M 7,11 v 3 h 3 v -3 z m 6,-3 v 3 h 3 V 8 Z M 7,5 v 3 h 3 V 5 Z" />
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="M 6,3 V 6 H 9 V 3 Z"
+     id="path22" />
   <path
-     id="path8"
-     style="fill:#77216f;fill-opacity:1.0"
-     d="m 4,17 v 3 h 3 v -3 z m 9,-3 h -3 v 3 h 3 z m 0,-3 v 3 h 3 V 11 Z M 7,8 v 3 h 3 V 8 Z M 4,5 V 8 H 7 V 5 Z" />
+     style="fill:#000080;fill-opacity:1"
+     d="m 12,6 v 3 h 3 V 6 Z"
+     id="path21" />
   <path
-     id="path970"
-     style="fill:#2ecc71;fill-opacity:1"
-     d="m 10,17 v 3 h 3 v -3 z m 6,-3 v 3 h 3 V 14 Z M 4,11 v 3 H 7 V 11 Z M 16,8 v 3 h 3 V 8 Z M 10,5 v 3 h 3 V 5 Z" />
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 6,9 v 3 H 9 V 9 Z"
+     id="path20" />
   <path
-     id="path972"
-     style="fill:#c7162b;fill-opacity:1"
-     d="m 16,17 v 3 h 3 V 17 Z M 10,14 H 7 v 3 h 3 z m 0,-3 v 3 h 3 V 11 Z M 4,8 v 3 H 7 V 8 Z m 9,-3 v 3 h 3 V 5 Z" />
+     style="fill:#000080;fill-opacity:1"
+     d="m 12,12 v 3 h 3 v -3 z"
+     id="path2" />
   <path
-     id="path974"
-     style="fill:#fdbc4b;fill-opacity:1"
-     d="m 13,17 v 3 h 3 v -3 z m -6,0 v 3 h 3 V 17 Z M 4,14 v 3 h 3 v -3 z m 12,-3 v 3 h 3 V 11 Z M 10,8 v 3 h 3 V 8 Z m 6,-3 v 3 h 3 V 5 Z" />
+     style="fill:#000080;fill-opacity:1"
+     d="M 3,3 V 6 H 6 V 3 Z"
+     id="path19" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="M 6,6 V 9 H 9 V 6 Z"
+     id="path18" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 12,9 v 3 h 3 V 9 Z"
+     id="path17" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="M 12,12 H 9 v 3 h 3 z"
+     id="path16" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 3,15 v 3 h 3 v -3 z"
+     id="path8" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 9,3 v 3 h 3 V 3 Z"
+     id="path15" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 15,6 v 3 h 3 V 6 Z"
+     id="path14" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 3,9 v 3 H 6 V 9 Z"
+     id="path13" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 15,12 v 3 h 3 v -3 z"
+     id="path12" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 9,15 v 3 h 3 v -3 z"
+     id="path970" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 12,3 v 3 h 3 V 3 Z"
+     id="path11" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="M 3,6 V 9 H 6 V 6 Z"
+     id="path10" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 9,9 v 3 h 3 V 9 Z"
+     id="path9" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="M 9,12 H 6 v 3 h 3 z"
+     id="path7" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 15,15 v 3 h 3 v -3 z"
+     id="path972" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 15,3 v 3 h 3 V 3 Z"
+     id="path6" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 9,6 v 3 h 3 V 6 Z"
+     id="path5" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 15,9 v 3 h 3 V 9 Z"
+     id="path4" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 3,12 v 3 h 3 v -3 z"
+     id="path3" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 6,15 v 3 h 3 v -3 z"
+     id="path1" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 12,15 v 3 h 3 v -3 z"
+     id="path974" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 18,6 v 3 h 3 V 6 Z"
+     id="path23" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 18,12 v 3 h 3 v -3 z"
+     id="path24" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 18,15 v 3 h 3 v -3 z"
+     id="path25" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 18,3 v 3 h 3 V 3 Z"
+     id="path26" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 18,9 v 3 h 3 V 9 Z"
+     id="path27" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 3,18 v 3 h 3 v -3 z"
+     id="path28" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 9,18 v 3 h 3 v -3 z"
+     id="path29" />
+  <path
+     style="fill:#000080;fill-opacity:1;opacity:0.25"
+     d="m 15,18 v 3 h 3 v -3 z"
+     id="path30" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 6,18 v 3 h 3 v -3 z"
+     id="path31" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 12,18 v 3 h 3 v -3 z"
+     id="path32" />
+  <path
+     style="fill:#000080;fill-opacity:1"
+     d="m 18,18 v 3 h 3 v -3 z"
+     id="path33" />
 </svg>

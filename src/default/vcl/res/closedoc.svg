@@ -7,7 +7,7 @@
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/vcl/res/closedoc.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
-   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    width="11"
    height="11"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -41,12 +41,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="3.4995793"
-     inkscape:cy="7.4545834"
+     inkscape:cx="3.4756096"
+     inkscape:cy="7.4665682"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,16 +58,27 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid837" />
+       id="grid837"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7143;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7143;stroke-linecap:round;stroke-linejoin:round"
      id="path837"
      cx="5.5"
      cy="5.5"
      r="5.5" />
+  <circle
+     style="opacity:0.1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.7143;stroke-linecap:round;stroke-linejoin:round"
+     id="circle1"
+     cx="5.5"
+     cy="5.5"
+     r="5.5" />
   <path
-     style="fill:#ffffff;fill-opacity:1"
+     style="fill:#000080;fill-opacity:1"
      d="M 7.520751,8.0855024 5.6006074,6.1653584 3.479249,8.2867165 2.772218,7.5796854 4.8935765,5.4583273 2.772218,3.3369688 3.479249,2.6299377 5.6006073,4.7512961 7.7219653,2.6299379 8.4289962,3.3369689 6.3076379,5.4583273 8.227782,7.3784711 Z"
      id="path835"
      sodipodi:nodetypes="ccccccccccccc" />

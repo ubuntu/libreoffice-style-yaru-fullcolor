@@ -27,7 +27,8 @@ cd libreoffice-style-yaru-fullcolor
 ./build.sh -e
 ```
 
-This will generate a `yaru-theme.oxt` file.
+This will generate `dist/yaru-theme.oxt` and one OXT per accent colour. Each OXT includes both light and dark icons in PNG and SVG formats.
+To package a single accent, use `./build.sh -e --variant blue` (or `--variant blue_dark`); either selection includes both brightness variants in `dist/yaru-blue-theme.oxt`.
 Open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then click on __Add__ and browse for local directory where the extension placed.
 
 ### From script
@@ -40,6 +41,12 @@ Because it is faster, install from script will be useful if you want to modify t
 git clone https://github.com/ubuntu/libreoffice-style-yaru-fullcolor.git
 cd libreoffice-style-yaru-fullcolor
 ./install.sh
+```
+
+During development, select only the variants you need to avoid zipping and copying every theme. Repeat `--variant` to select multiple variants. Names combine an accent and an optional brightness, such as `default`, `dark`, `blue`, or `blue_dark`:
+
+```bash
+./install.sh --variant default --variant dark
 ```
 
 ⚠ Installing from script and extension will duplicate the icon pack into the options, so you should remove one before using the other way.

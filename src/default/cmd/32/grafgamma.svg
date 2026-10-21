@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg6"
    sodipodi:docname="grafgamma.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/32/grafgamma.png"
    inkscape:export-xdpi="95"
-   inkscape:export-ydpi="95">
+   inkscape:export-ydpi="95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -40,27 +40,46 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="9.504669"
-     inkscape:cy="15.909766"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="16.874684"
+     inkscape:cy="15.316652"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect822"
      width="22"
      height="22"
      x="5"
      y="5" />
   <path
-     d="m26.964844 5a20.999338 20.999338 0 0 1 .035156 1 20.999338 20.999338 0 0 1 -21 21 20.999338 20.999338 0 0 1 -1-.050781v1.015625a22 22 0 0 0 1 .035156 22 22 0 0 0 22-22 22 22 0 0 0 -.048828-1z"
-     fill="#c7162b"
-     id="path2" />
+     id="path1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;enable-background:accumulate;stop-color:#000000"
+     d="M 26.462891 5 L 26.464844 5.0292969 C 26.484035 5.3543747 26.496316 5.6802364 26.5 6.0058594 C 26.49714 17.329691 17.32799 26.498212 6.0039062 26.5 C 5.6814164 26.491171 5.3588242 26.47521 5.0371094 26.451172 L 5 26.449219 L 5 27 L 14.089844 27 C 20.005701 24.717534 24.717534 20.005701 27 14.089844 L 27 5 L 26.462891 5 z " />
   <path
      d="m4 4v24h24v-24zm1 1h22v22h-22z"
      fill="#232629"
-     id="path4" />
+     id="path4"
+     style="fill:#000080;opacity:0.8" />
 </svg>

@@ -41,8 +41,10 @@ This will generate and optimize the corresponding PNG into the `build` folder, a
 Then use the install script and open Libreoffice (you should close all instances before for reloading the icons) to test your changes:
 
 ```bash
-./install.sh
+./install.sh --variant default --variant dark
 ```
+
+Repeat `--variant` for each theme you are changing (for example, `blue` or `blue_dark`). Omitting it still installs every variant.
 
 **Watch icons change:**
 
