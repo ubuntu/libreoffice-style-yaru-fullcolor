@@ -24,7 +24,7 @@
 ##      -w, --watch          Watch file changes [default: 0]
 ##      -l, --links          Generate "links.txt" files [default: 0]
 ##      -z, --zip            Generate ZIP archives [default: 0]
-##      -e, --oxt            Generate OXT extension archives [default: 0]
+##      -e, --oxt            Generate OXT archives with light and dark icons per accent [default: 0]
 ##      -v, --variant <name> Only process this variant; repeat to select multiple variants
 
 set -e
@@ -88,6 +88,7 @@ done
 source "$(dirname -- "${BASH_SOURCE[0]}")/scripts/common.sh"
 
 load_variants
+all_variants=( "${variants[@]}" )
 filter_variants "${_requested_variants[@]}"
 
 # Bash arrays cannot be exported to the workers created by GNU parallel.
@@ -319,24 +320,48 @@ function generate_zip() {
 }
 
 function generate_oxt() {
+    local variant variant_name light_variant dark_variant theme_variant archive_filename
+    local accent_color oxt_filename oxt_title oxt_identifier
+    local -a paired_variants=()
+
     check_deps "resvg" "optipng"
+
+    # An extension always includes both brightness variants of each selected
+    # accent, even when --variant selects only the light or dark theme.
+    for variant in "${variants[@]}"; do
+        read -r variant_name _ <<< "$variant"
+        case $variant_name in
+            dark) light_variant=default ;;
+            *_dark) light_variant=${variant_name%_dark} ;;
+            *) light_variant=$variant_name ;;
+        esac
+        if [[ $light_variant == default ]]; then
+            dark_variant=dark
+        else
+            dark_variant="${light_variant}_dark"
+        fi
+        paired_variants+=( "$light_variant" "$dark_variant" )
+    done
+    variants=( "${all_variants[@]}" )
+    filter_variants "${paired_variants[@]}"
 
     generate_zip
 
     mkdir -p -v "oxt/iconsets" &>/dev/null
 
     for variant in "${variants[@]}"; do
-        variant=( $variant )
-        variant_name=${variant[0]}
-        accent_color=${variant[1]}
+        read -r variant_name accent_color _ <<< "$variant"
+        # The light variant owns the metadata for the combined extension.
+        [[ $variant_name == dark || $variant_name == *_dark ]] && continue
 
-        archive_filename=$(get_theme_name "$variant_name")
         if [[ $variant_name == "default" ]]; then
+            dark_variant=dark
             accent_color="e95420"
             oxt_filename="yaru-theme"
             oxt_title="Yaru icon theme"
             oxt_identifier="org.iconset.Yaru"
         else
+            dark_variant="${variant_name}_dark"
             oxt_filename="yaru-${variant_name}-theme"
             oxt_title="Yaru icon theme (${variant_name} variant)"
             oxt_identifier="org.iconset.Yaru-${variant_name}"
@@ -347,8 +372,11 @@ function generate_oxt() {
         #Create temp files
         cp -r "oxt/" "dist/"
         cd "dist"
-        cp -f "${archive_filename}.zip" "oxt/iconsets/${archive_filename}.zip"
-        cp -f "${archive_filename}_svg.zip" "oxt/iconsets/${archive_filename}_svg.zip"
+        for theme_variant in "$variant_name" "$dark_variant"; do
+            archive_filename=$(get_theme_name "$theme_variant")
+            cp -f "${archive_filename}.zip" "oxt/iconsets/${archive_filename}.zip"
+            cp -f "${archive_filename}_svg.zip" "oxt/iconsets/${archive_filename}_svg.zip"
+        done
 
         # Update metadata
         cd "oxt"

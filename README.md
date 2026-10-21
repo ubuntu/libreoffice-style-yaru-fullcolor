@@ -27,7 +27,8 @@ cd libreoffice-style-yaru-fullcolor
 ./build.sh -e
 ```
 
-This will generate a `yaru-theme.oxt` file.
+This will generate `dist/yaru-theme.oxt` and one OXT per accent colour. Each OXT includes both light and dark icons in PNG and SVG formats.
+To package a single accent, use `./build.sh -e --variant blue` (or `--variant blue_dark`); either selection includes both brightness variants in `dist/yaru-blue-theme.oxt`.
 Open it with Libreoffice or, open __Tools__ → __Extension Manager__ (or __Ctrl__ + __Alt__ + __E__) then click on __Add__ and browse for local directory where the extension placed.
 
 ### From script
