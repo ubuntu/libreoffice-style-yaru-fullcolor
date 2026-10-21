@@ -4,9 +4,7 @@ A fullcolor icon pack for Libreoffice of the awesome Yaru theme.
 
 All these icons are based on the [Yaru icon](https://github.com/ubuntu/yaru) theme.
 
-|Light|Dark|
-|---|---|
-|![Libreoffice style Yaru light](.github/screenshots/libreoffice-style-yaru-light.png)|![Libreoffice style Yaru dark](.github/screenshots/libreoffice-style-yaru-dark.png)|
+![Libreoffice style Yaru light](.github/screenshots/libreoffice-style-yaru.png)
 
 If you want to contribute, please look at [CONTRIBUTING.md](./CONTRIBUTING.md).
 
