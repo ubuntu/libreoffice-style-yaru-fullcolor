@@ -4,7 +4,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sc_pastespecial.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme fullcolor/build/cmd/sc_pastespecial.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
@@ -73,38 +73,14 @@
      d="m 7.0000001,1.0000001 c -0.554,0 -1,0.446 -1,1 h -2 c -1.1080002,0 -2.0000002,0.8920005 -2.0000002,2.0000005 V 13 c 0,1.108 0.892,2 2.0000002,2 h 3 H 12 c 1.106228,0 2,-0.889291 2,-2 v -7.0000004 -2 C 14,2.8920006 13.108,2.0000001 12,2.0000001 H 10 C 10,1.446 9.5540001,1 9.0000001,1 Z"
      id="rect9566"
      sodipodi:nodetypes="scssssccccsscss" />
-  <rect
-     style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+  <path
      id="rect873-1"
-     width="10"
-     height="11"
-     x="3"
-     y="2.9999998"
-     ry="1"
-     rx="1" />
-  <rect
      style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect9578"
-     width="2"
-     height="1"
-     x="7"
-     y="1.9999996" />
-  <rect
-     style="opacity:0.5;vector-effect:none;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect1"
-     width="10"
-     height="11"
-     x="3"
-     y="2.9999998"
-     ry="1"
-     rx="1" />
-  <rect
-     style="fill:#ffff00;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7 2 L 7 3 L 4 3 C 3.446 3 3 3.446 3 4 L 3 13 C 3 13.554 3.446 14 4 14 L 12 14 C 12.554 14 13 13.554 13 13 L 13 4 C 13 3.446 12.554 3 12 3 L 9 3 L 9 2 L 7 2 z " />
+  <path
      id="rect839"
-     width="4"
-     height="1"
-     x="6"
-     y="2.9999998" />
+     style="fill:#000080;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:0.5"
+     d="M 7 2 L 7 3 L 6 3 L 6 4 L 10 4 L 10 3 L 9 3 L 9 2 L 7 2 z " />
   <path
      id="path1"
      style="font-size:10.7744px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:none;letter-spacing:0px;baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff00ff;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
