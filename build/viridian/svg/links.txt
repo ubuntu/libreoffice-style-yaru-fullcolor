@@ -2161,9 +2161,7 @@ sc/res/nc07.svg cmd/sc_inserthyperlink.svg
 sc/res/nc08.svg cmd/sc_insertdraw.svg
 sc/res/page.svg cmd/sc_insertpagenumberfield.svg
 sc/res/pages.svg cmd/sc_insertpagecountfield.svg
-sc/res/paste_transpose.svg cmd/lc_datadatapilotrun.svg
-sc/res/paste_values_formats.svg cmd/lc_formatpaintbrush.svg
-sc/res/paste_values_only.svg cmd/lc_numberformatstandard.svg
+sc/res/paste_transpose.svg cmd/lc_pastetransposed.svg
 sc/res/sc26047.svg cmd/sc_toggleformula.svg
 sc/res/sc26048.svg cmd/sc_autosum.svg
 sc/res/sc26050.svg cmd/sc_cancel.svg

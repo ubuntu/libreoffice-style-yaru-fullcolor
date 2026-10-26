@@ -2161,9 +2161,7 @@ sc/res/nc07.xxx cmd/sc_inserthyperlink.xxx
 sc/res/nc08.xxx cmd/sc_insertdraw.xxx
 sc/res/page.xxx cmd/sc_insertpagenumberfield.xxx
 sc/res/pages.xxx cmd/sc_insertpagecountfield.xxx
-sc/res/paste_transpose.xxx cmd/lc_datadatapilotrun.xxx
-sc/res/paste_values_formats.xxx cmd/lc_formatpaintbrush.xxx
-sc/res/paste_values_only.xxx cmd/lc_numberformatstandard.xxx
+sc/res/paste_transpose.xxx cmd/lc_pastetransposed.xxx
 sc/res/sc26047.xxx cmd/sc_toggleformula.xxx
 sc/res/sc26048.xxx cmd/sc_autosum.xxx
 sc/res/sc26050.xxx cmd/sc_cancel.xxx
